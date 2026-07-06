@@ -695,7 +695,7 @@ function getFilteredItems() {
 }
 
 function itemTitleText(item) {
-  return (item.title_zh || item.title || item.title_en || "未命名更新").trim();
+  return (item.title || item.title_en || item.title_zh || "Untitled update").trim();
 }
 
 function scorePercent(item) {
@@ -1008,7 +1008,7 @@ function itemIdentityKeys(item) {
   const url = item.url || item.primary_url;
   if (url) keys.add(`url:${url}`);
   if (item.id) keys.add(`id:${item.id}`);
-  const title = item.title_zh || item.title || item.title_en || item.title_original;
+  const title = item.title || item.title_en || item.title_zh || item.title_original;
   if (title) {
     keys.add(`event:${eventKey({ ...item, title, title_zh: item.title_zh || title })}`);
     keys.add(`title:${normalizedEventText(title).slice(0, 34)}`);
@@ -1150,17 +1150,17 @@ function storyPrimaryTitleText(story) {
   const bilingual = String(primary.title || (story && story.title) || "").trim();
   if (bilingual.includes(" / ")) {
     const [zh, en] = bilingual.split(" / ");
-    return (zh || en || bilingual).trim();
+    return (en || zh || bilingual).trim();
   }
-  return bilingual || "未命名更新";
+  return bilingual || "Untitled update";
 }
 
-function storyPrimaryEnText(story) {
+function storySecondaryTitleText(story) {
   const primary = (story && story.primary_item) || {};
   const bilingual = String(primary.title || (story && story.title) || "").trim();
   if (bilingual.includes(" / ")) {
-    const [, en] = bilingual.split(" / ");
-    return (en || "").trim();
+    const [zh] = bilingual.split(" / ");
+    return (zh || "").trim();
   }
   return "";
 }
@@ -1374,15 +1374,14 @@ function buildStoryCard(story, rank) {
   const title = document.createElement("div");
   title.className = "story-title";
   const primaryTitle = storyPrimaryTitleText(story);
-  const enTitle = storyPrimaryEnText(story);
-  if (enTitle && enTitle !== primaryTitle) {
-    const zh = document.createElement("span");
-    zh.className = "story-title-zh";
-    zh.textContent = primaryTitle;
+  const secondaryTitle = storySecondaryTitleText(story);
+  if (secondaryTitle && secondaryTitle !== primaryTitle) {
+    const primary = document.createElement("span");
+    primary.textContent = primaryTitle;
     const sub = document.createElement("span");
     sub.className = "story-title-en";
-    sub.textContent = enTitle;
-    title.append(zh, sub);
+    sub.textContent = secondaryTitle;
+    title.append(primary, sub);
   } else {
     title.textContent = primaryTitle;
   }
@@ -2147,17 +2146,19 @@ function renderItemNode(item, context = {}) {
   const titleEl = node.querySelector(".title");
   const zh = (item.title_zh || "").trim();
   const en = (item.title_en || "").trim();
+  const primaryTitle = (item.title || en || zh || "Untitled update").trim();
+  const secondaryTitle = zh && zh !== primaryTitle ? zh : "";
   titleEl.textContent = "";
-  if (zh && en && zh !== en) {
+  if (secondaryTitle) {
     const primary = document.createElement("span");
-    primary.textContent = zh;
+    primary.textContent = primaryTitle;
     const sub = document.createElement("span");
     sub.className = "title-sub";
-    sub.textContent = en;
+    sub.textContent = secondaryTitle;
     titleEl.appendChild(primary);
     titleEl.appendChild(sub);
   } else {
-    titleEl.textContent = item.title || zh || en;
+    titleEl.textContent = primaryTitle;
   }
   titleEl.href = item.url;
   const summaryEl = node.querySelector(".news-summary");
