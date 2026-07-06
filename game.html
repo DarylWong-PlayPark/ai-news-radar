@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Game News Radar | 24h Game Update Radar</title>
+    <meta
+      name="description"
+      content="A game news radar frame for tracking hot updates across Thailand, the Philippines, Vietnam, Singapore, Malaysia, Indonesia, and China."
+    />
+    <link rel="canonical" href="https://darylwong-playpark.github.io/ai-news-radar/game.html" />
+    <meta property="og:title" content="Game News Radar | 24h Game Update Radar" />
+    <meta
+      property="og:description"
+      content="A game news radar frame for tracking hot updates across Thailand, the Philippines, Vietnam, Singapore, Malaysia, Indonesia, and China."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://darylwong-playpark.github.io/ai-news-radar/game.html" />
+    <meta property="og:site_name" content="Game News Radar" />
+    <meta name="application-name" content="Game News Radar" />
+    <meta name="theme-color" content="#f6f6f2" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="Game News Radar" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Game News Radar | 24h Game Update Radar" />
+    <meta
+      name="twitter:description"
+      content="A game news radar frame for tracking hot updates across Thailand, the Philippines, Vietnam, Singapore, Malaysia, Indonesia, and China."
+    />
+    <link rel="icon" href="./assets/logo.svg" type="image/svg+xml" />
+    <link rel="icon" href="./assets/icons/favicon-32.png" sizes="32x32" type="image/png" />
+    <link rel="apple-touch-icon" href="./assets/icons/apple-touch-icon.png" sizes="180x180" />
+    <link rel="manifest" href="./site.webmanifest" />
+    <link rel="stylesheet" href="./assets/styles.css?v=game-frame-0706" />
+  </head>
+  <body>
+    <nav class="vertical-nav" aria-label="News verticals">
+      <div class="vertical-nav-inner">
+        <a class="vertical-nav-link" href="./">AI News</a>
+        <span class="vertical-nav-divider" aria-hidden="true">//</span>
+        <a class="vertical-nav-link is-active" href="./game.html" aria-current="page">Game News</a>
+      </div>
+    </nav>
+    <main class="shell">
+      <header class="hero">
+        <div class="hero-main">
+          <div class="hero-headline">
+            <img class="hero-logo" src="./assets/logo.svg" alt="Game News Radar Logo" />
+            <div>
+              <p class="hero-tag">GAME INTELLIGENCE RADAR</p>
+              <h1>Game News Radar</h1>
+            </div>
+          </div>
+        </div>
+        <div class="hero-meta">
+          <span class="updated-label">Updated</span>
+          <span class="updated">Pending source setup</span>
+          <span class="source-status-pill warn">Game sources pending</span>
+          <div class="hero-links" aria-label="Project links">
+            <a
+              class="hero-link"
+              href="https://github.com/darylwong-playpark/ai-news-radar"
+              target="_blank"
+              rel="noopener noreferrer"
+            >Use with Agent</a>
+          </div>
+        </div>
+
+        <section class="stats" aria-label="Game news stats">
+          <strong class="stat-prefix">Last 24 hours:</strong>
+          <span class="stat"><span class="k">Game news</span><span class="v">Setup</span></span>
+          <span class="stat"><span class="k">Regions</span><span class="v">7</span></span>
+          <span class="stat"><span class="k">Sources</span><span class="v">Pending</span></span>
+        </section>
+
+        <section class="section-nav-wrap" aria-label="Game news sections">
+          <div class="section-tabs" role="tablist" aria-label="Game news sections">
+            <button class="section-tab active" type="button"><span>Hot</span></button>
+            <button class="section-tab" type="button"><span>Thailand</span></button>
+            <button class="section-tab" type="button"><span>Philippines</span></button>
+            <button class="section-tab" type="button"><span>Vietnam</span></button>
+            <button class="section-tab" type="button"><span>Singapore</span></button>
+            <button class="section-tab" type="button"><span>Malaysia</span></button>
+            <button class="section-tab" type="button"><span>Indonesia</span></button>
+            <button class="section-tab" type="button"><span>China</span></button>
+          </div>
+          <div class="section-summary">Last 24 hours</div>
+        </section>
+      </header>
+
+      <section class="primary-controls">
+        <input type="search" placeholder="Search game news / sources" />
+        <div class="mode-hint">Game-focused</div>
+      </section>
+
+      <div class="sticky-summary-bar" aria-label="Current view summary">
+        <strong>Game News Radar</strong>
+        <span>Last 24 hours</span>
+      </div>
+
+      <details class="advanced-panel">
+        <summary>
+          <span>Advanced filters</span>
+          <span class="advanced-summary">Game source setup pending</span>
+        </summary>
+        <div class="advanced-content">
+          <div class="advanced-controls">
+            <label class="field">
+              <span>Time range</span>
+              <select aria-label="Time range">
+                <option value="24h">Last 24 hours</option>
+              </select>
+            </label>
+            <label class="field">
+              <span>Region</span>
+              <select>
+                <option value="">All regions</option>
+                <option value="th">Thailand</option>
+                <option value="ph">Philippines</option>
+                <option value="vn">Vietnam</option>
+                <option value="sg">Singapore</option>
+                <option value="my">Malaysia</option>
+                <option value="id">Indonesia</option>
+                <option value="cn">China</option>
+              </select>
+            </label>
+            <label class="field">
+              <span>Content type</span>
+              <select>
+                <option value="">All game news</option>
+                <option value="launch">Launches / releases</option>
+                <option value="update">Updates / patches</option>
+                <option value="business">Studio / business</option>
+                <option value="platform">Platform / store</option>
+                <option value="esports">Esports</option>
+              </select>
+            </label>
+          </div>
+        </div>
+      </details>
+
+      <section class="panel">
+        <div class="panel-head">
+          <div>
+            <p class="eyebrow">TODAY'S SIGNALS</p>
+            <h2>Today's Key Signals</h2>
+          </div>
+        </div>
+        <div class="empty-state">Game news sources are ready to be wired in the next step.</div>
+      </section>
+    </main>
+  </body>
+</html>

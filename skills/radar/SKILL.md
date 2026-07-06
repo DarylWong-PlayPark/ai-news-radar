@@ -20,7 +20,7 @@ description: |
 默认 Base URL：
 
 ```text
-https://learnprompt.github.io/ai-news-radar/data
+https://darylwong-playpark.github.io/ai-news-radar/data
 ```
 
 **fork 用户**：如果用户 fork 了仓库部署自己的雷达，把 Base URL 换成 `https://<用户名>.github.io/ai-news-radar/data`。第一次发现用户有自己的部署时问一次，之后记住。
@@ -39,7 +39,7 @@ https://learnprompt.github.io/ai-news-radar/data
 任何回答之前，先看 `generated_at`：
 
 ```bash
-curl -s "https://learnprompt.github.io/ai-news-radar/data/latest-24h.json" -o /tmp/radar-24h.json
+curl -s "https://darylwong-playpark.github.io/ai-news-radar/data/latest-24h.json" -o /tmp/radar-24h.json
 python3 -c "import json;d=json.load(open('/tmp/radar-24h.json'));print(d['generated_at'],d['total_items'])"
 ```
 
@@ -71,7 +71,7 @@ python3 -c "import json;d=json.load(open('/tmp/radar-24h.json'));print(d['genera
 ### 默认路径：24小时头部信号
 
 ```bash
-curl -s "https://learnprompt.github.io/ai-news-radar/data/latest-24h.json" -o /tmp/radar-24h.json
+curl -s "https://darylwong-playpark.github.io/ai-news-radar/data/latest-24h.json" -o /tmp/radar-24h.json
 python3 - <<'EOF'
 import json
 d = json.load(open('/tmp/radar-24h.json'))
@@ -116,7 +116,7 @@ EOF
 ### 故事线（先过新鲜度）
 
 ```bash
-curl -s "https://learnprompt.github.io/ai-news-radar/data/stories-merged.json" -o /tmp/radar-stories.json
+curl -s "https://darylwong-playpark.github.io/ai-news-radar/data/stories-merged.json" -o /tmp/radar-stories.json
 python3 - <<'EOF'
 import json, datetime
 d = json.load(open('/tmp/radar-stories.json'))
@@ -134,7 +134,7 @@ EOF
 ### 信源健康（"哪些源有料"）
 
 ```bash
-curl -s "https://learnprompt.github.io/ai-news-radar/data/source-status.json" -o /tmp/radar-status.json
+curl -s "https://darylwong-playpark.github.io/ai-news-radar/data/source-status.json" -o /tmp/radar-status.json
 python3 - <<'EOF'
 import json
 d = json.load(open('/tmp/radar-status.json'))
@@ -175,7 +175,7 @@ EOF
 
 ## 失败模式
 
-- **Pages 404 / 网络失败**：换 raw 地址重试一次：`https://raw.githubusercontent.com/LearnPrompt/ai-news-radar/master/data/latest-24h.json`。还不行就如实告知，不要编造新闻。
+- **Pages 404 / 网络失败**：换 raw 地址重试一次：`https://raw.githubusercontent.com/darylwong-playpark/ai-news-radar/master/data/latest-24h.json`。还不行就如实告知，不要编造新闻。
 - **数据过期**：见"新鲜度检查"。照常回答 + 显著标注 + 建议维护者排查。
 - **某类别为空**（如当天没有论文）：如实说"过去24小时雷达里没有论文类条目"，不要拿别的类别凑数。
 - **用户问的东西不在24小时窗口里**：说明窗口限制，给出 archive 选项（含体积警告），不要假装查过历史。
@@ -184,7 +184,7 @@ EOF
 
 本 Skill 只读数据。如果用户说"我想加个源/去掉某个源/做自己的雷达"：
 
-1. fork `https://github.com/LearnPrompt/ai-news-radar`；
+1. fork `https://github.com/darylwong-playpark/ai-news-radar`；
 2. 用仓库里的**伯乐Skill**（`skills/ai-news-radar/`）录入和判断信源、部署 GitHub Pages；
 3. 回到本 Skill，把 Base URL 指向自己的 Pages。
 

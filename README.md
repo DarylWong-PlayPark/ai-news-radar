@@ -6,13 +6,13 @@
 
 **伯乐Skill（Scout Skill）帮你从一堆信源里选出千里马，并把分散消息合并成可追踪的AI故事线。**
 
-[![GitHub stars](https://img.shields.io/github/stars/LearnPrompt/ai-news-radar?style=flat-square&color=f5c542)](https://github.com/LearnPrompt/ai-news-radar/stargazers)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-green?style=flat-square)](https://learnprompt.github.io/ai-news-radar/)
-[![Actions](https://img.shields.io/github/actions/workflow/status/LearnPrompt/ai-news-radar/update-news.yml?branch=master&label=update&style=flat-square)](https://github.com/LearnPrompt/ai-news-radar/actions/workflows/update-news.yml)
+[![GitHub stars](https://img.shields.io/github/stars/darylwong-playpark/ai-news-radar?style=flat-square&color=f5c542)](https://github.com/darylwong-playpark/ai-news-radar/stargazers)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-green?style=flat-square)](https://darylwong-playpark.github.io/ai-news-radar/)
+[![Actions](https://img.shields.io/github/actions/workflow/status/darylwong-playpark/ai-news-radar/update-news.yml?branch=master&label=update&style=flat-square)](https://github.com/darylwong-playpark/ai-news-radar/actions/workflows/update-news.yml)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-ai--radar%20%2B%20%E4%BC%AF%E4%B9%90-blueviolet?style=flat-square)](skills/radar/README.md)
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](LICENSE)
 
-[在线页面](https://learnprompt.github.io/ai-news-radar/) · [English](README.en.md) · [雷达Skill](skills/radar/README.md) · [伯乐Skill](skills/ai-news-radar/README.md) · [信息源策略](docs/SOURCE_COVERAGE.md)
+[在线页面](https://darylwong-playpark.github.io/ai-news-radar/) · [English](README.en.md) · [雷达Skill](skills/radar/README.md) · [伯乐Skill](skills/ai-news-radar/README.md) · [信息源策略](docs/SOURCE_COVERAGE.md)
 
 </div>
 
@@ -20,12 +20,12 @@
 
 ## 30秒选边上车
 
-**① 只想看AI日报** → 不用装任何东西，直接打开[在线页面](https://learnprompt.github.io/ai-news-radar/)。
+**① 只想看AI日报** → 不用装任何东西，直接打开[在线页面](https://darylwong-playpark.github.io/ai-news-radar/)。
 
 **② 想让Agent替你读** → 装雷达Skill（ai-radar），零API、零Key、零服务器：
 
 ```bash
-npx skills add LearnPrompt/ai-news-radar -s ai-radar -g
+npx skills add darylwong-playpark/ai-news-radar -s ai-radar -g
 ```
 
 装完对Agent说一句：`今天AI圈有什么？`
@@ -113,7 +113,7 @@ v0.7 重点能力包括：
 - **评分回测工具**：`scripts/backtest_scoring.py` 把任意两个版本的评分逻辑在历史档案上重放对比。立下规矩：动评分必须附带 ≥14 天回测报告。
 - **ai-radar 消费Skill**：装上后对Agent说"今天AI圈有什么"，它直接读本站公开JSON出中文简报——零API、零Key，数据管道可fork。
 
-v0.6 引入的故事线合并、AI标签分数、源健康与AI占比，仍是这一切的地基。历次改动见 [Releases](https://github.com/LearnPrompt/ai-news-radar/releases)。
+v0.6 引入的故事线合并、AI标签分数、源健康与AI占比，仍是这一切的地基。历次改动见 [Releases](https://github.com/darylwong-playpark/ai-news-radar/releases)。
 
 ## 工作原理
 
@@ -179,7 +179,7 @@ AI News Radar学习了现代新闻学的技术，不是简单堆信息源，一�
 想fork改造新版本，可以本地运行：
 
 ```bash
-git clone https://github.com/LearnPrompt/ai-news-radar.git
+git clone https://github.com/darylwong-playpark/ai-news-radar.git
 cd ai-news-radar
 python3 -m venv .venv
 source .venv/bin/activate
