@@ -1,3 +1,320 @@
+const UI_STRINGS = {
+  locale: "en-US",
+  sourceKinds: {
+    official_ai: "Official",
+    curated_media: "Curated media",
+    aihot: "AI HOT",
+    aibreakfast: "Daily brief",
+    followbuilders: "Builders/X",
+    xapi: "X API",
+    socialdata_x: "X Search",
+    tikhub_douyin: "Douyin",
+    tikhub_xiaohongshu: "Xiaohongshu",
+    techurls: "Aggregator",
+    buzzing: "Aggregator",
+    iris: "Aggregator",
+    bestblogs: "Blogs",
+    tophub: "Aggregator",
+    zeli: "Aggregator",
+    hackernews: "HN",
+    aihubtoday: "AI sites",
+    aibase: "AI sites",
+    waytoagi: "Community",
+    newsnow: "Aggregator",
+    opmlrss: "OPML",
+  },
+  sections: {
+    hot: { label: "Hot", short: "Hot", description: "Priority reading list after cross-source clustering" },
+    models: { label: "Models", short: "Models", description: "Model releases, capability upgrades, evaluations, and open weights" },
+    products: { label: "Products", short: "Products", description: "AI apps, agents, generation tools, and product updates" },
+    devtools: { label: "Developers", short: "Dev", description: "Coding tools, APIs, open-source projects, inference, and engineering practice" },
+    hn: { label: "HN Buzz", short: "HN", description: "AI keyword discussions and high-engagement Hacker News stories from the last 24 hours" },
+    industry: { label: "Industry", short: "Industry", description: "Company strategy, funding, M&A, regulation, chips, and market shifts" },
+    research: { label: "Research", short: "Research", description: "Papers, benchmarks, methods, datasets, and research-team updates" },
+    creator: { label: "Creators", short: "Creators", description: "Engagement-ranked creator posts from the past week, with a 24h freshness boost" },
+    community: { label: "Community", short: "Community", description: "WaytoAGI, AIbase, Chinese community sources, public accounts, and Builders/X signals" },
+  },
+  listSort: {
+    priority: "Priority",
+    latest: "Latest",
+    ai: "High score",
+    source: "Source",
+  },
+  aiLabels: {
+    ai_general: "AI signal",
+    model_release: "Model release",
+    agent_workflow: "Agent workflow",
+    ai_product_update: "Product update",
+    developer_tooling: "Developer tools",
+    developer_tool: "Developer tools",
+    infrastructure: "Infrastructure",
+    infra_compute: "Infrastructure",
+    industry_business: "Business",
+    research_paper: "Research",
+    robotics: "Robotics",
+    curated_hotlist: "Hotlist",
+    ai_tech: "Technical progress",
+    fallback: "Featured signal",
+  },
+  sourceSignals: {
+    aihot: "AI HOT pick",
+    hackerNews: "HN discussion",
+    githubTrending: "GitHub trend",
+    official: "Official update",
+    douyin: "Douyin creator",
+    xiaohongshu: "Xiaohongshu creator",
+  },
+  tags: {
+    multiSource: "Multi-source",
+    official: "Official",
+    modelRelease: "Model release",
+    developer: "Developer",
+    communityHot: "Community buzz",
+    research: "Research",
+    creator: "Creator",
+    community: "Community",
+  },
+  impact: {
+    developer: "Developers",
+    products: "Products",
+    business: "Enterprise / investors",
+    research: "Research",
+    modelTeams: "Model teams",
+    community: "Community",
+    fallback: "AI watchers",
+  },
+  common: {
+    source: "Source",
+    all: "All",
+    loading: "Loading",
+    unknownTime: "Time unknown",
+    unknownDate: "Date unknown",
+    untitledUpdate: "Untitled update",
+    noSection: "Section",
+    noSourceGroup: "Uncategorized",
+    enabled: "OK",
+    pendingWindow: "Waiting",
+    connectedNoMatch: "Connected, no matches",
+    connectedNoMatchCompact: "Connected, no matches",
+    disabled: "Disabled",
+    scoreUnit: "pts",
+    heatUnit: "heat",
+  },
+  metrics: {
+    ai: "AI",
+    highPriority: "High",
+    curated: "Picks",
+    source: "Sources",
+    normal: "Healthy",
+    failed: "Failed",
+    itemUnit: "items",
+    sourceUnit: "sources",
+    siteUnit: "sources",
+    clusterUnit: "clusters",
+    storyUnit: "stories",
+    candidateUnit: "candidates",
+  },
+  stats: {
+    windowPrefix: "Last 24 hours: ",
+    aiSignal: "AI signals",
+    highPriority: "high-priority",
+    sourceStatus: "source status",
+    sourceNormal: "sources healthy",
+    resultSuffix: " shown",
+    capturedToday: "Captured today",
+    inPool: "in pool",
+  },
+  views: {
+    aiRelated: "AI-focused",
+    all: "All",
+    allDeduped: "All deduped",
+    allRaw: "All raw",
+    intelligenceFlow: "Signal flow",
+    currentHot: "Current heat",
+    timeline: "Timeline",
+    storyTimeline: "Story timeline",
+    displayPool: "Display pool",
+    topSignals: "Today's Key Signals",
+    keySignalsSuffix: " Key Signals",
+  },
+  actions: {
+    collapse: "Collapse",
+    collapseFollowup: "Collapse follow-ups",
+    expandAllHot: "Show all hot clusters",
+    expandMoreHot: "Show more hot clusters",
+    expandFullTimeline: "Show full timeline",
+    expandMoreTimeline: "Show more timeline",
+  },
+  status: {
+    loadingSourceStatus: "Loading source status",
+    sourceStatusError: "Source status error",
+    sourceStatusMissing: "Source status missing",
+    waitingSourceStatusJson: "Waiting for source-status.json",
+    sourceStatusOkDetail: "Detailed source status is normal",
+    newsLoadFailed: "News data failed to load",
+    waytoagiLoadFailed: "Load failed",
+    loadingAllUpdates: "Loading all updates...",
+  },
+  sourceHealth: {
+    builtinSources: "Built-in sources",
+    rss: "RSS",
+    xDataSource: "X data source",
+    agentMail: "AgentMail",
+    failedSources: "Failed sources",
+    failedSourceUnit: "failed sources",
+    replacedSkipped: "Replaced / skipped",
+    failedSites: "Failed sites",
+    zeroSites: "Zero-result sites",
+    emptyAdvanced: "Advanced sources with no matches",
+    failedRss: "Failed RSS",
+    skippedRss: "Skipped RSS",
+    tableHeaders: ["Source", "AI / raw", "AI ratio", "Status"],
+    ok: "Healthy",
+    bad: "Error",
+    xAuthorsTitle: "X authors found this run",
+    xAuthorsButtonTitle: "View X authors found this run",
+  },
+  coverage: {
+    sourceHealth: "Source health",
+    todayCoveragePool: "Today's coverage pool",
+    aiRelated: "AI-focused",
+    officialNewsletterPool: "Official / newsletter pool",
+    curatedMediaPool: "Curated media pool",
+    buildersXPool: "Builders/X pool",
+    creatorPool: "Creator pool",
+    rssOpmlExtension: "RSS/OPML extension",
+    advancedSources: "Advanced sources",
+    builtinSourcesOk: "Built-in sources healthy",
+    rawSignalPool: "Raw signals fetched across the web",
+    aiSignal24h: "AI-focused signals from the last 24h",
+    officialPlusBreakfast: "Official nodes + AI Breakfast",
+    curatedMediaExamples: "The Decoder / TC / Verge / MTP, etc.",
+    followBuildersFeed: "Follow Builders public feed",
+    tikhubCreators: "TikHub · Douyin + Xiaohongshu",
+    opmlConnected: "RSS example/custom subscriptions connected",
+    opmlAvailable: "OPML can bulk-import RSS",
+    xPending: "X not configured",
+    mailPending: "Mail not configured",
+    quotaProtected: "Quota protected",
+    advancedDisabled: "X API and AgentMail are off by default",
+  },
+  story: {
+    latest: "Latest",
+    storySpreadShort: "Short burst",
+    storySpreadPrefix: "Spread over",
+    minuteUnit: "min",
+    hourUnit: "h",
+    minuteShortUnit: "m",
+    earliestLatestTitle: "Time between the earliest and latest source, not age from now.",
+    heatScoreTitle: "Heat score = multi-source strength x time decay",
+    editorialScoreTitle: "Editorial importance score",
+    highest: "highest",
+    sortedByHeat: "sorted by heat score",
+    latestFirst: "latest first",
+    continueFrom: "continue from",
+    afterTop3: "after Top 3",
+    hotEmpty: "Current heat · no multi-source clusters yet",
+    top3Covered: "The Top 3 already covers the stories for this filter. Switch filters or view the timeline to keep reading.",
+    noHotForFilter: "No multi-source hot cluster matches this filter. Switch to the timeline for the latest stories.",
+    noTimelineForFilter: "No story timeline is available for this filter.",
+    noTop3ForFilter: "No Top 3 story is available for this section and filter.",
+    mergeMissing: "Story merge data is not available yet, so candidate Scout signals are shown.",
+    noScoreFields: "No displayable score fields are available in the current data.",
+    whyImportant: "Why it matters",
+    priority: "Priority",
+    fromSuffix: "onward",
+    followupSuffix: "follow-up",
+  },
+  reason: {
+    sourceHitPrefix: "Source hit: ",
+    singleSource: "single source",
+    mergedEventPrefix: "Merged ",
+    mergedEventSuffix: " same-event items",
+    singleEvent: "Single event",
+    creatorWeekEngagement: "7-day engagement: ",
+    like: "likes",
+    collect: "saves",
+    comment: "comments",
+    share: "shares",
+    freshnessBonus24h: "24h boost",
+    signalHitPrefix: "Signal direction: ",
+    coreDirectionPrefix: "Core direction: ",
+    relatedCluePrefix: "Related clues: ",
+    sourceTitlePassed: "Source and title signals passed the filter",
+    needsEvaluation: "pending",
+    aiObserve: "AI watch",
+    aiRelevance: "AI relevance",
+    creatorHeat: "Creator heat",
+    partitionPrefix: "Section:",
+  },
+  summaries: {
+    multiSourceSignal: " signal has been verified by",
+    multiSourceSignalSuffix: "sources, making it worth checking early.",
+    recentDirectionSuffix: " is a fresh update in the 24h AI-focused pool.",
+    whyOfficialMulti: "First-party and aggregator sources are both present, so this has a factual origin and outside amplification.",
+    whyModels: "Model capability, training, or inference changes can affect product roadmaps, developer choices, and benchmarks.",
+    whyDevtools: "Developer-tool and infrastructure changes usually move quickly into team workflows, cost models, and what teams can build.",
+    whyIndustry: "Company, regulatory, chip, or capital-market moves can change resource allocation and deployment pace across AI.",
+    whyResearch: "Research signals may not be productized yet, but they hint at the next model, data, or method direction.",
+    whyCommunity: "Concentrated community discussion shows developers and early users are forming a view, making this useful for trend validation.",
+    whyDefault: "Within the current 24h window, this combines relevance, freshness, and source weight, so it is worth reading at the source.",
+  },
+  waytoagi: {
+    updatedAt: "Updated: ",
+    root: "Main page",
+    history: "History page",
+    latestDate: "Latest update day",
+    last7Days: "Last 7 days",
+    loadFailed: "WaytoAGI data failed to load",
+    noToday: "No updates on the latest update day. Switch to Last 7 days to browse.",
+    noWeek: "No updates in the last 7 days",
+  },
+  list: {
+    resultEmpty: "No results match the current filters.",
+    loadingPrefix: "Organizing",
+    authorFilterTitle: "Clear author filter",
+    xAuthorPrefix: "X author",
+    scanned: "scanned",
+    dedupeOn: "dedupe on",
+    dedupeOff: "dedupe off",
+    searchPrefix: "Search",
+    aiRawPrefix: "AI-focused · raw",
+    rawSuffix: "raw",
+    signalSuffix: "signals",
+    mergedDuplicate: "merged",
+    duplicateSuffix: "duplicates",
+    highestAi: "highest AI",
+    expandRemaining: "Show remaining",
+    collapseToFirst: "Collapse to first",
+    expandRest: "Show the other",
+    sourcePartitions: "sections",
+    sources: "sources",
+    sites: "sites",
+    dayWindow: "Last 24 hours",
+    creatorWindowPrefix: "Past",
+    dayUnit: "days",
+    heatFirst: "heat first",
+    scannedZero: "scanned 0",
+    viewDetails: "View details",
+    bloggerUnit: "authors",
+    poolContent: "items in pool",
+    viewAuthorPrefix: "View",
+    viewAuthorSuffix: "'s X content",
+    moreItemsPrefix: "Another",
+    miscItemUnit: "items",
+    emailUnit: " emails",
+    noAdvancedMatchResult: "Connected, no matches",
+  },
+  errors: {
+    latest24h: "Failed to load latest-24h.json",
+    latest24hAll: "Failed to load latest-24h-all.json",
+    waytoagi: "Failed to load waytoagi-7d.json",
+    sourceStatus: "Failed to load source-status.json",
+    dailyBrief: "Failed to load daily-brief.json",
+    storiesMerged: "Failed to load stories-merged.json",
+  },
+};
+
 const state = {
   itemsAi: [],
   itemsAll: [],
@@ -78,59 +395,59 @@ const topStoriesTitleEl = document.getElementById("topStoriesTitle");
 const listSortToolsEl = document.getElementById("listSortTools");
 
 const SOURCE_KINDS = {
-  official_ai: { label: "官方", tone: "official" },
-  curated_media: { label: "精选媒体", tone: "aihub" },
-  aihot: { label: "AI HOT", tone: "hot" },
-  aibreakfast: { label: "日报", tone: "newsletter" },
-  followbuilders: { label: "Builders/X", tone: "builders" },
-  xapi: { label: "X API", tone: "builders" },
-  socialdata_x: { label: "X 搜索", tone: "builders" },
-  tikhub_douyin: { label: "抖音", tone: "creator" },
-  tikhub_xiaohongshu: { label: "小红书", tone: "creator" },
-  techurls: { label: "聚合", tone: "aggregate" },
-  buzzing: { label: "聚合", tone: "aggregate" },
-  iris: { label: "聚合", tone: "aggregate" },
-  bestblogs: { label: "博客", tone: "blogs" },
-  tophub: { label: "聚合", tone: "aggregate" },
-  zeli: { label: "聚合", tone: "aggregate" },
-  hackernews: { label: "HN", tone: "aggregate" },
-  aihubtoday: { label: "AI站点", tone: "aihub" },
-  aibase: { label: "AI站点", tone: "aihub" },
-  waytoagi: { label: "社区", tone: "builders" },
-  newsnow: { label: "聚合", tone: "aggregate" },
-  opmlrss: { label: "OPML", tone: "newsletter" },
+  official_ai: { label: UI_STRINGS.sourceKinds.official_ai, tone: "official" },
+  curated_media: { label: UI_STRINGS.sourceKinds.curated_media, tone: "aihub" },
+  aihot: { label: UI_STRINGS.sourceKinds.aihot, tone: "hot" },
+  aibreakfast: { label: UI_STRINGS.sourceKinds.aibreakfast, tone: "newsletter" },
+  followbuilders: { label: UI_STRINGS.sourceKinds.followbuilders, tone: "builders" },
+  xapi: { label: UI_STRINGS.sourceKinds.xapi, tone: "builders" },
+  socialdata_x: { label: UI_STRINGS.sourceKinds.socialdata_x, tone: "builders" },
+  tikhub_douyin: { label: UI_STRINGS.sourceKinds.tikhub_douyin, tone: "creator" },
+  tikhub_xiaohongshu: { label: UI_STRINGS.sourceKinds.tikhub_xiaohongshu, tone: "creator" },
+  techurls: { label: UI_STRINGS.sourceKinds.techurls, tone: "aggregate" },
+  buzzing: { label: UI_STRINGS.sourceKinds.buzzing, tone: "aggregate" },
+  iris: { label: UI_STRINGS.sourceKinds.iris, tone: "aggregate" },
+  bestblogs: { label: UI_STRINGS.sourceKinds.bestblogs, tone: "blogs" },
+  tophub: { label: UI_STRINGS.sourceKinds.tophub, tone: "aggregate" },
+  zeli: { label: UI_STRINGS.sourceKinds.zeli, tone: "aggregate" },
+  hackernews: { label: UI_STRINGS.sourceKinds.hackernews, tone: "aggregate" },
+  aihubtoday: { label: UI_STRINGS.sourceKinds.aihubtoday, tone: "aihub" },
+  aibase: { label: UI_STRINGS.sourceKinds.aibase, tone: "aihub" },
+  waytoagi: { label: UI_STRINGS.sourceKinds.waytoagi, tone: "builders" },
+  newsnow: { label: UI_STRINGS.sourceKinds.newsnow, tone: "aggregate" },
+  opmlrss: { label: UI_STRINGS.sourceKinds.opmlrss, tone: "newsletter" },
 };
 
 const SECTION_DEFS = [
-  { id: "hot", label: "热点", short: "热点", description: "跨来源聚合后的优先阅读列表" },
-  { id: "models", label: "模型", short: "模型", description: "模型发布、能力升级、评测与开源权重" },
-  { id: "products", label: "产品", short: "产品", description: "AI 应用、Agent、生成工具和用户产品更新" },
-  { id: "devtools", label: "开发者", short: "开发者", description: "编程工具、API、开源项目、推理与工程实践" },
-  { id: "hn", label: "HN热议", short: "HN", description: "Hacker News 过去 24 小时的 AI 关键词讨论与高互动 story" },
-  { id: "industry", label: "行业", short: "行业", description: "公司战略、融资收购、监管、芯片与产业变化" },
-  { id: "research", label: "研究", short: "研究", description: "论文、基准、方法、数据集与研究团队动态" },
-  { id: "creator", label: "自媒体", short: "自媒体", description: "一周内互动热度优先，24 小时新内容额外加分" },
-  { id: "community", label: "社区", short: "社区", description: "WaytoAGI、中文社区、AIbase、公众号和 Builders/X 信号" },
+  { id: "hot", ...UI_STRINGS.sections.hot },
+  { id: "models", ...UI_STRINGS.sections.models },
+  { id: "products", ...UI_STRINGS.sections.products },
+  { id: "devtools", ...UI_STRINGS.sections.devtools },
+  { id: "hn", ...UI_STRINGS.sections.hn },
+  { id: "industry", ...UI_STRINGS.sections.industry },
+  { id: "research", ...UI_STRINGS.sections.research },
+  { id: "creator", ...UI_STRINGS.sections.creator },
+  { id: "community", ...UI_STRINGS.sections.community },
 ];
 
 const SECTION_BY_ID = Object.fromEntries(SECTION_DEFS.map((section) => [section.id, section]));
 
 const LIST_SORT_DEFS = [
-  { id: "priority", label: "综合" },
-  { id: "latest", label: "最新" },
-  { id: "ai", label: "高分" },
-  { id: "source", label: "来源" },
+  { id: "priority", label: UI_STRINGS.listSort.priority },
+  { id: "latest", label: UI_STRINGS.listSort.latest },
+  { id: "ai", label: UI_STRINGS.listSort.ai },
+  { id: "source", label: UI_STRINGS.listSort.source },
 ];
 
 function fmtNumber(n) {
-  return new Intl.NumberFormat("zh-CN").format(n || 0);
+  return new Intl.NumberFormat(UI_STRINGS.locale).format(n || 0);
 }
 
 function fmtTime(iso) {
-  if (!iso) return "时间未知";
+  if (!iso) return UI_STRINGS.common.unknownTime;
   const d = new Date(iso);
-  if (Number.isNaN(d.getTime())) return "时间未知";
-  return new Intl.DateTimeFormat("zh-CN", {
+  if (Number.isNaN(d.getTime())) return UI_STRINGS.common.unknownTime;
+  return new Intl.DateTimeFormat(UI_STRINGS.locale, {
     month: "2-digit",
     day: "2-digit",
     hour: "2-digit",
@@ -139,13 +456,21 @@ function fmtTime(iso) {
 }
 
 function fmtDate(iso) {
-  if (!iso) return "未知日期";
+  if (!iso) return UI_STRINGS.common.unknownDate;
   const d = new Date(`${iso}T00:00:00`);
   if (Number.isNaN(d.getTime())) return iso;
-  return new Intl.DateTimeFormat("zh-CN", {
+  return new Intl.DateTimeFormat(UI_STRINGS.locale, {
     month: "2-digit",
     day: "2-digit",
   }).format(d);
+}
+
+function itemCountText(count) {
+  return `${fmtNumber(count)} ${UI_STRINGS.metrics.itemUnit}`;
+}
+
+function sourceCountText(count) {
+  return `${fmtNumber(count)} ${UI_STRINGS.metrics.siteUnit}`;
 }
 
 function setStats() {
@@ -156,21 +481,21 @@ function setStats() {
   const status = state.sourceStatus;
   const totalSites = Array.isArray(status?.sites) ? status.sites.length : 0;
   const okSites = Number(status?.successful_sites || 0);
-  const health = totalSites ? `${fmtNumber(okSites)}/${fmtNumber(totalSites)}正常` : "加载中";
+  const health = totalSites ? `${fmtNumber(okSites)}/${fmtNumber(totalSites)}${UI_STRINGS.metrics.normal}` : UI_STRINGS.common.loading;
   const cards = [
-    ["AI", `${fmtNumber(state.totalAi || items.length)}条`],
-    ["高优", `${fmtNumber(highCount)}条`],
-    ["精选", `${fmtNumber(curatedCount)}条`],
-    ["源", health],
+    [UI_STRINGS.metrics.ai, itemCountText(state.totalAi || items.length)],
+    [UI_STRINGS.metrics.highPriority, itemCountText(highCount)],
+    [UI_STRINGS.metrics.curated, itemCountText(curatedCount)],
+    [UI_STRINGS.metrics.source, health],
   ];
   statsEl.setAttribute(
     "aria-label",
-    `过去 24 小时：AI 信号 ${fmtNumber(state.totalAi || items.length)} 条，高优先级 ${fmtNumber(highCount)} 条，精选 ${fmtNumber(curatedCount)} 条，源状态 ${totalSites ? `${fmtNumber(okSites)}/${fmtNumber(totalSites)} 源正常` : "加载中"}`,
+    `${UI_STRINGS.stats.windowPrefix}${UI_STRINGS.stats.aiSignal} ${itemCountText(state.totalAi || items.length)}, ${UI_STRINGS.stats.highPriority} ${itemCountText(highCount)}, ${UI_STRINGS.metrics.curated} ${itemCountText(curatedCount)}, ${UI_STRINGS.stats.sourceStatus} ${totalSites ? `${fmtNumber(okSites)}/${fmtNumber(totalSites)} ${UI_STRINGS.stats.sourceNormal}` : UI_STRINGS.common.loading}`,
   );
 
   const prefix = document.createElement("div");
   prefix.className = "stat-prefix";
-  prefix.textContent = "过去 24 小时：";
+  prefix.textContent = UI_STRINGS.stats.windowPrefix;
   statsEl.appendChild(prefix);
 
   cards.forEach(([k, v]) => {
@@ -195,7 +520,7 @@ function renderSourceStatusPill(errorMessage = "") {
   const status = state.sourceStatus;
   sourceStatusPillEl.className = "source-status-pill";
   if (!status) {
-    sourceStatusPillEl.textContent = errorMessage || "源状态加载中";
+    sourceStatusPillEl.textContent = errorMessage || UI_STRINGS.status.loadingSourceStatus;
     if (errorMessage) sourceStatusPillEl.classList.add("bad");
     return;
   }
@@ -203,8 +528,8 @@ function renderSourceStatusPill(errorMessage = "") {
   const okSites = Number(status.successful_sites || 0);
   const failed = failedSourceCount(status);
   sourceStatusPillEl.textContent = failed
-    ? `${fmtNumber(okSites)}/${fmtNumber(totalSites)} 源正常 · 失败 ${fmtNumber(failed)}`
-    : `${fmtNumber(okSites)}/${fmtNumber(totalSites)} 源正常`;
+    ? `${fmtNumber(okSites)}/${fmtNumber(totalSites)} ${UI_STRINGS.stats.sourceNormal} · ${UI_STRINGS.metrics.failed} ${fmtNumber(failed)}`
+    : `${fmtNumber(okSites)}/${fmtNumber(totalSites)} ${UI_STRINGS.stats.sourceNormal}`;
   if (failed) sourceStatusPillEl.classList.add("warn");
 }
 
@@ -223,14 +548,14 @@ function renderStickySummary() {
     site,
     state.sourceTypeFilter ? sourceType : "",
     state.signalLevelFilter ? signalLevel : "",
-    query ? `搜索“${query}”` : "",
+    query ? `${UI_STRINGS.list.searchPrefix}“${query}”` : "",
   ].filter(Boolean);
-  const mode = state.mode === "all" ? "全量" : "AI强相关";
-  stickySummaryTextEl.textContent = `${fmtNumber(filteredCount)} 条 · ${mode}${filters.length ? ` · ${filters.join(" · ")}` : ""}`;
+  const mode = state.mode === "all" ? UI_STRINGS.views.all : UI_STRINGS.views.aiRelated;
+  stickySummaryTextEl.textContent = `${itemCountText(filteredCount)} · ${mode}${filters.length ? ` · ${filters.join(" · ")}` : ""}`;
 }
 
 function sourceKind(siteId) {
-  return SOURCE_KINDS[siteId] || { label: "来源", tone: "default" };
+  return SOURCE_KINDS[siteId] || { label: UI_STRINGS.common.source, tone: "default" };
 }
 
 function sourceSignalTone(signal) {
@@ -253,7 +578,7 @@ function sourceChip(label, tone = "default", className = "source-chip") {
   dot.setAttribute("aria-hidden", "true");
   const text = document.createElement("span");
   text.className = "source-chip-label";
-  text.textContent = label || "来源";
+  text.textContent = label || UI_STRINGS.common.source;
   chip.append(dot, text);
   return chip;
 }
@@ -287,7 +612,7 @@ function siteRawPoolCount(siteId) {
 }
 
 function sourcePoolMeta(aiCount, rawCount, fallback) {
-  if (rawCount && rawCount !== aiCount) return `AI强相关 · 原始 ${fmtNumber(rawCount)} 条`;
+  if (rawCount && rawCount !== aiCount) return `${UI_STRINGS.views.aiRelated} · ${UI_STRINGS.list.rawSuffix} ${itemCountText(rawCount)}`;
   return fallback;
 }
 
@@ -296,10 +621,10 @@ function paidSourceLabel(status, poolCount, activeLabel, idleLabel) {
   const liveCount = Number(status?.item_count || 0);
   const displayCount = liveCount || Number(poolCount || 0);
   if (connected) {
-    if (displayCount) return `${activeLabel} ${fmtNumber(displayCount)}条`;
-    return `${activeLabel} ${status?.skipped ? "待窗口" : "已连接暂无匹配"}`;
+    if (displayCount) return `${activeLabel} ${itemCountText(displayCount)}`;
+    return `${activeLabel} ${status?.skipped ? UI_STRINGS.common.pendingWindow : UI_STRINGS.common.connectedNoMatchCompact}`;
   }
-  if (displayCount) return `${activeLabel} ${fmtNumber(displayCount)}条`;
+  if (displayCount) return `${activeLabel} ${itemCountText(displayCount)}`;
   return idleLabel;
 }
 
@@ -343,28 +668,28 @@ function renderCoverageStrip(errorMessage = "") {
   const totalSites = rows.length;
   const okSites = Number(state.sourceStatus?.successful_sites || 0);
   const opmlValue = rss.enabled ? `${fmtNumber(rss.ok_feeds || 0)}/${fmtNumber(rss.effective_feed_total || 0)}` : "OPML";
-  const opmlMeta = rss.enabled ? "RSS示例/自定义订阅已接入" : "可用OPML批量接入RSS";
+  const opmlMeta = rss.enabled ? UI_STRINGS.coverage.opmlConnected : UI_STRINGS.coverage.opmlAvailable;
   const socialdataLabel = paidSourceLabel(socialdata, socialdataPoolCount, "SocialData", "");
   const xApiLabel = paidSourceLabel(xApi, xApiPoolCount, "X API", "");
-  const xSourceLabel = socialdataLabel || xApiLabel || "X待配置";
-  const mailLabel = agentmail.enabled ? `Mail ${fmtNumber(mailCount)}` : "Mail待配置";
+  const xSourceLabel = socialdataLabel || xApiLabel || UI_STRINGS.coverage.xPending;
+  const mailLabel = agentmail.enabled ? `Mail ${fmtNumber(mailCount)}` : UI_STRINGS.coverage.mailPending;
   const advancedValue = xPoolCount || mailCount
     ? `${xPoolCount ? `X ${fmtNumber(xPoolCount)}` : "X"} / ${mailCount ? `Mail ${fmtNumber(mailCount)}` : "Mail"}`
     : "X / Mail";
   const advancedMeta = socialdata.enabled || xApi.enabled || agentmail.enabled || xPoolCount
-    ? `额度保护 · ${xSourceLabel} / ${mailLabel}`
-    : "X API 与 AgentMail 默认关闭";
+    ? `${UI_STRINGS.coverage.quotaProtected} · ${xSourceLabel} / ${mailLabel}`
+    : UI_STRINGS.coverage.advancedDisabled;
 
   const cards = [
-    ["源健康", totalSites ? `${fmtNumber(okSites)}/${fmtNumber(totalSites)}` : "加载中", failedSites.length ? `${fmtNumber(failedSites.length)} 个失败源` : (errorMessage || "内置源正常"), failedSites.length ? "warn" : "ok"],
-    ["今日覆盖池", `${fmtNumber(coverageCount)} 条`, allCount ? `全网抓取原始信号 · ${fmtNumber(allCount)} 条入池` : "全网抓取原始信号", "signal"],
-    ["AI强相关", `${fmtNumber(state.totalAi)} 条`, "24小时强相关信号", "signal"],
-    ["官方/日报源池", `${fmtNumber(officialCount + newsletterCount)} 条`, "官方节点 + AI Breakfast", "official"],
-    ["精选媒体源池", `${fmtNumber(curatedMediaCount)} 条`, "The Decoder / TC / Verge / MTP 等", "signal"],
-    ["Builders/X源池", `${fmtNumber(buildersCount)} 条`, "Follow Builders公开feed", "builders"],
-    ["自媒体源池", `${fmtNumber(creatorCount)} 条`, sourcePoolMeta(creatorCount, creatorRawCount, "TikHub · 抖音 + 小红书"), "creator"],
-    ["RSS/OPML扩展", opmlValue, opmlMeta, "private"],
-    ["高级源", advancedValue, advancedMeta, "private"],
+    [UI_STRINGS.coverage.sourceHealth, totalSites ? `${fmtNumber(okSites)}/${fmtNumber(totalSites)}` : UI_STRINGS.common.loading, failedSites.length ? `${fmtNumber(failedSites.length)} ${UI_STRINGS.sourceHealth.failedSourceUnit}` : (errorMessage || UI_STRINGS.coverage.builtinSourcesOk), failedSites.length ? "warn" : "ok"],
+    [UI_STRINGS.coverage.todayCoveragePool, itemCountText(coverageCount), allCount ? `${UI_STRINGS.coverage.rawSignalPool} · ${itemCountText(allCount)} ${UI_STRINGS.stats.inPool}` : UI_STRINGS.coverage.rawSignalPool, "signal"],
+    [UI_STRINGS.coverage.aiRelated, itemCountText(state.totalAi), UI_STRINGS.coverage.aiSignal24h, "signal"],
+    [UI_STRINGS.coverage.officialNewsletterPool, itemCountText(officialCount + newsletterCount), UI_STRINGS.coverage.officialPlusBreakfast, "official"],
+    [UI_STRINGS.coverage.curatedMediaPool, itemCountText(curatedMediaCount), UI_STRINGS.coverage.curatedMediaExamples, "signal"],
+    [UI_STRINGS.coverage.buildersXPool, itemCountText(buildersCount), UI_STRINGS.coverage.followBuildersFeed, "builders"],
+    [UI_STRINGS.coverage.creatorPool, itemCountText(creatorCount), sourcePoolMeta(creatorCount, creatorRawCount, UI_STRINGS.coverage.tikhubCreators), "creator"],
+    [UI_STRINGS.coverage.rssOpmlExtension, opmlValue, opmlMeta, "private"],
+    [UI_STRINGS.coverage.advancedSources, advancedValue, advancedMeta, "private"],
   ];
 
   cards.forEach(([label, value, meta, tone]) => {
@@ -377,14 +702,14 @@ function renderAdvancedSummary() {
   const status = state.sourceStatus;
   const filteredCount = getFilteredItems().length;
   if (!status) {
-    advancedSummaryEl.textContent = `${fmtNumber(filteredCount)} 条结果`;
+    advancedSummaryEl.textContent = `${itemCountText(filteredCount)}${UI_STRINGS.stats.resultSuffix}`;
     return;
   }
   const sites = Array.isArray(status.sites) ? status.sites : [];
   const totalSites = sites.length;
   const okSites = Number(status.successful_sites || 0);
   const failed = failedSourceCount(status);
-  advancedSummaryEl.textContent = `${fmtNumber(filteredCount)} 条结果 · ${fmtNumber(okSites)}/${fmtNumber(totalSites)} 源正常${failed ? ` · 失败 ${fmtNumber(failed)}` : ""}`;
+  advancedSummaryEl.textContent = `${itemCountText(filteredCount)}${UI_STRINGS.stats.resultSuffix} · ${fmtNumber(okSites)}/${fmtNumber(totalSites)} ${UI_STRINGS.stats.sourceNormal}${failed ? ` · ${UI_STRINGS.metrics.failed} ${fmtNumber(failed)}` : ""}`;
 }
 
 function computeSiteStats(items) {
@@ -397,7 +722,7 @@ function computeSiteStats(items) {
     row.count += 1;
     row.raw_count += 1;
   });
-  return Array.from(m.values()).sort((a, b) => b.count - a.count || a.site_name.localeCompare(b.site_name, "zh-CN"));
+  return Array.from(m.values()).sort((a, b) => b.count - a.count || a.site_name.localeCompare(b.site_name, UI_STRINGS.locale));
 }
 
 function currentSiteStats() {
@@ -510,9 +835,11 @@ function renderSectionSummary(filteredItems = null) {
   const items = filteredItems || getFilteredItems();
   const highCount = items.filter((item) => isHighPriorityItem(item)).length;
   const sources = new Set(items.map((item) => item.source || item.site_name || item.site_id).filter(Boolean));
-  const modeText = state.mode === "all" ? (state.allDedup ? "全量去重" : "全量原始") : "AI强相关";
-  const windowText = state.activeSection === "creator" ? `过去 ${fmtNumber(state.creatorWindowDays)} 天 · 热度优先` : "过去 24 小时";
-  sectionSummaryEl.textContent = `${windowText} · ${fmtNumber(items.length)} 条${section.id === "hot" ? "" : ` ${section.label}`}信号 · ${fmtNumber(highCount)} 条高优先级 · ${fmtNumber(sources.size)} 个来源 · ${modeText}`;
+  const modeText = state.mode === "all" ? (state.allDedup ? UI_STRINGS.views.allDeduped : UI_STRINGS.views.allRaw) : UI_STRINGS.views.aiRelated;
+  const windowText = state.activeSection === "creator"
+    ? `${UI_STRINGS.list.creatorWindowPrefix} ${fmtNumber(state.creatorWindowDays)} ${UI_STRINGS.list.dayUnit} · ${UI_STRINGS.list.heatFirst}`
+    : UI_STRINGS.list.dayWindow;
+  sectionSummaryEl.textContent = `${windowText} · ${itemCountText(items.length)}${section.id === "hot" ? "" : ` ${section.label}`} ${UI_STRINGS.list.signalSuffix} · ${itemCountText(highCount)} ${UI_STRINGS.stats.highPriority} · ${sourceCountText(sources.size)} · ${modeText}`;
   renderStickySummary();
 }
 
@@ -521,18 +848,18 @@ function siteRatioText(siteStats) {
   const raw = Number(siteStats.raw_count ?? siteStats.count ?? 0);
   if (!raw) {
     const scanned = Number(siteRow(siteStats.site_id)?.item_count || 0);
-    if (!count && scanned) return `24h 0 · 已扫 ${fmtNumber(scanned)}`;
-    if (!count) return "已扫 0";
-    return `${fmtNumber(count)} 条`;
+    if (!count && scanned) return `24h 0 · ${UI_STRINGS.list.scanned} ${fmtNumber(scanned)}`;
+    if (!count) return UI_STRINGS.list.scannedZero;
+    return itemCountText(count);
   }
-  if (raw === count) return `${fmtNumber(count)} 条`;
+  if (raw === count) return itemCountText(count);
   return `${fmtNumber(count)}/${fmtNumber(raw)} · ${Math.round((count / raw) * 100)}%AI`;
 }
 
 function renderSiteFilters() {
   const stats = currentSiteStats();
 
-  siteSelectEl.innerHTML = '<option value="">全部站点</option>';
+  siteSelectEl.innerHTML = `<option value="">${UI_STRINGS.common.all}${UI_STRINGS.list.sites}</option>`;
   stats.forEach((s) => {
     const opt = document.createElement("option");
     opt.value = s.site_id;
@@ -544,7 +871,7 @@ function renderSiteFilters() {
   sitePillsEl.innerHTML = "";
   const allPill = document.createElement("button");
   allPill.className = `pill ${state.siteFilter === "" ? "active" : ""}`;
-  allPill.textContent = "全部";
+  allPill.textContent = UI_STRINGS.common.all;
   allPill.onclick = () => {
     state.siteFilter = "";
     renderSiteFilters();
@@ -557,8 +884,8 @@ function renderSiteFilters() {
     const authorPill = document.createElement("button");
     authorPill.type = "button";
     authorPill.className = "pill active author-filter-pill";
-    authorPill.textContent = `X 博主 ${state.authorFilter} ×`;
-    authorPill.title = "清除博主筛选";
+    authorPill.textContent = `${UI_STRINGS.list.xAuthorPrefix} ${state.authorFilter} ×`;
+    authorPill.title = UI_STRINGS.list.authorFilterTitle;
     authorPill.onclick = () => {
       state.authorFilter = "";
       state.siteFilter = "";
@@ -590,14 +917,14 @@ function renderModeSwitch() {
   modeAllBtnEl.classList.toggle("active", state.mode === "all");
   if (allDedupeWrapEl) allDedupeWrapEl.classList.toggle("show", state.mode === "all");
   if (allDedupeToggleEl) allDedupeToggleEl.checked = state.allDedup;
-  if (allDedupeLabelEl) allDedupeLabelEl.textContent = state.allDedup ? "去重开" : "去重关";
+  if (allDedupeLabelEl) allDedupeLabelEl.textContent = state.allDedup ? UI_STRINGS.list.dedupeOn : UI_STRINGS.list.dedupeOff;
   if (state.mode === "ai") {
-    modeHintEl.textContent = `AI强相关 · ${fmtNumber(state.totalAi)} 条`;
+    modeHintEl.textContent = `${UI_STRINGS.views.aiRelated} · ${itemCountText(state.totalAi)}`;
   } else {
     const allCount = state.allDedup
       ? (state.totalAllMode || state.itemsAll.length)
       : (state.totalRaw || state.itemsAllRaw.length);
-    modeHintEl.textContent = `全量 · ${state.allDedup ? "去重开" : "去重关"} · ${fmtNumber(allCount)} 条`;
+    modeHintEl.textContent = `${UI_STRINGS.views.all} · ${state.allDedup ? UI_STRINGS.list.dedupeOn : UI_STRINGS.list.dedupeOff} · ${itemCountText(allCount)}`;
   }
   if (listTitleEl) {
     listTitleEl.textContent = listTitleText();
@@ -609,8 +936,8 @@ function renderModeSwitch() {
 function listTitleText() {
   const section = SECTION_BY_ID[state.activeSection] || SECTION_BY_ID.hot;
   const pool = state.mode === "all"
-    ? (state.allDedup ? "情报流 · 全量去重" : "情报流 · 全量原始")
-    : "情报流";
+    ? (state.allDedup ? `${UI_STRINGS.views.intelligenceFlow} · ${UI_STRINGS.views.allDeduped}` : `${UI_STRINGS.views.intelligenceFlow} · ${UI_STRINGS.views.allRaw}`)
+    : UI_STRINGS.views.intelligenceFlow;
   return state.activeSection === "hot" ? pool : `${section.label} · ${pool}`;
 }
 
@@ -630,7 +957,7 @@ function itemSourceSortKey(item) {
     sourceSignal(item),
     item.site_name || item.site_id || "",
     item.source || "",
-  ].join(" ").trim() || "来源";
+  ].join(" ").trim() || UI_STRINGS.common.source;
 }
 
 function sortItemsForList(items) {
@@ -731,18 +1058,18 @@ function itemLabelTone(item) {
 }
 
 function itemTagTone(label) {
-  const text = String(label || "");
-  if (text.includes("多源")) return "strong";
-  if (text.includes("官方")) return "official";
-  if (text.includes("精选") || text.includes("热点")) return "hot";
-  if (text.includes("HN")) return "aggregate";
-  if (text.includes("模型")) return "models";
-  if (text.includes("开发")) return "devtools";
-  if (text.includes("研究")) return "research";
-  if (text.includes("自媒体")) return "creator";
-  if (text.includes("社区")) return "community";
-  if (text.includes("产品")) return "products";
-  if (text.includes("行业")) return "industry";
+  const text = String(label || "").toLowerCase();
+  if (text.includes("多源") || text.includes("multi-source")) return "strong";
+  if (text.includes("官方") || text.includes("official")) return "official";
+  if (text.includes("精选") || text.includes("热点") || text.includes("hot") || text.includes("pick")) return "hot";
+  if (text.includes("hn")) return "aggregate";
+  if (text.includes("模型") || text.includes("model")) return "models";
+  if (text.includes("开发") || text.includes("developer")) return "devtools";
+  if (text.includes("研究") || text.includes("research")) return "research";
+  if (text.includes("自媒体") || text.includes("creator")) return "creator";
+  if (text.includes("社区") || text.includes("community")) return "community";
+  if (text.includes("产品") || text.includes("product")) return "products";
+  if (text.includes("行业") || text.includes("business") || text.includes("industry")) return "industry";
   return "default";
 }
 
@@ -762,7 +1089,7 @@ function setSourceBadge(el, label, tone = "default", title = "") {
   dot.setAttribute("aria-hidden", "true");
   const text = document.createElement("span");
   text.className = "source-chip-label";
-  text.textContent = label || "来源";
+  text.textContent = label || UI_STRINGS.common.source;
   el.append(dot, text);
 }
 
@@ -802,22 +1129,7 @@ function itemPriorityScore(item) {
 }
 
 function labelText(item) {
-  const labels = {
-    ai_general: "AI信号",
-    model_release: "模型发布",
-    agent_workflow: "Agent工作流",
-    ai_product_update: "产品更新",
-    developer_tooling: "开发工具",
-    developer_tool: "开发工具",
-    infrastructure: "基础设施",
-    infra_compute: "基础设施",
-    industry_business: "行业动态",
-    research_paper: "研究论文",
-    robotics: "机器人",
-    curated_hotlist: "热点",
-    ai_tech: "技术趋势",
-  };
-  return labels[item.ai_label] || item.ai_label || "精选信号";
+  return UI_STRINGS.aiLabels[item.ai_label] || item.ai_label || UI_STRINGS.aiLabels.fallback;
 }
 
 function itemHaystack(item) {
@@ -941,7 +1253,7 @@ function itemMatchesSection(item, sectionId) {
 }
 
 function sectionBadgeLabel(sectionId) {
-  return SECTION_BY_ID[sectionId]?.short || "栏目";
+  return SECTION_BY_ID[sectionId]?.short || UI_STRINGS.common.noSection;
 }
 
 function reasonText(item) {
@@ -949,18 +1261,18 @@ function reasonText(item) {
   if (creatorScore && itemSections(item).has("creator")) {
     const metrics = item.creator_metrics || {};
     const parts = [
-      `赞 ${fmtNumber(metrics.likes)}`,
-      `藏 ${fmtNumber(metrics.collects)}`,
-      `评 ${fmtNumber(metrics.comments)}`,
-      `转 ${fmtNumber(metrics.shares)}`,
+      `${UI_STRINGS.reason.like} ${fmtNumber(metrics.likes)}`,
+      `${UI_STRINGS.reason.collect} ${fmtNumber(metrics.collects)}`,
+      `${UI_STRINGS.reason.comment} ${fmtNumber(metrics.comments)}`,
+      `${UI_STRINGS.reason.share} ${fmtNumber(metrics.shares)}`,
     ];
-    if (Number(item.creator_freshness_bonus || 0) > 0) parts.push("24h 加分");
-    return `一周互动：${parts.join(" · ")}`;
+    if (Number(item.creator_freshness_bonus || 0) > 0) parts.push(UI_STRINGS.reason.freshnessBonus24h);
+    return `${UI_STRINGS.reason.creatorWeekEngagement}${parts.join(" · ")}`;
   }
   const signals = Array.isArray(item.ai_signals) ? item.ai_signals.filter(Boolean).slice(0, 3) : [];
-  if (signals.length) return `命中方向：${signals.join(" / ")}`;
+  if (signals.length) return `${UI_STRINGS.reason.signalHitPrefix}${signals.join(" / ")}`;
   if (item.ai_relevance_reason) return String(item.ai_relevance_reason).replaceAll("_", " ");
-  return "来源与标题信号通过筛选";
+  return UI_STRINGS.reason.sourceTitlePassed;
 }
 
 function timelineIso(item) {
@@ -1064,27 +1376,27 @@ function sourceSignal(item) {
   const site = item.site_name || "";
   const source = item.source || "";
   const hay = `${site} ${source}`.toLowerCase();
-  if (site === "AI HOT") return "AI HOT精选";
-  if (hay.includes("hackernews") || hay.includes("hacker news")) return "HN热议";
-  if (source.includes("GitHub · Trending Today") || hay.includes("github")) return "GitHub趋势";
-  if (site === "Official AI Updates") return "官方更新";
+  if (site === "AI HOT") return UI_STRINGS.sourceSignals.aihot;
+  if (hay.includes("hackernews") || hay.includes("hacker news")) return UI_STRINGS.sourceSignals.hackerNews;
+  if (source.includes("GitHub · Trending Today") || hay.includes("github")) return UI_STRINGS.sourceSignals.githubTrending;
+  if (site === "Official AI Updates") return UI_STRINGS.sourceSignals.official;
   if (site === "Follow Builders") return "Builders";
-  if (site === "TikHub Douyin" || hay.includes("tikhub douyin")) return "抖音自媒体";
-  if (site === "TikHub Xiaohongshu" || hay.includes("tikhub xiaohongshu")) return "小红书自媒体";
+  if (site === "TikHub Douyin" || hay.includes("tikhub douyin")) return UI_STRINGS.sourceSignals.douyin;
+  if (site === "TikHub Xiaohongshu" || hay.includes("tikhub xiaohongshu")) return UI_STRINGS.sourceSignals.xiaohongshu;
   if (site === "AIbase") return "AIbase";
   if (site === "OPML RSS") return "OPML";
-  return site || "来源";
+  return site || UI_STRINGS.common.source;
 }
 
 function sourcePriority(item) {
   const signal = sourceSignal(item);
-  if (signal === "官方更新") return 100;
-  if (signal === "AI HOT精选") return 90;
+  if (signal === UI_STRINGS.sourceSignals.official) return 100;
+  if (signal === UI_STRINGS.sourceSignals.aihot) return 90;
   if (signal === "AIbase") return 82;
   if (signal === "Builders") return 74;
-  if (signal === "抖音自媒体" || signal === "小红书自媒体") return 70;
+  if (signal === UI_STRINGS.sourceSignals.douyin || signal === UI_STRINGS.sourceSignals.xiaohongshu) return 70;
   if (signal === "OPML") return 68;
-  if (signal === "HN热议" || signal === "GitHub趋势") return 62;
+  if (signal === UI_STRINGS.sourceSignals.hackerNews || signal === UI_STRINGS.sourceSignals.githubTrending) return 62;
   return 50;
 }
 
@@ -1106,9 +1418,9 @@ function clusterBoleEvents(rows) {
     const signals = Array.from(cluster.signals);
     const maxScore = Math.max(...cluster.rows.map((row) => row.score));
     const sourceBonus = Math.min(12, Math.max(0, signals.length - 1) * 6);
-    const candidateBonus = signals.some((s) => s === "AI HOT精选") ? 8
-      : signals.some((s) => s === "HN热议" || s === "GitHub趋势") ? 6
-      : signals.some((s) => s === "官方更新") ? 5
+    const candidateBonus = signals.some((s) => s === UI_STRINGS.sourceSignals.aihot) ? 8
+      : signals.some((s) => s === UI_STRINGS.sourceSignals.hackerNews || s === UI_STRINGS.sourceSignals.githubTrending) ? 6
+      : signals.some((s) => s === UI_STRINGS.sourceSignals.official) ? 5
       : 0;
     return {
       item: cluster.primary.item,
@@ -1178,11 +1490,13 @@ function storyDurationLabel(earliest, latest) {
   const end = new Date(latest).getTime();
   if (!Number.isFinite(start) || !Number.isFinite(end)) return "";
   const minutes = Math.round(Math.abs(end - start) / 60000);
-  if (minutes < 20) return "短时集中";
-  if (minutes < 60) return `发酵 ${minutes} 分钟`;
+  if (minutes < 20) return UI_STRINGS.story.storySpreadShort;
+  if (minutes < 60) return `${UI_STRINGS.story.storySpreadPrefix} ${minutes} ${UI_STRINGS.story.minuteUnit}`;
   const hours = Math.floor(minutes / 60);
   const rest = minutes % 60;
-  return rest ? `发酵 ${hours}小时${rest}分` : `发酵 ${hours}小时`;
+  return rest
+    ? `${UI_STRINGS.story.storySpreadPrefix} ${hours}${UI_STRINGS.story.hourUnit}${rest}${UI_STRINGS.story.minuteShortUnit}`
+    : `${UI_STRINGS.story.storySpreadPrefix} ${hours}${UI_STRINGS.story.hourUnit}`;
 }
 
 function formatStoryTime(story) {
@@ -1214,7 +1528,7 @@ function pickBoleItems(items) {
   const addPick = (cluster) => {
     if (cluster && !picked.includes(cluster) && picked.length < 8) picked.push(cluster);
   };
-  ["AI HOT精选", "HN热议", "GitHub趋势"].forEach((signal) => {
+  [UI_STRINGS.sourceSignals.aihot, UI_STRINGS.sourceSignals.hackerNews, UI_STRINGS.sourceSignals.githubTrending].forEach((signal) => {
     addPick(sorted.find((cluster) => cluster.sourceSignals.includes(signal)));
   });
   sorted.forEach(addPick);
@@ -1223,8 +1537,8 @@ function pickBoleItems(items) {
 
 function boleReasonText(row) {
   const signals = row.sourceSignals || [];
-  const sourceText = signals.length ? `来源命中：${signals.join(" / ")}` : "来源命中：单源";
-  const mergeText = row.mergedCount > 1 ? `合并${row.mergedCount}条同事件` : "单条事件";
+  const sourceText = signals.length ? `${UI_STRINGS.reason.sourceHitPrefix}${signals.join(" / ")}` : `${UI_STRINGS.reason.sourceHitPrefix}${UI_STRINGS.reason.singleSource}`;
+  const mergeText = row.mergedCount > 1 ? `${UI_STRINGS.reason.mergedEventPrefix}${row.mergedCount}${UI_STRINGS.reason.mergedEventSuffix}` : UI_STRINGS.reason.singleEvent;
   return `${sourceText} · ${mergeText} · ${reasonText(row.item)}`;
 }
 
@@ -1243,7 +1557,7 @@ function buildBoleLead(row) {
   kicker.textContent = `${labelText(item)} · ${fmtTime(timelineIso(item))}`;
   const scoreEl = document.createElement("strong");
   scoreEl.className = `bole-score-orb ${scoreTone(score)}`;
-  scoreEl.innerHTML = `<span>${score}</span><small>分</small>`;
+  scoreEl.innerHTML = `<span>${score}</span><small>${UI_STRINGS.common.scoreUnit}</small>`;
   top.append(kicker, scoreEl);
 
   const title = document.createElement("div");
@@ -1256,7 +1570,7 @@ function buildBoleLead(row) {
 
   const foot = document.createElement("div");
   foot.className = "bole-lead-foot";
-  foot.innerHTML = `<span>${item.site_name || "来源"}</span><span>${item.source || "未分区"}</span>`;
+  foot.innerHTML = `<span>${item.site_name || UI_STRINGS.common.source}</span><span>${item.source || UI_STRINGS.common.noSourceGroup}</span>`;
 
   lead.append(top, title, reason, foot);
   return lead;
@@ -1278,7 +1592,7 @@ function buildBoleTimelineRow(row, rank) {
   body.className = "bole-row-body";
   const meta = document.createElement("div");
   meta.className = "bole-row-meta";
-  meta.innerHTML = `<span>#${rank}</span><span>${item.site_name || "来源"}</span><strong>${score}分</strong>`;
+  meta.innerHTML = `<span>#${rank}</span><span>${item.site_name || UI_STRINGS.common.source}</span><strong>${score} ${UI_STRINGS.common.scoreUnit}</strong>`;
   (row.sourceSignals || []).slice(0, 4).forEach((signal) => {
     appendSourceChip(meta, signal, sourceSignalTone(signal), "source-chip source-hit");
   });
@@ -1307,7 +1621,7 @@ function buildStoryCard(story, rank) {
   const { latest, rangeLabel } = formatStoryTime(story);
   const labelEl = document.createElement("span");
   labelEl.className = "story-time-label";
-  labelEl.textContent = "最新";
+  labelEl.textContent = UI_STRINGS.story.latest;
   const latestEl = document.createElement("span");
   latestEl.className = "story-time-latest";
   latestEl.textContent = fmtTime(latest);
@@ -1316,7 +1630,7 @@ function buildStoryCard(story, rank) {
     const rangeEl = document.createElement("span");
     rangeEl.className = "story-time-range";
     rangeEl.textContent = rangeLabel;
-    rangeEl.title = "最早来源到最新来源的时间差，不是距离现在多久。";
+    rangeEl.title = UI_STRINGS.story.earliestLatestTitle;
     time.appendChild(rangeEl);
   }
 
@@ -1338,16 +1652,16 @@ function buildStoryCard(story, rank) {
   const sourceCount = storySourceCount(story);
   const countEl = document.createElement("span");
   countEl.className = "story-count";
-  countEl.textContent = `${sourceCount} 个来源`;
+  countEl.textContent = sourceCountText(sourceCount);
   meta.appendChild(countEl);
   const displayScore = storySortScore(story);
   if (displayScore > 0) {
     const scoreEl = document.createElement("strong");
     scoreEl.className = `story-score ${state.boleView === "hot" ? "heat" : ""}`.trim();
     scoreEl.title = state.boleView === "hot"
-      ? "热度分 = 多源强度 × 时间衰减"
-      : "编辑重要性分";
-    scoreEl.innerHTML = `<span>${displayScore}</span><small>${state.boleView === "hot" ? "热度" : "分"}</small>`;
+      ? UI_STRINGS.story.heatScoreTitle
+      : UI_STRINGS.story.editorialScoreTitle;
+    scoreEl.innerHTML = `<span>${displayScore}</span><small>${state.boleView === "hot" ? UI_STRINGS.common.heatUnit : UI_STRINGS.common.scoreUnit}</small>`;
     meta.appendChild(scoreEl);
   }
   body.appendChild(meta);
@@ -1358,7 +1672,7 @@ function buildStoryCard(story, rank) {
     sourcesEl.className = "story-sources";
     sources.slice(0, 6).forEach((src) => {
       const kind = sourceKind(src.site_id);
-      const label = src.source || src.source_name || "来源";
+      const label = src.source || src.source_name || UI_STRINGS.common.source;
       const tag = sourceChip(label, kind.tone, "story-source-chip source-chip");
       sourcesEl.appendChild(tag);
     });
@@ -1442,7 +1756,7 @@ function renderBoleBrief(stories) {
   let metaLabel;
   if (state.boleView === "hot") {
     sorted = hot;
-    metaLabel = `当前热点 · ${fmtNumber(sorted.length)} 簇 · 按热度分排序`;
+    metaLabel = `${UI_STRINGS.views.currentHot} · ${fmtNumber(sorted.length)} ${UI_STRINGS.metrics.clusterUnit} · ${UI_STRINGS.story.sortedByHeat}`;
   } else {
     sorted = [...stories].sort((a, b) => {
       const aLatest = storyTimeMs(a, "latest_at") || storyTimeMs(a, "earliest_at");
@@ -1452,8 +1766,8 @@ function renderBoleBrief(stories) {
     });
     const topScore = Math.max(...sorted.map((s) => storyScore(s)));
     metaLabel = topScore > 0
-      ? `故事时间线 · ${fmtNumber(sorted.length)} 条 · 最高 ${topScore} 分`
-      : `故事时间线 · ${fmtNumber(sorted.length)} 条`;
+      ? `${UI_STRINGS.views.storyTimeline} · ${itemCountText(sorted.length)} · ${UI_STRINGS.story.highest} ${topScore} ${UI_STRINGS.common.scoreUnit}`
+      : `${UI_STRINGS.views.storyTimeline} · ${itemCountText(sorted.length)}`;
   }
 
   const list = document.createElement("div");
@@ -1470,8 +1784,8 @@ function renderBoleBrief(stories) {
     moreBtn.type = "button";
     moreBtn.className = "bole-more-btn";
     moreBtn.textContent = state.boleExpanded
-      ? "收起"
-      : (state.boleView === "hot" ? "展开全部热点" : "展开完整时间线");
+      ? UI_STRINGS.actions.collapse
+      : (state.boleView === "hot" ? UI_STRINGS.actions.expandAllHot : UI_STRINGS.actions.expandFullTimeline);
     moreBtn.addEventListener("click", () => {
       state.boleExpanded = !state.boleExpanded;
       renderBolePicks();
@@ -1490,13 +1804,13 @@ function renderBoleFallback(picks) {
 
   const note = document.createElement("div");
   note.className = "bole-fallback-note";
-  note.textContent = "故事合并数据暂未生成，先展示伯乐候选信号。";
+  note.textContent = UI_STRINGS.story.mergeMissing;
   bolePicksListEl.appendChild(note);
 
   if (!picks.length) {
     const empty = document.createElement("div");
     empty.className = "bole-empty";
-    empty.textContent = "当前数据里没有可展示的评分字段。";
+    empty.textContent = UI_STRINGS.story.noScoreFields;
     bolePicksListEl.appendChild(empty);
     return;
   }
@@ -1517,7 +1831,7 @@ function renderBoleFallback(picks) {
     const moreBtn = document.createElement("button");
     moreBtn.type = "button";
     moreBtn.className = "bole-more-btn";
-    moreBtn.textContent = state.boleExpanded ? "收起" : "展开完整时间线";
+    moreBtn.textContent = state.boleExpanded ? UI_STRINGS.actions.collapse : UI_STRINGS.actions.expandFullTimeline;
     moreBtn.addEventListener("click", () => {
       state.boleExpanded = !state.boleExpanded;
       renderBolePicks();
@@ -1623,8 +1937,8 @@ function renderStoryViewPanel(stories, excludedRows = []) {
   if (state.boleView === "hot") {
     baseSorted = hot;
     metaLabel = hot.length
-      ? `当前热点 · ${fmtNumber(hot.length)} 簇 · 按热度分排序`
-      : "当前热点 · 暂无多源聚簇";
+      ? `${UI_STRINGS.views.currentHot} · ${fmtNumber(hot.length)} ${UI_STRINGS.metrics.clusterUnit} · ${UI_STRINGS.story.sortedByHeat}`
+      : UI_STRINGS.story.hotEmpty;
   } else {
     baseSorted = [...stories].sort((a, b) => {
       const aLatest = storyTimeMs(a, "latest_at") || storyTimeMs(a, "earliest_at");
@@ -1632,7 +1946,7 @@ function renderStoryViewPanel(stories, excludedRows = []) {
       if (aLatest !== bLatest) return bLatest - aLatest;
       return storyScore(b) - storyScore(a);
     });
-    metaLabel = `故事时间线 · ${fmtNumber(baseSorted.length)} 条 · 最新优先`;
+    metaLabel = `${UI_STRINGS.views.storyTimeline} · ${itemCountText(baseSorted.length)} · ${UI_STRINGS.story.latestFirst}`;
   }
 
   const excludeKeys = excludedStoryKeySet(excludedRows);
@@ -1643,8 +1957,8 @@ function renderStoryViewPanel(stories, excludedRows = []) {
   const rankOffset = skippedCount > 0 ? excludedRows.length : 0;
   if (skippedCount > 0) {
     metaLabel = state.boleView === "hot"
-      ? `当前热点 · ${fmtNumber(baseSorted.length)} 簇 · 续看 #${rankOffset + 1} 起`
-      : `故事时间线 · ${fmtNumber(baseSorted.length)} 条 · Top3 后续`;
+      ? `${UI_STRINGS.views.currentHot} · ${fmtNumber(baseSorted.length)} ${UI_STRINGS.metrics.clusterUnit} · ${UI_STRINGS.story.continueFrom} #${rankOffset + 1} ${UI_STRINGS.story.fromSuffix}`
+      : `${UI_STRINGS.views.storyTimeline} · ${itemCountText(baseSorted.length)} · ${UI_STRINGS.story.afterTop3}`;
   }
 
   if (boleViewToggleEl) {
@@ -1662,10 +1976,10 @@ function renderStoryViewPanel(stories, excludedRows = []) {
     const empty = document.createElement("div");
     empty.className = "bole-empty";
     empty.textContent = skippedCount > 0
-      ? "Top3 已覆盖当前筛选下的故事，可切换筛选或时间线继续查看。"
+      ? UI_STRINGS.story.top3Covered
       : state.boleView === "hot"
-      ? "当前筛选下没有多源热点，可切换到时间线查看最新故事。"
-      : "当前筛选下没有可展示的故事时间线。";
+      ? UI_STRINGS.story.noHotForFilter
+      : UI_STRINGS.story.noTimelineForFilter;
     panel.appendChild(empty);
     return panel;
   }
@@ -1684,10 +1998,10 @@ function renderStoryViewPanel(stories, excludedRows = []) {
     moreBtn.type = "button";
     moreBtn.className = "bole-more-btn";
     moreBtn.textContent = state.boleExpanded
-      ? "收起"
+      ? UI_STRINGS.actions.collapse
       : (skippedCount > 0
-        ? (state.boleView === "hot" ? "展开后续热点" : "展开后续时间线")
-        : (state.boleView === "hot" ? "展开全部热点" : "展开完整时间线"));
+        ? (state.boleView === "hot" ? UI_STRINGS.actions.expandMoreHot : UI_STRINGS.actions.expandMoreTimeline)
+        : (state.boleView === "hot" ? UI_STRINGS.actions.expandAllHot : UI_STRINGS.actions.expandFullTimeline));
     moreBtn.addEventListener("click", () => {
       state.boleExpanded = !state.boleExpanded;
       renderBolePicks();
@@ -1754,8 +2068,8 @@ function buildBoleFollowupPanel(rows, topCount, usesStories) {
   panel.className = "bole-story-panel";
   const heading = document.createElement("div");
   heading.className = "bole-story-panel-head";
-  const viewLabel = state.boleView === "hot" ? "当前热点" : "故事时间线";
-  heading.textContent = `${viewLabel} · ${fmtNumber(rows.length)} 条${usesStories ? "故事" : "候选"} · Top${topCount} 后续`;
+  const viewLabel = state.boleView === "hot" ? UI_STRINGS.views.currentHot : UI_STRINGS.views.storyTimeline;
+  heading.textContent = `${viewLabel} · ${fmtNumber(rows.length)} ${usesStories ? UI_STRINGS.metrics.storyUnit : UI_STRINGS.metrics.candidateUnit} · Top${topCount} ${UI_STRINGS.story.followupSuffix}`;
   panel.appendChild(heading);
 
   const list = document.createElement("div");
@@ -1775,8 +2089,8 @@ function buildBoleFollowupPanel(rows, topCount, usesStories) {
     moreBtn.type = "button";
     moreBtn.className = "bole-more-btn";
     moreBtn.textContent = state.boleExpanded
-      ? "收起后续"
-      : `展开后续 ${fmtNumber(remaining.length - followupLimit)} 条`;
+      ? UI_STRINGS.actions.collapseFollowup
+      : `${UI_STRINGS.actions.expandMoreTimeline} ${itemCountText(remaining.length - followupLimit)}`;
     moreBtn.addEventListener("click", () => {
       state.boleExpanded = !state.boleExpanded;
       renderBolePicks();
@@ -1811,23 +2125,23 @@ function renderBolePicks() {
     : rankedFallbackRows(filtered).slice(0, defaultLimit);
   const top = rows.slice(0, 3);
   const remainingCount = Math.max(0, rows.length - top.length);
-  if (topStoriesTitleEl) topStoriesTitleEl.textContent = state.activeSection === "hot" ? "今日重点信号" : `${section.label}重点信号`;
+  if (topStoriesTitleEl) topStoriesTitleEl.textContent = state.activeSection === "hot" ? UI_STRINGS.views.topSignals : `${section.label}${UI_STRINGS.views.keySignalsSuffix}`;
   const storyMeta = usesStories
-    ? `展示池：热点 ${fmtNumber(candidateCounts.hot)}/${fmtNumber(candidateCounts.hotTotal)} · 时间线 ${fmtNumber(candidateCounts.timeline)}/${fmtNumber(candidateCounts.timelineTotal)}`
-    : `展示池：${fmtNumber(rows.length)} 条`;
+    ? `${UI_STRINGS.views.displayPool}: ${UI_STRINGS.sections.hot.label} ${fmtNumber(candidateCounts.hot)}/${fmtNumber(candidateCounts.hotTotal)} · ${UI_STRINGS.views.timeline} ${fmtNumber(candidateCounts.timeline)}/${fmtNumber(candidateCounts.timelineTotal)}`
+    : `${UI_STRINGS.views.displayPool}: ${itemCountText(rows.length)}`;
   bolePicksMetaEl.textContent = storyMeta;
   if (boleViewToggleEl) {
     boleViewToggleEl.hidden = usesStories ? !hotAvailable : true;
     if (boleHotBtnEl) boleHotBtnEl.classList.toggle("active", state.boleView === "hot");
     if (boleTimelineBtnEl) boleTimelineBtnEl.classList.toggle("active", state.boleView === "timeline");
-    if (boleHotBtnEl) boleHotBtnEl.textContent = `当前热点 ${fmtNumber(candidateCounts.hot)}`;
-    if (boleTimelineBtnEl) boleTimelineBtnEl.textContent = `时间线 ${fmtNumber(candidateCounts.timeline)}`;
+    if (boleHotBtnEl) boleHotBtnEl.textContent = `${UI_STRINGS.views.currentHot} ${fmtNumber(candidateCounts.hot)}`;
+    if (boleTimelineBtnEl) boleTimelineBtnEl.textContent = `${UI_STRINGS.views.timeline} ${fmtNumber(candidateCounts.timeline)}`;
   }
 
   if (!top.length) {
     const empty = document.createElement("div");
     empty.className = "bole-empty";
-    empty.textContent = "当前栏目和筛选条件下没有可展示的 Top 3。";
+    empty.textContent = UI_STRINGS.story.noTop3ForFilter;
     bolePicksListEl.appendChild(empty);
   } else {
     top.forEach((row, index) => {
@@ -1879,15 +2193,15 @@ function itemTagLabels(item, row = null) {
   const tags = [];
   const sections = itemSections(item);
   if (state.activeSection !== "hot") tags.push(sectionBadgeLabel(state.activeSection));
-  if (row && (row.sourceCount > 1 || row.mergedCount > 1)) tags.push("多源验证");
-  if (item.site_id === "official_ai") tags.push("官方");
+  if (row && (row.sourceCount > 1 || row.mergedCount > 1)) tags.push(UI_STRINGS.tags.multiSource);
+  if (item.site_id === "official_ai") tags.push(UI_STRINGS.tags.official);
   if (item.site_id === "aihot") tags.push("AI HOT");
-  if (sections.has("models")) tags.push("模型发布");
-  if (sections.has("devtools")) tags.push("开发者");
-  if (sections.has("hn")) tags.push("社区热议");
-  if (sections.has("research")) tags.push("研究");
-  if (sections.has("creator")) tags.push("自媒体");
-  if (sections.has("community")) tags.push("社区");
+  if (sections.has("models")) tags.push(UI_STRINGS.tags.modelRelease);
+  if (sections.has("devtools")) tags.push(UI_STRINGS.tags.developer);
+  if (sections.has("hn")) tags.push(UI_STRINGS.tags.communityHot);
+  if (sections.has("research")) tags.push(UI_STRINGS.tags.research);
+  if (sections.has("creator")) tags.push(UI_STRINGS.tags.creator);
+  if (sections.has("community")) tags.push(UI_STRINGS.tags.community);
   return Array.from(new Set(tags)).slice(0, 3);
 }
 
@@ -1916,7 +2230,7 @@ function itemSourceRefs(item, row = null) {
     add(item.source || item.site_name || kind.label, kind.tone);
   }
 
-  return refs.length ? refs : [{ label: "来源", tone: "default" }];
+  return refs.length ? refs : [{ label: UI_STRINGS.common.source, tone: "default" }];
 }
 
 function priorityGrade(score) {
@@ -1939,10 +2253,10 @@ function signalSummaryText(row) {
   const label = story.importance_label || labelText(item);
   const sourceCount = rowSourceCount(row);
   const multi = row.sourceCount > 1 || row.mergedCount > 1;
-  if (multi && label) return `${label}信号，已被 ${fmtNumber(sourceCount)} 个来源验证，适合优先判断是否继续深挖。`;
+  if (multi && label) return `${label}${UI_STRINGS.summaries.multiSourceSignal} ${fmtNumber(sourceCount)} ${UI_STRINGS.summaries.multiSourceSignalSuffix}`;
   const reason = reasonText(item);
-  if (reason && !reason.startsWith("来源与标题")) return reason.replace(/^命中方向：/, "核心方向：");
-  return `${label}方向的新近更新，已进入 24 小时 AI 强相关池。`;
+  if (reason && !reason.startsWith(UI_STRINGS.reason.sourceTitlePassed.slice(0, 4))) return reason.replace(new RegExp(`^${UI_STRINGS.reason.signalHitPrefix}`), UI_STRINGS.reason.coreDirectionPrefix);
+  return `${label}${UI_STRINGS.summaries.recentDirectionSuffix}`;
 }
 
 function whyImportantText(row) {
@@ -1951,36 +2265,36 @@ function whyImportantText(row) {
   const sections = itemSections(item);
   const reasons = Array.isArray(story.reasons) ? story.reasons : [];
   if (reasons.includes("official_source") && reasons.includes("multi_source")) {
-    return "一手来源和聚合来源同时出现，说明它既有事实起点，也正在被外部信息流放大。";
+    return UI_STRINGS.summaries.whyOfficialMulti;
   }
   if (sections.has("models")) {
-    return "模型能力或训练/推理方式变化会影响后续产品路线、开发者选型和评测基准。";
+    return UI_STRINGS.summaries.whyModels;
   }
   if (sections.has("devtools")) {
-    return "开发者工具和基础设施变化通常会很快传导到团队工作流、成本和可实现能力。";
+    return UI_STRINGS.summaries.whyDevtools;
   }
   if (sections.has("industry")) {
-    return "公司、监管、芯片或资本动态会改变 AI 生态的资源分配和落地节奏。";
+    return UI_STRINGS.summaries.whyIndustry;
   }
   if (sections.has("research")) {
-    return "研究信号可能还没产品化，但会提示下一轮模型、数据或方法的技术方向。";
+    return UI_STRINGS.summaries.whyResearch;
   }
   if (sections.has("community") || sections.has("hn")) {
-    return "社区集中讨论代表开发者和早期用户正在形成共识，适合作为趋势验证入口。";
+    return UI_STRINGS.summaries.whyCommunity;
   }
-  return "它在当前 24 小时窗口里同时具备相关度、新鲜度和来源权重，值得先读原文确认。";
+  return UI_STRINGS.summaries.whyDefault;
 }
 
 function impactLabels(item) {
   const sections = itemSections(item);
   const labels = [];
-  if (sections.has("devtools")) labels.push("开发者");
-  if (sections.has("products")) labels.push("产品");
-  if (sections.has("industry")) labels.push("企业 / 投资");
-  if (sections.has("research")) labels.push("研究");
-  if (sections.has("models")) labels.push("模型团队");
-  if (sections.has("community") || sections.has("hn")) labels.push("社区");
-  return labels.slice(0, 3).length ? labels.slice(0, 3) : ["AI 观察者"];
+  if (sections.has("devtools")) labels.push(UI_STRINGS.impact.developer);
+  if (sections.has("products")) labels.push(UI_STRINGS.impact.products);
+  if (sections.has("industry")) labels.push(UI_STRINGS.impact.business);
+  if (sections.has("research")) labels.push(UI_STRINGS.impact.research);
+  if (sections.has("models")) labels.push(UI_STRINGS.impact.modelTeams);
+  if (sections.has("community") || sections.has("hn")) labels.push(UI_STRINGS.impact.community);
+  return labels.slice(0, 3).length ? labels.slice(0, 3) : [UI_STRINGS.impact.fallback];
 }
 
 function buildTopStoryCard(row, rank) {
@@ -2009,10 +2323,10 @@ function buildTopStoryCard(row, rank) {
     ? Math.max(row.score || 0, storyScore(row.story))
     : Math.max(row.score || 0, headlineClusterScore(row));
   score.className = `intel-score ${scoreTone(displayScore)}`;
-  score.textContent = `优先级 ${priorityGrade(displayScore)}`;
+  score.textContent = `${UI_STRINGS.story.priority} ${priorityGrade(displayScore)}`;
   const sourceCount = document.createElement("span");
   sourceCount.className = "source-count";
-  sourceCount.textContent = `${fmtNumber(rowSourceCount(row))} 个来源`;
+  sourceCount.textContent = sourceCountText(rowSourceCount(row));
   meta.append(rankEl, sourceChip(primarySource.label, primarySource.tone, "source-chip intel-source"), sourceCount, score, time);
 
   const title = document.createElement("div");
@@ -2026,7 +2340,7 @@ function buildTopStoryCard(row, rank) {
   const why = document.createElement("div");
   why.className = "top-story-why";
   const whyLabel = document.createElement("span");
-  whyLabel.textContent = "为什么重要";
+  whyLabel.textContent = UI_STRINGS.story.whyImportant;
   const whyText = document.createElement("p");
   whyText.textContent = whyImportantText(row);
   why.append(whyLabel, whyText);
@@ -2063,7 +2377,7 @@ function buildIntelCard(item, rank) {
   const score = scorePercent(item);
   const scoreEl = document.createElement("strong");
   scoreEl.className = `intel-score ${scoreTone(score)}`;
-  scoreEl.textContent = score ? `AI ${score}分` : "AI观察";
+  scoreEl.textContent = score ? `AI ${score} ${UI_STRINGS.common.scoreUnit}` : UI_STRINGS.reason.aiObserve;
   meta.append(rankEl, time, scoreEl);
 
   const title = document.createElement("a");
@@ -2087,7 +2401,7 @@ function buildIntelCard(item, rank) {
   sources.className = "intel-card-sources";
   const refs = itemSourceRefs(item);
   const count = document.createElement("strong");
-  count.textContent = `${fmtNumber(refs.length)} 个来源`;
+  count.textContent = sourceCountText(refs.length);
   sources.appendChild(count);
   refs.slice(0, 3).forEach((ref) => {
     sources.appendChild(sourceChip(ref.label, ref.tone, "source-chip"));
@@ -2099,10 +2413,10 @@ function buildIntelCard(item, rank) {
 
 function feedSummaryText(item) {
   const signals = Array.isArray(item.ai_signals) ? item.ai_signals.filter(Boolean).slice(0, 2) : [];
-  if (signals.length) return `相关线索：${signals.join(" / ")}。`;
+  if (signals.length) return `${UI_STRINGS.reason.relatedCluePrefix}${signals.join(" / ")}.`;
   const reason = reasonText(item);
-  if (reason && !reason.startsWith("来源与标题")) return reason.replace(/^命中方向：/, "相关线索：");
-  return `${labelText(item)} · AI 相关度 ${scorePercent(item) || "待评估"}。`;
+  if (reason && !reason.startsWith(UI_STRINGS.reason.sourceTitlePassed.slice(0, 4))) return reason.replace(new RegExp(`^${UI_STRINGS.reason.signalHitPrefix}`), UI_STRINGS.reason.relatedCluePrefix);
+  return `${labelText(item)} · ${UI_STRINGS.reason.aiRelevance} ${scorePercent(item) || UI_STRINGS.reason.needsEvaluation}.`;
 }
 
 function renderItemNode(item, context = {}) {
@@ -2122,13 +2436,13 @@ function renderItemNode(item, context = {}) {
   const tagEl = document.createElement("span");
   tagEl.className = `ai-tag tone-${itemLabelTone(item)}`;
   tagEl.textContent = creatorScore && itemSections(item).has("creator")
-    ? `自媒体热度 · ${creatorScore}分`
-    : `${labelText(item)} · ${score || "?"}分`;
+    ? `${UI_STRINGS.reason.creatorHeat} · ${creatorScore} ${UI_STRINGS.common.scoreUnit}`
+    : `${labelText(item)} · ${score || "?"} ${UI_STRINGS.common.scoreUnit}`;
   categoryEl.insertAdjacentElement("afterend", tagEl);
 
   const sourceEl = node.querySelector(".source");
   const sourceLabel = sourceSignal(item);
-  setSourceBadge(sourceEl, sourceLabel, sourceSignalTone(sourceLabel), item.source ? `分区: ${item.source}` : "");
+  setSourceBadge(sourceEl, sourceLabel, sourceSignalTone(sourceLabel), item.source ? `${UI_STRINGS.reason.partitionPrefix} ${item.source}` : "");
   if (context.source && context.source === item.source) {
     sourceEl.hidden = true;
   }
@@ -2201,8 +2515,8 @@ function buildSourceGroupNode(source, items, rawCount = items.length) {
       const visibleItems = expanded ? items : items.slice(0, SOURCE_ITEM_INITIAL_LIMIT);
       visibleItems.forEach((item) => listEl.appendChild(renderItemNode(item, { source })));
       moreBtn.textContent = expanded
-        ? `收起，仅看前 ${SOURCE_ITEM_INITIAL_LIMIT} 条`
-        : `展开剩余 ${fmtNumber(items.length - SOURCE_ITEM_INITIAL_LIMIT)} 条`;
+        ? `${UI_STRINGS.list.collapseToFirst} ${SOURCE_ITEM_INITIAL_LIMIT} ${UI_STRINGS.metrics.itemUnit}`
+        : `${UI_STRINGS.list.expandRemaining} ${itemCountText(items.length - SOURCE_ITEM_INITIAL_LIMIT)}`;
     };
     moreBtn.addEventListener("click", () => {
       expanded = !expanded;
@@ -2252,20 +2566,20 @@ function subgroupSortValue(items) {
 }
 
 function subgroupSummary(items, rawCount = items.length) {
-  const count = `${fmtNumber(items.length)} 条`;
+  const count = itemCountText(items.length);
   const merged = rawCount - items.length;
   let ranking = "";
-  if (state.listSort === "priority") ranking = `综合 ${subgroupSortValue(items)}`;
-  if (state.listSort === "latest") ranking = `最新 ${fmtTime(timelineIso(items[0]))}`;
-  if (state.listSort === "ai") ranking = `最高 AI ${subgroupSortValue(items)}分`;
-  const mergedLabel = merged > 0 ? `合并 ${fmtNumber(merged)} 条重复` : "";
+  if (state.listSort === "priority") ranking = `${UI_STRINGS.listSort.priority} ${subgroupSortValue(items)}`;
+  if (state.listSort === "latest") ranking = `${UI_STRINGS.listSort.latest} ${fmtTime(timelineIso(items[0]))}`;
+  if (state.listSort === "ai") ranking = `${UI_STRINGS.list.highestAi} ${subgroupSortValue(items)} ${UI_STRINGS.common.scoreUnit}`;
+  const mergedLabel = merged > 0 ? `${UI_STRINGS.list.mergedDuplicate} ${fmtNumber(merged)} ${UI_STRINGS.list.duplicateSuffix}` : "";
   return [count, ranking, mergedLabel].filter(Boolean).join(" · ");
 }
 
 function sourceGroupEntries(items) {
   const groupMap = new Map();
   items.forEach((item) => {
-    const key = item.source || "未分区";
+    const key = item.source || UI_STRINGS.common.noSourceGroup;
     if (!groupMap.has(key)) {
       groupMap.set(key, []);
     }
@@ -2284,7 +2598,7 @@ function sourceGroupEntries(items) {
       if (byScore !== 0) return byScore;
       const byCount = b.items.length - a.items.length;
       if (byCount !== 0) return byCount;
-      return a.source.localeCompare(b.source, "zh-CN");
+      return a.source.localeCompare(b.source, UI_STRINGS.locale);
     });
 }
 
@@ -2327,8 +2641,8 @@ function buildSiteGroupNode(site) {
       moreBtn = addLoadMoreButton(
         siteSection,
         expanded
-          ? `收起，仅看前 ${SITE_SOURCE_GROUP_INITIAL_LIMIT} 个分区`
-          : `展开其余 ${fmtNumber(hiddenCount)} 个分区`,
+          ? `${UI_STRINGS.list.collapseToFirst} ${SITE_SOURCE_GROUP_INITIAL_LIMIT} ${UI_STRINGS.list.sourcePartitions}`
+          : `${UI_STRINGS.list.expandRest} ${fmtNumber(hiddenCount)} ${UI_STRINGS.list.sourcePartitions}`,
         () => {
           expanded = !expanded;
           renderSourceGroups();
@@ -2343,12 +2657,12 @@ function buildSiteGroupNode(site) {
 function renderLoadingNotice(label, count) {
   const loading = document.createElement("div");
   loading.className = "list-loading";
-  loading.textContent = `正在整理 ${label} · ${fmtNumber(count)} 条`;
+  loading.textContent = `${UI_STRINGS.list.loadingPrefix} ${label} · ${itemCountText(count)}`;
   newsListEl.appendChild(loading);
 }
 
 function currentFilterLabel(filtered) {
-  if (state.authorFilter) return `${listTitleText()} · X 博主 ${state.authorFilter}`;
+  if (state.authorFilter) return `${listTitleText()} · ${UI_STRINGS.list.xAuthorPrefix} ${state.authorFilter}`;
   if (state.siteFilter) {
     const item = filtered[0];
     const stat = currentSiteStats().find((s) => s.site_id === state.siteFilter);
@@ -2382,7 +2696,7 @@ function groupedSites(items) {
       if (byScore !== 0) return byScore;
       const byCount = b[1].items.length - a[1].items.length;
       if (byCount !== 0) return byCount;
-      return a[1].siteName.localeCompare(b[1].siteName, "zh-CN");
+      return a[1].siteName.localeCompare(b[1].siteName, UI_STRINGS.locale);
     });
 }
 
@@ -2410,8 +2724,8 @@ function renderSiteGroups(items) {
     addLoadMoreButton(
       newsListEl,
       state.siteGroupsExpanded
-        ? `收起，仅看前 ${SITE_GROUP_INITIAL_LIMIT} 个来源`
-        : `展开其余 ${fmtNumber(hiddenCount)} 个来源`,
+        ? `${UI_STRINGS.list.collapseToFirst} ${SITE_GROUP_INITIAL_LIMIT} ${UI_STRINGS.list.sources}`
+        : `${UI_STRINGS.list.expandRest} ${fmtNumber(hiddenCount)} ${UI_STRINGS.list.sources}`,
       () => {
         state.siteGroupsExpanded = !state.siteGroupsExpanded;
         renderList();
@@ -2424,7 +2738,7 @@ function renderSiteGroups(items) {
 function renderList() {
   const filtered = getFilteredItems();
   renderListSortTools();
-  resultCountEl.textContent = `${fmtNumber(filtered.length)} 条`;
+  resultCountEl.textContent = itemCountText(filtered.length);
   renderSectionSummary(filtered);
 
   newsListEl.innerHTML = "";
@@ -2434,7 +2748,7 @@ function renderList() {
   if (!filtered.length) {
     const empty = document.createElement("div");
     empty.className = "empty";
-    empty.textContent = "当前筛选条件下没有结果。";
+    empty.textContent = UI_STRINGS.list.resultEmpty;
     newsListEl.appendChild(empty);
     return;
   }
@@ -2476,23 +2790,23 @@ function renderWaytoagi(waytoagi) {
   const { updates7d, updatesToday, latestDate } = waytoagiViews(waytoagi);
   if (waytoagiTodayBtnEl) waytoagiTodayBtnEl.classList.toggle("active", state.waytoagiMode === "today");
   if (waytoagi7dBtnEl) waytoagi7dBtnEl.classList.toggle("active", state.waytoagiMode === "7d");
-  waytoagiUpdatedAtEl.textContent = `更新时间：${fmtTime(waytoagi.generated_at)}`;
+  waytoagiUpdatedAtEl.textContent = `${UI_STRINGS.waytoagi.updatedAt}${fmtTime(waytoagi.generated_at)}`;
 
   waytoagiMetaEl.innerHTML = "";
   const rootLink = document.createElement("a");
   rootLink.href = waytoagi.root_url || "#";
   rootLink.target = "_blank";
   rootLink.rel = "noopener noreferrer";
-  rootLink.textContent = "主页面";
+  rootLink.textContent = UI_STRINGS.waytoagi.root;
   const historyLink = document.createElement("a");
   historyLink.href = waytoagi.history_url || "#";
   historyLink.target = "_blank";
   historyLink.rel = "noopener noreferrer";
-  historyLink.textContent = "历史更新页";
+  historyLink.textContent = UI_STRINGS.waytoagi.history;
   const todayCount = document.createElement("span");
-  todayCount.textContent = `最近更新日(${latestDate || "--"})：${fmtNumber(waytoagi.count_today || updatesToday.length)} 条`;
+  todayCount.textContent = `${UI_STRINGS.waytoagi.latestDate} (${latestDate || "--"}): ${itemCountText(waytoagi.count_today || updatesToday.length)}`;
   const weekCount = document.createElement("span");
-  weekCount.textContent = `近 7 日：${fmtNumber(waytoagi.count_7d || updates7d.length)} 条`;
+  weekCount.textContent = `${UI_STRINGS.waytoagi.last7Days}: ${itemCountText(waytoagi.count_7d || updates7d.length)}`;
   [rootLink, "·", historyLink, "·", todayCount, "·", weekCount].forEach((part) => {
     if (typeof part === "string") {
       const sep = document.createElement("span");
@@ -2507,7 +2821,7 @@ function renderWaytoagi(waytoagi) {
   if (waytoagi.has_error) {
     const div = document.createElement("div");
     div.className = "waytoagi-error";
-    div.textContent = waytoagi.error || "WaytoAGI 数据加载失败";
+    div.textContent = waytoagi.error || UI_STRINGS.waytoagi.loadFailed;
     waytoagiListEl.appendChild(div);
     return;
   }
@@ -2517,8 +2831,8 @@ function renderWaytoagi(waytoagi) {
     const div = document.createElement("div");
     div.className = "waytoagi-empty";
     div.textContent = state.waytoagiMode === "today"
-      ? "最近更新日没有更新，可切换到近7日查看。"
-      : (waytoagi.warning || "近 7 日没有更新");
+      ? UI_STRINGS.waytoagi.noToday
+      : (waytoagi.warning || UI_STRINGS.waytoagi.noWeek);
     waytoagiListEl.appendChild(div);
     return;
   }
@@ -2546,7 +2860,7 @@ function renderMetric(label, value, tone = "", options = {}) {
   node.className = `health-metric ${interactive ? "health-metric-button" : ""} ${tone}`.trim();
   if (interactive) {
     node.type = "button";
-    node.title = options.title || "查看详情";
+    node.title = options.title || UI_STRINGS.list.viewDetails;
     node.setAttribute("aria-expanded", String(Boolean(options.expanded)));
     node.addEventListener("click", options.onClick);
   }
@@ -2589,17 +2903,17 @@ function renderSocialdataAuthorList(authors, itemCount) {
   panel.className = "health-author-list";
   const heading = document.createElement("div");
   heading.className = "health-author-list-title";
-  heading.textContent = "本轮 X 扫到的博主";
+  heading.textContent = UI_STRINGS.sourceHealth.xAuthorsTitle;
   const meta = document.createElement("div");
   meta.className = "health-author-list-meta";
-  meta.textContent = `${fmtNumber(authors.length)} 位博主 · ${fmtNumber(itemCount)} 条入池内容`;
+  meta.textContent = `${fmtNumber(authors.length)} ${UI_STRINGS.list.bloggerUnit} · ${itemCountText(itemCount)} ${UI_STRINGS.list.poolContent}`;
   const list = document.createElement("div");
   list.className = "health-author-list-items";
   authors.forEach((author) => {
     const item = document.createElement("button");
     item.type = "button";
     item.textContent = author;
-    item.title = `查看 ${author} 的 X 内容`;
+    item.title = `${UI_STRINGS.list.viewAuthorPrefix} ${author} ${UI_STRINGS.list.viewAuthorSuffix}`;
     item.addEventListener("click", () => selectSocialdataAuthor(author));
     list.appendChild(item);
   });
@@ -2621,7 +2935,7 @@ function renderIssueList(title, items) {
   });
   if (items.length > 6) {
     const li = document.createElement("li");
-    li.textContent = `另有 ${fmtNumber(items.length - 6)} 项`;
+    li.textContent = `${UI_STRINGS.list.moreItemsPrefix} ${fmtNumber(items.length - 6)} ${UI_STRINGS.list.miscItemUnit}`;
     list.appendChild(li);
   }
   wrap.append(titleEl, list);
@@ -2633,7 +2947,7 @@ function renderSourceHealthSummaryNode(status, errorMessage = "") {
   node.className = "source-health-summary";
   if (!status) {
     node.classList.add(errorMessage ? "bad" : "warn");
-    node.innerHTML = `<strong>${errorMessage ? "源状态异常" : "源状态未生成"}</strong><span>${errorMessage || "等待 source-status.json"}</span>`;
+    node.innerHTML = `<strong>${errorMessage ? UI_STRINGS.status.sourceStatusError : UI_STRINGS.status.sourceStatusMissing}</strong><span>${errorMessage || UI_STRINGS.status.waitingSourceStatusJson}</span>`;
     return node;
   }
   const sites = Array.isArray(status.sites) ? status.sites : [];
@@ -2641,7 +2955,7 @@ function renderSourceHealthSummaryNode(status, errorMessage = "") {
   const failed = failedSourceCount(status);
   const fetched = Number(status.fetched_raw_items || state.totalRaw || status.items_before_topic_filter || 0);
   node.classList.toggle("warn", failed > 0);
-  node.innerHTML = `<strong>${fmtNumber(okSites)}/${fmtNumber(sites.length)} 源正常</strong><span>今日采集 ${fmtNumber(fetched)} 条 · 失败 ${fmtNumber(failed)}</span>`;
+  node.innerHTML = `<strong>${fmtNumber(okSites)}/${fmtNumber(sites.length)} ${UI_STRINGS.stats.sourceNormal}</strong><span>${UI_STRINGS.stats.capturedToday} ${itemCountText(fetched)} · ${UI_STRINGS.metrics.failed} ${fmtNumber(failed)}</span>`;
   return node;
 }
 
@@ -2667,12 +2981,12 @@ function renderSourceStatusTable(status) {
   table.className = "source-table";
   const header = document.createElement("div");
   header.className = "source-table-row source-table-head";
-  header.innerHTML = "<span>来源</span><span>AI / 原始</span><span>AI占比</span><span>状态</span>";
+  header.innerHTML = UI_STRINGS.sourceHealth.tableHeaders.map((label) => `<span>${label}</span>`).join("");
   table.appendChild(header);
   rows.forEach((site) => {
     const row = document.createElement("div");
     row.className = "source-table-row";
-    const statusText = site.ok ? "正常" : "异常";
+    const statusText = site.ok ? UI_STRINGS.sourceHealth.ok : UI_STRINGS.sourceHealth.bad;
     row.innerHTML = `
       <span>${site.site_name || site.site_id}</span>
       <span>${fmtNumber(site.aiCount)} / ${fmtNumber(site.rawCount)}</span>
@@ -2723,34 +3037,34 @@ function renderSourceHealth(errorMessage = "") {
   const xAuthors = socialdataAuthors();
 
   const xMetricValue = xDisplayCount
-    ? `已入池 ${fmtNumber(xDisplayCount)}条`
+    ? `${UI_STRINGS.stats.inPool} ${itemCountText(xDisplayCount)}`
     : socialdata.enabled
     ? (socialdataDisplayCount
-      ? "成功"
-      : (socialdata.skipped ? "待窗口" : "已连接，暂无匹配"))
+      ? UI_STRINGS.common.enabled
+      : (socialdata.skipped ? UI_STRINGS.common.pendingWindow : UI_STRINGS.common.connectedNoMatch))
     : (xApi.enabled
       ? (xApiDisplayCount
-        ? "成功"
-        : (xApi.skipped ? "待窗口" : "已连接，暂无匹配"))
-      : "未启用");
+        ? UI_STRINGS.common.enabled
+        : (xApi.skipped ? UI_STRINGS.common.pendingWindow : UI_STRINGS.common.connectedNoMatch))
+      : UI_STRINGS.common.disabled);
   const xMetricTone = socialdata.error || xApi.error ? "bad" : (xDisplayCount ? "ok" : (emptyAdvanced.length ? "warn" : ""));
 
   const metricGrid = document.createElement("div");
   metricGrid.className = "health-grid";
   metricGrid.append(
-    renderMetric("内置源", `${fmtNumber(status.successful_sites || 0)}/${fmtNumber(sites.length)}`, failedSites.length ? "warn" : "ok"),
-    renderMetric("RSS", rss.enabled ? `${fmtNumber(rss.ok_feeds || 0)}/${fmtNumber(rss.effective_feed_total || 0)}` : "未启用"),
-    renderMetric("X数据源", xMetricValue, xMetricTone, xAuthors.length ? {
+    renderMetric(UI_STRINGS.sourceHealth.builtinSources, `${fmtNumber(status.successful_sites || 0)}/${fmtNumber(sites.length)}`, failedSites.length ? "warn" : "ok"),
+    renderMetric(UI_STRINGS.sourceHealth.rss, rss.enabled ? `${fmtNumber(rss.ok_feeds || 0)}/${fmtNumber(rss.effective_feed_total || 0)}` : UI_STRINGS.common.disabled),
+    renderMetric(UI_STRINGS.sourceHealth.xDataSource, xMetricValue, xMetricTone, xAuthors.length ? {
       expanded: state.xAuthorsExpanded,
-      title: "查看本轮扫描到的 X 博主",
+      title: UI_STRINGS.sourceHealth.xAuthorsButtonTitle,
       onClick: () => {
         state.xAuthorsExpanded = !state.xAuthorsExpanded;
         renderSourceHealth();
       },
     } : {}),
-    renderMetric("AgentMail", agentmail.enabled ? `${fmtNumber(agentmail.item_count || 0)}封` : "未启用", agentmail.error ? "bad" : ""),
-    renderMetric("失败源", fmtNumber(failedSites.length + failedFeeds.length), failedSites.length || failedFeeds.length ? "bad" : "ok"),
-    renderMetric("替换/跳过", `${fmtNumber(replacedFeeds.length)}/${fmtNumber(skippedFeeds.length)}`)
+    renderMetric(UI_STRINGS.sourceHealth.agentMail, agentmail.enabled ? `${fmtNumber(agentmail.item_count || 0)}${UI_STRINGS.list.emailUnit}` : UI_STRINGS.common.disabled, agentmail.error ? "bad" : ""),
+    renderMetric(UI_STRINGS.sourceHealth.failedSources, fmtNumber(failedSites.length + failedFeeds.length), failedSites.length || failedFeeds.length ? "bad" : "ok"),
+    renderMetric(UI_STRINGS.sourceHealth.replacedSkipped, `${fmtNumber(replacedFeeds.length)}/${fmtNumber(skippedFeeds.length)}`)
   );
   sourceHealthEl.appendChild(renderSourceHealthSummaryNode(status, errorMessage));
   const detailTarget = sourceHealthDetailsEl || sourceHealthEl;
@@ -2761,14 +3075,14 @@ function renderSourceHealth(errorMessage = "") {
 
   const issues = document.createElement("div");
   issues.className = "health-issues";
-  if (failedSites.length) issues.appendChild(renderIssueList("失败站点", failedSites));
-  if (zeroSites.length) issues.appendChild(renderIssueList("零结果站点", zeroSites));
+  if (failedSites.length) issues.appendChild(renderIssueList(UI_STRINGS.sourceHealth.failedSites, failedSites));
+  if (zeroSites.length) issues.appendChild(renderIssueList(UI_STRINGS.sourceHealth.zeroSites, zeroSites));
   if (emptyAdvanced.length) {
-    issues.appendChild(renderIssueList("高级源暂无匹配", emptyAdvanced.map((item) => `${item.site_name || item.site_id} · 已连接，暂无匹配结果`)));
+    issues.appendChild(renderIssueList(UI_STRINGS.sourceHealth.emptyAdvanced, emptyAdvanced.map((item) => `${item.site_name || item.site_id} · ${UI_STRINGS.list.noAdvancedMatchResult}`)));
   }
-  if (failedFeeds.length) issues.appendChild(renderIssueList("失败 RSS", failedFeeds));
+  if (failedFeeds.length) issues.appendChild(renderIssueList(UI_STRINGS.sourceHealth.failedRss, failedFeeds));
   if (skippedFeeds.length) {
-    issues.appendChild(renderIssueList("跳过 RSS", skippedFeeds.map((item) => `${item.feed_url} · ${item.reason || "skipped"}`)));
+    issues.appendChild(renderIssueList(UI_STRINGS.sourceHealth.skippedRss, skippedFeeds.map((item) => `${item.feed_url} · ${item.reason || "skipped"}`)));
   }
 
   if (issues.childElementCount) {
@@ -2776,7 +3090,7 @@ function renderSourceHealth(errorMessage = "") {
   } else {
     const ok = document.createElement("div");
     ok.className = "health-ok";
-    ok.textContent = "详细源状态正常";
+    ok.textContent = UI_STRINGS.status.sourceStatusOkDetail;
     detailTarget.appendChild(ok);
   }
   renderSourceStatusTable(status);
@@ -2787,7 +3101,7 @@ function renderSourceHealth(errorMessage = "") {
 
 async function loadNewsData() {
   const res = await fetch(`./data/latest-24h.json?t=${Date.now()}`);
-  if (!res.ok) throw new Error(`加载 latest-24h.json 失败: ${res.status}`);
+  if (!res.ok) throw new Error(`${UI_STRINGS.errors.latest24h}: ${res.status}`);
   return res.json();
 }
 
@@ -2796,7 +3110,7 @@ async function loadAllModeData() {
   if (!state.allDataPromise) {
     state.allDataPromise = fetch(`./${state.allDataUrl}?t=${Date.now()}`)
       .then((res) => {
-        if (!res.ok) throw new Error(`加载 latest-24h-all.json 失败: ${res.status}`);
+        if (!res.ok) throw new Error(`${UI_STRINGS.errors.latest24hAll}: ${res.status}`);
         return res.json();
       })
       .then((payload) => {
@@ -2816,25 +3130,25 @@ async function loadAllModeData() {
 
 async function loadWaytoagiData() {
   const res = await fetch(`./data/waytoagi-7d.json?t=${Date.now()}`);
-  if (!res.ok) throw new Error(`加载 waytoagi-7d.json 失败: ${res.status}`);
+  if (!res.ok) throw new Error(`${UI_STRINGS.errors.waytoagi}: ${res.status}`);
   return res.json();
 }
 
 async function loadSourceStatusData() {
   const res = await fetch(`./data/source-status.json?t=${Date.now()}`);
-  if (!res.ok) throw new Error(`加载 source-status.json 失败: ${res.status}`);
+  if (!res.ok) throw new Error(`${UI_STRINGS.errors.sourceStatus}: ${res.status}`);
   return res.json();
 }
 
 async function loadDailyBriefData() {
   const res = await fetch(`./data/daily-brief.json?t=${Date.now()}`);
-  if (!res.ok) throw new Error(`加载 daily-brief.json 失败: ${res.status}`);
+  if (!res.ok) throw new Error(`${UI_STRINGS.errors.dailyBrief}: ${res.status}`);
   return res.json();
 }
 
 async function loadStoriesData() {
   const res = await fetch(`./${state.storiesDataUrl}?t=${Date.now()}`);
-  if (!res.ok) throw new Error(`加载 stories-merged.json 失败: ${res.status}`);
+  if (!res.ok) throw new Error(`${UI_STRINGS.errors.storiesMerged}: ${res.status}`);
   return res.json();
 }
 
@@ -2894,7 +3208,7 @@ async function init() {
     renderList();
     updatedAtEl.textContent = fmtTime(state.generatedAt);
   } else {
-    updatedAtEl.textContent = "新闻数据加载失败";
+    updatedAtEl.textContent = UI_STRINGS.status.newsLoadFailed;
     newsListEl.innerHTML = `<div class="empty">${newsResult.reason.message}</div>`;
     renderCoverageStrip(newsResult.reason.message);
   }
@@ -2913,7 +3227,7 @@ async function init() {
     renderWaytoagi(state.waytoagiData);
   } else {
     if (waytoagiWrapEl) waytoagiWrapEl.hidden = state.activeSection !== "community";
-    waytoagiUpdatedAtEl.textContent = "加载失败";
+    waytoagiUpdatedAtEl.textContent = UI_STRINGS.status.waytoagiLoadFailed;
     waytoagiListEl.innerHTML = `<div class="waytoagi-error">${waytoagiResult.reason.message}</div>`;
   }
 
@@ -2969,7 +3283,7 @@ modeAllBtnEl.addEventListener("click", async () => {
   newsListEl.innerHTML = "";
   const loading = document.createElement("div");
   loading.className = "empty";
-  loading.textContent = "正在加载全量更新...";
+  loading.textContent = UI_STRINGS.status.loadingAllUpdates;
   newsListEl.appendChild(loading);
   try {
     await loadAllModeData();
