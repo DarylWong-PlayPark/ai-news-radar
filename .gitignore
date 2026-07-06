@@ -30,3 +30,7 @@ data/email-digest.json
 .DS_Store
 .idea/
 .vscode/
+
+# Local coding-agent settings (Claude Code, Codex, etc.)
+.claude/settings.local.json
+.codex/

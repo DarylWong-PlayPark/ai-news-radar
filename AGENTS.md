@@ -1,19 +1,41 @@
 # AI News Radar Agent Notes
 
+This is the canonical instruction file for any coding agent working in this
+repo (Codex, Claude Code, or others). Keep it in sync — do not fork rules into
+tool-specific files; add a short pointer to this file instead.
+
 ## Scope
 
 This repo powers the public AI News Radar static site and Scout Skill source workflow.
 Use it for high-signal AI/tech news aggregation, OPML-based custom feeds,
 GitHub Actions refresh jobs, and GitHub Pages publishing.
 
+## Before Changing This Project
+
+Read:
+
+- `skills/ai-news-radar/SKILL.md`
+- `docs/SOURCE_COVERAGE.md`
+- `README.md`
+
 ## Working Rules
 
 - Keep changes small and reviewable.
 - Search the repo before changing source fetchers or output schemas.
-- Do not commit private feeds, secrets, tokens, cookies, or `.env` values.
+- Do not commit private feeds, secrets, tokens, cookies, browser exports, or `.env` values.
 - Do not commit `feeds/follow.opml`; use `feeds/follow.example.opml` as the public template.
 - Prefer stable public RSS/Atom/OPML sources before adding custom scrapers.
 - Keep the reader-facing product simple: default to a curated AI-focused view, hide noisy or advanced source details behind existing filters/docs.
+
+## Product Direction
+
+Maintain a two-layer AI news tool:
+
+- **Default layer**: curated AI-focused view for ordinary AI enthusiasts.
+- **Advanced layer**: custom OPML/source configuration and source health details for maintainers.
+
+When adding sources, prefer official RSS/Atom feeds or OPML first. Add custom
+fetchers only for stable, public, high-signal sources.
 
 ## Source Strategy
 
