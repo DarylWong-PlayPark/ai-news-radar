@@ -2928,3 +2928,14 @@ summary:focus-visible {
   font-weight: 700;
   text-transform: capitalize;
 }
+
+.game-date-range-readout {
+  grid-column: 1 / -1;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.game-source-health {
+  grid-column: 1 / -1;
+}

@@ -110,10 +110,24 @@
         <div class="advanced-content">
           <div class="advanced-controls">
             <label class="field">
-              <span>Time range</span>
-              <select aria-label="Time range">
-                <option value="all">All time (historical backfill)</option>
+              <span>Date range</span>
+              <select id="gameDateRangePreset" aria-label="Date range preset">
+                <option value="all">All time</option>
+                <option value="7d">Last 7 Days</option>
+                <option value="14d">Last 14 Days</option>
+                <option value="30d">Last 30 Days</option>
+                <option value="cq">Current Quarter</option>
+                <option value="lq">Last Quarter</option>
+                <option value="custom">Custom range</option>
               </select>
+            </label>
+            <label class="field" id="gameDateFromField" hidden>
+              <span>From</span>
+              <input type="date" id="gameDateFrom" />
+            </label>
+            <label class="field" id="gameDateToField" hidden>
+              <span>To</span>
+              <input type="date" id="gameDateTo" />
             </label>
             <label class="field">
               <span>Region</span>
@@ -142,7 +156,37 @@
                 <option value="general">General / uncategorized</option>
               </select>
             </label>
+            <label class="field">
+              <span>Source type</span>
+              <select id="gameSourceTypeSelect">
+                <option value="">All sources</option>
+                <option value="dedicated_game_media">Dedicated game media</option>
+                <option value="tech_portal">Tech / lifestyle portal</option>
+                <option value="aggregator">Aggregator</option>
+              </select>
+            </label>
+            <label class="field">
+              <span>Specific source</span>
+              <select id="gameSpecificSourceSelect">
+                <option value="">All sites</option>
+              </select>
+            </label>
+            <label class="field">
+              <span>Signal level</span>
+              <select disabled aria-label="Signal level (not available yet)">
+                <option value="">Coming with story-merge (not built yet)</option>
+              </select>
+            </label>
           </div>
+          <div class="game-date-range-readout" id="gameDateRangeReadout" hidden></div>
+          <details class="advanced-panel game-source-health">
+            <summary>
+              <span>View source status details</span>
+            </summary>
+            <div class="advanced-content">
+              <div class="source-table" id="gameSourceHealthTable"></div>
+            </div>
+          </details>
         </div>
       </details>
 

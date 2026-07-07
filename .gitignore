@@ -26,6 +26,15 @@ feeds/private*.opml
 # Optional private/generated digests
 data/email-digest.json
 
+# Live Game News pipeline internal state - lives on the orphan `game-data`
+# branch (see .github/workflows/update-game-news.yml), never accumulated
+# into master's history. data/game-news.json is intentionally NOT listed
+# here - a single static copy stays committed as a fallback baseline for
+# game.html if the live branch is ever unreachable, but master's copy is
+# never recommitted on a recurring cadence, so it can't cause the same
+# growth problem as AI News's archive.json.
+data/game-news-state.json
+
 # Local OS/editor noise
 .DS_Store
 .idea/
