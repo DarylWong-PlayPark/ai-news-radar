@@ -121,14 +121,14 @@
                 <option value="custom">Custom range</option>
               </select>
             </label>
-            <label class="field" id="gameDateFromField" hidden>
-              <span>From</span>
-              <input type="date" id="gameDateFrom" />
-            </label>
-            <label class="field" id="gameDateToField" hidden>
-              <span>To</span>
-              <input type="date" id="gameDateTo" />
-            </label>
+            <div class="field game-date-combo" id="gameDateCustomField" hidden>
+              <span>Custom range</span>
+              <div class="game-date-combo-inputs">
+                <input type="date" id="gameDateFrom" aria-label="From date" />
+                <span class="game-date-combo-arrow" aria-hidden="true">→</span>
+                <input type="date" id="gameDateTo" aria-label="To date" />
+              </div>
+            </div>
             <label class="field">
               <span>Region</span>
               <select id="gameRegionSelect">

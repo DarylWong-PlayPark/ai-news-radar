@@ -30,6 +30,7 @@ import argparse
 import json
 import sys
 import time
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
@@ -64,6 +65,41 @@ except ImportError:  # pragma: no cover
     feedparser = None
 
 DEFAULT_RETENTION_DAYS = 110
+DEFAULT_TRANSLATE_MAX_NEW = 800  # ~60s/run in testing; backfills the historical backlog in ~1-2 weeks
+
+
+def translate_to_en(session: requests.Session, text: str) -> str | None:
+    """Free, keyless Google Translate web endpoint, auto-detecting source language.
+
+    Same trick already used by translate_to_zh_cn() in update_news.py (no API
+    key/billing needed) - just pointed at tl=en instead of tl=zh-CN, since
+    game sources span Chinese, Thai, Vietnamese, and Indonesian. If the text
+    is already English, Google returns it unchanged, which we treat as "no
+    translation needed" rather than a failure.
+    """
+    s = (text or "").strip()
+    if not s:
+        return None
+    try:
+        r = session.get(
+            "https://translate.googleapis.com/translate_a/single",
+            params={"client": "gtx", "sl": "auto", "tl": "en", "dt": "t", "q": s},
+            timeout=12,
+        )
+        r.raise_for_status()
+        payload = r.json()
+        if not isinstance(payload, list) or not payload:
+            return None
+        segs = payload[0]
+        if not isinstance(segs, list):
+            return None
+        translated = "".join(str(seg[0]) for seg in segs if isinstance(seg, list) and seg and seg[0])
+        translated = translated.strip()
+        if translated and translated != s:
+            return translated
+    except Exception:  # noqa: BLE001
+        return None
+    return None
 
 # Broad "what's trending" scrapers - not game-specific, so every item goes
 # through the same quality gate as everything else in game_news_classify.
@@ -202,6 +238,41 @@ def prune_archive(archive: dict[str, dict[str, Any]], now: datetime, retention_d
         del archive[item_id]
 
 
+def translate_new_titles(
+    archive: dict[str, dict[str, Any]], max_new: int, max_workers: int = 12
+) -> int:
+    """Fill in title_en for surviving (non-junk) archive records missing it.
+
+    The key's mere presence (even set to None) marks "translation attempted"
+    so an already-English or untranslatable title isn't retried forever -
+    each item only ever costs one translation call across its whole
+    lifetime in the archive, regardless of how many runs it survives. Only
+    translates records that pass is_junk (no point translating items that
+    won't be shown), and parallelizes since a fresh deploy has a large
+    one-time backlog to catch up on.
+    """
+    candidates = [
+        record for record in archive.values()
+        if "title_en" not in record and not is_junk(record)
+    ]
+    # Prioritize the most recent items first - dict iteration order is
+    # insertion order (oldest-discovered first), which would otherwise
+    # translate old, rarely-viewed items before the ones actually showing
+    # at the top of the Hot tab.
+    candidates.sort(key=event_time_str, reverse=True)
+    candidates = candidates[:max_new]
+    if not candidates:
+        return 0
+
+    def worker(record: dict[str, Any]) -> None:
+        session = requests.Session()
+        record["title_en"] = translate_to_en(session, str(record.get("title") or ""))
+
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        list(executor.map(worker, candidates))
+    return len(candidates)
+
+
 def bootstrap_archive_from_seed(seed_path: Path) -> dict[str, dict[str, Any]]:
     seed = load_json(seed_path)
     if not seed:
@@ -222,6 +293,7 @@ def build(
     previous_state_path: Path | None,
     seed_path: Path | None,
     retention_days: int,
+    translate_max_new: int,
 ) -> None:
     now = datetime.now(timezone.utc)
 
@@ -237,6 +309,9 @@ def build(
     fresh_records, statuses = run_all_fetchers(now)
     merge_into_archive(archive, fresh_records, now)
     prune_archive(archive, now, retention_days)
+
+    translated_count = translate_new_titles(archive, translate_max_new)
+    print(f"Translated {translated_count} new title(s) to English", file=sys.stderr)
 
     kept = [classify_and_tag(record) for record in archive.values() if not is_junk(record)]
     kept.sort(key=event_time_str, reverse=True)
@@ -299,8 +374,10 @@ def main() -> int:
         help="Bootstrap source used only when --previous-state is missing/empty",
     )
     parser.add_argument("--retention-days", type=int, default=DEFAULT_RETENTION_DAYS)
+    parser.add_argument("--translate-max-new", type=int, default=DEFAULT_TRANSLATE_MAX_NEW,
+                         help="Cap on new title translations per run, to avoid rate-limiting the free endpoint")
     args = parser.parse_args()
-    build(args.output, args.state, args.previous_state, args.seed, args.retention_days)
+    build(args.output, args.state, args.previous_state, args.seed, args.retention_days, args.translate_max_new)
     return 0
 
 

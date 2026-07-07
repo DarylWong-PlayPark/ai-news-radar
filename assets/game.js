@@ -64,7 +64,7 @@ function itemEventTime(item) {
 
 function formatDate(iso) {
   const d = itemEventTime({ published_at: iso });
-  return d ? d.toISOString().slice(0, 10) : "Undated";
+  return d ? formatDDMMMYYYY(d) : "Undated";
 }
 
 function formatDDMMMYYYY(date) {
@@ -142,11 +142,9 @@ function clearDateRange() {
 
 function handleDateRangePresetChange(value) {
   const now = new Date();
-  const fromField = document.getElementById("gameDateFromField");
-  const toField = document.getElementById("gameDateToField");
+  const customField = document.getElementById("gameDateCustomField");
   const isCustom = value === "custom";
-  fromField.hidden = !isCustom;
-  toField.hidden = !isCustom;
+  customField.hidden = !isCustom;
 
   if (value === "all") {
     clearDateRange();
@@ -183,7 +181,12 @@ function applyCustomDateInputs() {
 }
 
 function renderItem(item) {
-  const title = escapeHtml(item.title || "Untitled");
+  const original = escapeHtml(item.title || "Untitled");
+  const hasTranslation = item.title_en && item.title_en !== item.title;
+  const mainTitle = hasTranslation ? escapeHtml(item.title_en) : original;
+  const originalLine = hasTranslation
+    ? `<span class="game-item-original">${original}</span>`
+    : "";
   const source = escapeHtml(item.source || item.site_name || item.site_id || "");
   const date = formatDate(item.published_at || item.last_seen_at || item.first_seen_at);
   const regionLabel = escapeHtml(item.region_label || "Others");
@@ -193,7 +196,8 @@ function renderItem(item) {
     : "";
   return `
     <a class="game-item-row" href="${url}" target="_blank" rel="noopener noreferrer">
-      <span class="game-item-title">${title}</span>
+      <span class="game-item-title">${mainTitle}</span>
+      ${originalLine}
       <span class="game-item-meta">
         <span class="game-item-source">${source}</span>
         <span class="game-item-region">${regionLabel}</span>
@@ -209,7 +213,7 @@ function renderItem(item) {
 function matchesQuery(item, query) {
   const terms = query.toLowerCase().split(/\s+/).filter(Boolean);
   if (!terms.length) return true;
-  const hay = `${item.title || ""} ${item.source || ""}`.toLowerCase();
+  const hay = `${item.title || ""} ${item.title_en || ""} ${item.source || ""}`.toLowerCase();
   return terms.every((term) => hay.includes(term));
 }
 
@@ -404,7 +408,7 @@ async function init() {
   document.getElementById("gameStatCount").textContent = state.items.length.toLocaleString();
   document.getElementById("gameStatSources").textContent = String(sourceCount);
   document.getElementById("gameUpdatedLabel").textContent = data.generated_at
-    ? new Date(data.generated_at).toISOString().slice(0, 10)
+    ? formatDDMMMYYYY(new Date(data.generated_at))
     : "Unknown";
 
   const pill = document.getElementById("gameStatusPill");

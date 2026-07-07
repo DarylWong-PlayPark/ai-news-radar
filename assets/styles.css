@@ -2910,6 +2910,12 @@ summary:focus-visible {
   color: var(--ink);
 }
 
+.game-item-original {
+  font-size: 12px;
+  font-style: italic;
+  color: var(--muted-soft);
+}
+
 .game-item-meta {
   display: flex;
   flex-wrap: wrap;
@@ -2934,6 +2940,31 @@ summary:focus-visible {
   font-size: 12px;
   font-weight: 700;
   color: var(--accent);
+}
+
+.game-date-combo-inputs {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 2px 8px;
+  background: var(--surface);
+}
+
+.game-date-combo-inputs input[type="date"] {
+  border: none;
+  padding: 6px 2px;
+  background: transparent;
+  font: inherit;
+  color: inherit;
+  min-width: 0;
+  flex: 1;
+}
+
+.game-date-combo-arrow {
+  color: var(--muted-soft);
+  flex: none;
 }
 
 .game-source-health {
