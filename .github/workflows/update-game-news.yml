@@ -3,7 +3,7 @@ name: Update Game News Snapshot
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: "17 */3 * * *"
+    - cron: "17 2 * * *"
 
 concurrency:
   group: update-game-news
