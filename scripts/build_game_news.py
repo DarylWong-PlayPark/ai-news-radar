@@ -9,12 +9,20 @@ rendered on the public Game News page: it drops obvious non-news noise
 surviving item with a region so game.html can filter by tab.
 
 Region rule (in priority order):
-  1. Explicit SEA country name/city in the title or source -> that country.
-  2. Explicit China marker, or CJK script in the title -> China.
-  3. Otherwise -> Others.
+  1. Recurring daily filler (Wordle/Quordle/Connections/Strands/"hints and
+     answers" style posts) -> Misc, regardless of language. These are tech
+     media reposting the same puzzle format daily, not game industry news.
+  2. Explicit SEA country name/city in the title or source -> that country.
+  3. Explicit China marker, or CJK script in the title -> China.
+  4. Otherwise -> Others.
 SEA sources are effectively absent from today's fetchers (see
 docs/SOURCE_COVERAGE.md), so "Others" is expected to hold most items until
 dedicated SEA sources are added.
+
+Also tags a best-effort content_type (launch/update/business/platform/esports/
+general) via keyword heuristics, and drops same-title duplicates that
+different fetchers picked up under different site_ids (e.g. "少数派" and
+"sspai" are the same outlet).
 
 Usage: python scripts/build_game_news.py [--input PATH] [--output PATH]
 """
@@ -50,6 +58,25 @@ SEA_COUNTRY_PATTERNS: list[tuple[str, str, str]] = [
 CN_PATTERN = re.compile(r"中国大陆|中国(?!台湾|香港)|国产游戏|大陆(?!.*(台|港))")
 CJK_PATTERN = re.compile(r"[一-鿿]")
 
+# Daily word/puzzle-game "hints and answers" posts. Tech media (TechRadar,
+# Mashable, etc.) republishes these every single day for a handful of named
+# puzzle brands - it's filler, not game industry news. Matched on brand name
+# OR the generic recap phrasing so a new puzzle brand still gets caught.
+MISC_PATTERN = re.compile(
+    r"\b(wordle|quordle|octordle|connections|strands|nyt mini|spelling bee|"
+    r"heardle|waffle|crossword)\b|hints and answers|answers for (monday|tuesday|"
+    r"wednesday|thursday|friday|saturday|sunday)",
+    re.I,
+)
+
+CONTENT_TYPE_PATTERNS: list[tuple[str, str]] = [
+    ("launch", r"上线|发售|首发|公测|预约|首曝|launch|release[ds]?|out now|early access"),
+    ("update", r"更新|补丁|改版|新赛季|dlc|hotfix|patch|update"),
+    ("business", r"收购|投资|财报|营收|上市|裁员|acquisition|acquires|revenue|layoffs?|ipo|funding"),
+    ("platform", r"steam|playstation|\bps5\b|\bps4\b|xbox|nintendo|switch\b|app store|平台|主机|store"),
+    ("esports", r"电竞|esports?|赛事|冠军|锦标赛|tournament|championship"),
+]
+
 # The historical seed matched a loose keyword regex against title+source
 # combined, which lets a source/handle name merely containing "game" (e.g. a
 # Twitter handle like "WoWGamerPVP") through even when the title has nothing
@@ -59,7 +86,7 @@ TITLE_GAME_RE = re.compile(
     re.I,
 )
 
-REGION_ORDER = ["CN", "TH", "PH", "VN", "SG", "MY", "ID", "OTHERS"]
+REGION_ORDER = ["CN", "TH", "PH", "VN", "SG", "MY", "ID", "OTHERS", "MISC"]
 REGION_LABELS = {
     "CN": "China",
     "TH": "Thailand",
@@ -69,6 +96,7 @@ REGION_LABELS = {
     "MY": "Malaysia",
     "ID": "Indonesia",
     "OTHERS": "Others",
+    "MISC": "Misc",
 }
 
 
@@ -83,7 +111,10 @@ def is_junk(record: dict[str, Any]) -> bool:
 
 
 def classify_region(record: dict[str, Any]) -> str:
-    blob = f"{record.get('title', '')} {record.get('source', '')}"
+    title = str(record.get("title") or "")
+    blob = f"{title} {record.get('source', '')}"
+    if MISC_PATTERN.search(title):
+        return "MISC"
     for code, _label, pattern in SEA_COUNTRY_PATTERNS:
         if re.search(pattern, blob, re.I):
             return code
@@ -92,8 +123,20 @@ def classify_region(record: dict[str, Any]) -> str:
     return "OTHERS"
 
 
+def classify_content_type(record: dict[str, Any]) -> str:
+    title = str(record.get("title") or "")
+    for content_type, pattern in CONTENT_TYPE_PATTERNS:
+        if re.search(pattern, title, re.I):
+            return content_type
+    return "general"
+
+
 def event_time_str(record: dict[str, Any]) -> str:
     return str(record.get("published_at") or record.get("last_seen_at") or record.get("first_seen_at") or "")
+
+
+def normalize_title_for_dedup(title: str) -> str:
+    return re.sub(r"[^\w一-鿿]+", "", title).lower()
 
 
 def build(input_path: Path, output_path: Path) -> None:
@@ -108,9 +151,23 @@ def build(input_path: Path, output_path: Path) -> None:
         out = dict(record)
         out["region"] = region
         out["region_label"] = REGION_LABELS[region]
+        out["content_type"] = classify_content_type(record)
         kept.append(out)
 
     kept.sort(key=event_time_str, reverse=True)
+
+    seen_titles: set[str] = set()
+    deduped: list[dict[str, Any]] = []
+    duplicate_count = 0
+    for item in kept:
+        key = normalize_title_for_dedup(str(item.get("title") or ""))
+        if key and key in seen_titles:
+            duplicate_count += 1
+            continue
+        if key:
+            seen_titles.add(key)
+        deduped.append(item)
+    kept = deduped
 
     by_region = {code: 0 for code in REGION_ORDER}
     for item in kept:
@@ -126,13 +183,14 @@ def build(input_path: Path, output_path: Path) -> None:
         ),
         "total_items_considered": len(raw_items),
         "total_items_kept": len(kept),
-        "dropped_as_junk_source": len(raw_items) - len(kept),
+        "dropped_as_junk_source": len(raw_items) - len(kept) - duplicate_count,
+        "dropped_as_duplicate": duplicate_count,
         "by_region": by_region,
         "items": kept,
     }
 
     output_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"Kept {len(kept)}/{len(raw_items)} items -> {output_path}")
+    print(f"Kept {len(kept)}/{len(raw_items)} items ({duplicate_count} duplicates dropped) -> {output_path}")
     for code in REGION_ORDER:
         print(f"  {REGION_LABELS[code]:<12} {by_region[code]}")
 

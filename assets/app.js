@@ -1015,7 +1015,11 @@ function getFilteredItems() {
     if (state.sourceTypeFilter && itemSourceType(item) !== state.sourceTypeFilter) return false;
     if (!q) return true;
     const hay = `${item.title || ""} ${item.title_zh || ""} ${item.title_en || ""} ${item.site_name || ""} ${item.source || ""}`.toLowerCase();
-    return hay.includes(q);
+    // Multi-word search: every space-separated term must appear somewhere in
+    // the haystack, but terms don't need to be contiguous - e.g. "gaming sdk"
+    // should match a title like "Gaming Chat SDK by CometChat".
+    const terms = q.split(/\s+/).filter(Boolean);
+    return terms.every((term) => hay.includes(term));
   });
   const multiKeys = multiSourceEventKeys(preliminary);
   return preliminary.filter((item) => itemMatchesSignalLevel(item, multiKeys));

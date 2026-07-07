@@ -18,6 +18,7 @@ const REGION_LABELS = {
   ID: "Indonesia",
   CN: "China",
   OTHERS: "Others",
+  MISC: "Misc",
 };
 const HOT_LIMIT = 200;
 
@@ -25,6 +26,7 @@ const state = {
   items: [],
   byRegion: {},
   region: "ALL",
+  contentType: "",
   query: "",
 };
 
@@ -47,32 +49,52 @@ function renderItem(item) {
   const date = formatDate(item.published_at || item.last_seen_at || item.first_seen_at);
   const regionLabel = escapeHtml(item.region_label || "Others");
   const url = escapeHtml(item.url || "#");
+  const contentType = item.content_type && item.content_type !== "general"
+    ? `<span class="game-item-type">${escapeHtml(item.content_type)}</span>`
+    : "";
   return `
     <a class="game-item-row" href="${url}" target="_blank" rel="noopener noreferrer">
       <span class="game-item-title">${title}</span>
       <span class="game-item-meta">
         <span class="game-item-source">${source}</span>
         <span class="game-item-region">${regionLabel}</span>
+        ${contentType}
         <span class="game-item-date">${date}</span>
       </span>
     </a>`;
 }
 
+// Multi-word search: every space-separated term must appear somewhere in the
+// haystack, but terms don't need to be contiguous - "gaming sdk" should match
+// a title like "Gaming Chat SDK by CometChat".
+function matchesQuery(item, query) {
+  const terms = query.toLowerCase().split(/\s+/).filter(Boolean);
+  if (!terms.length) return true;
+  const hay = `${item.title || ""} ${item.source || ""}`.toLowerCase();
+  return terms.every((term) => hay.includes(term));
+}
+
 function currentList() {
   let list = state.items;
-  if (state.region !== "ALL") {
+
+  if (state.region === "ALL") {
+    list = list.filter((it) => it.region !== "MISC"); // Misc is opt-in only, see the Misc tab
+  } else {
     list = list.filter((it) => it.region === state.region);
   }
-  if (state.query) {
-    const q = state.query.toLowerCase();
-    list = list.filter((it) =>
-      String(it.title || "").toLowerCase().includes(q) ||
-      String(it.source || "").toLowerCase().includes(q)
-    );
+
+  if (state.contentType) {
+    list = list.filter((it) => it.content_type === state.contentType);
   }
-  if (state.region === "ALL" && !state.query) {
+
+  if (state.query) {
+    list = list.filter((it) => matchesQuery(it, state.query));
+  }
+
+  if (state.region === "ALL" && !state.contentType && !state.query) {
     list = list.slice(0, HOT_LIMIT);
   }
+
   return list;
 }
 
@@ -90,11 +112,22 @@ function render() {
   const eyebrow = document.getElementById("gamePanelEyebrow");
   if (state.region === "ALL") {
     title.textContent = "Top Game Signals";
-    eyebrow.textContent = "TOP SIGNALS (MOST RECENT)";
+    eyebrow.textContent = "TOP SIGNALS (MOST RECENT, MISC HIDDEN)";
   } else {
     title.textContent = `${REGION_LABELS[state.region]} Game Signals`;
     eyebrow.textContent = `${REGION_LABELS[state.region].toUpperCase()} SIGNALS`;
   }
+}
+
+function updateTabCounts() {
+  const miscCount = state.byRegion.MISC || 0;
+  const total = state.items.length;
+  document.querySelectorAll("#gameTabs .section-tab").forEach((btn) => {
+    const region = btn.dataset.region;
+    const count = region === "ALL" ? total - miscCount : (state.byRegion[region] || 0);
+    const strong = btn.querySelector("strong");
+    if (strong) strong.textContent = count.toLocaleString();
+  });
 }
 
 function setRegion(region) {
@@ -116,6 +149,11 @@ function wireControls() {
 
   document.getElementById("gameRegionSelect").addEventListener("change", (evt) => {
     setRegion(evt.target.value);
+  });
+
+  document.getElementById("gameContentTypeSelect").addEventListener("change", (evt) => {
+    state.contentType = evt.target.value;
+    render();
   });
 
   document.getElementById("gameSearch").addEventListener("input", (evt) => {
@@ -145,6 +183,7 @@ async function init() {
     pill.textContent = "Historical backfill (not live yet)";
     pill.classList.remove("warn");
 
+    updateTabCounts();
     render();
   } catch (err) {
     document.getElementById("gamePanelBody").innerHTML =

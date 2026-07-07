@@ -77,15 +77,16 @@
 
         <section class="section-nav-wrap" aria-label="Game news sections">
           <div class="section-tabs" role="tablist" aria-label="Game news sections" id="gameTabs">
-            <button class="section-tab active" type="button" data-region="ALL"><span>Hot</span></button>
-            <button class="section-tab" type="button" data-region="TH"><span>Thailand</span></button>
-            <button class="section-tab" type="button" data-region="PH"><span>Philippines</span></button>
-            <button class="section-tab" type="button" data-region="VN"><span>Vietnam</span></button>
-            <button class="section-tab" type="button" data-region="SG"><span>Singapore</span></button>
-            <button class="section-tab" type="button" data-region="MY"><span>Malaysia</span></button>
-            <button class="section-tab" type="button" data-region="ID"><span>Indonesia</span></button>
-            <button class="section-tab" type="button" data-region="CN"><span>China</span></button>
-            <button class="section-tab" type="button" data-region="OTHERS"><span>Others</span></button>
+            <button class="section-tab active" type="button" data-region="ALL"><span>Hot</span><strong>0</strong></button>
+            <button class="section-tab" type="button" data-region="TH"><span>Thailand</span><strong>0</strong></button>
+            <button class="section-tab" type="button" data-region="PH"><span>Philippines</span><strong>0</strong></button>
+            <button class="section-tab" type="button" data-region="VN"><span>Vietnam</span><strong>0</strong></button>
+            <button class="section-tab" type="button" data-region="SG"><span>Singapore</span><strong>0</strong></button>
+            <button class="section-tab" type="button" data-region="MY"><span>Malaysia</span><strong>0</strong></button>
+            <button class="section-tab" type="button" data-region="ID"><span>Indonesia</span><strong>0</strong></button>
+            <button class="section-tab" type="button" data-region="CN"><span>China</span><strong>0</strong></button>
+            <button class="section-tab" type="button" data-region="OTHERS"><span>Others</span><strong>0</strong></button>
+            <button class="section-tab" type="button" data-region="MISC"><span>Misc</span><strong>0</strong></button>
           </div>
           <div class="section-summary" id="gameSectionSummary">All time</div>
         </section>
@@ -126,12 +127,19 @@
                 <option value="ID">Indonesia</option>
                 <option value="CN">China</option>
                 <option value="OTHERS">Others</option>
+                <option value="MISC">Misc</option>
               </select>
             </label>
             <label class="field">
               <span>Content type</span>
-              <select disabled>
-                <option value="">All game news (content-type tagging not built yet)</option>
+              <select id="gameContentTypeSelect">
+                <option value="">All game news</option>
+                <option value="launch">Launches / releases</option>
+                <option value="update">Updates / patches</option>
+                <option value="business">Studio / business</option>
+                <option value="platform">Platform / store</option>
+                <option value="esports">Esports</option>
+                <option value="general">General / uncategorized</option>
               </select>
             </label>
           </div>

@@ -2922,3 +2922,9 @@ summary:focus-visible {
   color: var(--accent);
   font-weight: 700;
 }
+
+.game-item-type {
+  color: var(--accent-warm);
+  font-weight: 700;
+  text-transform: capitalize;
+}
