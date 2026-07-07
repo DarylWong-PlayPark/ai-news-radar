@@ -33,7 +33,7 @@
     <link rel="icon" href="./assets/icons/favicon-32.png" sizes="32x32" type="image/png" />
     <link rel="apple-touch-icon" href="./assets/icons/apple-touch-icon.png" sizes="180x180" />
     <link rel="manifest" href="./site.webmanifest" />
-    <link rel="stylesheet" href="./assets/styles.css?v=game-frame-0706" />
+    <link rel="stylesheet" href="./assets/styles.css?v=game-frame-0707" />
   </head>
   <body>
     <nav class="vertical-nav" aria-label="News verticals">
@@ -56,8 +56,8 @@
         </div>
         <div class="hero-meta">
           <span class="updated-label">Updated</span>
-          <span class="updated">Pending source setup</span>
-          <span class="source-status-pill warn">Game sources pending</span>
+          <span class="updated" id="gameUpdatedLabel">Loading…</span>
+          <span class="source-status-pill warn" id="gameStatusPill">Loading sources</span>
           <div class="hero-links" aria-label="Project links">
             <a
               class="hero-link"
@@ -69,72 +69,69 @@
         </div>
 
         <section class="stats" aria-label="Game news stats">
-          <strong class="stat-prefix">Last 24 hours:</strong>
-          <span class="stat"><span class="k">Game news</span><span class="v">Setup</span></span>
-          <span class="stat"><span class="k">Regions</span><span class="v">7</span></span>
-          <span class="stat"><span class="k">Sources</span><span class="v">Pending</span></span>
+          <strong class="stat-prefix" id="gameStatsPrefix">All time:</strong>
+          <span class="stat"><span class="k">Game news</span><span class="v" id="gameStatCount">–</span></span>
+          <span class="stat"><span class="k">Regions</span><span class="v">8</span></span>
+          <span class="stat"><span class="k">Sources</span><span class="v" id="gameStatSources">–</span></span>
         </section>
 
         <section class="section-nav-wrap" aria-label="Game news sections">
-          <div class="section-tabs" role="tablist" aria-label="Game news sections">
-            <button class="section-tab active" type="button"><span>Hot</span></button>
-            <button class="section-tab" type="button"><span>Thailand</span></button>
-            <button class="section-tab" type="button"><span>Philippines</span></button>
-            <button class="section-tab" type="button"><span>Vietnam</span></button>
-            <button class="section-tab" type="button"><span>Singapore</span></button>
-            <button class="section-tab" type="button"><span>Malaysia</span></button>
-            <button class="section-tab" type="button"><span>Indonesia</span></button>
-            <button class="section-tab" type="button"><span>China</span></button>
+          <div class="section-tabs" role="tablist" aria-label="Game news sections" id="gameTabs">
+            <button class="section-tab active" type="button" data-region="ALL"><span>Hot</span></button>
+            <button class="section-tab" type="button" data-region="TH"><span>Thailand</span></button>
+            <button class="section-tab" type="button" data-region="PH"><span>Philippines</span></button>
+            <button class="section-tab" type="button" data-region="VN"><span>Vietnam</span></button>
+            <button class="section-tab" type="button" data-region="SG"><span>Singapore</span></button>
+            <button class="section-tab" type="button" data-region="MY"><span>Malaysia</span></button>
+            <button class="section-tab" type="button" data-region="ID"><span>Indonesia</span></button>
+            <button class="section-tab" type="button" data-region="CN"><span>China</span></button>
+            <button class="section-tab" type="button" data-region="OTHERS"><span>Others</span></button>
           </div>
-          <div class="section-summary">Last 24 hours</div>
+          <div class="section-summary" id="gameSectionSummary">All time</div>
         </section>
       </header>
 
       <section class="primary-controls">
-        <input type="search" placeholder="Search game news / sources" />
+        <input type="search" id="gameSearch" placeholder="Search game news / sources" />
         <div class="mode-hint">Game-focused</div>
       </section>
 
       <div class="sticky-summary-bar" aria-label="Current view summary">
         <strong>Game News Radar</strong>
-        <span>Last 24 hours</span>
+        <span id="gameStickySummary">All time</span>
       </div>
 
       <details class="advanced-panel">
         <summary>
           <span>Advanced filters</span>
-          <span class="advanced-summary">Game source setup pending</span>
+          <span class="advanced-summary" id="gameAdvancedSummary">Historical backfill, not a live 24h feed yet</span>
         </summary>
         <div class="advanced-content">
           <div class="advanced-controls">
             <label class="field">
               <span>Time range</span>
               <select aria-label="Time range">
-                <option value="24h">Last 24 hours</option>
+                <option value="all">All time (historical backfill)</option>
               </select>
             </label>
             <label class="field">
               <span>Region</span>
-              <select>
-                <option value="">All regions</option>
-                <option value="th">Thailand</option>
-                <option value="ph">Philippines</option>
-                <option value="vn">Vietnam</option>
-                <option value="sg">Singapore</option>
-                <option value="my">Malaysia</option>
-                <option value="id">Indonesia</option>
-                <option value="cn">China</option>
+              <select id="gameRegionSelect">
+                <option value="ALL">All regions</option>
+                <option value="TH">Thailand</option>
+                <option value="PH">Philippines</option>
+                <option value="VN">Vietnam</option>
+                <option value="SG">Singapore</option>
+                <option value="MY">Malaysia</option>
+                <option value="ID">Indonesia</option>
+                <option value="CN">China</option>
+                <option value="OTHERS">Others</option>
               </select>
             </label>
             <label class="field">
               <span>Content type</span>
-              <select>
-                <option value="">All game news</option>
-                <option value="launch">Launches / releases</option>
-                <option value="update">Updates / patches</option>
-                <option value="business">Studio / business</option>
-                <option value="platform">Platform / store</option>
-                <option value="esports">Esports</option>
+              <select disabled>
+                <option value="">All game news (content-type tagging not built yet)</option>
               </select>
             </label>
           </div>
@@ -144,12 +141,15 @@
       <section class="panel">
         <div class="panel-head">
           <div>
-            <p class="eyebrow">TODAY'S SIGNALS</p>
-            <h2>Today's Key Signals</h2>
+            <p class="eyebrow" id="gamePanelEyebrow">TOP SIGNALS</p>
+            <h2 id="gamePanelTitle">Top Game Signals</h2>
           </div>
         </div>
-        <div class="empty-state">Game news sources are ready to be wired in the next step.</div>
+        <div id="gamePanelBody">
+          <div class="empty-state">Loading game news…</div>
+        </div>
       </section>
     </main>
+    <script src="./assets/game.js" defer></script>
   </body>
 </html>

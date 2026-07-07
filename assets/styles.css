@@ -2841,3 +2841,84 @@ summary:focus-visible {
     box-shadow: none;
   }
 }
+
+/* Game News Radar (game.html) */
+
+.panel {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 18px 20px;
+  margin-top: 16px;
+}
+
+.panel-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.panel-head h2 {
+  margin: 2px 0 0;
+  font-size: 18px;
+}
+
+.eyebrow {
+  margin: 0;
+  font-size: 11px;
+  font-weight: 740;
+  letter-spacing: 0.06em;
+  color: var(--muted-soft);
+}
+
+.empty-state {
+  padding: 24px 4px;
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.game-item-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.game-item-row {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 10px 8px;
+  border-radius: 6px;
+  text-decoration: none;
+  color: inherit;
+  border-bottom: 1px solid var(--line-soft);
+}
+
+.game-item-row:last-child {
+  border-bottom: none;
+}
+
+.game-item-row:hover {
+  background: var(--surface-alt);
+}
+
+.game-item-title {
+  font-size: 14px;
+  font-weight: 640;
+  color: var(--ink);
+}
+
+.game-item-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.game-item-region {
+  color: var(--accent);
+  font-weight: 700;
+}
