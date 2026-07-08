@@ -21,6 +21,8 @@ const REGION_LABELS = {
   MY: "Malaysia",
   ID: "Indonesia",
   CN: "China",
+  TW: "Taiwan",
+  GLOBAL: "Global",
   OTHERS: "Others",
   MISC: "Misc",
 };
@@ -37,7 +39,29 @@ const SOURCE_TYPE_MAP = {
   gamestation_id: "dedicated_game_media",
   gamebrott: "dedicated_game_media",
   gamelade: "dedicated_game_media",
+  gnn_tw: "dedicated_game_media",
+  pcgamer: "dedicated_game_media",
+  gamerant: "dedicated_game_media",
+  gamesradar: "dedicated_game_media",
+  polygon: "dedicated_game_media",
+  shacknews: "dedicated_game_media",
+  siliconera: "dedicated_game_media",
+  pockettactics: "dedicated_game_media",
+  rsshub_riotgames: "dedicated_game_media",
+  rsshub_scoga: "dedicated_game_media",
+  rsshub_zynga: "dedicated_game_media",
   pokde: "tech_portal",
+  mothership_sg: "tech_portal",
+  siakapkeli: "tech_portal",
+  medcom: "tech_portal",
+  genmuda: "tech_portal",
+  kaorinusantara: "tech_portal",
+  inet_detik: "tech_portal",
+  kontan_lifestyle: "tech_portal",
+  mediaindonesia: "tech_portal",
+  liputan6: "tech_portal",
+  straitstimes: "tech_portal",
+  hardwarezone_sg: "tech_portal",
 };
 const DEFAULT_SOURCE_TYPE = "aggregator"; // tophub/iris/buzzing/techurls/newsnow/zeli/etc.
 
@@ -405,8 +429,12 @@ async function init() {
   state.byRegion = data.by_region || {};
 
   const sourceCount = new Set(state.items.map((it) => it.site_id)).size;
+  const countryRegionCount = Object.keys(REGION_LABELS).filter(
+    (code) => !["ALL", "GLOBAL", "OTHERS", "MISC"].includes(code)
+  ).length;
   document.getElementById("gameStatCount").textContent = state.items.length.toLocaleString();
   document.getElementById("gameStatSources").textContent = String(sourceCount);
+  document.getElementById("gameStatRegions").textContent = String(countryRegionCount);
   document.getElementById("gameUpdatedLabel").textContent = data.generated_at
     ? formatDDMMMYYYY(new Date(data.generated_at))
     : "Unknown";

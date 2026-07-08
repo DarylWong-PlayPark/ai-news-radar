@@ -5,13 +5,20 @@ Used by both build_game_news.py (one-time historical seed processing) and
 update_game_news.py (the live pipeline), so the two never drift apart.
 
 Region rule (in priority order):
-  1. Source-level override - the SEA RSS sources in game_sources.py are
-     single-country outlets, so trust the source over guessing from text.
-  2. Recurring daily filler (Wordle/Quordle/Connections/Strands/"hints and
-     answers" style posts) -> Misc, regardless of language.
+  1. Recurring daily filler (Wordle/Quordle/Connections/Strands/"hints and
+     answers" style posts) -> Misc, regardless of language or source.
+  2. Source-level override - single-country outlets (game_sources.py) and
+     confirmed hyperfocused global gaming media (region_override="GLOBAL")
+     are trusted over guessing from text.
   3. Explicit SEA country name/city in the title or source -> that country.
-  4. Explicit China marker, or CJK script in the title -> China.
-  5. Otherwise -> Others.
+  4. Explicit Taiwan name/city -> Taiwan (checked before the China fallback,
+     since Taiwan content is also Chinese-script and would otherwise be
+     miscategorized as China by the generic CJK catch-all).
+  5. Explicit China marker, or CJK script in the title -> China.
+  6. Otherwise -> Others. "Others" is the generic/unclassified catch-all;
+     "Global" (via region_override, above) is reserved for sources already
+     confirmed as dedicated gaming media that just aren't region-tied -
+     e.g. Riot Games, PC Gamer - so the two don't blend together.
 """
 from __future__ import annotations
 
@@ -35,6 +42,7 @@ SEA_COUNTRY_PATTERNS: list[tuple[str, str, str]] = [
     ("MY", "Malaysia", r"malaysia|马来西亚|吉隆坡"),
     ("ID", "Indonesia", r"indonesia|印尼|印度尼西亚|雅加达"),
 ]
+TW_PATTERN = re.compile(r"taiwan|台湾|臺灣|台北|高雄|巴哈姆特", re.I)
 CN_PATTERN = re.compile(r"中国大陆|中国(?!台湾|香港)|国产游戏|大陆(?!.*(台|港))")
 CJK_PATTERN = re.compile(r"[一-鿿]")
 
@@ -66,15 +74,17 @@ TITLE_GAME_RE = re.compile(
     re.I,
 )
 
-REGION_ORDER = ["CN", "TH", "PH", "VN", "SG", "MY", "ID", "OTHERS", "MISC"]
+REGION_ORDER = ["CN", "TW", "TH", "PH", "VN", "SG", "MY", "ID", "GLOBAL", "OTHERS", "MISC"]
 REGION_LABELS = {
     "CN": "China",
+    "TW": "Taiwan",
     "TH": "Thailand",
     "PH": "Philippines",
     "VN": "Vietnam",
     "SG": "Singapore",
     "MY": "Malaysia",
     "ID": "Indonesia",
+    "GLOBAL": "Global",
     "OTHERS": "Others",
     "MISC": "Misc",
 }
@@ -108,6 +118,8 @@ def classify_region(record: dict[str, Any]) -> str:
     for code, _label, pattern in SEA_COUNTRY_PATTERNS:
         if re.search(pattern, blob, re.I):
             return code
+    if TW_PATTERN.search(blob):
+        return "TW"
     if CN_PATTERN.search(blob) or CJK_PATTERN.search(blob):
         return "CN"
     return "OTHERS"

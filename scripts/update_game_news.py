@@ -49,7 +49,7 @@ from game_news_classify import (  # noqa: E402
     event_time_str,
     is_junk,
 )
-from game_sources import SEA_RSS_SOURCES  # noqa: E402
+from game_sources import DIRECT_RSS_SOURCES  # noqa: E402
 from rsshub_sources import RSSHUB_BRIDGE_SOURCES  # noqa: E402
 from update_news import (  # noqa: E402
     RawItem,
@@ -215,7 +215,7 @@ def run_all_fetchers(now: datetime) -> tuple[list[dict[str, Any]], list[dict[str
     statuses: list[dict[str, Any]] = []
 
     tasks: list[tuple[str, str, Any]] = list(GENERIC_TASKS)
-    for source in SEA_RSS_SOURCES:
+    for source in DIRECT_RSS_SOURCES:
         tasks.append((source["site_id"], source["site_name"], source))
 
     rsshub_enabled = os.environ.get("RSSHUB_BRIDGE_ENABLED") == "1"
@@ -434,6 +434,14 @@ def build(
 
 
 def main() -> int:
+    # Non-UTF-8 default consoles (e.g. Windows) can't print non-Latin source
+    # names like 巴哈姆特GNN otherwise - a crash here happens after all files
+    # are already written, but still fails the step (and the CI run) on a
+    # log line, not real work. Linux GitHub Actions runners default to UTF-8
+    # already; this only matters for local dev.
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8")
+
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--output", type=Path, default=REPO_ROOT / "data" / "game-news.json",
                          help="Public payload game.html fetches")

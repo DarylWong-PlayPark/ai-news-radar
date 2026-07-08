@@ -42,7 +42,7 @@ RSSHUB_BRIDGE_SOURCES: list[dict[str, Any]] = [
         "site_id": "rsshub_riotgames",
         "site_name": "Riot Games News",
         "target_url": "https://www.riotgames.com/en/news",
-        "region_override": None,  # global publisher - let per-title keyword classification run
+        "region_override": "GLOBAL",  # confirmed dedicated gaming publisher, not region-tied
         "item": ".summary",
         "item_title": ".summary__overlay-link",
         "item_link": ".summary__overlay-link",
@@ -64,7 +64,7 @@ RSSHUB_BRIDGE_SOURCES: list[dict[str, Any]] = [
         "site_id": "rsshub_zynga",
         "site_name": "Zynga News",
         "target_url": "https://www.zynga.com/news/",
-        "region_override": None,  # global publisher - let per-title keyword classification run
+        "region_override": "GLOBAL",  # confirmed dedicated gaming publisher, not region-tied
         "item": ".post",
         "item_title": ".title h2 a",
         "item_link": ".title h2 a",

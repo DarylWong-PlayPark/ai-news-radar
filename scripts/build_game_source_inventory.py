@@ -38,7 +38,7 @@ except ImportError as exc:  # pragma: no cover
         "dev environment before running this script."
     ) from exc
 
-from game_sources import SEA_RSS_SOURCES  # noqa: E402
+from game_sources import DIRECT_RSS_SOURCES  # noqa: E402
 
 DEFAULT_WORKBOOK = Path.home() / "Desktop" / "MASTER Gaming Media List (Jun 2026).xlsx"
 DEFAULT_JSON = REPO_ROOT / "docs" / "research" / "game-source-canonical-inventory-2026-07-07.json"
@@ -247,7 +247,7 @@ def build_inventory(workbook_path: Path) -> dict[str, Any]:
 
     live_hosts = {
         canonicalize_url(str(source.get("feed_url") or "")).get("host", "")
-        for source in SEA_RSS_SOURCES
+        for source in DIRECT_RSS_SOURCES
     }
     live_hosts.discard("")
 
@@ -337,7 +337,7 @@ def build_inventory(workbook_path: Path) -> dict[str, Any]:
                 "feed_url": source["feed_url"],
                 "region": source["region"],
             }
-            for source in SEA_RSS_SOURCES
+            for source in DIRECT_RSS_SOURCES
         ],
         "canonical_sources": sorted(
             canonical_sources,
