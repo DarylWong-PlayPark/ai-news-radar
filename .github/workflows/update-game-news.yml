@@ -27,14 +27,25 @@ jobs:
           - 1200:1200
         env:
           ALLOW_USER_SUPPLY_UNSAFE_DOMAIN: "true"
-        options: >-
-          --health-cmd "wget -q -O- http://localhost:1200/ || exit 1"
-          --health-interval 5s
-          --health-timeout 5s
-          --health-retries 10
     steps:
       - name: Checkout
         uses: actions/checkout@v6
+
+      - name: Wait for RSSHub to be ready
+        run: |
+          # Polling from the runner (curl is guaranteed present here) instead
+          # of a Docker --health-cmd running inside the RSSHub container -
+          # that image is a minimal Debian-slim base and may not ship wget/curl,
+          # which is what broke the previous attempt at "Initialize containers".
+          for i in $(seq 1 20); do
+            if curl -sf http://localhost:1200/ > /dev/null; then
+              echo "RSSHub is ready after ${i} attempt(s)"
+              exit 0
+            fi
+            echo "Waiting for RSSHub... (${i}/20)"
+            sleep 3
+          done
+          echo "::warning::RSSHub did not become ready in time; RSSHub bridge sources will fail gracefully this run (same as any other failed source)."
 
       - name: Setup Python
         uses: actions/setup-python@v6
