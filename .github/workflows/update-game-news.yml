@@ -16,6 +16,22 @@ jobs:
   update:
     timeout-minutes: 15
     runs-on: ubuntu-latest
+    services:
+      # Ephemeral for the lifetime of this job only - no hosting cost, no
+      # always-on server. GitHub tears this down automatically when the job
+      # ends. See scripts/rsshub_sources.py for why ALLOW_USER_SUPPLY_UNSAFE_DOMAIN
+      # is safe here (fixed, hand-curated source list, not a public-facing proxy).
+      rsshub:
+        image: diygod/rsshub
+        ports:
+          - 1200:1200
+        env:
+          ALLOW_USER_SUPPLY_UNSAFE_DOMAIN: "true"
+        options: >-
+          --health-cmd "wget -q -O- http://localhost:1200/ || exit 1"
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 10
     steps:
       - name: Checkout
         uses: actions/checkout@v6
@@ -44,6 +60,9 @@ jobs:
           fi
 
       - name: Run game news pipeline
+        env:
+          RSSHUB_BRIDGE_ENABLED: "1"
+          RSSHUB_BASE_URL: "http://localhost:1200"
         run: |
           python scripts/update_game_news.py \
             --output data/game-news.json \

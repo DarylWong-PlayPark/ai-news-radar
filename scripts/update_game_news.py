@@ -28,12 +28,14 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import sys
 import time
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
+from urllib.parse import quote, urlencode
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -48,6 +50,7 @@ from game_news_classify import (  # noqa: E402
     is_junk,
 )
 from game_sources import SEA_RSS_SOURCES  # noqa: E402
+from rsshub_sources import RSSHUB_BRIDGE_SOURCES  # noqa: E402
 from update_news import (  # noqa: E402
     RawItem,
     fetch_buzzing,
@@ -141,7 +144,66 @@ def fetch_rss_source(session: requests.Session, source: dict[str, Any], now: dat
                 title=title,
                 url=url,
                 published_at=published,
-                meta={"region_override": source["region"], "source_dedicated": source.get("dedicated", False)},
+                meta={
+                    "region_override": source["region"],
+                    "source_dedicated": source.get("dedicated", False),
+                    "ingestion_path": "direct_feed",
+                },
+            )
+        )
+    return out
+
+
+def rsshub_transform_url(base_url: str, source: dict[str, Any]) -> str:
+    """Build a /rsshub/transform/html URL per RSSHub's own spec:
+    https://github.com/DIYgod/RSSHub/blob/master/lib/routes/rsshub/transform/html.ts
+    (path: /transform/html/:url/:routeParams - both segments URL-encoded,
+    routeParams itself being a URL-encoded query string of CSS selectors).
+    """
+    params: dict[str, str] = {"item": source["item"], "itemTitle": source["item_title"], "itemLink": source["item_link"]}
+    if source.get("item_pub_date"):
+        params["itemPubDate"] = source["item_pub_date"]
+    route_params = quote(urlencode(params), safe="")
+    target = quote(source["target_url"], safe="")
+    return f"{base_url.rstrip('/')}/rsshub/transform/html/{target}/{route_params}"
+
+
+def fetch_rsshub_bridge_source(session: requests.Session, source: dict[str, Any], now: datetime) -> list[RawItem]:
+    """Generic no-native-feed fetcher, bridged through a local RSSHub instance.
+
+    Only called when RSSHUB_BRIDGE_ENABLED=1 - see scripts/rsshub_sources.py
+    for why this is a separate, hand-curated registry rather than folded
+    into game_sources.py's direct-feed list.
+    """
+    if feedparser is None:
+        raise RuntimeError("feedparser is required for RSSHub bridge sources")
+
+    base_url = os.environ.get("RSSHUB_BASE_URL", "http://localhost:1200")
+    feed_url = rsshub_transform_url(base_url, source)
+    resp = session.get(feed_url, timeout=30, headers={"User-Agent": "ai-news-radar-game-bot/1.0"})
+    resp.raise_for_status()
+    parsed = feedparser.parse(resp.content)
+
+    out: list[RawItem] = []
+    for entry in parsed.entries:
+        title = str(entry.get("title", "")).strip()
+        url = str(entry.get("link", "")).strip()
+        if not title or not url:
+            continue
+        published = (
+            parse_date_any(entry.get("published"), now)
+            or parse_date_any(entry.get("updated"), now)
+            or parse_date_any(entry.get("pubDate"), now)
+        )
+        out.append(
+            RawItem(
+                site_id=source["site_id"],
+                site_name=source["site_name"],
+                source=source["site_name"],
+                title=title,
+                url=url,
+                published_at=published,
+                meta={"region_override": source.get("region_override"), "ingestion_path": "rsshub_bridge"},
             )
         )
     return out
@@ -156,12 +218,21 @@ def run_all_fetchers(now: datetime) -> tuple[list[dict[str, Any]], list[dict[str
     for source in SEA_RSS_SOURCES:
         tasks.append((source["site_id"], source["site_name"], source))
 
+    rsshub_enabled = os.environ.get("RSSHUB_BRIDGE_ENABLED") == "1"
+    if rsshub_enabled:
+        for source in RSSHUB_BRIDGE_SOURCES:
+            tasks.append((source["site_id"], source["site_name"], source))
+    else:
+        print("RSSHub bridge sources skipped (RSSHUB_BRIDGE_ENABLED != 1)", file=sys.stderr)
+
     for site_id, site_name, fn_or_config in tasks:
         start = time.perf_counter()
         error = None
         count = 0
         try:
-            if isinstance(fn_or_config, dict):
+            if isinstance(fn_or_config, dict) and "item" in fn_or_config:
+                items = fetch_rsshub_bridge_source(session, fn_or_config, now)
+            elif isinstance(fn_or_config, dict):
                 items = fetch_rss_source(session, fn_or_config, now)
             else:
                 items = fn_or_config(session, now)
@@ -178,6 +249,7 @@ def run_all_fetchers(now: datetime) -> tuple[list[dict[str, Any]], list[dict[str
                         "published_at": item.published_at.isoformat() if item.published_at else None,
                         "region_override": item.meta.get("region_override"),
                         "source_dedicated": item.meta.get("source_dedicated", False),
+                        "ingestion_path": item.meta.get("ingestion_path", "scraper"),
                     }
                 )
         except Exception as exc:  # noqa: BLE001
