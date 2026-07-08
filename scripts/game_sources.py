@@ -99,9 +99,60 @@ SEA_RSS_SOURCES: list[dict[str, Any]] = [
         "language": "vi",
         "verified": "2026-07-07",
     },
+    # General-interest news sites, added as dedicated=False (2026-07-08):
+    # each covers gaming rarely, but the existing TITLE_GAME_RE keyword gate
+    # already filters a mixed feed down to just the game-relevant items (the
+    # same mechanism proven on Pokde.Net above) - no new code needed, just
+    # accept a low, high-precision trickle rather than rejecting the source
+    # outright. Genuinely fills SG/MY, the thinnest regions.
+    {
+        "site_id": "mothership_sg",
+        "site_name": "Mothership.sg",
+        "feed_url": "https://mothership.sg/feed/",
+        "region": "SG",
+        "dedicated": False,
+        "language": "en",
+        "verified": "2026-07-08",
+    },
+    {
+        "site_id": "siakapkeli",
+        "site_name": "Siakap Keli",
+        "feed_url": "https://siakapkeli.my/feed/",
+        "region": "MY",
+        "dedicated": False,
+        "language": "ms",
+        "verified": "2026-07-08",
+    },
+    {
+        "site_id": "medcom",
+        "site_name": "Medcom.id",
+        "feed_url": "https://www.medcom.id/feed",
+        "region": "ID",
+        "dedicated": False,
+        "language": "id",
+        "verified": "2026-07-08",
+    },
+    {
+        "site_id": "genmuda",
+        "site_name": "Genmuda.com",
+        "feed_url": "https://www.genmuda.com/feed/",
+        "region": "ID",
+        "dedicated": False,
+        "language": "id",
+        "verified": "2026-07-08",
+    },
+    {
+        "site_id": "kaorinusantara",
+        "site_name": "Kaori Nusantara",
+        "feed_url": "https://www.kaorinusantara.or.id/feed",
+        "region": "ID",
+        "dedicated": False,
+        "language": "id",
+        "verified": "2026-07-08",
+    },
 ]
 
-# No verified, unblocked RSS source exists for Singapore as of 2026-07-07
-# (see docs/SOURCE_COVERAGE.md game-news research notes) - SG items will
-# continue to fall through to keyword-based classification from other
-# sources until one is found.
+# No verified, unblocked DEDICATED RSS source exists for Singapore as of
+# 2026-07-08 (see docs/SOURCE_COVERAGE.md game-news research notes) - SCOGA
+# (scripts/rsshub_sources.py) and Mothership.sg above are the only SG signal
+# so far, both mixed/low-volume rather than a dedicated SG gaming outlet.
