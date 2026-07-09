@@ -78,7 +78,9 @@ const state = {
   query: "",
   dateFrom: null, // Date, UTC start-of-day
   dateTo: null,   // Date, UTC end-of-day
-  stBonus: new Map(), // url → float, pre-computed Sensor Tower rank bonus
+  stBonus: new Map(),         // url → float, pre-computed Sensor Tower rank bonus
+  multiSourceBonus: new Map(), // url → float, +0.3 when 2+ distinct sources cover same game within 24h
+  multiSourceSources: new Map(), // url → int, count of distinct sources for badge display
 };
 
 function itemEventTime(item) {
@@ -149,7 +151,8 @@ function signalScore(item) {
   else if (etype === "business")       score += 0.3;
   else if (etype === "update" || etype === "esports") score += 0.2;
   score += keywordBoost(item);
-  score += state.stBonus.get(item.url) || 0; // Sensor Tower SEA revenue rank bonus
+  score += state.stBonus.get(item.url) || 0;
+  score += state.multiSourceBonus.get(item.url) || 0;
   return score;
 }
 
@@ -232,6 +235,77 @@ function precomputeStBonuses(items, stEntries) {
     }
   }
   return bonuses;
+}
+
+// Multi-source bonus: when 2+ distinct outlets cover the same ranked game
+// within 24h, each matching article gets +0.3. Requires stEntries to be built.
+function computeMultiSourceBonus(items, stEntries) {
+  const now = Date.now();
+  const WINDOW_MS = 24 * 3_600_000;
+  const byGame = new Map(); // game key → [{url, site}]
+
+  for (const item of items) {
+    const t = itemEventTime(item);
+    if (!t || now - t.getTime() > WINDOW_MS) continue;
+    const title = stNormalize(item.title_en || item.title || "");
+    if (!title) continue;
+    for (const entry of stEntries) {
+      if (stMatchEntry(title, entry)) {
+        if (!byGame.has(entry.key)) byGame.set(entry.key, []);
+        byGame.get(entry.key).push({ url: item.url, site: item.site_id });
+        break;
+      }
+    }
+  }
+
+  const bonus = new Map();
+  const sourceCount = new Map();
+  for (const [, articles] of byGame) {
+    const sites = new Set(articles.map((a) => a.site));
+    if (sites.size >= 2) {
+      for (const a of articles) {
+        bonus.set(a.url, 0.3);
+        sourceCount.set(a.url, sites.size);
+      }
+    }
+  }
+  return { bonus, sourceCount };
+}
+
+// Templated "why it matters" — keyword-first, then content_type, then ST/multi-source fallback.
+function whyItMatters(item) {
+  const title = (item.title_en || item.title || "").toLowerCase();
+
+  if (["shuts down", "shut down", "shutting down", "bankruptcy", "bankrupt"].some((k) => title.includes(k)))
+    return "Service ending — player base may be available for acquisition; rival exits the SEA market.";
+  if (["acquired by", "acquisition", "merger"].some((k) => title.includes(k)))
+    return "Industry consolidation — M&A reshaping the competitive landscape for SEA publishers.";
+  if (["billion", "record breaking", "record-breaking", "all time high", "all-time high"].some((k) => title.includes(k)))
+    return "Revenue or engagement milestone — benchmark signal for a title's live-service health.";
+  if (["world championship", "world cup"].some((k) => title.includes(k)))
+    return "Major esports event — peak viewership window and sponsorship opportunity for SEA.";
+  if (["lawsuit", "sued", "legal action"].some((k) => title.includes(k)))
+    return "Legal action — regulatory or IP risk that could affect publishing and distribution.";
+  if (["ban wave", "ban waves"].some((k) => title.includes(k)))
+    return "Enforcement action — platform policy signal affecting active players.";
+  if (["server down", "maintenance"].some((k) => title.includes(k)))
+    return "Service disruption on a known SEA title — direct impact to active player count.";
+  if (["partnership", "collaboration announced"].some((k) => title.includes(k)))
+    return "Partnership or IP deal — cross-promotion opportunity for SEA publishers to evaluate.";
+
+  const etype = item.content_type;
+  if (etype === "launch")   return "New title entering the market — assess competitive impact and SEA player migration risk.";
+  if (etype === "business") return "Corporate or financial event — potential partner move, competitor shift, or market restructuring.";
+  if (etype === "esports")  return "Esports event — viewership and sponsorship signal relevant to the SEA gaming audience.";
+  if (etype === "update")   return "Significant content update — retention signal and indicator of live-service momentum.";
+  if (etype === "platform") return "Platform or store change — affects how games reach and monetise SEA players.";
+
+  if (state.multiSourceBonus.has(item.url))
+    return "Multiple outlets are covering this story simultaneously — broad industry attention signal.";
+  if (state.stBonus.has(item.url))
+    return "Covers a top SEA revenue title — industry attention on a proven high-earner.";
+
+  return "High-signal source coverage of a game-industry development.";
 }
 
 // --- Date range quick-select math -------------------------------------
@@ -367,14 +441,21 @@ function renderItem(item) {
 
 function renderFeaturedItem(item) {
   const { mainTitle, originalLine, source, date, regionLabel, url, contentType } = itemParts(item);
+  const why = escapeHtml(whyItMatters(item));
+  const multiCount = state.multiSourceSources.get(item.url);
+  const multiSourceBadge = multiCount
+    ? `<span class="game-source-count">${multiCount} sources</span>`
+    : "";
   return `
     <a class="game-item-featured" href="${url}" target="_blank" rel="noopener noreferrer">
       <span class="game-item-title">${mainTitle}</span>
       ${originalLine}
+      <div class="game-key-why">${why}</div>
       <span class="game-item-meta">
         <span class="game-item-source">${source}</span>
         <span class="game-item-region">${regionLabel}</span>
         ${contentType}
+        ${multiSourceBadge}
         <span class="game-item-date">${date}</span>
       </span>
     </a>`;
@@ -436,15 +517,18 @@ function currentList() {
   return list;
 }
 
-const KEY_SIGNALS_COUNT = 3; // number of items shown in the featured "Key Signals" block
+const KEY_SIGNALS_COUNT = 10;
 
 function render() {
   const body = document.getElementById("gamePanelBody");
+  const keyPanel = document.getElementById("gameKeySignalsPanel");
+  const keyBody = document.getElementById("gameKeySignalsBody");
   const list = currentList();
   const title = document.getElementById("gamePanelTitle");
   const eyebrow = document.getElementById("gamePanelEyebrow");
 
   if (!list.length) {
+    keyPanel.hidden = true;
     body.innerHTML = `<div class="empty-state">No game news matches this view yet.</div>`;
     if (state.region === "ALL") {
       title.textContent = "Top Game Signals";
@@ -456,7 +540,7 @@ function render() {
     return;
   }
 
-  // Hot tab with no active filters: split into Key Signals (featured) + More
+  // Hot tab with no active filters: Key Signals in their own panel + More Signals below
   const isHotDefault = state.region === "ALL"
     && !state.contentType && !state.sourceType && !state.specificSource
     && !state.dateFrom && !state.query;
@@ -464,16 +548,13 @@ function render() {
   if (isHotDefault && list.length > KEY_SIGNALS_COUNT) {
     const featured = list.slice(0, KEY_SIGNALS_COUNT);
     const rest     = list.slice(KEY_SIGNALS_COUNT);
-    body.innerHTML = `
-      <div class="game-key-section">
-        <div class="game-key-section-label">Key Signals</div>
-        ${featured.map(renderFeaturedItem).join("")}
-      </div>
-      <div class="game-more-section-label">More Signals</div>
-      <div class="game-item-list">${rest.map(renderItem).join("")}</div>`;
-    title.textContent = "Top Game Signals";
-    eyebrow.textContent = "TOP SIGNALS · ranked by recency × source × event type";
+    keyPanel.hidden = false;
+    keyBody.innerHTML = featured.map(renderFeaturedItem).join("");
+    body.innerHTML = `<div class="game-item-list">${rest.map(renderItem).join("")}</div>`;
+    title.textContent = "More Signals";
+    eyebrow.textContent = "FULL FEED";
   } else {
+    keyPanel.hidden = true;
     body.innerHTML = `<div class="game-item-list">${list.map(renderItem).join("")}</div>`;
     if (state.region === "ALL") {
       title.textContent = "Top Game Signals";
@@ -650,8 +731,10 @@ async function init() {
     .then((rankData) => {
       const stEntries = buildStIndex(rankData);
       state.stBonus = precomputeStBonuses(state.items, stEntries);
-      const matched = state.stBonus.size;
-      if (matched > 0) render(); // only re-render if anything actually matched
+      const { bonus: msBonus, sourceCount: msSources } = computeMultiSourceBonus(state.items, stEntries);
+      state.multiSourceBonus = msBonus;
+      state.multiSourceSources = msSources;
+      if (state.stBonus.size > 0 || state.multiSourceBonus.size > 0) render();
     })
     .catch(() => { /* no ST index — Phase 1 scores remain in effect */ });
 }
