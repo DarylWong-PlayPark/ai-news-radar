@@ -107,6 +107,43 @@ function sourceTypeOf(item) {
   return SOURCE_TYPE_MAP[item.site_id] || DEFAULT_SOURCE_TYPE;
 }
 
+// Phase-1 signal score: pure client-side, no external API.
+// Components: recency (decays to 0 at 7 days) + source tier + event type.
+// Max theoretical score ≈ 2.0 (< 1h old, dedicated, launch article).
+function signalScore(item) {
+  let score = 0;
+  const t = itemEventTime(item);
+  if (t) {
+    const hoursAgo = (Date.now() - t.getTime()) / 3_600_000;
+    score += Math.max(0, 1 - hoursAgo / 168); // 168h = 7 days
+  }
+  const stype = sourceTypeOf(item);
+  if (stype === "dedicated_game_media") score += 0.6;
+  else if (stype === "tech_portal") score += 0.3;
+  else score += 0.1;
+  const etype = item.content_type;
+  if (etype === "launch")              score += 0.4;
+  else if (etype === "business")       score += 0.3;
+  else if (etype === "update" || etype === "esports") score += 0.2;
+  return score;
+}
+
+function signalLevel(score) {
+  if (score >= 1.3) return 3;
+  if (score >= 0.7) return 2;
+  return 1;
+}
+
+function renderSignalBars(level) {
+  return (
+    `<span class="game-signal" data-level="${level}" aria-label="Signal level ${level} of 3" title="Signal ${level}/3 · recency + source tier + event type">` +
+    `<span class="game-signal-bar"></span>` +
+    `<span class="game-signal-bar"></span>` +
+    `<span class="game-signal-bar"></span>` +
+    `</span>`
+  );
+}
+
 // --- Date range quick-select math -------------------------------------
 // Calendar quarters: Q1 Jan-Mar, Q2 Apr-Jun, Q3 Jul-Sep, Q4 Oct-Dec.
 // "Current Quarter" = quarter-start through today (e.g. on 1-Jul, Current
@@ -216,8 +253,9 @@ function renderItem(item) {
   const regionLabel = escapeHtml(item.region_label || "Others");
   const url = escapeHtml(item.url || "#");
   const contentType = item.content_type && item.content_type !== "general"
-    ? `<span class="game-item-type">${escapeHtml(item.content_type)}</span>`
+    ? `<span class="game-item-type" data-type="${escapeHtml(item.content_type)}">${escapeHtml(item.content_type)}</span>`
     : "";
+  const level = signalLevel(signalScore(item));
   return `
     <a class="game-item-row" href="${url}" target="_blank" rel="noopener noreferrer">
       <span class="game-item-title">${mainTitle}</span>
@@ -227,6 +265,7 @@ function renderItem(item) {
         <span class="game-item-region">${regionLabel}</span>
         ${contentType}
         <span class="game-item-date">${date}</span>
+        ${renderSignalBars(level)}
       </span>
     </a>`;
 }
@@ -276,7 +315,12 @@ function currentList() {
   const noOtherFilters = !state.contentType && !state.sourceType && !state.specificSource
     && !state.dateFrom && !state.query;
   if (state.region === "ALL" && noOtherFilters) {
-    list = list.slice(0, HOT_LIMIT);
+    // Hot tab: rank by signal score so high-tier recent articles float up,
+    // not just whatever arrived last. Country tabs stay chronological.
+    list = list.map((it) => ({ it, score: signalScore(it) }))
+      .sort((a, b) => b.score - a.score)
+      .slice(0, HOT_LIMIT)
+      .map(({ it }) => it);
   }
 
   return list;
@@ -296,7 +340,7 @@ function render() {
   const eyebrow = document.getElementById("gamePanelEyebrow");
   if (state.region === "ALL") {
     title.textContent = "Top Game Signals";
-    eyebrow.textContent = "TOP SIGNALS (MOST RECENT, MISC HIDDEN)";
+    eyebrow.textContent = "TOP SIGNALS · ranked by recency × source × event type";
   } else {
     title.textContent = `${REGION_LABELS[state.region]} Game Signals`;
     eyebrow.textContent = `${REGION_LABELS[state.region].toUpperCase()} SIGNALS`;
