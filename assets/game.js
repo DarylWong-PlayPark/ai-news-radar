@@ -505,9 +505,8 @@ function currentList() {
 
   const noOtherFilters = !state.contentType && !state.sourceType && !state.specificSource
     && !state.dateFrom && !state.query;
-  if (state.region === "ALL" && noOtherFilters) {
-    // Hot tab: rank by signal score so high-tier recent articles float up,
-    // not just whatever arrived last. Country tabs stay chronological.
+  if (noOtherFilters) {
+    // Default view (any region, no active filters): rank by signal score.
     list = list.map((it) => ({ it, score: signalScore(it) }))
       .sort((a, b) => b.score - a.score)
       .slice(0, HOT_LIMIT)
@@ -540,29 +539,25 @@ function render() {
     return;
   }
 
-  // Hot tab with no active filters: Key Signals in their own panel + More Signals below
-  const isHotDefault = state.region === "ALL"
-    && !state.contentType && !state.sourceType && !state.specificSource
+  // Any region, no active filters: Key Signals panel + More Signals below
+  const isDefaultView = !state.contentType && !state.sourceType && !state.specificSource
     && !state.dateFrom && !state.query;
 
-  if (isHotDefault && list.length > KEY_SIGNALS_COUNT) {
+  const regionLabel = state.region === "ALL" ? "" : `${REGION_LABELS[state.region]} `;
+
+  if (isDefaultView && list.length > KEY_SIGNALS_COUNT) {
     const featured = list.slice(0, KEY_SIGNALS_COUNT);
     const rest     = list.slice(KEY_SIGNALS_COUNT);
     keyPanel.hidden = false;
     keyBody.innerHTML = featured.map(renderFeaturedItem).join("");
     body.innerHTML = `<div class="game-item-list">${rest.map(renderItem).join("")}</div>`;
-    title.textContent = "More Signals";
-    eyebrow.textContent = "FULL FEED";
+    title.textContent = `More ${regionLabel}Signals`;
+    eyebrow.textContent = `${regionLabel.toUpperCase().trim() || "FULL"} FEED`;
   } else {
     keyPanel.hidden = true;
     body.innerHTML = `<div class="game-item-list">${list.map(renderItem).join("")}</div>`;
-    if (state.region === "ALL") {
-      title.textContent = "Top Game Signals";
-      eyebrow.textContent = "TOP SIGNALS · ranked by recency × source × event type";
-    } else {
-      title.textContent = `${REGION_LABELS[state.region]} Game Signals`;
-      eyebrow.textContent = `${REGION_LABELS[state.region].toUpperCase()} SIGNALS`;
-    }
+    title.textContent = `${regionLabel}Game Signals`;
+    eyebrow.textContent = `${regionLabel.toUpperCase().trim() || "TOP"} SIGNALS`;
   }
 }
 
