@@ -372,6 +372,52 @@ DIRECT_RSS_SOURCES: list[dict[str, Any]] = [
         "language": "en",
         "verified": "2026-07-09",
     },
+    # Malaysia — Kakuchopurei is the dedicated SEA gaming outlet missing from
+    # round 1. Original regional coverage: fighting games, mobile esports,
+    # anime adaptations, local indie developers. Returned 200 via curl.
+    {
+        "site_id": "kakuchopurei",
+        "site_name": "Kakuchopurei",
+        "feed_url": "https://www.kakuchopurei.com/feed/",
+        "region": "MY",
+        "dedicated": True,
+        "language": "en",
+        "verified": "2026-07-09",
+    },
+    # Philippines — YugaTech is the largest PH consumer tech site. Gaming desk
+    # covers developer layoffs, domestic digital policies, hardware launches,
+    # and major game updates. Category feed isolates gaming content.
+    {
+        "site_id": "yugatech",
+        "site_name": "YugaTech Gaming",
+        "feed_url": "https://www.yugatech.com/category/gaming/feed/",
+        "region": "PH",
+        "dedicated": False,
+        "language": "en",
+        "verified": "2026-07-09",
+    },
+    # Vietnam — GenK is a major VN tech portal (VCCorp). The /rss/apps-games.rss
+    # category feed targets gaming/app content only, avoiding general tech noise.
+    # Note: VCCorp properties occasionally activate CDN bot-blocking (intermittent
+    # 403s); this and gamek_vn below may fail on some pipeline runs — fail-open.
+    {
+        "site_id": "genk_vn",
+        "site_name": "GenK Apps & Games",
+        "feed_url": "https://genk.vn/rss/apps-games.rss",
+        "region": "VN",
+        "dedicated": False,
+        "language": "vi",
+        "verified": "2026-07-09",
+    },
+    {
+        "site_id": "gamek_vn",
+        "site_name": "GameK",
+        "feed_url": "http://gamek.vn/home.rss",
+        "region": "VN",
+        "dedicated": True,
+        "language": "vi",
+        "verified": "2026-07-09",
+    },
     # Global mobile — TouchArcade is the reference outlet for iOS/Android
     # gaming globally. Soft launches and mobile patches surface here first,
     # acting as an early indicator before SEA localised coverage catches up.
