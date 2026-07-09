@@ -380,7 +380,7 @@ DIRECT_RSS_SOURCES: list[dict[str, Any]] = [
         "site_name": "Kakuchopurei",
         "feed_url": "https://www.kakuchopurei.com/feed/",
         "region": "MY",
-        "dedicated": True,
+        "dedicated": False,  # games + anime/pop culture mix; keyword gate earns its keep
         "language": "en",
         "verified": "2026-07-09",
     },
@@ -411,36 +411,137 @@ DIRECT_RSS_SOURCES: list[dict[str, Any]] = [
     },
     {
         "site_id": "gamek_vn",
-        "site_name": "GameK",
-        "feed_url": "http://gamek.vn/home.rss",
+        "site_name": "GameK Esport",
+        "feed_url": "https://gamek.vn/esport.rss",
         "region": "VN",
         "dedicated": True,
         "language": "vi",
         "verified": "2026-07-09",
     },
-    # Global mobile — TouchArcade is the reference outlet for iOS/Android
-    # gaming globally. Soft launches and mobile patches surface here first,
-    # acting as an early indicator before SEA localised coverage catches up.
+    # ── Round 3 additions (2026-07-09) — Codex deep research ──────────────
+    # This pass actually parsed feed XML and checked item recency (≥3 items
+    # in the last 7 days), catching two false approvals from rounds 1-2:
+    # AFK Gaming (HTML not XML) and TouchArcade (dormant since Apr 2025).
+    # All 11 below returned 200 + valid XML content-type in live checks.
+
+    # Singapore — IGN SEA edition. Dedicated regional staff, covers SEA
+    # game launches and local pricing. Not SG-only but fills the gap.
     {
-        "site_id": "toucharcade",
-        "site_name": "TouchArcade",
-        "feed_url": "https://toucharcade.com/feed/",
+        "site_id": "ign_sea",
+        "site_name": "IGN Southeast Asia",
+        "feed_url": "https://sea.ign.com/feed.xml",
+        "region": "GLOBAL",
+        "dedicated": False,
+        "language": "en",
+        "verified": "2026-07-09",
+    },
+    # Thailand — three more dedicated TH outlets. Thisisgame and COMPGAMER
+    # are fully dedicated gaming sites. 4Gamers has cosplay/anime spillover
+    # so dedicated=False to keep the keyword gate active.
+    {
+        "site_id": "thisisgame_th",
+        "site_name": "Thisisgame Thailand",
+        "feed_url": "https://thisisgamethailand.com/feed/",
+        "region": "TH",
+        "dedicated": True,
+        "language": "th",
+        "verified": "2026-07-09",
+    },
+    {
+        "site_id": "compgamer_th",
+        "site_name": "COMPGAMER",
+        "feed_url": "https://compgamer.com/feed/",
+        "region": "TH",
+        "dedicated": True,
+        "language": "th",
+        "verified": "2026-07-09",
+    },
+    {
+        "site_id": "fourgamers_th",
+        "site_name": "4Gamers Thailand",
+        "feed_url": "https://www.4gamers.co.th/rss/latest-news",
+        "region": "TH",
+        "dedicated": False,
+        "language": "th",
+        "verified": "2026-07-09",
+    },
+    # Vietnam — two additional dedicated VN gaming sites. GameHub had 25
+    # recent items in the parsed check; XemGame had 10. Both fully dedicated.
+    {
+        "site_id": "gamehub_vn",
+        "site_name": "GameHub",
+        "feed_url": "https://gamehub.vn/portal/index.rss",
+        "region": "VN",
+        "dedicated": True,
+        "language": "vi",
+        "verified": "2026-07-09",
+    },
+    {
+        "site_id": "xemgame_vn",
+        "site_name": "XemGame",
+        "feed_url": "https://www.xemgame.com/feed",
+        "region": "VN",
+        "dedicated": True,
+        "language": "vi",
+        "verified": "2026-07-09",
+    },
+    # Malaysia — Gamer Matters is a dedicated MY gaming outlet with good
+    # platform/update/business signal. The Magic Rain covers games + esports
+    # + anime so dedicated=False for the keyword gate.
+    {
+        "site_id": "gamermatters",
+        "site_name": "Gamer Matters",
+        "feed_url": "https://gamermatters.com/feed/",
+        "region": "MY",
+        "dedicated": True,
+        "language": "en",
+        "verified": "2026-07-09",
+    },
+    {
+        "site_id": "themagicrain",
+        "site_name": "The Magic Rain",
+        "feed_url": "https://themagicrain.com/feed/",
+        "region": "MY",
+        "dedicated": False,
+        "language": "en",
+        "verified": "2026-07-09",
+    },
+    # Philippines — Reimaru Files: game-heavy PH source, mobile/esports/launch.
+    {
+        "site_id": "reimarufiles",
+        "site_name": "The Reimaru Files",
+        "feed_url": "https://www.reimarufiles.com/feed/",
+        "region": "PH",
+        "dedicated": False,
+        "language": "en",
+        "verified": "2026-07-09",
+    },
+    # Global mobile business — both are distinct from the blocked consumer
+    # sites. MobileGamer.biz covers studio shutdowns, revenue, layoffs.
+    # PocketGamer.biz is the trade/B2B edition (NOT the blocked .com).
+    {
+        "site_id": "mobilegamer_biz",
+        "site_name": "MobileGamer.biz",
+        "feed_url": "https://mobilegamer.biz/feed/",
         "region": "GLOBAL",
         "dedicated": True,
         "language": "en",
         "verified": "2026-07-09",
     },
-    # Global esports — AFK Gaming covers mobile esports (MLBB, Wild Rift,
-    # PUBG Mobile) with strong SEA team coverage that Western outlets skip.
     {
-        "site_id": "afkgaming",
-        "site_name": "AFK Gaming",
-        "feed_url": "https://afkgaming.com/feed/",
+        "site_id": "pocketgamer_biz",
+        "site_name": "PocketGamer.biz",
+        "feed_url": "https://www.pocketgamer.biz/rss/",
         "region": "GLOBAL",
         "dedicated": True,
         "language": "en",
         "verified": "2026-07-09",
     },
+    # Note: TouchArcade removed — feed verified 200 but dormant since
+    # 2025-04-18 (Codex research confirmed latest item date). Not useful
+    # for a live 24h radar.
+    # Note: AFK Gaming removed — feed returns text/html not RSS XML despite
+    # HTTP 200. Codex research caught this; our initial curl missed it.
 ]
 
 # Singapore status as of 2026-07-09: Geek Culture (/games/ category feed)
