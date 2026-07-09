@@ -26,6 +26,11 @@ feeds/private*.opml
 # Optional private/generated digests
 data/email-digest.json
 
+# Sensor Tower CSV exports - proprietary paid data, never committed.
+# Only the derived JSON index (data/game-rank-index.json) is committed.
+data/*.csv
+data/*.xlsx
+
 # Live Game News pipeline internal state - lives on the orphan `game-data`
 # branch (see .github/workflows/update-game-news.yml), never accumulated
 # into master's history. data/game-news.json is intentionally NOT listed
