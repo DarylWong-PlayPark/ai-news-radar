@@ -109,9 +109,30 @@ function sourceTypeOf(item) {
   return SOURCE_TYPE_MAP[item.site_id] || DEFAULT_SOURCE_TYPE;
 }
 
+// High-signal title phrases — fires when content_type is unset or generic.
+// Ordered by significance; first match wins, capped at 0.35.
+const KEYWORD_BOOSTS = [
+  // Major industry events
+  [0.35, ["shuts down", "shut down", "shutting down", "bankruptcy", "bankrupt", "acquired by", "acquisition"]],
+  [0.30, ["billion", "record breaking", "record-breaking", "all time high", "all-time high", "milestone"]],
+  [0.25, ["lawsuit", "sued", "controversy", "major update", "big update", "world championship", "world cup"]],
+  [0.20, ["launches", "launch date", "release date", "out now", "goes live", "early access", "new season",
+           "server down", "maintenance", "ban wave", "partnership", "collaboration announced"]],
+];
+
+function keywordBoost(item) {
+  const title = (item.title_en || item.title || "").toLowerCase();
+  for (const [boost, phrases] of KEYWORD_BOOSTS) {
+    for (const phrase of phrases) {
+      if (title.includes(phrase)) return boost;
+    }
+  }
+  return 0;
+}
+
 // Phase-1 signal score: pure client-side, no external API.
-// Components: recency (decays to 0 at 7 days) + source tier + event type.
-// Max theoretical score ≈ 2.0 (< 1h old, dedicated, launch article).
+// Components: recency (decays to 0 at 7 days) + source tier + event type
+// + keyword boost + Sensor Tower SEA revenue rank bonus (Phase 2).
 function signalScore(item) {
   let score = 0;
   const t = itemEventTime(item);
@@ -127,6 +148,7 @@ function signalScore(item) {
   if (etype === "launch")              score += 0.4;
   else if (etype === "business")       score += 0.3;
   else if (etype === "update" || etype === "esports") score += 0.2;
+  score += keywordBoost(item);
   score += state.stBonus.get(item.url) || 0; // Sensor Tower SEA revenue rank bonus
   return score;
 }
@@ -309,7 +331,7 @@ function applyCustomDateInputs() {
   applyDateRange(new Date(`${fromInput.value}T00:00:00Z`), new Date(`${toInput.value}T00:00:00Z`));
 }
 
-function renderItem(item) {
+function itemParts(item) {
   const original = escapeHtml(item.title || "Untitled");
   const hasTranslation = item.title_en && item.title_en !== item.title;
   const mainTitle = hasTranslation ? escapeHtml(item.title_en) : original;
@@ -323,6 +345,11 @@ function renderItem(item) {
   const contentType = item.content_type && item.content_type !== "general"
     ? `<span class="game-item-type" data-type="${escapeHtml(item.content_type)}">${escapeHtml(item.content_type)}</span>`
     : "";
+  return { mainTitle, originalLine, source, date, regionLabel, url, contentType };
+}
+
+function renderItem(item) {
+  const { mainTitle, originalLine, source, date, regionLabel, url, contentType } = itemParts(item);
   const level = signalLevel(signalScore(item));
   return `
     <a class="game-item-row" href="${url}" target="_blank" rel="noopener noreferrer">
@@ -334,6 +361,21 @@ function renderItem(item) {
         ${contentType}
         <span class="game-item-date">${date}</span>
         ${renderSignalBars(level)}
+      </span>
+    </a>`;
+}
+
+function renderFeaturedItem(item) {
+  const { mainTitle, originalLine, source, date, regionLabel, url, contentType } = itemParts(item);
+  return `
+    <a class="game-item-featured" href="${url}" target="_blank" rel="noopener noreferrer">
+      <span class="game-item-title">${mainTitle}</span>
+      ${originalLine}
+      <span class="game-item-meta">
+        <span class="game-item-source">${source}</span>
+        <span class="game-item-region">${regionLabel}</span>
+        ${contentType}
+        <span class="game-item-date">${date}</span>
       </span>
     </a>`;
 }
@@ -394,24 +436,52 @@ function currentList() {
   return list;
 }
 
+const KEY_SIGNALS_COUNT = 3; // number of items shown in the featured "Key Signals" block
+
 function render() {
   const body = document.getElementById("gamePanelBody");
   const list = currentList();
+  const title = document.getElementById("gamePanelTitle");
+  const eyebrow = document.getElementById("gamePanelEyebrow");
 
   if (!list.length) {
     body.innerHTML = `<div class="empty-state">No game news matches this view yet.</div>`;
-  } else {
-    body.innerHTML = `<div class="game-item-list">${list.map(renderItem).join("")}</div>`;
+    if (state.region === "ALL") {
+      title.textContent = "Top Game Signals";
+      eyebrow.textContent = "TOP SIGNALS · ranked by recency × source × event type";
+    } else {
+      title.textContent = `${REGION_LABELS[state.region]} Game Signals`;
+      eyebrow.textContent = `${REGION_LABELS[state.region].toUpperCase()} SIGNALS`;
+    }
+    return;
   }
 
-  const title = document.getElementById("gamePanelTitle");
-  const eyebrow = document.getElementById("gamePanelEyebrow");
-  if (state.region === "ALL") {
+  // Hot tab with no active filters: split into Key Signals (featured) + More
+  const isHotDefault = state.region === "ALL"
+    && !state.contentType && !state.sourceType && !state.specificSource
+    && !state.dateFrom && !state.query;
+
+  if (isHotDefault && list.length > KEY_SIGNALS_COUNT) {
+    const featured = list.slice(0, KEY_SIGNALS_COUNT);
+    const rest     = list.slice(KEY_SIGNALS_COUNT);
+    body.innerHTML = `
+      <div class="game-key-section">
+        <div class="game-key-section-label">Key Signals</div>
+        ${featured.map(renderFeaturedItem).join("")}
+      </div>
+      <div class="game-more-section-label">More Signals</div>
+      <div class="game-item-list">${rest.map(renderItem).join("")}</div>`;
     title.textContent = "Top Game Signals";
     eyebrow.textContent = "TOP SIGNALS · ranked by recency × source × event type";
   } else {
-    title.textContent = `${REGION_LABELS[state.region]} Game Signals`;
-    eyebrow.textContent = `${REGION_LABELS[state.region].toUpperCase()} SIGNALS`;
+    body.innerHTML = `<div class="game-item-list">${list.map(renderItem).join("")}</div>`;
+    if (state.region === "ALL") {
+      title.textContent = "Top Game Signals";
+      eyebrow.textContent = "TOP SIGNALS · ranked by recency × source × event type";
+    } else {
+      title.textContent = `${REGION_LABELS[state.region]} Game Signals`;
+      eyebrow.textContent = `${REGION_LABELS[state.region].toUpperCase()} SIGNALS`;
+    }
   }
 }
 

@@ -245,6 +245,70 @@ summary:focus-visible {
   background: var(--good);
 }
 
+/* ── Key Signals featured section ────────────────────────────────── */
+.game-key-section {
+  padding: 10px 6px 10px;
+  border-bottom: 1px solid var(--line-soft);
+}
+
+.game-key-section-label {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 0 8px 10px;
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  color: var(--g-blue);
+  text-transform: uppercase;
+}
+
+.game-key-section-label::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: var(--g-blue-mid);
+}
+
+.game-item-featured {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 14px 16px;
+  margin-bottom: 6px;
+  border-radius: 8px;
+  border: 1px solid var(--g-blue-mid);
+  background: var(--g-blue-tint);
+  text-decoration: none;
+  color: inherit;
+  transition: background 0.1s, border-color 0.1s, box-shadow 0.12s;
+}
+
+.game-item-featured:last-child {
+  margin-bottom: 0;
+}
+
+.game-item-featured:hover {
+  background: rgba(29, 78, 216, 0.12);
+  border-color: rgba(29, 78, 216, 0.3);
+  box-shadow: var(--g-shadow);
+}
+
+.game-item-featured .game-item-title {
+  font-size: 15px;
+  font-weight: 760;
+  line-height: 1.35;
+}
+
+.game-more-section-label {
+  padding: 10px 14px 4px;
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  color: var(--muted-soft);
+  text-transform: uppercase;
+}
+
 /* ── Source health table ─────────────────────────────────────────── */
 .source-table {
   border-radius: 8px;
