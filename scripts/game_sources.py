@@ -299,10 +299,105 @@ DIRECT_RSS_SOURCES: list[dict[str, Any]] = [
         "language": "en",
         "verified": "2026-07-08",
     },
+    # ── Round 2 additions (2026-07-09) — 11 candidates researched, 8 verified ──
+    # Failures: GamerBraves (403 Cloudflare), Gadget Pilipinas (403 Cloudflare),
+    # VALO2ASIA (404 — no RSS feed exists). All 8 below returned 200 via curl.
+
+    # Singapore — Geek Culture fills the dedicated-SG gap. Not a pure game
+    # outlet, but the /games/ category feed isolates gaming content cleanly.
+    {
+        "site_id": "geekculture_sg",
+        "site_name": "Geek Culture",
+        "feed_url": "https://geekculture.co/games/feed/",
+        "region": "SG",
+        "dedicated": False,
+        "language": "en",
+        "verified": "2026-07-09",
+    },
+    # Thailand — GameMonday is a dedicated mobile/MMO outlet (ROV, Free Fire,
+    # mobile anime RPG). Blognone covers platform policy, studio business, and
+    # app store regulation — strong for "business" content type.
+    {
+        "site_id": "gamemonday",
+        "site_name": "GameMonday",
+        "feed_url": "https://www.gamemonday.com/feed/",
+        "region": "TH",
+        "dedicated": True,
+        "language": "th",
+        "verified": "2026-07-09",
+    },
+    {
+        "site_id": "blognone",
+        "site_name": "Blognone",
+        "feed_url": "https://www.blognone.com/atom.xml",
+        "region": "TH",
+        "dedicated": False,
+        "language": "th",
+        "verified": "2026-07-09",
+    },
+    # Vietnam — Kenh14 is a major Vietnamese media network; the /sport.rss
+    # category covers esports (VCS LoL, Arena of Valor, MLBB) alongside
+    # traditional sport. dedicated=False so TITLE_GAME_RE keyword gate filters
+    # the non-game sport items.
+    {
+        "site_id": "kenh14",
+        "site_name": "Kenh14 Sport & Esports",
+        "feed_url": "https://kenh14.vn/rss/sport.rss",
+        "region": "VN",
+        "dedicated": False,
+        "language": "vi",
+        "verified": "2026-07-09",
+    },
+    # Malaysia — Lowyat.NET gaming category. Malaysia's largest consumer tech
+    # portal; gaming subsection covers platform news, console/PC launches,
+    # regional market activities. GamerBraves (the dedicated MY outlet) was
+    # 403 Cloudflare-blocked during verification.
+    {
+        "site_id": "lowyat",
+        "site_name": "Lowyat.NET Gaming",
+        "feed_url": "https://www.lowyat.net/category/gaming/feed/",
+        "region": "MY",
+        "dedicated": False,
+        "language": "en",
+        "verified": "2026-07-09",
+    },
+    # Philippines — Ungeek covers tech + gaming + geek culture; editorial team
+    # with strong mobile and local event coverage.
+    {
+        "site_id": "ungeek",
+        "site_name": "Ungeek",
+        "feed_url": "https://www.ungeek.ph/feed/",
+        "region": "PH",
+        "dedicated": False,
+        "language": "en",
+        "verified": "2026-07-09",
+    },
+    # Global mobile — TouchArcade is the reference outlet for iOS/Android
+    # gaming globally. Soft launches and mobile patches surface here first,
+    # acting as an early indicator before SEA localised coverage catches up.
+    {
+        "site_id": "toucharcade",
+        "site_name": "TouchArcade",
+        "feed_url": "https://toucharcade.com/feed/",
+        "region": "GLOBAL",
+        "dedicated": True,
+        "language": "en",
+        "verified": "2026-07-09",
+    },
+    # Global esports — AFK Gaming covers mobile esports (MLBB, Wild Rift,
+    # PUBG Mobile) with strong SEA team coverage that Western outlets skip.
+    {
+        "site_id": "afkgaming",
+        "site_name": "AFK Gaming",
+        "feed_url": "https://afkgaming.com/feed/",
+        "region": "GLOBAL",
+        "dedicated": True,
+        "language": "en",
+        "verified": "2026-07-09",
+    },
 ]
 
-# No verified, unblocked DEDICATED RSS source exists for Singapore as of
-# 2026-07-08 (see docs/SOURCE_COVERAGE.md game-news research notes) - SCOGA
-# (scripts/rsshub_sources.py), Mothership.sg, Straits Times, and
-# HardwareZone.sg above are the only SG signal so far, all mixed/low-volume
-# rather than a dedicated SG gaming outlet.
+# Singapore status as of 2026-07-09: Geek Culture (/games/ category feed)
+# added as the closest functional dedicated-games outlet for SG. Still no
+# unblocked pure-gaming outlet found — SCOGA (rsshub_sources.py), Mothership,
+# Straits Times, HardwareZone, and Geek Culture remain the SG signal pool.
