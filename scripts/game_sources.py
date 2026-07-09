@@ -537,6 +537,56 @@ DIRECT_RSS_SOURCES: list[dict[str, Any]] = [
         "language": "en",
         "verified": "2026-07-09",
     },
+    # ── Round 4 additions (2026-07-09) — Qwen research ──────────────────
+    # All verified 200 + valid XML. Qwen's "blocked" flags for Blognone and
+    # HardwareZone were wrong — both return 200 with correct URLs.
+    # gamek.vn/trang-chu.rss (main feed) skipped — content covered by the
+    # esport.rss + mobile-social.rss combo with less duplication.
+
+    # Vietnam — GameK mobile category. SEA is predominantly mobile so this
+    # feed gives a dedicated mobile-first signal from the same trusted source.
+    {
+        "site_id": "gamek_vn_mobile",
+        "site_name": "GameK Mobile",
+        "feed_url": "https://gamek.vn/mobile-social.rss",
+        "region": "VN",
+        "dedicated": True,
+        "language": "vi",
+        "verified": "2026-07-09",
+    },
+    # Global B2B / business — GamesIndustry.biz is the trade press of record.
+    # Covers acquisitions, studio closures, earnings, market reports. Articles
+    # reference the studio/publisher not always specific game titles, so
+    # dedicated=True skips the game-title keyword gate.
+    {
+        "site_id": "gamesindustry_biz",
+        "site_name": "GamesIndustry.biz",
+        "feed_url": "https://www.gamesindustry.biz/feed",
+        "region": "GLOBAL",
+        "dedicated": True,
+        "language": "en",
+        "verified": "2026-07-09",
+    },
+    # Global esports — Esports.net and Dot Esports both cover Valorant, LoL,
+    # CS2, and mobile titles with SEA tournament coverage.
+    {
+        "site_id": "esports_net",
+        "site_name": "Esports.net",
+        "feed_url": "https://www.esports.net/feed/",
+        "region": "GLOBAL",
+        "dedicated": True,
+        "language": "en",
+        "verified": "2026-07-09",
+    },
+    {
+        "site_id": "dotesports",
+        "site_name": "Dot Esports",
+        "feed_url": "https://dotesports.com/feed",
+        "region": "GLOBAL",
+        "dedicated": True,
+        "language": "en",
+        "verified": "2026-07-09",
+    },
     # Note: TouchArcade removed — feed verified 200 but dormant since
     # 2025-04-18 (Codex research confirmed latest item date). Not useful
     # for a live 24h radar.
