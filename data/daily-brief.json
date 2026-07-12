@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T15:57:33.785729Z",
+  "generated_at": "2026-07-12T17:02:42.610029Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
+      "score": 0.7983,
+      "importance": 0.7983,
+      "importance_score": 0.7983,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.822,
+        "recency": 0.8092,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -100,6 +100,67 @@
         "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
         "url": "https://www.iroh.computer/blog/mesh-llm",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2d32142bc0da",
+      "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+      "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
+      "primary_url": "https://x.com/AYi_AInotes/status/2076341952023310580",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c3b94bfbf430fa9dd347781c6de01eb70fd3a32a",
+          "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+          "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T16:24:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "c3b94bfbf430fa9dd347781c6de01eb70fd3a32a",
+          "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+          "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T16:24:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.775,
+      "importance": 0.775,
+      "importance_score": 0.775,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9909,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T16:24:32Z",
+      "latest_at": "2026-07-12T16:24:32Z",
+      "primary_item": {
+        "id": "c3b94bfbf430fa9dd347781c6de01eb70fd3a32a",
+        "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+        "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
         "source_name": "AI HOT"
       }
     },
@@ -138,15 +199,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7745,
-      "importance": 0.7745,
-      "importance_score": 0.7745,
+      "score": 0.7718,
+      "importance": 0.7718,
+      "importance_score": 0.7718,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9886,
+        "recency": 0.9732,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -218,15 +279,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.773,
-      "importance": 0.773,
-      "importance_score": 0.773,
+      "score": 0.7705,
+      "importance": 0.7705,
+      "importance_score": 0.7705,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9078,
+        "recency": 0.8937,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -299,15 +360,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.768,
-      "importance": 0.768,
-      "importance_score": 0.768,
+      "score": 0.7658,
+      "importance": 0.7658,
+      "importance_score": 0.7658,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8135,
+        "recency": 0.8009,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -380,15 +441,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.7638,
+      "importance": 0.7638,
+      "importance_score": 0.7638,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8028,
+        "recency": 0.7903,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -461,15 +522,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7932,
-      "importance": 0.7932,
-      "importance_score": 0.7932,
+      "score": 0.7905,
+      "importance": 0.7905,
+      "importance_score": 0.7905,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.97,
+        "recency": 0.9549,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -523,15 +584,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7372,
-      "importance": 0.7372,
-      "importance_score": 0.7372,
+      "score": 0.7349,
+      "importance": 0.7349,
+      "importance_score": 0.7349,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8313,
+        "recency": 0.8183,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -546,86 +607,6 @@
         "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-12-hexi-2077-ai-weekly-2026-w28",
         "source": "Daily Digest",
         "source_name": "AI HubToday"
-      }
-    },
-    {
-      "story_id": "story_57583f5b9bca",
-      "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-      "url": "https://x.com/sama/status/2075985056846451123",
-      "primary_url": "https://x.com/sama/status/2075985056846451123",
-      "source": "X：Sam Altman (@sama)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
-          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-          "url": "https://x.com/sama/status/2075985056846451123",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T16:46:22Z"
-        },
-        {
-          "id": "810bc02281177a13ff528308e8739a3d83a654e4",
-          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\" https://t.co/n4J37XVqNM",
-          "url": "https://x.com/sama/status/2075985056846451123",
-          "source": "Follow Builders · X · Sam Altman",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-11T16:46:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Sam Altman",
-        "X：Sam Altman (@sama)"
-      ],
-      "items": [
-        {
-          "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
-          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-          "url": "https://x.com/sama/status/2075985056846451123",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T16:46:22Z"
-        },
-        {
-          "id": "810bc02281177a13ff528308e8739a3d83a654e4",
-          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\" https://t.co/n4J37XVqNM",
-          "url": "https://x.com/sama/status/2075985056846451123",
-          "source": "Follow Builders · X · Sam Altman",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-11T16:46:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7294,
-      "importance": 0.7294,
-      "importance_score": 0.7294,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7155,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-11T16:46:22Z",
-      "latest_at": "2026-07-11T16:46:22Z",
-      "primary_item": {
-        "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
-        "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-        "url": "https://x.com/sama/status/2075985056846451123",
-        "source": "X：Sam Altman (@sama)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -682,15 +663,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7528,
+      "importance": 0.7528,
+      "importance_score": 0.7528,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8248,
+        "recency": 0.812,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -763,15 +744,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
+      "score": 0.7429,
+      "importance": 0.7429,
+      "importance_score": 0.7429,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7186,
+        "recency": 0.7074,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -843,15 +824,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.77,
-      "importance": 0.77,
-      "importance_score": 0.77,
+      "score": 0.7677,
+      "importance": 0.7677,
+      "importance_score": 0.7677,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8412,
+        "recency": 0.8281,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -924,15 +905,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7869,
+        "recency": 0.7747,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1011,18 +992,9 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-11T17:32:03.288272Z"
-        },
-        {
-          "id": "6775699f131f34b8575fd1be93bbcef39425e7ce",
-          "title": "藏师傅用GPT-5.6 Sol做了一个非常完整而且好玩的小工具。上传一张你的照片，选一个跟你经历有关的\"人生成就\"，工具会给照片加上字符、像素或实验性滤镜，再叠上一张游戏风格的成就卡。最后你拿到一张 1080×1440 的竖图，直接发朋友圈、社交媒体，或者存到手机里留着。整个过程全在浏览器本地跑，不上传照片，不联网处理，打开就能用。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-11",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-11T16:28:33.686338Z"
         }
       ],
-      "source_count": 7,
+      "source_count": 6,
       "source_names": [
         "社区更新 · 2026-07-11",
         "社区更新 · 2026-07-12"
@@ -1081,35 +1053,26 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-11T17:32:03.288272Z"
-        },
-        {
-          "id": "6775699f131f34b8575fd1be93bbcef39425e7ce",
-          "title": "藏师傅用GPT-5.6 Sol做了一个非常完整而且好玩的小工具。上传一张你的照片，选一个跟你经历有关的\"人生成就\"，工具会给照片加上字符、像素或实验性滤镜，再叠上一张游戏风格的成就卡。最后你拿到一张 1080×1440 的竖图，直接发朋友圈、社交媒体，或者存到手机里留着。整个过程全在浏览器本地跑，不上传照片，不联网处理，打开就能用。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-11",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-11T16:28:33.686338Z"
         }
       ],
-      "item_count": 7,
-      "duplicate_count": 7,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6664,
+      "importance": 0.6664,
+      "importance_score": 0.6664,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9844,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-11T16:28:33.686338Z",
+      "earliest_at": "2026-07-11T17:32:03.288272Z",
       "latest_at": "2026-07-12T15:57:33.785729Z",
       "primary_item": {
         "id": "c5c6174b0bb558b86c7043802bc43e3396732d03",
@@ -1117,86 +1080,6 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-12",
         "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_9c885636aaf2",
-      "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
-      "url": "https://www.mixfont.com/ghost-font",
-      "primary_url": "https://www.mixfont.com/ghost-font",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "eb0c2a306d2503ddbefd65127804aca9757392ab",
-          "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T16:31:09.615000Z"
-        },
-        {
-          "id": "9c719a18c6ac7008e0b327dadfc75ea3ce2f0ac3",
-          "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "www.mixfont.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T16:31:09.615000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.mixfont.com"
-      ],
-      "items": [
-        {
-          "id": "eb0c2a306d2503ddbefd65127804aca9757392ab",
-          "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T16:31:09.615000Z"
-        },
-        {
-          "id": "9c719a18c6ac7008e0b327dadfc75ea3ce2f0ac3",
-          "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "www.mixfont.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T16:31:09.615000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7499,
-      "importance": 0.7499,
-      "importance_score": 0.7499,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7128,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-11T16:31:09.615000Z",
-      "latest_at": "2026-07-11T16:31:09.615000Z",
-      "primary_item": {
-        "id": "eb0c2a306d2503ddbefd65127804aca9757392ab",
-        "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
-        "url": "https://www.mixfont.com/ghost-font",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1291,15 +1174,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5696,
-      "importance": 0.5696,
-      "importance_score": 0.5696,
+      "score": 0.5672,
+      "importance": 0.5672,
+      "importance_score": 0.5672,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8543,
+        "recency": 0.841,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1314,6 +1197,85 @@
         "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
         "source": "pluralistic.net",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_ac92e5fbbd7c",
+      "title": "Autoresearch，克劳德和约束优化 / Autoresearch, Claude and Constrained Optimization",
+      "url": "https://news.ycombinator.com/item?id=48881498",
+      "primary_url": "https://news.ycombinator.com/item?id=48881498",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "7ea93e6a5185ef02e137309c30d916c79c237747",
+          "title": "Autoresearch，克劳德和约束优化 / Autoresearch, Claude and Constrained Optimization",
+          "url": "https://news.ycombinator.com/item?id=48881498",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T17:03:25.656000Z"
+        },
+        {
+          "id": "1c53a59ef0fdf1d76e90b14785c3c862b0b8a4f8",
+          "title": "Autoresearch，克劳德和约束优化 / Autoresearch, Claude and Constrained Optimization",
+          "url": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T14:32:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7ea93e6a5185ef02e137309c30d916c79c237747",
+          "title": "Autoresearch，克劳德和约束优化 / Autoresearch, Claude and Constrained Optimization",
+          "url": "https://news.ycombinator.com/item?id=48881498",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T17:03:25.656000Z"
+        },
+        {
+          "id": "1c53a59ef0fdf1d76e90b14785c3c862b0b8a4f8",
+          "title": "Autoresearch，克劳德和约束优化 / Autoresearch, Claude and Constrained Optimization",
+          "url": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T14:32:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T14:32:00Z",
+      "latest_at": "2026-07-12T17:03:25.656000Z",
+      "primary_item": {
+        "id": "7ea93e6a5185ef02e137309c30d916c79c237747",
+        "title": "Autoresearch，克劳德和约束优化 / Autoresearch, Claude and Constrained Optimization",
+        "url": "https://news.ycombinator.com/item?id=48881498",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1370,15 +1332,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
+      "score": 0.5398,
+      "importance": 0.5398,
+      "importance_score": 0.5398,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9818,
+        "recency": 0.9666,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1393,85 +1355,6 @@
         "url": "https://www.huxiu.com/article/4874659.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_e7c3ab251152",
-      "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
-      "url": "https://news.ycombinator.com/item?id=48881043",
-      "primary_url": "https://news.ycombinator.com/item?id=48881043",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "983038c47ecd6992db219057cf19179bb2bbf884",
-          "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
-          "url": "https://news.ycombinator.com/item?id=48881043",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T14:23:37.484000Z"
-        },
-        {
-          "id": "a4d49f966f117131e6d4f0ef049a504dcd24d33b",
-          "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
-          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T13:26:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "983038c47ecd6992db219057cf19179bb2bbf884",
-          "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
-          "url": "https://news.ycombinator.com/item?id=48881043",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T14:23:37.484000Z"
-        },
-        {
-          "id": "a4d49f966f117131e6d4f0ef049a504dcd24d33b",
-          "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
-          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T13:26:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5418,
-      "importance": 0.5418,
-      "importance_score": 0.5418,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9776,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T13:26:13Z",
-      "latest_at": "2026-07-12T14:23:37.484000Z",
-      "primary_item": {
-        "id": "983038c47ecd6992db219057cf19179bb2bbf884",
-        "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
-        "url": "https://news.ycombinator.com/item?id=48881043",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1528,15 +1411,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5418,
-      "importance": 0.5418,
-      "importance_score": 0.5418,
+      "score": 0.539,
+      "importance": 0.539,
+      "importance_score": 0.539,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9775,
+        "recency": 0.9623,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1607,15 +1490,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5397,
-      "importance": 0.5397,
-      "importance_score": 0.5397,
+      "score": 0.537,
+      "importance": 0.537,
+      "importance_score": 0.537,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9663,
+        "recency": 0.9513,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1686,15 +1569,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
+      "score": 0.533,
+      "importance": 0.533,
+      "importance_score": 0.533,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9438,
+        "recency": 0.9292,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1709,6 +1592,85 @@
         "url": "https://github.com/Nutlope/hallmark",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_56cbb52c8dba",
+      "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
+      "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
+      "primary_url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
+      "source": "36氪 (36Kr)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "1806d9f9968d5751df9ce3ef0e7aadb313b8a5fd",
+          "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
+          "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T11:37:33Z"
+        },
+        {
+          "id": "3a40211363b4e97f550cc53ceba9c73101f9536a",
+          "title": "AI 热潮太费电 燃气轮机价格 3 年涨了 300%",
+          "url": "https://www.gelonghui.com/live/2548422",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "1806d9f9968d5751df9ce3ef0e7aadb313b8a5fd",
+          "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
+          "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T11:37:33Z"
+        },
+        {
+          "id": "3a40211363b4e97f550cc53ceba9c73101f9536a",
+          "title": "AI 热潮太费电 燃气轮机价格 3 年涨了 300%",
+          "url": "https://www.gelonghui.com/live/2548422",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5323,
+      "importance": 0.5323,
+      "importance_score": 0.5323,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9247,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T10:54:29.803876Z",
+      "latest_at": "2026-07-12T11:37:33Z",
+      "primary_item": {
+        "id": "1806d9f9968d5751df9ce3ef0e7aadb313b8a5fd",
+        "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
+        "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
+        "source": "36氪 (36Kr)",
+        "source_name": "Info Flow"
       }
     }
   ]
