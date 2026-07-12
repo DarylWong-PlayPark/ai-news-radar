@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T13:26:59.242495Z",
+  "generated_at": "2026-07-12T14:41:26.500655Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.806,
-      "importance": 0.806,
-      "importance_score": 0.806,
+      "score": 0.8033,
+      "importance": 0.8033,
+      "importance_score": 0.8033,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8523,
+        "recency": 0.8372,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -157,15 +157,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
+      "score": 0.776,
+      "importance": 0.776,
+      "importance_score": 0.776,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9413,
+        "recency": 0.9246,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -238,15 +238,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7734,
-      "importance": 0.7734,
-      "importance_score": 0.7734,
+      "score": 0.7707,
+      "importance": 0.7707,
+      "importance_score": 0.7707,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8435,
+        "recency": 0.8286,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -319,15 +319,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7714,
-      "importance": 0.7714,
-      "importance_score": 0.7714,
+      "score": 0.7688,
+      "importance": 0.7688,
+      "importance_score": 0.7688,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8324,
+        "recency": 0.8176,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -347,30 +347,30 @@
       }
     },
     {
-      "story_id": "story_b21c70de14cb",
-      "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-      "primary_url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "story_id": "story_4da51d31a85f",
+      "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "primary_url": "https://github.com/cosmtrek/mindwalk",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
-          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
+          "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+          "url": "https://github.com/cosmtrek/mindwalk",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-12T03:59:09.632000Z"
+          "published_at": "2026-07-12T13:51:05.035000Z"
         },
         {
-          "id": "b97d788b92fd38b4c103fc801bdc650df9832b27",
-          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史 / What xAI's Grok Build CLI Actually Sends to xAI",
-          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "id": "8ae43e3e6e516ec40634c1eb5556f6a09222b8b2",
+          "title": "Show HN: Mindwalk——在代码库的 3D 地图上重放编码代理会话 / Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+          "url": "https://github.com/cosmtrek/mindwalk",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-12T01:09:50Z"
+          "published_at": "2026-07-12T05:51:32Z"
         }
       ],
       "source_count": 2,
@@ -380,35 +380,35 @@
       ],
       "items": [
         {
-          "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
-          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
+          "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+          "url": "https://github.com/cosmtrek/mindwalk",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-12T03:59:09.632000Z"
+          "published_at": "2026-07-12T13:51:05.035000Z"
         },
         {
-          "id": "b97d788b92fd38b4c103fc801bdc650df9832b27",
-          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史 / What xAI's Grok Build CLI Actually Sends to xAI",
-          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "id": "8ae43e3e6e516ec40634c1eb5556f6a09222b8b2",
+          "title": "Show HN: Mindwalk——在代码库的 3D 地图上重放编码代理会话 / Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+          "url": "https://github.com/cosmtrek/mindwalk",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-12T01:09:50Z"
+          "published_at": "2026-07-12T05:51:32Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7756,
-      "importance": 0.7756,
-      "importance_score": 0.7756,
+      "score": 0.7964,
+      "importance": 0.7964,
+      "importance_score": 0.7964,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8723,
+        "recency": 0.988,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -417,12 +417,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-12T01:09:50Z",
-      "latest_at": "2026-07-12T03:59:09.632000Z",
+      "earliest_at": "2026-07-12T05:51:32Z",
+      "latest_at": "2026-07-12T13:51:05.035000Z",
       "primary_item": {
-        "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
-        "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-        "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+        "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
+        "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+        "url": "https://github.com/cosmtrek/mindwalk",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
@@ -462,15 +462,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7428,
-      "importance": 0.7428,
-      "importance_score": 0.7428,
+      "score": 0.74,
+      "importance": 0.74,
+      "importance_score": 0.74,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.862,
+        "recency": 0.8467,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -541,15 +541,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7341,
-      "importance": 0.7341,
-      "importance_score": 0.7341,
+      "score": 0.7318,
+      "importance": 0.7318,
+      "importance_score": 0.7318,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7419,
+        "recency": 0.7287,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -621,15 +621,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8553,
+        "recency": 0.8401,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -702,15 +702,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
+      "score": 0.7473,
+      "importance": 0.7473,
+      "importance_score": 0.7473,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7451,
+        "recency": 0.7319,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -729,68 +729,68 @@
       }
     },
     {
-      "story_id": "story_9c885636aaf2",
-      "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
-      "url": "https://www.mixfont.com/ghost-font",
-      "primary_url": "https://www.mixfont.com/ghost-font",
+      "story_id": "story_b21c70de14cb",
+      "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "primary_url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "eb0c2a306d2503ddbefd65127804aca9757392ab",
-          "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
-          "url": "https://www.mixfont.com/ghost-font",
+          "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
+          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-11T16:31:09.615000Z"
+          "published_at": "2026-07-12T03:59:09.632000Z"
         },
         {
-          "id": "9c719a18c6ac7008e0b327dadfc75ea3ce2f0ac3",
-          "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "www.mixfont.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T16:31:09.615000Z"
+          "id": "b97d788b92fd38b4c103fc801bdc650df9832b27",
+          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史 / What xAI's Grok Build CLI Actually Sends to xAI",
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T01:09:50Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.mixfont.com"
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "eb0c2a306d2503ddbefd65127804aca9757392ab",
-          "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
-          "url": "https://www.mixfont.com/ghost-font",
+          "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
+          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-11T16:31:09.615000Z"
+          "published_at": "2026-07-12T03:59:09.632000Z"
         },
         {
-          "id": "9c719a18c6ac7008e0b327dadfc75ea3ce2f0ac3",
-          "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "www.mixfont.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T16:31:09.615000Z"
+          "id": "b97d788b92fd38b4c103fc801bdc650df9832b27",
+          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史 / What xAI's Grok Build CLI Actually Sends to xAI",
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T01:09:50Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7546,
-      "importance": 0.7546,
-      "importance_score": 0.7546,
+      "score": 0.7728,
+      "importance": 0.7728,
+      "importance_score": 0.7728,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.75,
+        "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7392,
+        "recency": 0.8568,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -799,12 +799,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-11T16:31:09.615000Z",
-      "latest_at": "2026-07-11T16:31:09.615000Z",
+      "earliest_at": "2026-07-12T01:09:50Z",
+      "latest_at": "2026-07-12T03:59:09.632000Z",
       "primary_item": {
-        "id": "eb0c2a306d2503ddbefd65127804aca9757392ab",
-        "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
-        "url": "https://www.mixfont.com/ghost-font",
+        "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
+        "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+        "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
@@ -863,15 +863,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
+      "score": 0.7509,
+      "importance": 0.7509,
+      "importance_score": 0.7509,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.816,
+        "recency": 0.8015,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -887,6 +887,87 @@
         "title": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句\"哈哈\"成窃密关键",
         "url": "https://www.ithome.com/0/975/634.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9c885636aaf2",
+      "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
+      "url": "https://www.mixfont.com/ghost-font",
+      "primary_url": "https://www.mixfont.com/ghost-font",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "eb0c2a306d2503ddbefd65127804aca9757392ab",
+          "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
+          "url": "https://www.mixfont.com/ghost-font",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T16:31:09.615000Z"
+        },
+        {
+          "id": "9c719a18c6ac7008e0b327dadfc75ea3ce2f0ac3",
+          "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
+          "url": "https://www.mixfont.com/ghost-font",
+          "source": "www.mixfont.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T16:31:09.615000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.mixfont.com"
+      ],
+      "items": [
+        {
+          "id": "eb0c2a306d2503ddbefd65127804aca9757392ab",
+          "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
+          "url": "https://www.mixfont.com/ghost-font",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T16:31:09.615000Z"
+        },
+        {
+          "id": "9c719a18c6ac7008e0b327dadfc75ea3ce2f0ac3",
+          "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
+          "url": "https://www.mixfont.com/ghost-font",
+          "source": "www.mixfont.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T16:31:09.615000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.726,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-11T16:31:09.615000Z",
+      "latest_at": "2026-07-11T16:31:09.615000Z",
+      "primary_item": {
+        "id": "eb0c2a306d2503ddbefd65127804aca9757392ab",
+        "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
+        "url": "https://www.mixfont.com/ghost-font",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -979,15 +1060,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6117,
-      "importance": 0.6117,
-      "importance_score": 0.6117,
+      "score": 0.6093,
+      "importance": 0.6093,
+      "importance_score": 0.6093,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 0.7501,
+        "recency": 0.7367,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1096,15 +1177,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5752,
-      "importance": 0.5752,
-      "importance_score": 0.5752,
+      "score": 0.5724,
+      "importance": 0.5724,
+      "importance_score": 0.5724,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8858,
+        "recency": 0.8701,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1122,30 +1203,30 @@
       }
     },
     {
-      "story_id": "story_79354e1b81c7",
-      "title": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
-      "url": "https://www.huxiu.com/article/4874651.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4874651.html?f=rss",
+      "story_id": "story_6858739e3a4b",
+      "title": "AI 疯狂烧钱的样子，和历史上四次资本泡沫惊人相似",
+      "url": "https://www.huxiu.com/article/4874659.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4874659.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "2f73b85ce310166279bd6f41b12db5f86db47840",
-          "title": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
-          "url": "https://www.huxiu.com/article/4874651.html?f=rss",
+          "id": "a7570d06dc87cb789c616d9aa2e0349c697c5fea",
+          "title": "AI 疯狂烧钱的样子，和历史上四次资本泡沫惊人相似",
+          "url": "https://www.huxiu.com/article/4874659.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "c96c2c820fa8341624ea5d57bbd3ee17cb4b3e41",
-          "title": "10倍生产力和打折的支付能力，AI最大的矛盾如何破局？",
-          "url": "https://www.huxiu.com/article/4874651.html?f=rss",
+          "id": "0ffbaa836b32c041e5f9a4328d03c690bba015cd",
+          "title": "AI疯狂烧钱的样子，和历史上四次资本泡沫惊人相似",
+          "url": "https://www.huxiu.com/article/4874659.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-12T12:53:09Z"
+          "published_at": "2026-07-12T13:27:42Z"
         }
       ],
       "source_count": 2,
@@ -1155,22 +1236,22 @@
       ],
       "items": [
         {
-          "id": "2f73b85ce310166279bd6f41b12db5f86db47840",
-          "title": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
-          "url": "https://www.huxiu.com/article/4874651.html?f=rss",
+          "id": "a7570d06dc87cb789c616d9aa2e0349c697c5fea",
+          "title": "AI 疯狂烧钱的样子，和历史上四次资本泡沫惊人相似",
+          "url": "https://www.huxiu.com/article/4874659.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "c96c2c820fa8341624ea5d57bbd3ee17cb4b3e41",
-          "title": "10倍生产力和打折的支付能力，AI最大的矛盾如何破局？",
-          "url": "https://www.huxiu.com/article/4874651.html?f=rss",
+          "id": "0ffbaa836b32c041e5f9a4328d03c690bba015cd",
+          "title": "AI疯狂烧钱的样子，和历史上四次资本泡沫惊人相似",
+          "url": "https://www.huxiu.com/article/4874659.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-12T12:53:09Z"
+          "published_at": "2026-07-12T13:27:42Z"
         }
       ],
       "item_count": 2,
@@ -1190,14 +1271,93 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-12T12:53:09Z",
-      "latest_at": "2026-07-12T13:26:59.242495Z",
+      "earliest_at": "2026-07-12T13:27:42Z",
+      "latest_at": "2026-07-12T14:41:26.500655Z",
       "primary_item": {
-        "id": "2f73b85ce310166279bd6f41b12db5f86db47840",
-        "title": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
-        "url": "https://www.huxiu.com/article/4874651.html?f=rss",
+        "id": "a7570d06dc87cb789c616d9aa2e0349c697c5fea",
+        "title": "AI 疯狂烧钱的样子，和历史上四次资本泡沫惊人相似",
+        "url": "https://www.huxiu.com/article/4874659.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_e7c3ab251152",
+      "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
+      "url": "https://news.ycombinator.com/item?id=48881043",
+      "primary_url": "https://news.ycombinator.com/item?id=48881043",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "983038c47ecd6992db219057cf19179bb2bbf884",
+          "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
+          "url": "https://news.ycombinator.com/item?id=48881043",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T14:23:37.484000Z"
+        },
+        {
+          "id": "a4d49f966f117131e6d4f0ef049a504dcd24d33b",
+          "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
+          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T13:26:13Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "983038c47ecd6992db219057cf19179bb2bbf884",
+          "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
+          "url": "https://news.ycombinator.com/item?id=48881043",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T14:23:37.484000Z"
+        },
+        {
+          "id": "a4d49f966f117131e6d4f0ef049a504dcd24d33b",
+          "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
+          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T13:26:13Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9957,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T13:26:13Z",
+      "latest_at": "2026-07-12T14:23:37.484000Z",
+      "primary_item": {
+        "id": "983038c47ecd6992db219057cf19179bb2bbf884",
+        "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
+        "url": "https://news.ycombinator.com/item?id=48881043",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1254,15 +1414,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.542,
-      "importance": 0.542,
-      "importance_score": 0.542,
+      "score": 0.5388,
+      "importance": 0.5388,
+      "importance_score": 0.5388,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9787,
+        "recency": 0.9613,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1333,15 +1493,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5411,
-      "importance": 0.5411,
-      "importance_score": 0.5411,
+      "score": 0.538,
+      "importance": 0.538,
+      "importance_score": 0.538,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.974,
+        "recency": 0.9567,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1356,104 +1516,6 @@
         "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
         "source": "36氪 (36Kr)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_d01a1045be8c",
-      "title": "Show HN：Sqlsure – 对 AI 生成的 SQL 进行确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-      "url": "https://news.ycombinator.com/item?id=48875342",
-      "primary_url": "https://news.ycombinator.com/item?id=48875342",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "79108bffc3cb1131a68a630ef7b64acbd08aa64a",
-          "title": "Show HN：Sqlsure – 对 AI 生成的 SQL 进行确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "url": "https://news.ycombinator.com/item?id=48875342",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T00:41:44.375000Z"
-        },
-        {
-          "id": "abe2b5cdd130d900159ea5f5ccc6d3d7d79a2e72",
-          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
-          "url": "https://github.com/sqlsure/sqlsure",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T20:15:06.203000Z"
-        },
-        {
-          "id": "2c492bf97e09e599b514e5ed4acce179dc5cc1e8",
-          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "url": "https://github.com/sqlsure/sqlsure",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T20:03:42Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "79108bffc3cb1131a68a630ef7b64acbd08aa64a",
-          "title": "Show HN：Sqlsure – 对 AI 生成的 SQL 进行确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "url": "https://news.ycombinator.com/item?id=48875342",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T00:41:44.375000Z"
-        },
-        {
-          "id": "abe2b5cdd130d900159ea5f5ccc6d3d7d79a2e72",
-          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
-          "url": "https://github.com/sqlsure/sqlsure",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T20:15:06.203000Z"
-        },
-        {
-          "id": "2c492bf97e09e599b514e5ed4acce179dc5cc1e8",
-          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "url": "https://github.com/sqlsure/sqlsure",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T20:03:42Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5405,
-      "importance": 0.5405,
-      "importance_score": 0.5405,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8318,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T20:03:42Z",
-      "latest_at": "2026-07-12T00:41:44.375000Z",
-      "primary_item": {
-        "id": "79108bffc3cb1131a68a630ef7b64acbd08aa64a",
-        "title": "Show HN：Sqlsure – 对 AI 生成的 SQL 进行确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-        "url": "https://news.ycombinator.com/item?id=48875342",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1510,15 +1572,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.54,
-      "importance": 0.54,
-      "importance_score": 0.54,
+      "score": 0.5369,
+      "importance": 0.5369,
+      "importance_score": 0.5369,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9678,
+        "recency": 0.9506,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1533,85 +1595,6 @@
         "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_2c1bf5ffef3f",
-      "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-      "url": "https://www.36kr.com/p/3892222176574211",
-      "primary_url": "https://www.36kr.com/p/3892222176574211",
-      "source": "36氪 · 24小时热榜",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "6b804231c301f483c3025548fce93ba0d9f09ac4",
-          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "url": "https://www.36kr.com/p/3892222176574211",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4f1200c6ce0e1f2f535a45da9b799fa115cdcb53",
-          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "url": "https://36kr.com/p/3892222176574211?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T05:47:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "36氪 · 24小时热榜"
-      ],
-      "items": [
-        {
-          "id": "6b804231c301f483c3025548fce93ba0d9f09ac4",
-          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "url": "https://www.36kr.com/p/3892222176574211",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4f1200c6ce0e1f2f535a45da9b799fa115cdcb53",
-          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "url": "https://36kr.com/p/3892222176574211?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T05:47:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5393,
-      "importance": 0.5393,
-      "importance_score": 0.5393,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.964,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T05:47:23Z",
-      "latest_at": "2026-07-12T10:54:29.803876Z",
-      "primary_item": {
-        "id": "6b804231c301f483c3025548fce93ba0d9f09ac4",
-        "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-        "url": "https://www.36kr.com/p/3892222176574211",
-        "source": "36氪 · 24小时热榜",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1687,15 +1670,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.539,
-      "importance": 0.539,
-      "importance_score": 0.539,
+      "score": 0.5364,
+      "importance": 0.5364,
+      "importance_score": 0.5364,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8233,
+        "recency": 0.8087,
         "story_heat": 0.5
       },
       "category": "multi_source",
