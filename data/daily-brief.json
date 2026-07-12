@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T14:41:26.500655Z",
+  "generated_at": "2026-07-12T15:57:33.785729Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8033,
-      "importance": 0.8033,
-      "importance_score": 0.8033,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8372,
+        "recency": 0.822,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -100,6 +100,67 @@
         "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
         "url": "https://www.iroh.computer/blog/mesh-llm",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_169d19b44b6c",
+      "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
+      "url": "https://x.com/satyanadella/status/2076323181154230284",
+      "primary_url": "https://x.com/satyanadella/status/2076323181154230284",
+      "source": "X：Satya Nadella (@satyanadella)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b62c95a42f68f854995840b3d2a2351ccfc3a4bb",
+          "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
+          "url": "https://x.com/satyanadella/status/2076323181154230284",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T15:09:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Satya Nadella (@satyanadella)"
+      ],
+      "items": [
+        {
+          "id": "b62c95a42f68f854995840b3d2a2351ccfc3a4bb",
+          "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
+          "url": "https://x.com/satyanadella/status/2076323181154230284",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T15:09:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7745,
+      "importance": 0.7745,
+      "importance_score": 0.7745,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9886,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T15:09:57Z",
+      "latest_at": "2026-07-12T15:09:57Z",
+      "primary_item": {
+        "id": "b62c95a42f68f854995840b3d2a2351ccfc3a4bb",
+        "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
+        "url": "https://x.com/satyanadella/status/2076323181154230284",
+        "source": "X：Satya Nadella (@satyanadella)",
         "source_name": "AI HOT"
       }
     },
@@ -157,15 +218,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.776,
-      "importance": 0.776,
-      "importance_score": 0.776,
+      "score": 0.773,
+      "importance": 0.773,
+      "importance_score": 0.773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9246,
+        "recency": 0.9078,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -238,15 +299,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
+      "score": 0.768,
+      "importance": 0.768,
+      "importance_score": 0.768,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8286,
+        "recency": 0.8135,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -319,15 +380,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7688,
-      "importance": 0.7688,
-      "importance_score": 0.7688,
+      "score": 0.7661,
+      "importance": 0.7661,
+      "importance_score": 0.7661,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8176,
+        "recency": 0.8028,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -400,15 +461,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7964,
-      "importance": 0.7964,
-      "importance_score": 0.7964,
+      "score": 0.7932,
+      "importance": 0.7932,
+      "importance_score": 0.7932,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.988,
+        "recency": 0.97,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -462,15 +523,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.74,
-      "importance": 0.74,
-      "importance_score": 0.74,
+      "score": 0.7372,
+      "importance": 0.7372,
+      "importance_score": 0.7372,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8467,
+        "recency": 0.8313,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -541,15 +602,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7318,
-      "importance": 0.7318,
-      "importance_score": 0.7318,
+      "score": 0.7294,
+      "importance": 0.7294,
+      "importance_score": 0.7294,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7287,
+        "recency": 0.7155,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -621,15 +682,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8401,
+        "recency": 0.8248,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -702,15 +763,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7473,
-      "importance": 0.7473,
-      "importance_score": 0.7473,
+      "score": 0.7449,
+      "importance": 0.7449,
+      "importance_score": 0.7449,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7319,
+        "recency": 0.7186,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -782,15 +843,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7728,
-      "importance": 0.7728,
-      "importance_score": 0.7728,
+      "score": 0.77,
+      "importance": 0.77,
+      "importance_score": 0.77,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8568,
+        "recency": 0.8412,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -863,22 +924,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7509,
-      "importance": 0.7509,
-      "importance_score": 0.7509,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8015,
+        "recency": 0.7869,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-11T23:21:57Z",
       "latest_at": "2026-07-11T23:21:57Z",
@@ -888,6 +948,175 @@
         "url": "https://www.ithome.com/0/975/634.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "AI可以批量写文案、做图片、投广告，品牌制造“声量”的成本正在快速下降。可当所有人都能生产更多内容，顾客为什么还要记住你、信任你，甚至主动把你推荐给别人？这正是营销家Seth Godin在这期对话里追问的问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-07-12",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "c5c6174b0bb558b86c7043802bc43e3396732d03",
+          "title": "AI可以批量写文案、做图片、投广告，品牌制造“声量”的成本正在快速下降。可当所有人都能生产更多内容，顾客为什么还要记住你、信任你，甚至主动把你推荐给别人？这正是营销家Seth Godin在这期对话里追问的问题。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-12",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-12T15:57:33.785729Z"
+        },
+        {
+          "id": "9b390655dafd542dce2eb4f54ba659155af6b256",
+          "title": "AJ受邀参加了D20峰会 AI 云智能分论坛 Go! Vibe Designing，做了一场「AI时代的设计流程重组」的分享，还和播客主理人刘飞、B 站 UP 主抽象仔一起，把圆桌聊成了一场现场播客。下面就和线上的朋友们一起回顾下AJ的分享内容！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-12",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-12T15:57:33.785729Z"
+        },
+        {
+          "id": "b2729d8d19d03d8935cddeb97ae95434c4e1b328",
+          "title": "飞书CLI接入各类AI编程工具后可一键读写文档、多维表格、日历、群聊、云空间与会议纪要，还能联动网页抓取、视频拆解、绘图生成、PPT 制作工具。这篇文章分享了一些创意玩法，覆盖知识库归档、短视频脚本解析、电商素材产出、产品商机分析等多元场景。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-12",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-12T15:57:33.785729Z"
+        },
+        {
+          "id": "3c2022c7454f793525a90db411cf2ed531ba3489",
+          "title": "如果你也经常日常使用ChatGPT、Codex做办公与代码开发，这份OpenAI官方提示词指南可以帮助你提升指令输出的质量。文中给出了通用的高效 Prompt 底层框架，还区分了普通对话、批量工作任务、代码工程三类专属指令逻辑，附上文件、插件、云端资源调用规范。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-11T17:32:03.288272Z"
+        },
+        {
+          "id": "2c682861733742713df9256434d0d79ad51840ef",
+          "title": "最近Codex合并到了ChatGPT应用里，还推出了一个ChatGPT Work模式。这让很多人搞不清楚 ChatGPT、Work、Codex 到底有什么区别，也不知道它们的额度是独立的还是共享的。宝玉这篇文章就带着大家详细拆解下！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-11T17:32:03.288272Z"
+        },
+        {
+          "id": "caee1cb3a04957cae68506cd128aeb2d65398a1f",
+          "title": "被零散灵感困住、难以落地完整剧本的编剧与内容创作者，快来试试猫叔的原点编剧系统（Plotcat）。它适配电影、长剧集、微短剧三类创作逻辑，打通了从单句创意到完整分场剧本的全流程。除了可以梳理故事内核、立体塑造人物、可视化管理故事结构与人物关系，还按需发散剧情、拆解节奏钩子，始终以创作者判断为主。数据本地存储可以保障素材隐私，兼容主流大模型，简单几步即可部署，新手也能用它高效搭建完整故事体系。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-11T17:32:03.288272Z"
+        },
+        {
+          "id": "6775699f131f34b8575fd1be93bbcef39425e7ce",
+          "title": "藏师傅用GPT-5.6 Sol做了一个非常完整而且好玩的小工具。上传一张你的照片，选一个跟你经历有关的\"人生成就\"，工具会给照片加上字符、像素或实验性滤镜，再叠上一张游戏风格的成就卡。最后你拿到一张 1080×1440 的竖图，直接发朋友圈、社交媒体，或者存到手机里留着。整个过程全在浏览器本地跑，不上传照片，不联网处理，打开就能用。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-11T16:28:33.686338Z"
+        }
+      ],
+      "source_count": 7,
+      "source_names": [
+        "社区更新 · 2026-07-11",
+        "社区更新 · 2026-07-12"
+      ],
+      "items": [
+        {
+          "id": "c5c6174b0bb558b86c7043802bc43e3396732d03",
+          "title": "AI可以批量写文案、做图片、投广告，品牌制造“声量”的成本正在快速下降。可当所有人都能生产更多内容，顾客为什么还要记住你、信任你，甚至主动把你推荐给别人？这正是营销家Seth Godin在这期对话里追问的问题。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-12",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-12T15:57:33.785729Z"
+        },
+        {
+          "id": "9b390655dafd542dce2eb4f54ba659155af6b256",
+          "title": "AJ受邀参加了D20峰会 AI 云智能分论坛 Go! Vibe Designing，做了一场「AI时代的设计流程重组」的分享，还和播客主理人刘飞、B 站 UP 主抽象仔一起，把圆桌聊成了一场现场播客。下面就和线上的朋友们一起回顾下AJ的分享内容！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-12",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-12T15:57:33.785729Z"
+        },
+        {
+          "id": "b2729d8d19d03d8935cddeb97ae95434c4e1b328",
+          "title": "飞书CLI接入各类AI编程工具后可一键读写文档、多维表格、日历、群聊、云空间与会议纪要，还能联动网页抓取、视频拆解、绘图生成、PPT 制作工具。这篇文章分享了一些创意玩法，覆盖知识库归档、短视频脚本解析、电商素材产出、产品商机分析等多元场景。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-12",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-12T15:57:33.785729Z"
+        },
+        {
+          "id": "3c2022c7454f793525a90db411cf2ed531ba3489",
+          "title": "如果你也经常日常使用ChatGPT、Codex做办公与代码开发，这份OpenAI官方提示词指南可以帮助你提升指令输出的质量。文中给出了通用的高效 Prompt 底层框架，还区分了普通对话、批量工作任务、代码工程三类专属指令逻辑，附上文件、插件、云端资源调用规范。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-11T17:32:03.288272Z"
+        },
+        {
+          "id": "2c682861733742713df9256434d0d79ad51840ef",
+          "title": "最近Codex合并到了ChatGPT应用里，还推出了一个ChatGPT Work模式。这让很多人搞不清楚 ChatGPT、Work、Codex 到底有什么区别，也不知道它们的额度是独立的还是共享的。宝玉这篇文章就带着大家详细拆解下！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-11T17:32:03.288272Z"
+        },
+        {
+          "id": "caee1cb3a04957cae68506cd128aeb2d65398a1f",
+          "title": "被零散灵感困住、难以落地完整剧本的编剧与内容创作者，快来试试猫叔的原点编剧系统（Plotcat）。它适配电影、长剧集、微短剧三类创作逻辑，打通了从单句创意到完整分场剧本的全流程。除了可以梳理故事内核、立体塑造人物、可视化管理故事结构与人物关系，还按需发散剧情、拆解节奏钩子，始终以创作者判断为主。数据本地存储可以保障素材隐私，兼容主流大模型，简单几步即可部署，新手也能用它高效搭建完整故事体系。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-11T17:32:03.288272Z"
+        },
+        {
+          "id": "6775699f131f34b8575fd1be93bbcef39425e7ce",
+          "title": "藏师傅用GPT-5.6 Sol做了一个非常完整而且好玩的小工具。上传一张你的照片，选一个跟你经历有关的\"人生成就\"，工具会给照片加上字符、像素或实验性滤镜，再叠上一张游戏风格的成就卡。最后你拿到一张 1080×1440 的竖图，直接发朋友圈、社交媒体，或者存到手机里留着。整个过程全在浏览器本地跑，不上传照片，不联网处理，打开就能用。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-11T16:28:33.686338Z"
+        }
+      ],
+      "item_count": 7,
+      "duplicate_count": 7,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T16:28:33.686338Z",
+      "latest_at": "2026-07-12T15:57:33.785729Z",
+      "primary_item": {
+        "id": "c5c6174b0bb558b86c7043802bc43e3396732d03",
+        "title": "AI可以批量写文案、做图片、投广告，品牌制造“声量”的成本正在快速下降。可当所有人都能生产更多内容，顾客为什么还要记住你、信任你，甚至主动把你推荐给别人？这正是营销家Seth Godin在这期对话里追问的问题。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-07-12",
+        "source_name": "WaytoAGI"
       }
     },
     {
@@ -944,22 +1173,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7499,
+      "importance": 0.7499,
+      "importance_score": 0.7499,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.726,
+        "recency": 0.7128,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-11T16:31:09.615000Z",
       "latest_at": "2026-07-11T16:31:09.615000Z",
@@ -969,120 +1197,6 @@
         "url": "https://www.mixfont.com/ghost-font",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "如果你也经常日常使用ChatGPT、Codex做办公与代码开发，这份OpenAI官方提示词指南可以帮助你提升指令输出的质量。文中给出了通用的高效 Prompt 底层框架，还区分了普通对话、批量工作任务、代码工程三类专属指令逻辑，附上文件、插件、云端资源调用规范。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-07-11",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "3c2022c7454f793525a90db411cf2ed531ba3489",
-          "title": "如果你也经常日常使用ChatGPT、Codex做办公与代码开发，这份OpenAI官方提示词指南可以帮助你提升指令输出的质量。文中给出了通用的高效 Prompt 底层框架，还区分了普通对话、批量工作任务、代码工程三类专属指令逻辑，附上文件、插件、云端资源调用规范。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-11",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-11T17:32:03.288272Z"
-        },
-        {
-          "id": "2c682861733742713df9256434d0d79ad51840ef",
-          "title": "最近Codex合并到了ChatGPT应用里，还推出了一个ChatGPT Work模式。这让很多人搞不清楚 ChatGPT、Work、Codex 到底有什么区别，也不知道它们的额度是独立的还是共享的。宝玉这篇文章就带着大家详细拆解下！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-11",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-11T17:32:03.288272Z"
-        },
-        {
-          "id": "caee1cb3a04957cae68506cd128aeb2d65398a1f",
-          "title": "被零散灵感困住、难以落地完整剧本的编剧与内容创作者，快来试试猫叔的原点编剧系统（Plotcat）。它适配电影、长剧集、微短剧三类创作逻辑，打通了从单句创意到完整分场剧本的全流程。除了可以梳理故事内核、立体塑造人物、可视化管理故事结构与人物关系，还按需发散剧情、拆解节奏钩子，始终以创作者判断为主。数据本地存储可以保障素材隐私，兼容主流大模型，简单几步即可部署，新手也能用它高效搭建完整故事体系。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-11",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-11T17:32:03.288272Z"
-        },
-        {
-          "id": "6775699f131f34b8575fd1be93bbcef39425e7ce",
-          "title": "藏师傅用GPT-5.6 Sol做了一个非常完整而且好玩的小工具。上传一张你的照片，选一个跟你经历有关的\"人生成就\"，工具会给照片加上字符、像素或实验性滤镜，再叠上一张游戏风格的成就卡。最后你拿到一张 1080×1440 的竖图，直接发朋友圈、社交媒体，或者存到手机里留着。整个过程全在浏览器本地跑，不上传照片，不联网处理，打开就能用。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-11",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-11T16:28:33.686338Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "社区更新 · 2026-07-11"
-      ],
-      "items": [
-        {
-          "id": "3c2022c7454f793525a90db411cf2ed531ba3489",
-          "title": "如果你也经常日常使用ChatGPT、Codex做办公与代码开发，这份OpenAI官方提示词指南可以帮助你提升指令输出的质量。文中给出了通用的高效 Prompt 底层框架，还区分了普通对话、批量工作任务、代码工程三类专属指令逻辑，附上文件、插件、云端资源调用规范。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-11",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-11T17:32:03.288272Z"
-        },
-        {
-          "id": "2c682861733742713df9256434d0d79ad51840ef",
-          "title": "最近Codex合并到了ChatGPT应用里，还推出了一个ChatGPT Work模式。这让很多人搞不清楚 ChatGPT、Work、Codex 到底有什么区别，也不知道它们的额度是独立的还是共享的。宝玉这篇文章就带着大家详细拆解下！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-11",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-11T17:32:03.288272Z"
-        },
-        {
-          "id": "caee1cb3a04957cae68506cd128aeb2d65398a1f",
-          "title": "被零散灵感困住、难以落地完整剧本的编剧与内容创作者，快来试试猫叔的原点编剧系统（Plotcat）。它适配电影、长剧集、微短剧三类创作逻辑，打通了从单句创意到完整分场剧本的全流程。除了可以梳理故事内核、立体塑造人物、可视化管理故事结构与人物关系，还按需发散剧情、拆解节奏钩子，始终以创作者判断为主。数据本地存储可以保障素材隐私，兼容主流大模型，简单几步即可部署，新手也能用它高效搭建完整故事体系。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-11",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-11T17:32:03.288272Z"
-        },
-        {
-          "id": "6775699f131f34b8575fd1be93bbcef39425e7ce",
-          "title": "藏师傅用GPT-5.6 Sol做了一个非常完整而且好玩的小工具。上传一张你的照片，选一个跟你经历有关的\"人生成就\"，工具会给照片加上字符、像素或实验性滤镜，再叠上一张游戏风格的成就卡。最后你拿到一张 1080×1440 的竖图，直接发朋友圈、社交媒体，或者存到手机里留着。整个过程全在浏览器本地跑，不上传照片，不联网处理，打开就能用。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-11",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-11T16:28:33.686338Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.6093,
-      "importance": 0.6093,
-      "importance_score": 0.6093,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.54,
-        "ai_relevance": 0.68,
-        "recency": 0.7367,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T16:28:33.686338Z",
-      "latest_at": "2026-07-11T17:32:03.288272Z",
-      "primary_item": {
-        "id": "3c2022c7454f793525a90db411cf2ed531ba3489",
-        "title": "如果你也经常日常使用ChatGPT、Codex做办公与代码开发，这份OpenAI官方提示词指南可以帮助你提升指令输出的质量。文中给出了通用的高效 Prompt 底层框架，还区分了普通对话、批量工作任务、代码工程三类专属指令逻辑，附上文件、插件、云端资源调用规范。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-07-11",
-        "source_name": "WaytoAGI"
       }
     },
     {
@@ -1177,15 +1291,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5724,
-      "importance": 0.5724,
-      "importance_score": 0.5724,
+      "score": 0.5696,
+      "importance": 0.5696,
+      "importance_score": 0.5696,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8701,
+        "recency": 0.8543,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1256,15 +1370,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5425,
+      "importance": 0.5425,
+      "importance_score": 0.5425,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9818,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1335,15 +1449,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
+      "score": 0.5418,
+      "importance": 0.5418,
+      "importance_score": 0.5418,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9957,
+        "recency": 0.9776,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1358,6 +1472,164 @@
         "url": "https://news.ycombinator.com/item?id=48881043",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_12c458e9f6b4",
+      "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
+      "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
+      "primary_url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ba95601d865a0210044540be1f74d839af08e1f6",
+          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
+          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T14:23:06.187000Z"
+        },
+        {
+          "id": "2f0a66f4493e18a9b91c14c15e8029c0cec5cc91",
+          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实 / AI giants learn what everyone else on the modern internet already knows",
+          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T14:02:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "ba95601d865a0210044540be1f74d839af08e1f6",
+          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
+          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T14:23:06.187000Z"
+        },
+        {
+          "id": "2f0a66f4493e18a9b91c14c15e8029c0cec5cc91",
+          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实 / AI giants learn what everyone else on the modern internet already knows",
+          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T14:02:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5418,
+      "importance": 0.5418,
+      "importance_score": 0.5418,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9775,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T14:02:01Z",
+      "latest_at": "2026-07-12T14:23:06.187000Z",
+      "primary_item": {
+        "id": "ba95601d865a0210044540be1f74d839af08e1f6",
+        "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
+        "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_af41461907f9",
+      "title": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范",
+      "url": "https://github.com/Roee-Tsur/mcp-spec-check",
+      "primary_url": "https://github.com/Roee-Tsur/mcp-spec-check",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "78e767314a8d61d7d850cf22cfae10317bf705f2",
+          "title": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范",
+          "url": "https://github.com/Roee-Tsur/mcp-spec-check",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T13:35:15.303000Z"
+        },
+        {
+          "id": "89fb1b44dc3744f1e0f801a30f2663400c1e74c9",
+          "title": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范 / Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
+          "url": "https://github.com/Roee-Tsur/mcp-spec-check",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T13:21:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "78e767314a8d61d7d850cf22cfae10317bf705f2",
+          "title": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范",
+          "url": "https://github.com/Roee-Tsur/mcp-spec-check",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T13:35:15.303000Z"
+        },
+        {
+          "id": "89fb1b44dc3744f1e0f801a30f2663400c1e74c9",
+          "title": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范 / Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
+          "url": "https://github.com/Roee-Tsur/mcp-spec-check",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T13:21:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5397,
+      "importance": 0.5397,
+      "importance_score": 0.5397,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9663,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T13:21:01Z",
+      "latest_at": "2026-07-12T13:35:15.303000Z",
+      "primary_item": {
+        "id": "78e767314a8d61d7d850cf22cfae10317bf705f2",
+        "title": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范",
+        "url": "https://github.com/Roee-Tsur/mcp-spec-check",
+        "source": "github.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1414,15 +1686,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5388,
-      "importance": 0.5388,
-      "importance_score": 0.5388,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9613,
+        "recency": 0.9438,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1437,262 +1709,6 @@
         "url": "https://github.com/Nutlope/hallmark",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_56cbb52c8dba",
-      "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
-      "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
-      "primary_url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
-      "source": "36氪 (36Kr)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "1806d9f9968d5751df9ce3ef0e7aadb313b8a5fd",
-          "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
-          "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T11:37:33Z"
-        },
-        {
-          "id": "3a40211363b4e97f550cc53ceba9c73101f9536a",
-          "title": "AI 热潮太费电 燃气轮机价格 3 年涨了 300%",
-          "url": "https://www.gelonghui.com/live/2548422",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "1806d9f9968d5751df9ce3ef0e7aadb313b8a5fd",
-          "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
-          "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T11:37:33Z"
-        },
-        {
-          "id": "3a40211363b4e97f550cc53ceba9c73101f9536a",
-          "title": "AI 热潮太费电 燃气轮机价格 3 年涨了 300%",
-          "url": "https://www.gelonghui.com/live/2548422",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.538,
-      "importance": 0.538,
-      "importance_score": 0.538,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9567,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T10:54:29.803876Z",
-      "latest_at": "2026-07-12T11:37:33Z",
-      "primary_item": {
-        "id": "1806d9f9968d5751df9ce3ef0e7aadb313b8a5fd",
-        "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
-        "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
-        "source": "36氪 (36Kr)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_9c16317d5df5",
-      "title": "我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。",
-      "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
-      "primary_url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d49fe1d4cc2c3b0ce21b296123d2fc3e084abc4a",
-          "title": "我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。",
-          "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T11:11:07.762000Z"
-        },
-        {
-          "id": "8f92d8063a8524b8318042b1d525babcc144c568",
-          "title": "我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。 / I'm a writer who left LA for an AI startup in San Francisco. It was like stepping into a whole new world.",
-          "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-12T09:51:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "d49fe1d4cc2c3b0ce21b296123d2fc3e084abc4a",
-          "title": "我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。",
-          "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T11:11:07.762000Z"
-        },
-        {
-          "id": "8f92d8063a8524b8318042b1d525babcc144c568",
-          "title": "我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。 / I'm a writer who left LA for an AI startup in San Francisco. It was like stepping into a whole new world.",
-          "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-12T09:51:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5369,
-      "importance": 0.5369,
-      "importance_score": 0.5369,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9506,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T09:51:01Z",
-      "latest_at": "2026-07-12T11:11:07.762000Z",
-      "primary_item": {
-        "id": "d49fe1d4cc2c3b0ce21b296123d2fc3e084abc4a",
-        "title": "我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。",
-        "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_afc80c46cea0",
-      "title": "别再让我去问LLM了",
-      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
-      "primary_url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
-      "source": "blog.yaelwrites.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d3c7dfebcf3cfef4260e34b94be9c61110f5d26c",
-          "title": "别再让我去问LLM了",
-          "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
-          "source": "blog.yaelwrites.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T23:59:09.075000Z"
-        },
-        {
-          "id": "36ea69c2b9d8f7394a0e114f6978e5543014760c",
-          "title": "别再告诉我去申请法学硕士 / Stop Telling Me to Ask an LLM",
-          "url": "https://news.ycombinator.com/item?id=48876441",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T23:11:32.847000Z"
-        },
-        {
-          "id": "7ad6a87cd024d1f73c270622a277ed46ea3f5091",
-          "title": "别再让我去问LLM了 / Stop Telling Me to Ask an LLM",
-          "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T22:28:48Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "blog.yaelwrites.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "d3c7dfebcf3cfef4260e34b94be9c61110f5d26c",
-          "title": "别再让我去问LLM了",
-          "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
-          "source": "blog.yaelwrites.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T23:59:09.075000Z"
-        },
-        {
-          "id": "36ea69c2b9d8f7394a0e114f6978e5543014760c",
-          "title": "别再告诉我去申请法学硕士 / Stop Telling Me to Ask an LLM",
-          "url": "https://news.ycombinator.com/item?id=48876441",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T23:11:32.847000Z"
-        },
-        {
-          "id": "7ad6a87cd024d1f73c270622a277ed46ea3f5091",
-          "title": "别再让我去问LLM了 / Stop Telling Me to Ask an LLM",
-          "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T22:28:48Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5364,
-      "importance": 0.5364,
-      "importance_score": 0.5364,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8087,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T22:28:48Z",
-      "latest_at": "2026-07-11T23:59:09.075000Z",
-      "primary_item": {
-        "id": "d3c7dfebcf3cfef4260e34b94be9c61110f5d26c",
-        "title": "别再让我去问LLM了",
-        "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
-        "source": "blog.yaelwrites.com",
-        "source_name": "Buzzing"
       }
     }
   ]
