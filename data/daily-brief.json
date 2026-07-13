@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T12:29:31.849120Z",
+  "generated_at": "2026-07-13T15:25:48.742756Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -19,9 +19,18 @@
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-07-13T00:00:00Z"
+        },
+        {
+          "id": "9e799f0c9dbb9b3047013f8b08d426b3e5fe7894",
+          "title": "法典 CLI 0.144.3 / Codex CLI 0.144.3",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T00:00:00Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
         "OpenAI Codex Changelog"
       ],
@@ -34,24 +43,34 @@
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-07-13T00:00:00Z"
+        },
+        {
+          "id": "9e799f0c9dbb9b3047013f8b08d426b3e5fe7894",
+          "title": "法典 CLI 0.144.3 / Codex CLI 0.144.3",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T00:00:00Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8363,
-      "importance": 0.8363,
-      "importance_score": 0.8363,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.855,
+      "importance": 0.855,
+      "importance_score": 0.855,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8349,
-        "story_heat": 0.0
+        "recency": 0.8003,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
@@ -157,15 +176,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8062,
-      "importance": 0.8062,
-      "importance_score": 0.8062,
+      "score": 0.8,
+      "importance": 0.8,
+      "importance_score": 0.8,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8312,
+        "recency": 0.7966,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -238,15 +257,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.786,
-      "importance": 0.786,
-      "importance_score": 0.786,
+      "score": 0.7788,
+      "importance": 0.7788,
+      "importance_score": 0.7788,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9631,
+        "recency": 0.9231,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -319,15 +338,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7845,
-      "importance": 0.7845,
-      "importance_score": 0.7845,
+      "score": 0.7771,
+      "importance": 0.7771,
+      "importance_score": 0.7771,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9884,
+        "recency": 0.9473,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -381,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7801,
-      "importance": 0.7801,
-      "importance_score": 0.7801,
+      "score": 0.7738,
+      "importance": 0.7738,
+      "importance_score": 0.7738,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8359,
+        "recency": 0.8012,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -461,15 +480,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7799,
-      "importance": 0.7799,
-      "importance_score": 0.7799,
+      "score": 0.7736,
+      "importance": 0.7736,
+      "importance_score": 0.7736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8462,
+        "recency": 0.811,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -523,15 +542,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7763,
-      "importance": 0.7763,
-      "importance_score": 0.7763,
+      "score": 0.769,
+      "importance": 0.769,
+      "importance_score": 0.769,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9817,
+        "recency": 0.941,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -584,15 +603,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7698,
-      "importance": 0.7698,
-      "importance_score": 0.7698,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9621,
+        "recency": 0.9221,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -664,15 +683,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.786,
-      "importance": 0.786,
-      "importance_score": 0.786,
+      "score": 0.7788,
+      "importance": 0.7788,
+      "importance_score": 0.7788,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9631,
+        "recency": 0.9231,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -726,15 +745,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7762,
-      "importance": 0.7762,
-      "importance_score": 0.7762,
+      "score": 0.769,
+      "importance": 0.769,
+      "importance_score": 0.769,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9644,
+        "recency": 0.9243,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -787,15 +806,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "score": 0.7355,
+      "importance": 0.7355,
+      "importance_score": 0.7355,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7706,
+        "recency": 0.7386,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -847,15 +866,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7374,
-      "importance": 0.7374,
-      "importance_score": 0.7374,
+      "score": 0.7317,
+      "importance": 0.7317,
+      "importance_score": 0.7317,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7656,
+        "recency": 0.7338,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -907,15 +926,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7313,
-      "importance": 0.7313,
-      "importance_score": 0.7313,
+      "score": 0.7257,
+      "importance": 0.7257,
+      "importance_score": 0.7257,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7483,
+        "recency": 0.7172,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -929,66 +948,6 @@
         "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
         "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
         "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_169d19b44b6c",
-      "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
-      "url": "https://x.com/satyanadella/status/2076323181154230284",
-      "primary_url": "https://x.com/satyanadella/status/2076323181154230284",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b62c95a42f68f854995840b3d2a2351ccfc3a4bb",
-          "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
-          "url": "https://x.com/satyanadella/status/2076323181154230284",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T15:09:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Satya Nadella (@satyanadella)"
-      ],
-      "items": [
-        {
-          "id": "b62c95a42f68f854995840b3d2a2351ccfc3a4bb",
-          "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
-          "url": "https://x.com/satyanadella/status/2076323181154230284",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T15:09:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7289,
-      "importance": 0.7289,
-      "importance_score": 0.7289,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7349,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-12T15:09:57Z",
-      "latest_at": "2026-07-12T15:09:57Z",
-      "primary_item": {
-        "id": "b62c95a42f68f854995840b3d2a2351ccfc3a4bb",
-        "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
-        "url": "https://x.com/satyanadella/status/2076323181154230284",
-        "source": "X：Satya Nadella (@satyanadella)",
         "source_name": "AI HOT"
       }
     },
@@ -1046,15 +1005,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7771,
-      "importance": 0.7771,
-      "importance_score": 0.7771,
+      "score": 0.7702,
+      "importance": 0.7702,
+      "importance_score": 0.7702,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9137,
+        "recency": 0.8758,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1071,66 +1030,6 @@
         "url": "https://www.aibase.com/news/29541",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4da51d31a85f",
-      "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-      "url": "https://github.com/cosmtrek/mindwalk",
-      "primary_url": "https://github.com/cosmtrek/mindwalk",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
-          "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-          "url": "https://github.com/cosmtrek/mindwalk",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T13:51:05.035000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
-          "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-          "url": "https://github.com/cosmtrek/mindwalk",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T13:51:05.035000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7234,
-      "importance": 0.7234,
-      "importance_score": 0.7234,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7211,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-12T13:51:05.035000Z",
-      "latest_at": "2026-07-12T13:51:05.035000Z",
-      "primary_item": {
-        "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
-        "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-        "url": "https://github.com/cosmtrek/mindwalk",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1187,15 +1086,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7685,
-      "importance": 0.7685,
-      "importance_score": 0.7685,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8662,
+        "recency": 0.8303,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1216,13 +1115,31 @@
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
+      "title": "晨然这篇文章戳破了一个很容易让 AI 视频创业者上头的幻觉：只要生成能力够强、自动化够深，行业就会被重做一遍。他用两年踩坑经历，把 AI 视频从“工具崇拜”拉回到“创意、制作、分发”的完整链路里。如果你也在关注 AI 视频创业，这篇复盘很值得看，它会带你重新判断：机会到底是在工具里，还是在工具之外。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "source": "社区更新 · 2026-07-13",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "7bb84f5c51a83164a5c42a140174656686ab7644",
+          "title": "晨然这篇文章戳破了一个很容易让 AI 视频创业者上头的幻觉：只要生成能力够强、自动化够深，行业就会被重做一遍。他用两年踩坑经历，把 AI 视频从“工具崇拜”拉回到“创意、制作、分发”的完整链路里。如果你也在关注 AI 视频创业，这篇复盘很值得看，它会带你重新判断：机会到底是在工具里，还是在工具之外。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-13",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-13T15:25:48.742756Z"
+        },
+        {
+          "id": "a66c1084a5fbfbe101630fe32f2545df7c6b3887",
+          "title": "本周的AI音乐周刊，内容覆盖各类开源音频模型、主流生产力工具升级与全球版权规范。英伟达、Mirelo 等放出多模态音频、混音扒谱、司法级语音修复开源模型；FL Studio、Audiotool、Suno 更新了多人在线编曲、专属文风歌词克隆等等功能；此外Vobile 推出首个 AI 歌曲检测 MCP 服务；八大音乐机构推出统一的AI 歌曲标注规范；更有多篇有关音乐生成、音频评测领域的论文相继发布。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-13",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-13T15:25:48.742756Z"
+        },
+        {
           "id": "a930df5107467df479e4f4a3ac3c60cbb53d9cf4",
           "title": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -1295,13 +1212,31 @@
           "published_at": "2026-07-12T15:57:33.785729Z"
         }
       ],
-      "source_count": 8,
+      "source_count": 10,
       "source_names": [
         "社区更新 · 2026-07-12",
         "社区更新 · 2026-07-13"
       ],
       "items": [
         {
+          "id": "7bb84f5c51a83164a5c42a140174656686ab7644",
+          "title": "晨然这篇文章戳破了一个很容易让 AI 视频创业者上头的幻觉：只要生成能力够强、自动化够深，行业就会被重做一遍。他用两年踩坑经历，把 AI 视频从“工具崇拜”拉回到“创意、制作、分发”的完整链路里。如果你也在关注 AI 视频创业，这篇复盘很值得看，它会带你重新判断：机会到底是在工具里，还是在工具之外。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-13",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-13T15:25:48.742756Z"
+        },
+        {
+          "id": "a66c1084a5fbfbe101630fe32f2545df7c6b3887",
+          "title": "本周的AI音乐周刊，内容覆盖各类开源音频模型、主流生产力工具升级与全球版权规范。英伟达、Mirelo 等放出多模态音频、混音扒谱、司法级语音修复开源模型；FL Studio、Audiotool、Suno 更新了多人在线编曲、专属文风歌词克隆等等功能；此外Vobile 推出首个 AI 歌曲检测 MCP 服务；八大音乐机构推出统一的AI 歌曲标注规范；更有多篇有关音乐生成、音频评测领域的论文相继发布。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-13",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-13T15:25:48.742756Z"
+        },
+        {
           "id": "a930df5107467df479e4f4a3ac3c60cbb53d9cf4",
           "title": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -1374,17 +1309,17 @@
           "published_at": "2026-07-12T15:57:33.785729Z"
         }
       ],
-      "item_count": 8,
-      "duplicate_count": 8,
-      "score": 0.6537,
-      "importance": 0.6537,
-      "importance_score": 0.6537,
+      "item_count": 10,
+      "duplicate_count": 10,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9137,
+        "recency": 1.0,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1392,10 +1327,10 @@
         "multi_source"
       ],
       "earliest_at": "2026-07-12T15:57:33.785729Z",
-      "latest_at": "2026-07-13T06:14:39.261681Z",
+      "latest_at": "2026-07-13T15:25:48.742756Z",
       "primary_item": {
-        "id": "a930df5107467df479e4f4a3ac3c60cbb53d9cf4",
-        "title": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
+        "id": "7bb84f5c51a83164a5c42a140174656686ab7644",
+        "title": "晨然这篇文章戳破了一个很容易让 AI 视频创业者上头的幻觉：只要生成能力够强、自动化够深，行业就会被重做一遍。他用两年踩坑经历，把 AI 视频从“工具崇拜”拉回到“创意、制作、分发”的完整链路里。如果你也在关注 AI 视频创业，这篇复盘很值得看，它会带你重新判断：机会到底是在工具里，还是在工具之外。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-13",
         "source_name": "WaytoAGI"
@@ -1436,15 +1371,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.761,
-      "importance": 0.761,
-      "importance_score": 0.761,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9631,
+        "recency": 0.9231,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1497,15 +1432,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.761,
-      "importance": 0.761,
-      "importance_score": 0.761,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9631,
+        "recency": 0.9231,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1521,6 +1456,165 @@
         "url": "https://www.aibase.com/news/29548",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b3c3f980dac1",
+      "title": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
+      "url": "https://www.aibase.com/news/29550",
+      "primary_url": "https://www.aibase.com/news/29550",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c11b08a26ab91efa3bcfa74723d76a64d60947a6",
+          "title": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
+          "url": "https://www.aibase.com/news/29550",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T09:53:18.492526Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c11b08a26ab91efa3bcfa74723d76a64d60947a6",
+          "title": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
+          "url": "https://www.aibase.com/news/29550",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T09:53:18.492526Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9231,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T09:53:18.492526Z",
+      "latest_at": "2026-07-13T09:53:18.492526Z",
+      "primary_item": {
+        "id": "c11b08a26ab91efa3bcfa74723d76a64d60947a6",
+        "title": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
+        "url": "https://www.aibase.com/news/29550",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_bd87c1bd9f8f",
+      "title": "Zig创始人直言不讳，Anthropic则故弄玄虚",
+      "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
+      "primary_url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
+      "source": "raymyers.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0c987916ddf453e2c44a5247157e884356412396",
+          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚",
+          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
+          "source": "raymyers.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T09:41:19.566000Z"
+        },
+        {
+          "id": "a1362fd8483d2d2e1bb20d81fe47d65c8038aecd",
+          "title": "Zig 创造者实话实说，人性化烟雾 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+          "url": "https://news.ycombinator.com/item?id=48889637",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-13T09:28:44.591000Z"
+        },
+        {
+          "id": "04d20d323946c0bc33dee02fbc4289db29879f4e",
+          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-13T08:39:39Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "raymyers.org"
+      ],
+      "items": [
+        {
+          "id": "0c987916ddf453e2c44a5247157e884356412396",
+          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚",
+          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
+          "source": "raymyers.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T09:41:19.566000Z"
+        },
+        {
+          "id": "a1362fd8483d2d2e1bb20d81fe47d65c8038aecd",
+          "title": "Zig 创造者实话实说，人性化烟雾 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+          "url": "https://news.ycombinator.com/item?id=48889637",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-13T09:28:44.591000Z"
+        },
+        {
+          "id": "04d20d323946c0bc33dee02fbc4289db29879f4e",
+          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-13T08:39:39Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5565,
+      "importance": 0.5565,
+      "importance_score": 0.5565,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9204,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-13T08:39:39Z",
+      "latest_at": "2026-07-13T09:41:19.566000Z",
+      "primary_item": {
+        "id": "0c987916ddf453e2c44a5247157e884356412396",
+        "title": "Zig创始人直言不讳，Anthropic则故弄玄虚",
+        "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
+        "source": "raymyers.org",
+        "source_name": "Buzzing"
       }
     }
   ]
