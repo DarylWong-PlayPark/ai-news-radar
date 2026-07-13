@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T06:14:39.261681Z",
+  "generated_at": "2026-07-13T09:53:18.492526Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8505,
-      "importance": 0.8505,
-      "importance_score": 0.8505,
+      "score": 0.842,
+      "importance": 0.842,
+      "importance_score": 0.842,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9138,
+        "recency": 0.8669,
         "story_heat": 0.0
       },
       "category": "official",
@@ -157,15 +157,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8203,
-      "importance": 0.8203,
-      "importance_score": 0.8203,
+      "score": 0.8119,
+      "importance": 0.8119,
+      "importance_score": 0.8119,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9097,
+        "recency": 0.863,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -182,6 +182,87 @@
         "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0bd34d8ebc49",
+      "title": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
+      "url": "https://www.aibase.com/news/29553",
+      "primary_url": "https://www.aibase.com/news/29553",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4e33eb43aa48079fde1096428514561723a95a0c",
+          "title": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
+          "url": "https://www.aibase.com/news/29553",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T09:53:18.492526Z"
+        },
+        {
+          "id": "e7cdece03008890869ccc38e1df3a23a8adddf7b",
+          "title": "微软全面引入 AI 挖掘 Windows 漏洞，后续安全补丁修复数量将大幅增加",
+          "url": "https://www.aibase.com/zh/news/29553",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "4e33eb43aa48079fde1096428514561723a95a0c",
+          "title": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
+          "url": "https://www.aibase.com/news/29553",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T09:53:18.492526Z"
+        },
+        {
+          "id": "e7cdece03008890869ccc38e1df3a23a8adddf7b",
+          "title": "微软全面引入 AI 挖掘 Windows 漏洞，后续安全补丁修复数量将大幅增加",
+          "url": "https://www.aibase.com/zh/news/29553",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T09:53:18.492526Z",
+      "latest_at": "2026-07-13T09:53:18.492526Z",
+      "primary_item": {
+        "id": "4e33eb43aa48079fde1096428514561723a95a0c",
+        "title": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
+        "url": "https://www.aibase.com/news/29553",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -219,15 +300,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7943,
-      "importance": 0.7943,
-      "importance_score": 0.7943,
+      "score": 0.7858,
+      "importance": 0.7858,
+      "importance_score": 0.7858,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9149,
+        "recency": 0.868,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -299,15 +380,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7943,
-      "importance": 0.7943,
-      "importance_score": 0.7943,
+      "score": 0.7857,
+      "importance": 0.7857,
+      "importance_score": 0.7857,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9261,
+        "recency": 0.8786,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -323,6 +404,327 @@
         "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
         "url": "https://www.ithome.com/0/975/865.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_dc1c34a70469",
+      "title": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源",
+      "url": "https://www.aibase.com/news/29549",
+      "primary_url": "https://www.aibase.com/news/29549",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "351f409b8c43c884be9dede43e04e787aec8793a",
+          "title": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源",
+          "url": "https://www.aibase.com/news/29549",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T09:53:18.492526Z"
+        },
+        {
+          "id": "5ae22696c15178764cb6beb37d6d6180508ca049",
+          "title": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI 芯片税收成主要来源",
+          "url": "https://www.ithome.com/0/976/012.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-13T07:14:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "IT之家 (ITHome)"
+      ],
+      "items": [
+        {
+          "id": "351f409b8c43c884be9dede43e04e787aec8793a",
+          "title": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源",
+          "url": "https://www.aibase.com/news/29549",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T09:53:18.492526Z"
+        },
+        {
+          "id": "5ae22696c15178764cb6beb37d6d6180508ca049",
+          "title": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI 芯片税收成主要来源",
+          "url": "https://www.ithome.com/0/976/012.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-13T07:14:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T07:14:40Z",
+      "latest_at": "2026-07-13T09:53:18.492526Z",
+      "primary_item": {
+        "id": "351f409b8c43c884be9dede43e04e787aec8793a",
+        "title": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源",
+        "url": "https://www.aibase.com/news/29549",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_94a1c14fcbb4",
+      "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+      "url": "https://x.com/dotey/status/2076372677577576864",
+      "primary_url": "https://x.com/dotey/status/2076372677577576864",
+      "source": "X：宝玉 (@dotey)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b9e48e81b83ac2a8c1d352a0c5efe75ff0c78b93",
+          "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+          "url": "https://x.com/dotey/status/2076372677577576864",
+          "source": "X：宝玉 (@dotey)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T18:26:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：宝玉 (@dotey)"
+      ],
+      "items": [
+        {
+          "id": "b9e48e81b83ac2a8c1d352a0c5efe75ff0c78b93",
+          "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+          "url": "https://x.com/dotey/status/2076372677577576864",
+          "source": "X：宝玉 (@dotey)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T18:26:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7466,
+      "importance": 0.7466,
+      "importance_score": 0.7466,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8001,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-12T18:26:38Z",
+      "latest_at": "2026-07-12T18:26:38Z",
+      "primary_item": {
+        "id": "b9e48e81b83ac2a8c1d352a0c5efe75ff0c78b93",
+        "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+        "url": "https://x.com/dotey/status/2076372677577576864",
+        "source": "X：宝玉 (@dotey)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7de58394b679",
+      "title": "Codex与ChatGPT Work多项更新：取消5小时限制",
+      "url": "https://x.com/thsottiaux/status/2076365965915467978",
+      "primary_url": "https://x.com/thsottiaux/status/2076365965915467978",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a6d2b88e70167d146ce7fa659dd2757d371b20ce",
+          "title": "Codex与ChatGPT Work多项更新：取消5小时限制",
+          "url": "https://x.com/thsottiaux/status/2076365965915467978",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T17:59:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "a6d2b88e70167d146ce7fa659dd2757d371b20ce",
+          "title": "Codex与ChatGPT Work多项更新：取消5小时限制",
+          "url": "https://x.com/thsottiaux/status/2076365965915467978",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T17:59:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7427,
+      "importance": 0.7427,
+      "importance_score": 0.7427,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.795,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-12T17:59:57Z",
+      "latest_at": "2026-07-12T17:59:57Z",
+      "primary_item": {
+        "id": "a6d2b88e70167d146ce7fa659dd2757d371b20ce",
+        "title": "Codex与ChatGPT Work多项更新：取消5小时限制",
+        "url": "https://x.com/thsottiaux/status/2076365965915467978",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2d32142bc0da",
+      "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+      "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
+      "primary_url": "https://x.com/AYi_AInotes/status/2076341952023310580",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c3b94bfbf430fa9dd347781c6de01eb70fd3a32a",
+          "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+          "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T16:24:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "c3b94bfbf430fa9dd347781c6de01eb70fd3a32a",
+          "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+          "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T16:24:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7364,
+      "importance": 0.7364,
+      "importance_score": 0.7364,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7769,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-12T16:24:32Z",
+      "latest_at": "2026-07-12T16:24:32Z",
+      "primary_item": {
+        "id": "c3b94bfbf430fa9dd347781c6de01eb70fd3a32a",
+        "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+        "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_169d19b44b6c",
+      "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
+      "url": "https://x.com/satyanadella/status/2076323181154230284",
+      "primary_url": "https://x.com/satyanadella/status/2076323181154230284",
+      "source": "X：Satya Nadella (@satyanadella)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b62c95a42f68f854995840b3d2a2351ccfc3a4bb",
+          "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
+          "url": "https://x.com/satyanadella/status/2076323181154230284",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T15:09:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Satya Nadella (@satyanadella)"
+      ],
+      "items": [
+        {
+          "id": "b62c95a42f68f854995840b3d2a2351ccfc3a4bb",
+          "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
+          "url": "https://x.com/satyanadella/status/2076323181154230284",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T15:09:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.734,
+      "importance": 0.734,
+      "importance_score": 0.734,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7631,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-12T15:09:57Z",
+      "latest_at": "2026-07-12T15:09:57Z",
+      "primary_item": {
+        "id": "b62c95a42f68f854995840b3d2a2351ccfc3a4bb",
+        "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
+        "url": "https://x.com/satyanadella/status/2076323181154230284",
+        "source": "X：Satya Nadella (@satyanadella)",
         "source_name": "AI HOT"
       }
     },
@@ -380,15 +782,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7834,
+      "importance": 0.7834,
+      "importance_score": 0.7834,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9487,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -408,63 +810,62 @@
       }
     },
     {
-      "story_id": "story_94a1c14fcbb4",
-      "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-      "url": "https://x.com/dotey/status/2076372677577576864",
-      "primary_url": "https://x.com/dotey/status/2076372677577576864",
-      "source": "X：宝玉 (@dotey)",
+      "story_id": "story_4da51d31a85f",
+      "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "primary_url": "https://github.com/cosmtrek/mindwalk",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b9e48e81b83ac2a8c1d352a0c5efe75ff0c78b93",
-          "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-          "url": "https://x.com/dotey/status/2076372677577576864",
-          "source": "X：宝玉 (@dotey)",
+          "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
+          "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+          "url": "https://github.com/cosmtrek/mindwalk",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-12T18:26:38Z"
+          "published_at": "2026-07-12T13:51:05.035000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：宝玉 (@dotey)"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "b9e48e81b83ac2a8c1d352a0c5efe75ff0c78b93",
-          "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-          "url": "https://x.com/dotey/status/2076372677577576864",
-          "source": "X：宝玉 (@dotey)",
+          "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
+          "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+          "url": "https://github.com/cosmtrek/mindwalk",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-12T18:26:38Z"
+          "published_at": "2026-07-12T13:51:05.035000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
+      "score": 0.7284,
+      "importance": 0.7284,
+      "importance_score": 0.7284,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8433,
+        "recency": 0.7488,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-12T18:26:38Z",
-      "latest_at": "2026-07-12T18:26:38Z",
+      "earliest_at": "2026-07-12T13:51:05.035000Z",
+      "latest_at": "2026-07-12T13:51:05.035000Z",
       "primary_item": {
-        "id": "b9e48e81b83ac2a8c1d352a0c5efe75ff0c78b93",
-        "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-        "url": "https://x.com/dotey/status/2076372677577576864",
-        "source": "X：宝玉 (@dotey)",
+        "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
+        "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+        "url": "https://github.com/cosmtrek/mindwalk",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -522,15 +923,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7832,
-      "importance": 0.7832,
-      "importance_score": 0.7832,
+      "score": 0.7745,
+      "importance": 0.7745,
+      "importance_score": 0.7745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.948,
+        "recency": 0.8994,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -545,449 +946,6 @@
         "id": "7bd0d0430adfd3c40de51875d6feb098422c7262",
         "title": "被寄予厚望的AI浏览器夭折，OpenAI正式宣布关停Atlas",
         "url": "https://www.aibase.com/news/29536",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7de58394b679",
-      "title": "Codex与ChatGPT Work多项更新：取消5小时限制",
-      "url": "https://x.com/thsottiaux/status/2076365965915467978",
-      "primary_url": "https://x.com/thsottiaux/status/2076365965915467978",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a6d2b88e70167d146ce7fa659dd2757d371b20ce",
-          "title": "Codex与ChatGPT Work多项更新：取消5小时限制",
-          "url": "https://x.com/thsottiaux/status/2076365965915467978",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T17:59:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "a6d2b88e70167d146ce7fa659dd2757d371b20ce",
-          "title": "Codex与ChatGPT Work多项更新：取消5小时限制",
-          "url": "https://x.com/thsottiaux/status/2076365965915467978",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T17:59:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8379,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-12T17:59:57Z",
-      "latest_at": "2026-07-12T17:59:57Z",
-      "primary_item": {
-        "id": "a6d2b88e70167d146ce7fa659dd2757d371b20ce",
-        "title": "Codex与ChatGPT Work多项更新：取消5小时限制",
-        "url": "https://x.com/thsottiaux/status/2076365965915467978",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2d32142bc0da",
-      "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
-      "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
-      "primary_url": "https://x.com/AYi_AInotes/status/2076341952023310580",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c3b94bfbf430fa9dd347781c6de01eb70fd3a32a",
-          "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
-          "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T16:24:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
-      ],
-      "items": [
-        {
-          "id": "c3b94bfbf430fa9dd347781c6de01eb70fd3a32a",
-          "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
-          "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T16:24:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.744,
-      "importance": 0.744,
-      "importance_score": 0.744,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8189,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-12T16:24:32Z",
-      "latest_at": "2026-07-12T16:24:32Z",
-      "primary_item": {
-        "id": "c3b94bfbf430fa9dd347781c6de01eb70fd3a32a",
-        "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
-        "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2e50379c134a",
-      "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
-      "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
-      "primary_url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "40b04024e4d42805d7dd204ba5ea764dac00d99a",
-          "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
-          "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T09:15:49Z"
-        },
-        {
-          "id": "4183d44328a5f1e7e0afa6dc2e6118e6207f05ac",
-          "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论 / OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs",
-          "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-12T09:15:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "40b04024e4d42805d7dd204ba5ea764dac00d99a",
-          "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
-          "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T09:15:49Z"
-        },
-        {
-          "id": "4183d44328a5f1e7e0afa6dc2e6118e6207f05ac",
-          "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论 / OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs",
-          "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-12T09:15:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7386,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-12T09:15:49Z",
-      "latest_at": "2026-07-12T09:15:49Z",
-      "primary_item": {
-        "id": "40b04024e4d42805d7dd204ba5ea764dac00d99a",
-        "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
-        "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_169d19b44b6c",
-      "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
-      "url": "https://x.com/satyanadella/status/2076323181154230284",
-      "primary_url": "https://x.com/satyanadella/status/2076323181154230284",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b62c95a42f68f854995840b3d2a2351ccfc3a4bb",
-          "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
-          "url": "https://x.com/satyanadella/status/2076323181154230284",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T15:09:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Satya Nadella (@satyanadella)"
-      ],
-      "items": [
-        {
-          "id": "b62c95a42f68f854995840b3d2a2351ccfc3a4bb",
-          "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
-          "url": "https://x.com/satyanadella/status/2076323181154230284",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T15:09:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8043,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-12T15:09:57Z",
-      "latest_at": "2026-07-12T15:09:57Z",
-      "primary_item": {
-        "id": "b62c95a42f68f854995840b3d2a2351ccfc3a4bb",
-        "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
-        "url": "https://x.com/satyanadella/status/2076323181154230284",
-        "source": "X：Satya Nadella (@satyanadella)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3b8abf3cb07f",
-      "title": "Anthropic再续命：Fable5 访问权限延长至 7 月 19 日，留人更要挽回口碑",
-      "url": "https://www.aibase.com/news/29540",
-      "primary_url": "https://www.aibase.com/news/29540",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7d3139bebf1808f8739e165b51d03bebe3c410a1",
-          "title": "Anthropic再续命：Fable5 访问权限延长至 7 月 19 日，留人更要挽回口碑",
-          "url": "https://www.aibase.com/news/29540",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T06:14:39.261681Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7d3139bebf1808f8739e165b51d03bebe3c410a1",
-          "title": "Anthropic再续命：Fable5 访问权限延长至 7 月 19 日，留人更要挽回口碑",
-          "url": "https://www.aibase.com/news/29540",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T06:14:39.261681Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T06:14:39.261681Z",
-      "latest_at": "2026-07-13T06:14:39.261681Z",
-      "primary_item": {
-        "id": "7d3139bebf1808f8739e165b51d03bebe3c410a1",
-        "title": "Anthropic再续命：Fable5 访问权限延长至 7 月 19 日，留人更要挽回口碑",
-        "url": "https://www.aibase.com/news/29540",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4da51d31a85f",
-      "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-      "url": "https://github.com/cosmtrek/mindwalk",
-      "primary_url": "https://github.com/cosmtrek/mindwalk",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
-          "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-          "url": "https://github.com/cosmtrek/mindwalk",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T13:51:05.035000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
-          "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-          "url": "https://github.com/cosmtrek/mindwalk",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T13:51:05.035000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7357,
-      "importance": 0.7357,
-      "importance_score": 0.7357,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7892,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-12T13:51:05.035000Z",
-      "latest_at": "2026-07-12T13:51:05.035000Z",
-      "primary_item": {
-        "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
-        "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-        "url": "https://github.com/cosmtrek/mindwalk",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4a682d8ae5ae",
-      "title": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
-      "url": "https://www.aibase.com/news/29538",
-      "primary_url": "https://www.aibase.com/news/29538",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "585a52f3593588d072e461f1b0389b6c6ba7dc2d",
-          "title": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
-          "url": "https://www.aibase.com/news/29538",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T06:14:39.261681Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "585a52f3593588d072e461f1b0389b6c6ba7dc2d",
-          "title": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
-          "url": "https://www.aibase.com/news/29538",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T06:14:39.261681Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T06:14:39.261681Z",
-      "latest_at": "2026-07-13T06:14:39.261681Z",
-      "primary_item": {
-        "id": "585a52f3593588d072e461f1b0389b6c6ba7dc2d",
-        "title": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
-        "url": "https://www.aibase.com/news/29538",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1154,15 +1112,15 @@
       ],
       "item_count": 8,
       "duplicate_count": 8,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "score": 0.66,
+      "importance": 0.66,
+      "importance_score": 0.66,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9487,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1180,21 +1138,21 @@
       }
     },
     {
-      "story_id": "story_86c792186562",
-      "title": "哈啰试水AI校园社交，推出精准交友产品“Match”",
-      "url": "https://www.aibase.com/news/29544",
-      "primary_url": "https://www.aibase.com/news/29544",
+      "story_id": "story_05bb3eadde15",
+      "title": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
+      "url": "https://www.aibase.com/news/29552",
+      "primary_url": "https://www.aibase.com/news/29552",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "67fa45155b3ba23d32ef90dcc8be13c8c9ccd291",
-          "title": "哈啰试水AI校园社交，推出精准交友产品“Match”",
-          "url": "https://www.aibase.com/news/29544",
+          "id": "a576d1a2cef8248f32acae9eff1f657628d2ed6f",
+          "title": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
+          "url": "https://www.aibase.com/news/29552",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T06:14:39.261681Z"
+          "published_at": "2026-07-13T09:53:18.492526Z"
         }
       ],
       "source_count": 1,
@@ -1203,13 +1161,13 @@
       ],
       "items": [
         {
-          "id": "67fa45155b3ba23d32ef90dcc8be13c8c9ccd291",
-          "title": "哈啰试水AI校园社交，推出精准交友产品“Match”",
-          "url": "https://www.aibase.com/news/29544",
+          "id": "a576d1a2cef8248f32acae9eff1f657628d2ed6f",
+          "title": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
+          "url": "https://www.aibase.com/news/29552",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T06:14:39.261681Z"
+          "published_at": "2026-07-13T09:53:18.492526Z"
         }
       ],
       "item_count": 1,
@@ -1230,32 +1188,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-13T06:14:39.261681Z",
-      "latest_at": "2026-07-13T06:14:39.261681Z",
+      "earliest_at": "2026-07-13T09:53:18.492526Z",
+      "latest_at": "2026-07-13T09:53:18.492526Z",
       "primary_item": {
-        "id": "67fa45155b3ba23d32ef90dcc8be13c8c9ccd291",
-        "title": "哈啰试水AI校园社交，推出精准交友产品“Match”",
-        "url": "https://www.aibase.com/news/29544",
+        "id": "a576d1a2cef8248f32acae9eff1f657628d2ed6f",
+        "title": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
+        "url": "https://www.aibase.com/news/29552",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_62ff3681c8ca",
-      "title": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
-      "url": "https://www.aibase.com/news/29543",
-      "primary_url": "https://www.aibase.com/news/29543",
+      "story_id": "story_0758182240a0",
+      "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
+      "url": "https://www.aibase.com/news/29548",
+      "primary_url": "https://www.aibase.com/news/29548",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9d68d05ed5af54d03c13db6fdc69da4d9d7857e1",
-          "title": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
-          "url": "https://www.aibase.com/news/29543",
+          "id": "cd4655fb408ba926606fe7ba0a528eb542e88d81",
+          "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
+          "url": "https://www.aibase.com/news/29548",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T06:14:39.261681Z"
+          "published_at": "2026-07-13T09:53:18.492526Z"
         }
       ],
       "source_count": 1,
@@ -1264,13 +1222,13 @@
       ],
       "items": [
         {
-          "id": "9d68d05ed5af54d03c13db6fdc69da4d9d7857e1",
-          "title": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
-          "url": "https://www.aibase.com/news/29543",
+          "id": "cd4655fb408ba926606fe7ba0a528eb542e88d81",
+          "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
+          "url": "https://www.aibase.com/news/29548",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T06:14:39.261681Z"
+          "published_at": "2026-07-13T09:53:18.492526Z"
         }
       ],
       "item_count": 1,
@@ -1291,12 +1249,73 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-13T06:14:39.261681Z",
-      "latest_at": "2026-07-13T06:14:39.261681Z",
+      "earliest_at": "2026-07-13T09:53:18.492526Z",
+      "latest_at": "2026-07-13T09:53:18.492526Z",
       "primary_item": {
-        "id": "9d68d05ed5af54d03c13db6fdc69da4d9d7857e1",
-        "title": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
-        "url": "https://www.aibase.com/news/29543",
+        "id": "cd4655fb408ba926606fe7ba0a528eb542e88d81",
+        "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
+        "url": "https://www.aibase.com/news/29548",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b3c3f980dac1",
+      "title": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
+      "url": "https://www.aibase.com/news/29550",
+      "primary_url": "https://www.aibase.com/news/29550",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c11b08a26ab91efa3bcfa74723d76a64d60947a6",
+          "title": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
+          "url": "https://www.aibase.com/news/29550",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T09:53:18.492526Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c11b08a26ab91efa3bcfa74723d76a64d60947a6",
+          "title": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
+          "url": "https://www.aibase.com/news/29550",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T09:53:18.492526Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T09:53:18.492526Z",
+      "latest_at": "2026-07-13T09:53:18.492526Z",
+      "primary_item": {
+        "id": "c11b08a26ab91efa3bcfa74723d76a64d60947a6",
+        "title": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
+        "url": "https://www.aibase.com/news/29550",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1411,15 +1430,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5947,
-      "importance": 0.5947,
-      "importance_score": 0.5947,
+      "score": 0.5868,
+      "importance": 0.5868,
+      "importance_score": 0.5868,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8551,
+        "recency": 0.8112,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1437,125 +1456,199 @@
       }
     },
     {
-      "story_id": "story_ec77dce64ece",
-      "title": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
-      "url": "https://www.aibase.com/news/29542",
-      "primary_url": "https://www.aibase.com/news/29542",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_bd87c1bd9f8f",
+      "title": "Zig创始人直言不讳，Anthropic则故弄玄虚",
+      "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
+      "primary_url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
+      "source": "raymyers.org",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "85d644286a16b7ffdd66482d7cb598e7f15c2cc6",
-          "title": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
-          "url": "https://www.aibase.com/news/29542",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T06:14:39.261681Z"
+          "id": "0c987916ddf453e2c44a5247157e884356412396",
+          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚",
+          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
+          "source": "raymyers.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T09:41:19.566000Z"
+        },
+        {
+          "id": "a1362fd8483d2d2e1bb20d81fe47d65c8038aecd",
+          "title": "Zig 创造者实话实说，人性化烟雾 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+          "url": "https://news.ycombinator.com/item?id=48889637",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-13T09:28:44.591000Z"
+        },
+        {
+          "id": "04d20d323946c0bc33dee02fbc4289db29879f4e",
+          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-13T08:39:39Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AIbase"
+        "Hacker News",
+        "hackernews",
+        "raymyers.org"
       ],
       "items": [
         {
-          "id": "85d644286a16b7ffdd66482d7cb598e7f15c2cc6",
-          "title": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
-          "url": "https://www.aibase.com/news/29542",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T06:14:39.261681Z"
+          "id": "0c987916ddf453e2c44a5247157e884356412396",
+          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚",
+          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
+          "source": "raymyers.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T09:41:19.566000Z"
+        },
+        {
+          "id": "a1362fd8483d2d2e1bb20d81fe47d65c8038aecd",
+          "title": "Zig 创造者实话实说，人性化烟雾 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+          "url": "https://news.ycombinator.com/item?id=48889637",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-13T09:28:44.591000Z"
+        },
+        {
+          "id": "04d20d323946c0bc33dee02fbc4289db29879f4e",
+          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-13T08:39:39Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5703,
+      "importance": 0.5703,
+      "importance_score": 0.5703,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9971,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-13T06:14:39.261681Z",
-      "latest_at": "2026-07-13T06:14:39.261681Z",
+      "earliest_at": "2026-07-13T08:39:39Z",
+      "latest_at": "2026-07-13T09:41:19.566000Z",
       "primary_item": {
-        "id": "85d644286a16b7ffdd66482d7cb598e7f15c2cc6",
-        "title": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
-        "url": "https://www.aibase.com/news/29542",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "0c987916ddf453e2c44a5247157e884356412396",
+        "title": "Zig创始人直言不讳，Anthropic则故弄玄虚",
+        "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
+        "source": "raymyers.org",
+        "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_30b2b7775a31",
-      "title": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
-      "url": "https://www.aibase.com/news/29539",
-      "primary_url": "https://www.aibase.com/news/29539",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_1061a57c7386",
+      "title": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
+      "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
+      "primary_url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
+      "source": "cacm.acm.org",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "edc4f6360e6710e178004982d3e013be98514cae",
-          "title": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
-          "url": "https://www.aibase.com/news/29539",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T06:14:39.261681Z"
+          "id": "ffb60773e5dc03276bb3ab008bb47d8e1a08079e",
+          "title": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
+          "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
+          "source": "cacm.acm.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T08:53:24.018000Z"
+        },
+        {
+          "id": "b343153d11bf6dff04b805d3820fac2560fdf6f1",
+          "title": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者 / Can We Understand How Large Language Models Reason?",
+          "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T18:04:41Z"
+        },
+        {
+          "id": "1fca1ed15a3e75db7f226a888918ac389ccb2aeb",
+          "title": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者 / Mechanistic interpretability researchers applying causality theory to LLMs",
+          "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T18:04:41Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AIbase"
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "cacm.acm.org"
       ],
       "items": [
         {
-          "id": "edc4f6360e6710e178004982d3e013be98514cae",
-          "title": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
-          "url": "https://www.aibase.com/news/29539",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T06:14:39.261681Z"
+          "id": "ffb60773e5dc03276bb3ab008bb47d8e1a08079e",
+          "title": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
+          "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
+          "source": "cacm.acm.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T08:53:24.018000Z"
+        },
+        {
+          "id": "b343153d11bf6dff04b805d3820fac2560fdf6f1",
+          "title": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者 / Can We Understand How Large Language Models Reason?",
+          "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T18:04:41Z"
+        },
+        {
+          "id": "1fca1ed15a3e75db7f226a888918ac389ccb2aeb",
+          "title": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者 / Mechanistic interpretability researchers applying causality theory to LLMs",
+          "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T18:04:41Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5682,
+      "importance": 0.5682,
+      "importance_score": 0.5682,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9857,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-13T06:14:39.261681Z",
-      "latest_at": "2026-07-13T06:14:39.261681Z",
+      "earliest_at": "2026-07-12T18:04:41Z",
+      "latest_at": "2026-07-13T08:53:24.018000Z",
       "primary_item": {
-        "id": "edc4f6360e6710e178004982d3e013be98514cae",
-        "title": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
-        "url": "https://www.aibase.com/news/29539",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "ffb60773e5dc03276bb3ab008bb47d8e1a08079e",
+        "title": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
+        "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
+        "source": "cacm.acm.org",
+        "source_name": "Buzzing"
       }
     }
   ]
