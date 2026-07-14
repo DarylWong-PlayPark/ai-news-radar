@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T08:35:21.174812Z",
+  "generated_at": "2026-07-14T10:43:07.399189Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.845,
-      "importance": 0.845,
-      "importance_score": 0.845,
+      "score": 0.8402,
+      "importance": 0.8402,
+      "importance_score": 0.8402,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8834,
+        "recency": 0.8566,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8222,
-      "importance": 0.8222,
-      "importance_score": 0.8222,
+      "score": 0.8174,
+      "importance": 0.8174,
+      "importance_score": 0.8174,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.879,
+        "recency": 0.8524,
         "story_heat": 0.0
       },
       "category": "official",
@@ -125,6 +125,105 @@
         "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_0e52013f6280",
+      "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
+      "url": "https://www.ithome.com/0/976/538.htm",
+      "primary_url": "https://www.ithome.com/0/976/538.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d175968ce830a107641f2faabd1b491517898122",
+          "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
+          "url": "https://www.ithome.com/0/976/538.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T07:46:46Z"
+        },
+        {
+          "id": "96ff95b783feeb6506bab7084d4b58bfc8644e40",
+          "title": "内置「任意门」，高德发布通用世界模型工坊 ABot-WorldStudio",
+          "url": "https://www.ithome.com/0/976/538.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "4e1ada3388bdcc3648727f7d02edce2a7c592ba6",
+          "title": "高德发布通用世界模型工坊 ABot-World Studio",
+          "url": "https://36kr.com/newsflashes/3894929146149893?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "IT之家（RSS）",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "d175968ce830a107641f2faabd1b491517898122",
+          "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
+          "url": "https://www.ithome.com/0/976/538.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T07:46:46Z"
+        },
+        {
+          "id": "96ff95b783feeb6506bab7084d4b58bfc8644e40",
+          "title": "内置「任意门」，高德发布通用世界模型工坊 ABot-WorldStudio",
+          "url": "https://www.ithome.com/0/976/538.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "4e1ada3388bdcc3648727f7d02edce2a7c592ba6",
+          "title": "高德发布通用世界模型工坊 ABot-World Studio",
+          "url": "https://36kr.com/newsflashes/3894929146149893?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8101,
+      "importance": 0.8101,
+      "importance_score": 0.8101,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9584,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T03:55:13.894474Z",
+      "latest_at": "2026-07-14T08:35:21.174812Z",
+      "primary_item": {
+        "id": "d175968ce830a107641f2faabd1b491517898122",
+        "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
+        "url": "https://www.ithome.com/0/976/538.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -200,15 +299,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8078,
-      "importance": 0.8078,
-      "importance_score": 0.8078,
+      "score": 0.8025,
+      "importance": 0.8025,
+      "importance_score": 0.8025,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9791,
+        "recency": 0.9494,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -262,15 +361,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7989,
-      "importance": 0.7989,
-      "importance_score": 0.7989,
+      "score": 0.7948,
+      "importance": 0.7948,
+      "importance_score": 0.7948,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7495,
+        "recency": 0.7268,
         "story_heat": 0.0
       },
       "category": "official",
@@ -290,30 +389,30 @@
       }
     },
     {
-      "story_id": "story_cd28e9a14eb0",
-      "title": "代码100%由AI编写： 9 年iOS开发者 15 天打造外卖游戏，斩获2. 5 万美元奖​金",
-      "url": "https://www.aibase.com/news/29583",
-      "primary_url": "https://www.aibase.com/news/29583",
+      "story_id": "story_3329ba8670e1",
+      "title": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
+      "url": "https://www.aibase.com/news/29585",
+      "primary_url": "https://www.aibase.com/news/29585",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a54237efdec97bbf09efc03629057c1426399fe7",
-          "title": "代码100%由AI编写： 9 年iOS开发者 15 天打造外卖游戏，斩获2. 5 万美元奖​金",
-          "url": "https://www.aibase.com/news/29583",
+          "id": "ff51bf03aa54c2dccbcebcb0d0ff06ae82d630aa",
+          "title": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
+          "url": "https://www.aibase.com/news/29585",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-14T08:35:21.174812Z"
+          "published_at": "2026-07-14T10:43:07.399189Z"
         },
         {
-          "id": "11a6bd9cde998009d84074ffabfbe7e8b16c09f4",
-          "title": "代码 100% 由 AI 编写：9 年 iOS 开发者 15 天打造外卖游戏，斩获 2.5 万美元奖金",
-          "url": "https://www.ithome.com/0/976/444.htm",
+          "id": "b6a3edf220780dcddd8ae827d2d6095554275f4d",
+          "title": "DeepSeek 梁文锋身价飙升至 360 亿美元，成 AI 公司新首富",
+          "url": "https://www.ithome.com/0/976/525.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-14T04:46:08Z"
+          "published_at": "2026-07-14T07:30:11Z"
         }
       ],
       "source_count": 2,
@@ -323,22 +422,22 @@
       ],
       "items": [
         {
-          "id": "a54237efdec97bbf09efc03629057c1426399fe7",
-          "title": "代码100%由AI编写： 9 年iOS开发者 15 天打造外卖游戏，斩获2. 5 万美元奖​金",
-          "url": "https://www.aibase.com/news/29583",
+          "id": "ff51bf03aa54c2dccbcebcb0d0ff06ae82d630aa",
+          "title": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
+          "url": "https://www.aibase.com/news/29585",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-14T08:35:21.174812Z"
+          "published_at": "2026-07-14T10:43:07.399189Z"
         },
         {
-          "id": "11a6bd9cde998009d84074ffabfbe7e8b16c09f4",
-          "title": "代码 100% 由 AI 编写：9 年 iOS 开发者 15 天打造外卖游戏，斩获 2.5 万美元奖金",
-          "url": "https://www.ithome.com/0/976/444.htm",
+          "id": "b6a3edf220780dcddd8ae827d2d6095554275f4d",
+          "title": "DeepSeek 梁文锋身价飙升至 360 亿美元，成 AI 公司新首富",
+          "url": "https://www.ithome.com/0/976/525.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-14T04:46:08Z"
+          "published_at": "2026-07-14T07:30:11Z"
         }
       ],
       "item_count": 2,
@@ -360,14 +459,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T04:46:08Z",
-      "latest_at": "2026-07-14T08:35:21.174812Z",
+      "earliest_at": "2026-07-14T07:30:11Z",
+      "latest_at": "2026-07-14T10:43:07.399189Z",
       "primary_item": {
-        "id": "a54237efdec97bbf09efc03629057c1426399fe7",
-        "title": "代码100%由AI编写： 9 年iOS开发者 15 天打造外卖游戏，斩获2. 5 万美元奖​金",
-        "url": "https://www.aibase.com/news/29583",
+        "id": "ff51bf03aa54c2dccbcebcb0d0ff06ae82d630aa",
+        "title": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
+        "url": "https://www.aibase.com/news/29585",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_52ba1656d62a",
+      "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+      "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
+      "primary_url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
+      "source": "公众号：卡尔的AI沃茨",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "10cbb63befa311b8acc8c4d0e7bf06954e14403e",
+          "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+          "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T09:04:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：卡尔的AI沃茨"
+      ],
+      "items": [
+        {
+          "id": "10cbb63befa311b8acc8c4d0e7bf06954e14403e",
+          "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+          "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T09:04:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9764,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T09:04:00Z",
+      "latest_at": "2026-07-14T09:04:00Z",
+      "primary_item": {
+        "id": "10cbb63befa311b8acc8c4d0e7bf06954e14403e",
+        "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+        "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
+        "source": "公众号：卡尔的AI沃茨",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -442,15 +602,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8067,
-      "importance": 0.8067,
-      "importance_score": 0.8067,
+      "score": 0.8021,
+      "importance": 0.8021,
+      "importance_score": 0.8021,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8562,
+        "recency": 0.8303,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -523,15 +683,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.776,
-      "importance": 0.776,
-      "importance_score": 0.776,
+      "score": 0.7716,
+      "importance": 0.7716,
+      "importance_score": 0.7716,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8076,
+        "recency": 0.7832,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -585,15 +745,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8056,
-      "importance": 0.8056,
-      "importance_score": 0.8056,
+      "score": 0.8013,
+      "importance": 0.8013,
+      "importance_score": 0.8013,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7866,
+        "recency": 0.7628,
         "story_heat": 0.0
       },
       "category": "official",
@@ -613,49 +773,49 @@
       }
     },
     {
-      "story_id": "story_5d3ffb4c6f4d",
-      "title": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
-      "url": "https://www.ithome.com/0/976/453.htm",
-      "primary_url": "https://www.ithome.com/0/976/453.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_8faec0b402e9",
+      "title": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
+      "url": "https://mp.weixin.qq.com/s/Kq30ftirASryPrUtjK2xSw",
+      "primary_url": "https://mp.weixin.qq.com/s/Kq30ftirASryPrUtjK2xSw",
+      "source": "公众号：腾讯混元",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "82a2e205293819aecf0e1fad2e9aa425c941d57e",
-          "title": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
-          "url": "https://www.ithome.com/0/976/453.htm",
-          "source": "IT之家（RSS）",
+          "id": "53ac181f9e0e44f1ad6cf8aa858d107575faa0e6",
+          "title": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
+          "url": "https://mp.weixin.qq.com/s/Kq30ftirASryPrUtjK2xSw",
+          "source": "公众号：腾讯混元",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-14T05:43:25Z"
+          "published_at": "2026-07-14T08:56:07Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "公众号：腾讯混元"
       ],
       "items": [
         {
-          "id": "82a2e205293819aecf0e1fad2e9aa425c941d57e",
-          "title": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
-          "url": "https://www.ithome.com/0/976/453.htm",
-          "source": "IT之家（RSS）",
+          "id": "53ac181f9e0e44f1ad6cf8aa858d107575faa0e6",
+          "title": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
+          "url": "https://mp.weixin.qq.com/s/Kq30ftirASryPrUtjK2xSw",
+          "source": "公众号：腾讯混元",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-14T05:43:25Z"
+          "published_at": "2026-07-14T08:56:07Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7693,
-      "importance": 0.7693,
-      "importance_score": 0.7693,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.75,
+        "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9595,
+        "recency": 0.9746,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -663,13 +823,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T05:43:25Z",
-      "latest_at": "2026-07-14T05:43:25Z",
+      "earliest_at": "2026-07-14T08:56:07Z",
+      "latest_at": "2026-07-14T08:56:07Z",
       "primary_item": {
-        "id": "82a2e205293819aecf0e1fad2e9aa425c941d57e",
-        "title": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
-        "url": "https://www.ithome.com/0/976/453.htm",
-        "source": "IT之家（RSS）",
+        "id": "53ac181f9e0e44f1ad6cf8aa858d107575faa0e6",
+        "title": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
+        "url": "https://mp.weixin.qq.com/s/Kq30ftirASryPrUtjK2xSw",
+        "source": "公众号：腾讯混元",
         "source_name": "AI HOT"
       }
     },
@@ -727,15 +887,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7656,
-      "importance": 0.7656,
-      "importance_score": 0.7656,
+      "score": 0.7608,
+      "importance": 0.7608,
+      "importance_score": 0.7608,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8834,
+        "recency": 0.8566,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -751,6 +911,269 @@
         "title": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元",
         "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b",
         "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_cd28e9a14eb0",
+      "title": "代码100%由AI编写： 9 年iOS开发者 15 天打造外卖游戏，斩获2. 5 万美元奖​金",
+      "url": "https://www.aibase.com/news/29583",
+      "primary_url": "https://www.aibase.com/news/29583",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a54237efdec97bbf09efc03629057c1426399fe7",
+          "title": "代码100%由AI编写： 9 年iOS开发者 15 天打造外卖游戏，斩获2. 5 万美元奖​金",
+          "url": "https://www.aibase.com/news/29583",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T08:35:21.174812Z"
+        },
+        {
+          "id": "11a6bd9cde998009d84074ffabfbe7e8b16c09f4",
+          "title": "代码 100% 由 AI 编写：9 年 iOS 开发者 15 天打造外卖游戏，斩获 2.5 万美元奖金",
+          "url": "https://www.ithome.com/0/976/444.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-14T04:46:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "IT之家 (ITHome)"
+      ],
+      "items": [
+        {
+          "id": "a54237efdec97bbf09efc03629057c1426399fe7",
+          "title": "代码100%由AI编写： 9 年iOS开发者 15 天打造外卖游戏，斩获2. 5 万美元奖​金",
+          "url": "https://www.aibase.com/news/29583",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T08:35:21.174812Z"
+        },
+        {
+          "id": "11a6bd9cde998009d84074ffabfbe7e8b16c09f4",
+          "title": "代码 100% 由 AI 编写：9 年 iOS 开发者 15 天打造外卖游戏，斩获 2.5 万美元奖金",
+          "url": "https://www.ithome.com/0/976/444.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-14T04:46:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7871,
+      "importance": 0.7871,
+      "importance_score": 0.7871,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9697,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T04:46:08Z",
+      "latest_at": "2026-07-14T08:35:21.174812Z",
+      "primary_item": {
+        "id": "a54237efdec97bbf09efc03629057c1426399fe7",
+        "title": "代码100%由AI编写： 9 年iOS开发者 15 天打造外卖游戏，斩获2. 5 万美元奖​金",
+        "url": "https://www.aibase.com/news/29583",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_02e4c93aba36",
+      "title": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍",
+      "url": "https://x.com/demishassabis/status/2076957440109625718",
+      "primary_url": "https://x.com/demishassabis/status/2076957440109625718",
+      "source": "X：Demis Hassabis (@demishassabis)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fcf33a91034cba26e0f446e0c02b9ab1a910ecd0",
+          "title": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍",
+          "url": "https://x.com/demishassabis/status/2076957440109625718",
+          "source": "X：Demis Hassabis (@demishassabis)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T09:10:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Demis Hassabis (@demishassabis)"
+      ],
+      "items": [
+        {
+          "id": "fcf33a91034cba26e0f446e0c02b9ab1a910ecd0",
+          "title": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍",
+          "url": "https://x.com/demishassabis/status/2076957440109625718",
+          "source": "X：Demis Hassabis (@demishassabis)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T09:10:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9779,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T09:10:16Z",
+      "latest_at": "2026-07-14T09:10:16Z",
+      "primary_item": {
+        "id": "fcf33a91034cba26e0f446e0c02b9ab1a910ecd0",
+        "title": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍",
+        "url": "https://x.com/demishassabis/status/2076957440109625718",
+        "source": "X：Demis Hassabis (@demishassabis)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a0366cc85c2f",
+      "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
+      "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
+      "primary_url": "https://x.com/SenseTime_AI/status/2076828658531262619",
+      "source": "X：商汤 SenseTime (@SenseTime_AI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b5851a195823881985167c1306ffc765d134db35",
+          "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
+          "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
+          "source": "X：商汤 SenseTime (@SenseTime_AI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T00:38:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：商汤 SenseTime (@SenseTime_AI)"
+      ],
+      "items": [
+        {
+          "id": "b5851a195823881985167c1306ffc765d134db35",
+          "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
+          "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
+          "source": "X：商汤 SenseTime (@SenseTime_AI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T00:38:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8646,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-14T00:38:32Z",
+      "latest_at": "2026-07-14T00:38:32Z",
+      "primary_item": {
+        "id": "b5851a195823881985167c1306ffc765d134db35",
+        "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
+        "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
+        "source": "X：商汤 SenseTime (@SenseTime_AI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5d3ffb4c6f4d",
+      "title": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
+      "url": "https://www.ithome.com/0/976/453.htm",
+      "primary_url": "https://www.ithome.com/0/976/453.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "82a2e205293819aecf0e1fad2e9aa425c941d57e",
+          "title": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
+          "url": "https://www.ithome.com/0/976/453.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T05:43:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "82a2e205293819aecf0e1fad2e9aa425c941d57e",
+          "title": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
+          "url": "https://www.ithome.com/0/976/453.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T05:43:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7641,
+      "importance": 0.7641,
+      "importance_score": 0.7641,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9304,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T05:43:25Z",
+      "latest_at": "2026-07-14T05:43:25Z",
+      "primary_item": {
+        "id": "82a2e205293819aecf0e1fad2e9aa425c941d57e",
+        "title": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
+        "url": "https://www.ithome.com/0/976/453.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -808,15 +1231,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7871,
+      "importance": 0.7871,
+      "importance_score": 0.7871,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9697,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -831,268 +1254,6 @@
         "id": "70fbbed4a596be6c1ea472fa31dc5de6eefb1aaa",
         "title": "西湖大学联合阿里达摩院推出干细胞AI模型“归元”，实现重编程大规模模拟预测",
         "url": "https://www.aibase.com/news/29579",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a0366cc85c2f",
-      "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
-      "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
-      "primary_url": "https://x.com/SenseTime_AI/status/2076828658531262619",
-      "source": "X：商汤 SenseTime (@SenseTime_AI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b5851a195823881985167c1306ffc765d134db35",
-          "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
-          "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
-          "source": "X：商汤 SenseTime (@SenseTime_AI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T00:38:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：商汤 SenseTime (@SenseTime_AI)"
-      ],
-      "items": [
-        {
-          "id": "b5851a195823881985167c1306ffc765d134db35",
-          "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
-          "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
-          "source": "X：商汤 SenseTime (@SenseTime_AI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T00:38:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8916,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T00:38:32Z",
-      "latest_at": "2026-07-14T00:38:32Z",
-      "primary_item": {
-        "id": "b5851a195823881985167c1306ffc765d134db35",
-        "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
-        "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
-        "source": "X：商汤 SenseTime (@SenseTime_AI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c88804a1a15e",
-      "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
-      "url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
-      "primary_url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
-      "source": "公众号：腾讯混元",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "61d9642554851a2085940fe2edbfe8ef73086fcf",
-          "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
-          "url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T11:12:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：腾讯混元"
-      ],
-      "items": [
-        {
-          "id": "61d9642554851a2085940fe2edbfe8ef73086fcf",
-          "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
-          "url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T11:12:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7318,
-      "importance": 0.7318,
-      "importance_score": 0.7318,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7344,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-13T11:12:59Z",
-      "latest_at": "2026-07-13T11:12:59Z",
-      "primary_item": {
-        "id": "61d9642554851a2085940fe2edbfe8ef73086fcf",
-        "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
-        "url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
-        "source": "公众号：腾讯混元",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8a28bfbd1227",
-      "title": "Seedream 5.0 Pro 测评：图像编辑门槛爆降",
-      "url": "https://x.com/op7418/status/2076604797202161800",
-      "primary_url": "https://x.com/op7418/status/2076604797202161800",
-      "source": "X：歸藏 (@op7418)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "90bf249d7928ebe554e90c999d6994ccf17b25b8",
-          "title": "Seedream 5.0 Pro 测评：图像编辑门槛爆降",
-          "url": "https://x.com/op7418/status/2076604797202161800",
-          "source": "X：歸藏 (@op7418)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T09:48:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：歸藏 (@op7418)"
-      ],
-      "items": [
-        {
-          "id": "90bf249d7928ebe554e90c999d6994ccf17b25b8",
-          "title": "Seedream 5.0 Pro 测评：图像编辑门槛爆降",
-          "url": "https://x.com/op7418/status/2076604797202161800",
-          "source": "X：歸藏 (@op7418)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T09:48:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7262,
-      "importance": 0.7262,
-      "importance_score": 0.7262,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7197,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-13T09:48:59Z",
-      "latest_at": "2026-07-13T09:48:59Z",
-      "primary_item": {
-        "id": "90bf249d7928ebe554e90c999d6994ccf17b25b8",
-        "title": "Seedream 5.0 Pro 测评：图像编辑门槛爆降",
-        "url": "https://x.com/op7418/status/2076604797202161800",
-        "source": "X：歸藏 (@op7418)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_07ac207c908f",
-      "title": "谷歌发布移动端AI应用更新:首次支持历史聊天记录搜索与文件上传",
-      "url": "https://www.aibase.com/news/29571",
-      "primary_url": "https://www.aibase.com/news/29571",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bd9e5f40a376b287269be28d897d6526bc0f2e23",
-          "title": "谷歌发布移动端AI应用更新:首次支持历史聊天记录搜索与文件上传",
-          "url": "https://www.aibase.com/news/29571",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T03:55:13.894474Z"
-        },
-        {
-          "id": "8e15cda859a881f511a1e082c7efad35ea9ffa84",
-          "title": "谷歌发布移动端 AI 应用更新：首次支持历史聊天记录搜索与文件上传",
-          "url": "https://www.aibase.com/zh/news/29571",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "bd9e5f40a376b287269be28d897d6526bc0f2e23",
-          "title": "谷歌发布移动端AI应用更新:首次支持历史聊天记录搜索与文件上传",
-          "url": "https://www.aibase.com/news/29571",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T03:55:13.894474Z"
-        },
-        {
-          "id": "8e15cda859a881f511a1e082c7efad35ea9ffa84",
-          "title": "谷歌发布移动端 AI 应用更新：首次支持历史聊天记录搜索与文件上传",
-          "url": "https://www.aibase.com/zh/news/29571",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7809,
-      "importance": 0.7809,
-      "importance_score": 0.7809,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9348,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T03:55:13.894474Z",
-      "latest_at": "2026-07-14T03:55:13.894474Z",
-      "primary_item": {
-        "id": "bd9e5f40a376b287269be28d897d6526bc0f2e23",
-        "title": "谷歌发布移动端AI应用更新:首次支持历史聊天记录搜索与文件上传",
-        "url": "https://www.aibase.com/news/29571",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1151,15 +1312,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7397,
-      "importance": 0.7397,
-      "importance_score": 0.7397,
+      "score": 0.7357,
+      "importance": 0.7357,
+      "importance_score": 0.7357,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7394,
+        "recency": 0.717,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1178,244 +1339,142 @@
       }
     },
     {
-      "story_id": "story_163a2ee8955d",
-      "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
-      "url": "https://www.ithome.com/0/976/149.htm",
-      "primary_url": "https://www.ithome.com/0/976/149.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_c88804a1a15e",
+      "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
+      "url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
+      "primary_url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
+      "source": "公众号：腾讯混元",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5aedac9544da285aa57dbd2ff63bad857319f243",
-          "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
-          "url": "https://www.ithome.com/0/976/149.htm",
-          "source": "IT之家（RSS）",
+          "id": "61d9642554851a2085940fe2edbfe8ef73086fcf",
+          "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
+          "url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
+          "source": "公众号：腾讯混元",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-13T09:58:56Z"
+          "published_at": "2026-07-13T11:12:59Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "公众号：腾讯混元"
       ],
       "items": [
         {
-          "id": "5aedac9544da285aa57dbd2ff63bad857319f243",
-          "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
-          "url": "https://www.ithome.com/0/976/149.htm",
-          "source": "IT之家（RSS）",
+          "id": "61d9642554851a2085940fe2edbfe8ef73086fcf",
+          "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
+          "url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
+          "source": "公众号：腾讯混元",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-13T09:58:56Z"
+          "published_at": "2026-07-13T11:12:59Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
+      "score": 0.7278,
+      "importance": 0.7278,
+      "importance_score": 0.7278,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7215,
+        "recency": 0.7122,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-13T09:58:56Z",
-      "latest_at": "2026-07-13T09:58:56Z",
+      "earliest_at": "2026-07-13T11:12:59Z",
+      "latest_at": "2026-07-13T11:12:59Z",
       "primary_item": {
-        "id": "5aedac9544da285aa57dbd2ff63bad857319f243",
-        "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
-        "url": "https://www.ithome.com/0/976/149.htm",
-        "source": "IT之家（RSS）",
+        "id": "61d9642554851a2085940fe2edbfe8ef73086fcf",
+        "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
+        "url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
+        "source": "公众号：腾讯混元",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_97f8c036f0d4",
-      "title": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
-      "url": "https://www.aibase.com/news/29575",
-      "primary_url": "https://www.aibase.com/news/29575",
+      "story_id": "story_07ac207c908f",
+      "title": "谷歌发布移动端AI应用更新:首次支持历史聊天记录搜索与文件上传",
+      "url": "https://www.aibase.com/news/29571",
+      "primary_url": "https://www.aibase.com/news/29571",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1b7f1704a381146479c107ca712e28ef9548c4d4",
-          "title": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
-          "url": "https://www.aibase.com/news/29575",
+          "id": "bd9e5f40a376b287269be28d897d6526bc0f2e23",
+          "title": "谷歌发布移动端AI应用更新:首次支持历史聊天记录搜索与文件上传",
+          "url": "https://www.aibase.com/news/29571",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-14T08:35:21.174812Z"
+          "published_at": "2026-07-14T03:55:13.894474Z"
+        },
+        {
+          "id": "8e15cda859a881f511a1e082c7efad35ea9ffa84",
+          "title": "谷歌发布移动端 AI 应用更新：首次支持历史聊天记录搜索与文件上传",
+          "url": "https://www.aibase.com/zh/news/29571",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "1b7f1704a381146479c107ca712e28ef9548c4d4",
-          "title": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
-          "url": "https://www.aibase.com/news/29575",
+          "id": "bd9e5f40a376b287269be28d897d6526bc0f2e23",
+          "title": "谷歌发布移动端AI应用更新:首次支持历史聊天记录搜索与文件上传",
+          "url": "https://www.aibase.com/news/29571",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-14T08:35:21.174812Z"
+          "published_at": "2026-07-14T03:55:13.894474Z"
+        },
+        {
+          "id": "8e15cda859a881f511a1e082c7efad35ea9ffa84",
+          "title": "谷歌发布移动端 AI 应用更新：首次支持历史聊天记录搜索与文件上传",
+          "url": "https://www.aibase.com/zh/news/29571",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7758,
+      "importance": 0.7758,
+      "importance_score": 0.7758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.9065,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T08:35:21.174812Z",
-      "latest_at": "2026-07-14T08:35:21.174812Z",
+      "earliest_at": "2026-07-14T03:55:13.894474Z",
+      "latest_at": "2026-07-14T03:55:13.894474Z",
       "primary_item": {
-        "id": "1b7f1704a381146479c107ca712e28ef9548c4d4",
-        "title": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
-        "url": "https://www.aibase.com/news/29575",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_cd73fff47e39",
-      "title": "印度IT巨头HCL Tech官宣进军AI数据中心，拟投资最高 350 亿卢比打造50MW容量",
-      "url": "https://www.aibase.com/news/29576",
-      "primary_url": "https://www.aibase.com/news/29576",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bd871d849ba8e56816d69e4ac6b240782b53f4a6",
-          "title": "印度IT巨头HCL Tech官宣进军AI数据中心，拟投资最高 350 亿卢比打造50MW容量",
-          "url": "https://www.aibase.com/news/29576",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T08:35:21.174812Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "bd871d849ba8e56816d69e4ac6b240782b53f4a6",
-          "title": "印度IT巨头HCL Tech官宣进军AI数据中心，拟投资最高 350 亿卢比打造50MW容量",
-          "url": "https://www.aibase.com/news/29576",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T08:35:21.174812Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T08:35:21.174812Z",
-      "latest_at": "2026-07-14T08:35:21.174812Z",
-      "primary_item": {
-        "id": "bd871d849ba8e56816d69e4ac6b240782b53f4a6",
-        "title": "印度IT巨头HCL Tech官宣进军AI数据中心，拟投资最高 350 亿卢比打造50MW容量",
-        "url": "https://www.aibase.com/news/29576",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6a9b41ee998f",
-      "title": "小米具身智能机器人“实习”新工站:双侧螺母上件成功率达98%",
-      "url": "https://www.aibase.com/news/29577",
-      "primary_url": "https://www.aibase.com/news/29577",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c5b846ba13312c21b2b0f86705bbb3ec5256aa60",
-          "title": "小米具身智能机器人“实习”新工站:双侧螺母上件成功率达98%",
-          "url": "https://www.aibase.com/news/29577",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T08:35:21.174812Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c5b846ba13312c21b2b0f86705bbb3ec5256aa60",
-          "title": "小米具身智能机器人“实习”新工站:双侧螺母上件成功率达98%",
-          "url": "https://www.aibase.com/news/29577",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T08:35:21.174812Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T08:35:21.174812Z",
-      "latest_at": "2026-07-14T08:35:21.174812Z",
-      "primary_item": {
-        "id": "c5b846ba13312c21b2b0f86705bbb3ec5256aa60",
-        "title": "小米具身智能机器人“实习”新工站:双侧螺母上件成功率达98%",
-        "url": "https://www.aibase.com/news/29577",
+        "id": "bd9e5f40a376b287269be28d897d6526bc0f2e23",
+        "title": "谷歌发布移动端AI应用更新:首次支持历史聊天记录搜索与文件上传",
+        "url": "https://www.aibase.com/news/29571",
         "source": "AIbase",
         "source_name": "AIbase"
       }
