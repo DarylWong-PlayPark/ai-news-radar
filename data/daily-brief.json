@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-07-14T12:09:21.763010Z",
+  "generated_at": "2026-07-14T14:23:36.742566Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_ed3a2198d15e",
+      "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
+      "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
+          "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
+          "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T12:54:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
+          "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
+          "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T12:54:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8482,
+      "importance": 0.8482,
+      "importance_score": 0.8482,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9787,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T12:54:12Z",
+      "latest_at": "2026-07-14T12:54:12Z",
+      "primary_item": {
+        "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
+        "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
+        "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_91992ed9f82d",
       "title": "法典 CLI 0.144.4 / Codex CLI 0.144.4",
@@ -38,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8322,
+      "importance": 0.8322,
+      "importance_score": 0.8322,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.839,
+        "recency": 0.8123,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.831,
-      "importance": 0.831,
-      "importance_score": 0.831,
+      "score": 0.8262,
+      "importance": 0.8262,
+      "importance_score": 0.8262,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.839,
+        "recency": 0.8123,
         "story_heat": 0.0
       },
       "category": "official",
@@ -124,68 +186,6 @@
         "title": "数据科学团队如何使用 ChatGPT Work / How data science teams use ChatGPT Work",
         "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d9b4cfc04bcb",
-      "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-      "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
-          "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-          "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T23:39:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
-          "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-          "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T23:39:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8143,
-      "importance": 0.8143,
-      "importance_score": 0.8143,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8348,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T23:39:22Z",
-      "latest_at": "2026-07-13T23:39:22Z",
-      "primary_item": {
-        "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
-        "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-        "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -261,15 +261,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8066,
-      "importance": 0.8066,
-      "importance_score": 0.8066,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9388,
+        "recency": 0.9089,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -323,15 +323,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.831,
-      "importance": 0.831,
-      "importance_score": 0.831,
+      "score": 0.8262,
+      "importance": 0.8262,
+      "importance_score": 0.8262,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.839,
+        "recency": 0.8123,
         "story_heat": 0.0
       },
       "category": "official",
@@ -422,15 +422,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.799,
-      "importance": 0.799,
-      "importance_score": 0.799,
+      "score": 0.7943,
+      "importance": 0.7943,
+      "importance_score": 0.7943,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8133,
+        "recency": 0.7874,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -503,15 +503,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7947,
-      "importance": 0.7947,
-      "importance_score": 0.7947,
+      "score": 0.789,
+      "importance": 0.789,
+      "importance_score": 0.789,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9951,
+        "recency": 0.9635,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -528,68 +528,6 @@
         "url": "https://the-decoder.com/deepmind-ceo-hassabis-says-nobody-in-the-world-knows-what-happens-next-so-cautious-optimism-means-building-guardrails-now",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_77ccb073c59f",
-      "title": "通过 ATL Saathi 为印度下一代创新者提供支持 / Empowering India’s next generation of innovators with ATL Saathi",
-      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi",
-      "primary_url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "87578bed341fd0971cb7837fab5906aa5398793f",
-          "title": "通过 ATL Saathi 为印度下一代创新者提供支持 / Empowering India’s next generation of innovators with ATL Saathi",
-          "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T12:37:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "87578bed341fd0971cb7837fab5906aa5398793f",
-          "title": "通过 ATL Saathi 为印度下一代创新者提供支持 / Empowering India’s next generation of innovators with ATL Saathi",
-          "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T12:37:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7921,
-      "importance": 0.7921,
-      "importance_score": 0.7921,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7119,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T12:37:28Z",
-      "latest_at": "2026-07-13T12:37:28Z",
-      "primary_item": {
-        "id": "87578bed341fd0971cb7837fab5906aa5398793f",
-        "title": "通过 ATL Saathi 为印度下一代创新者提供支持 / Empowering India’s next generation of innovators with ATL Saathi",
-        "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -646,15 +584,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7889,
-      "importance": 0.7889,
-      "importance_score": 0.7889,
+      "score": 0.7833,
+      "importance": 0.7833,
+      "importance_score": 0.7833,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9795,
+        "recency": 0.9483,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -671,6 +609,68 @@
         "url": "https://www.aibase.com/news/29585",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d9b4cfc04bcb",
+      "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
+      "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
+          "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
+          "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T23:39:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
+          "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
+          "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T23:39:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8095,
+      "importance": 0.8095,
+      "importance_score": 0.8095,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8083,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T23:39:22Z",
+      "latest_at": "2026-07-13T23:39:22Z",
+      "primary_item": {
+        "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
+        "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
+        "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -700,18 +700,18 @@
           "published_at": "2026-07-14T07:07:34.621000Z"
         },
         {
-          "id": "7a52e4a2dcdc9d74552bcdeed7537f0e62e7e41e",
+          "id": "4d182d4efd2595125dfa2858396fa17a9b974b04",
           "title": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平 / What will be left for us to work on?",
           "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-14T01:44:40Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "www.normaltech.ai"
       ],
@@ -735,26 +735,26 @@
           "published_at": "2026-07-14T07:07:34.621000Z"
         },
         {
-          "id": "7a52e4a2dcdc9d74552bcdeed7537f0e62e7e41e",
+          "id": "4d182d4efd2595125dfa2858396fa17a9b974b04",
           "title": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平 / What will be left for us to work on?",
           "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-14T01:44:40Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.799,
-      "importance": 0.799,
-      "importance_score": 0.799,
+      "score": 0.7937,
+      "importance": 0.7937,
+      "importance_score": 0.7937,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9299,
+        "recency": 0.9004,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -808,15 +808,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7687,
-      "importance": 0.7687,
-      "importance_score": 0.7687,
+      "score": 0.7633,
+      "importance": 0.7633,
+      "importance_score": 0.7633,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9564,
+        "recency": 0.926,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -832,68 +832,6 @@
         "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
         "source": "公众号：卡尔的AI沃茨",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_416032e0a850",
-      "title": "设置中单独的 SSO 和组织页面 / Separate SSO and Organizations pages in Settings",
-      "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
-      "primary_url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "36fe8ce137aa520b42e0aa8451a3093d284d0470",
-          "title": "设置中单独的 SSO 和组织页面 / Separate SSO and Organizations pages in Settings",
-          "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T15:57:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "36fe8ce137aa520b42e0aa8451a3093d284d0470",
-          "title": "设置中单独的 SSO 和组织页面 / Separate SSO and Organizations pages in Settings",
-          "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T15:57:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7985,
-      "importance": 0.7985,
-      "importance_score": 0.7985,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7471,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T15:57:56Z",
-      "latest_at": "2026-07-13T15:57:56Z",
-      "primary_item": {
-        "id": "36fe8ce137aa520b42e0aa8451a3093d284d0470",
-        "title": "设置中单独的 SSO 和组织页面 / Separate SSO and Organizations pages in Settings",
-        "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -931,15 +869,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7624,
-      "importance": 0.7624,
-      "importance_score": 0.7624,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9546,
+        "recency": 0.9242,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1011,15 +949,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7576,
-      "importance": 0.7576,
-      "importance_score": 0.7576,
+      "score": 0.7528,
+      "importance": 0.7528,
+      "importance_score": 0.7528,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.839,
+        "recency": 0.8123,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1092,15 +1030,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7836,
-      "importance": 0.7836,
-      "importance_score": 0.7836,
+      "score": 0.7781,
+      "importance": 0.7781,
+      "importance_score": 0.7781,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9498,
+        "recency": 0.9196,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1154,15 +1092,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9578,
+        "recency": 0.9274,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1214,15 +1152,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8468,
+        "recency": 0.8199,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1293,15 +1231,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7687,
-      "importance": 0.7687,
-      "importance_score": 0.7687,
+      "score": 0.7643,
+      "importance": 0.7643,
+      "importance_score": 0.7643,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7671,
+        "recency": 0.7427,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1317,6 +1255,128 @@
         "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
         "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
         "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_416032e0a850",
+      "title": "设置中单独的 SSO 和组织页面 / Separate SSO and Organizations pages in Settings",
+      "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
+      "primary_url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "36fe8ce137aa520b42e0aa8451a3093d284d0470",
+          "title": "设置中单独的 SSO 和组织页面 / Separate SSO and Organizations pages in Settings",
+          "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T15:57:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "36fe8ce137aa520b42e0aa8451a3093d284d0470",
+          "title": "设置中单独的 SSO 和组织页面 / Separate SSO and Organizations pages in Settings",
+          "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T15:57:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7942,
+      "importance": 0.7942,
+      "importance_score": 0.7942,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7233,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T15:57:56Z",
+      "latest_at": "2026-07-13T15:57:56Z",
+      "primary_item": {
+        "id": "36fe8ce137aa520b42e0aa8451a3093d284d0470",
+        "title": "设置中单独的 SSO 和组织页面 / Separate SSO and Organizations pages in Settings",
+        "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_0df67937245b",
+      "title": "Anthropic 经济指数：加拿大 Claude 使用情况分析",
+      "url": "https://www.anthropic.com/research/how-canada-uses-claude",
+      "primary_url": "https://www.anthropic.com/research/how-canada-uses-claude",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "49f0a65e519f81d0117bbc65f2274fc520910bb0",
+          "title": "Anthropic 经济指数：加拿大 Claude 使用情况分析",
+          "url": "https://www.anthropic.com/research/how-canada-uses-claude",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T13:06:56.913000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "49f0a65e519f81d0117bbc65f2274fc520910bb0",
+          "title": "Anthropic 经济指数：加拿大 Claude 使用情况分析",
+          "url": "https://www.anthropic.com/research/how-canada-uses-claude",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T13:06:56.913000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7313,
+      "importance": 0.7313,
+      "importance_score": 0.7313,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.61,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9817,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-14T13:06:56.913000Z",
+      "latest_at": "2026-07-14T13:06:56.913000Z",
+      "primary_item": {
+        "id": "49f0a65e519f81d0117bbc65f2274fc520910bb0",
+        "title": "Anthropic 经济指数：加拿大 Claude 使用情况分析",
+        "url": "https://www.anthropic.com/research/how-canada-uses-claude",
+        "source": "Anthropic：Research（发表成果 · 网页）",
         "source_name": "AI HOT"
       }
     },
@@ -1355,15 +1415,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9113,
+        "recency": 0.8823,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1379,87 +1439,6 @@
         "url": "https://www.ithome.com/0/976/453.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_60e9c897b324",
-      "title": "西湖大学联合阿里达摩院推出干细胞AI模型“归元”，实现重编程大规模模拟预测",
-      "url": "https://www.aibase.com/news/29579",
-      "primary_url": "https://www.aibase.com/news/29579",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "70fbbed4a596be6c1ea472fa31dc5de6eefb1aaa",
-          "title": "西湖大学联合阿里达摩院推出干细胞AI模型“归元”，实现重编程大规模模拟预测",
-          "url": "https://www.aibase.com/news/29579",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T08:35:21.174812Z"
-        },
-        {
-          "id": "356ea6b83f75690ac16deaae9d40691d25444d28",
-          "title": "西湖大学联合阿里达摩院推出干细胞 AI 模型「归元」，实现重编程大规模模拟预测",
-          "url": "https://www.aibase.com/zh/news/29579",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "70fbbed4a596be6c1ea472fa31dc5de6eefb1aaa",
-          "title": "西湖大学联合阿里达摩院推出干细胞AI模型“归元”，实现重编程大规模模拟预测",
-          "url": "https://www.aibase.com/news/29579",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T08:35:21.174812Z"
-        },
-        {
-          "id": "356ea6b83f75690ac16deaae9d40691d25444d28",
-          "title": "西湖大学联合阿里达摩院推出干细胞 AI 模型「归元」，实现重编程大规模模拟预测",
-          "url": "https://www.aibase.com/zh/news/29579",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7836,
-      "importance": 0.7836,
-      "importance_score": 0.7836,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9498,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T08:35:21.174812Z",
-      "latest_at": "2026-07-14T08:35:21.174812Z",
-      "primary_item": {
-        "id": "70fbbed4a596be6c1ea472fa31dc5de6eefb1aaa",
-        "title": "西湖大学联合阿里达摩院推出干细胞AI模型“归元”，实现重编程大规模模拟预测",
-        "url": "https://www.aibase.com/news/29579",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
