@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T07:28:31.150483Z",
+  "generated_at": "2026-07-15T09:30:23.506573Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -132,15 +132,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8763,
-      "importance": 0.8763,
-      "importance_score": 0.8763,
+      "score": 0.8718,
+      "importance": 0.8718,
+      "importance_score": 0.8718,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8653,
+        "recency": 0.8402,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -194,15 +194,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8336,
-      "importance": 0.8336,
-      "importance_score": 0.8336,
+      "score": 0.829,
+      "importance": 0.829,
+      "importance_score": 0.829,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.898,
+        "recency": 0.872,
         "story_heat": 0.0
       },
       "category": "official",
@@ -219,6 +219,87 @@
         "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5c5769bf1ca7",
+      "title": "国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力",
+      "url": "https://www.ithome.com/0/977/109.htm",
+      "primary_url": "https://www.ithome.com/0/977/109.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0c6bafd5518758d997436bedac01e6e661e5793a",
+          "title": "国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力",
+          "url": "https://www.ithome.com/0/977/109.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T08:41:23Z"
+        },
+        {
+          "id": "0b032980153389bea397050bb9cb1cf43f166061",
+          "title": "国行苹果 AI 功能完成备案，阿里巴巴称千问将作为 AI 能力集成至 Apple 智能",
+          "url": "https://www.ithome.com/0/977/109.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-15T08:41:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "0c6bafd5518758d997436bedac01e6e661e5793a",
+          "title": "国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力",
+          "url": "https://www.ithome.com/0/977/109.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T08:41:23Z"
+        },
+        {
+          "id": "0b032980153389bea397050bb9cb1cf43f166061",
+          "title": "国行苹果 AI 功能完成备案，阿里巴巴称千问将作为 AI 能力集成至 Apple 智能",
+          "url": "https://www.ithome.com/0/977/109.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-15T08:41:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8205,
+      "importance": 0.8205,
+      "importance_score": 0.8205,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9883,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T08:41:23Z",
+      "latest_at": "2026-07-15T08:41:23Z",
+      "primary_item": {
+        "id": "0c6bafd5518758d997436bedac01e6e661e5793a",
+        "title": "国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力",
+        "url": "https://www.ithome.com/0/977/109.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -256,15 +337,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.808,
-      "importance": 0.808,
-      "importance_score": 0.808,
+      "score": 0.8038,
+      "importance": 0.8038,
+      "importance_score": 0.8038,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7997,
+        "recency": 0.7766,
         "story_heat": 0.0
       },
       "category": "official",
@@ -318,15 +399,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.804,
-      "importance": 0.804,
-      "importance_score": 0.804,
+      "score": 0.8002,
+      "importance": 0.8002,
+      "importance_score": 0.8002,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7334,
+        "recency": 0.7122,
         "story_heat": 0.0
       },
       "category": "official",
@@ -380,15 +461,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8327,
-      "importance": 0.8327,
-      "importance_score": 0.8327,
+      "score": 0.8281,
+      "importance": 0.8281,
+      "importance_score": 0.8281,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8928,
+        "recency": 0.867,
         "story_heat": 0.0
       },
       "category": "official",
@@ -499,15 +580,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8268,
-      "importance": 0.8268,
-      "importance_score": 0.8268,
+      "score": 0.8224,
+      "importance": 0.8224,
+      "importance_score": 0.8224,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8455,
+        "recency": 0.8211,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -579,15 +660,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7874,
+      "importance": 0.7874,
+      "importance_score": 0.7874,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9711,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -660,15 +741,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7812,
-      "importance": 0.7812,
-      "importance_score": 0.7812,
+      "score": 0.7767,
+      "importance": 0.7767,
+      "importance_score": 0.7767,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8701,
+        "recency": 0.8449,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -722,15 +803,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7728,
-      "importance": 0.7728,
-      "importance_score": 0.7728,
+      "score": 0.768,
+      "importance": 0.768,
+      "importance_score": 0.768,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9291,
+        "recency": 0.9022,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -745,6 +826,87 @@
         "title": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
         "url": "https://x.com/AYi_AInotes/status/2077217295504490992",
         "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4ee13a5b89cb",
+      "title": "金山办公推出 WPS Comate AI 办公客户端",
+      "url": "https://www.ithome.com/0/977/105.htm",
+      "primary_url": "https://www.ithome.com/0/977/105.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "158f3a0863d16bcc8250be8b05b122dea75efcdc",
+          "title": "金山办公推出 WPS Comate AI 办公客户端",
+          "url": "https://www.ithome.com/0/977/105.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T08:39:58Z"
+        },
+        {
+          "id": "840aae8f5c5cc84fa4faef76a08e0f1aad6bf0d5",
+          "title": "金山办公推出 WPS Comate AI 办公客户端，支持 Skill 技能生态、自动化任务、Wiki 知识库等",
+          "url": "https://www.ithome.com/0/977/105.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-15T08:39:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "158f3a0863d16bcc8250be8b05b122dea75efcdc",
+          "title": "金山办公推出 WPS Comate AI 办公客户端",
+          "url": "https://www.ithome.com/0/977/105.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T08:39:58Z"
+        },
+        {
+          "id": "840aae8f5c5cc84fa4faef76a08e0f1aad6bf0d5",
+          "title": "金山办公推出 WPS Comate AI 办公客户端，支持 Skill 技能生态、自动化任务、Wiki 知识库等",
+          "url": "https://www.ithome.com/0/977/105.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-15T08:39:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7844,
+      "importance": 0.7844,
+      "importance_score": 0.7844,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9879,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T08:39:58Z",
+      "latest_at": "2026-07-15T08:39:58Z",
+      "primary_item": {
+        "id": "158f3a0863d16bcc8250be8b05b122dea75efcdc",
+        "title": "金山办公推出 WPS Comate AI 办公客户端",
+        "url": "https://www.ithome.com/0/977/105.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -783,15 +945,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7581,
-      "importance": 0.7581,
-      "importance_score": 0.7581,
+      "score": 0.7533,
+      "importance": 0.7533,
+      "importance_score": 0.7533,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9308,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -863,15 +1025,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7869,
-      "importance": 0.7869,
-      "importance_score": 0.7869,
+      "score": 0.7818,
+      "importance": 0.7818,
+      "importance_score": 0.7818,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9682,
+        "recency": 0.9402,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -925,15 +1087,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8148,
-      "importance": 0.8148,
-      "importance_score": 0.8148,
+      "score": 0.8104,
+      "importance": 0.8104,
+      "importance_score": 0.8104,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8377,
+        "recency": 0.8135,
         "story_heat": 0.0
       },
       "category": "official",
@@ -987,21 +1149,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7529,
-      "importance": 0.7529,
-      "importance_score": 0.7529,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.885,
+        "recency": 0.8595,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-14T23:01:05Z",
       "latest_at": "2026-07-14T23:01:05Z",
@@ -1067,22 +1228,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7511,
-      "importance": 0.7511,
-      "importance_score": 0.7511,
+      "score": 0.7472,
+      "importance": 0.7472,
+      "importance_score": 0.7472,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7529,
+        "recency": 0.7311,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-14T11:49:03Z",
       "latest_at": "2026-07-14T11:49:03Z",
@@ -1129,21 +1289,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
+      "score": 0.7458,
+      "importance": 0.7458,
+      "importance_score": 0.7458,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9222,
+        "recency": 0.8955,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-15T01:52:00Z",
       "latest_at": "2026-07-15T01:52:00Z",
@@ -1152,86 +1311,6 @@
         "title": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
         "url": "https://mp.weixin.qq.com/s/QcGHxKohg0gW9e84Nd_9jA",
         "source": "公众号：卡尔的AI沃茨",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fd885fb42c2e",
-      "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
-      "url": "https://www.ithome.com/0/976/538.htm",
-      "primary_url": "https://www.ithome.com/0/976/538.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d175968ce830a107641f2faabd1b491517898122",
-          "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
-          "url": "https://www.ithome.com/0/976/538.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T07:46:46Z"
-        },
-        {
-          "id": "96ff95b783feeb6506bab7084d4b58bfc8644e40",
-          "title": "内置「任意门」，高德发布通用世界模型工坊 ABot-WorldStudio",
-          "url": "https://www.ithome.com/0/976/538.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家（RSS）",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d175968ce830a107641f2faabd1b491517898122",
-          "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
-          "url": "https://www.ithome.com/0/976/538.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T07:46:46Z"
-        },
-        {
-          "id": "96ff95b783feeb6506bab7084d4b58bfc8644e40",
-          "title": "内置「任意门」，高德发布通用世界模型工坊 ABot-WorldStudio",
-          "url": "https://www.ithome.com/0/976/538.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7404,
-      "importance": 0.7404,
-      "importance_score": 0.7404,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7102,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-14T07:46:46Z",
-      "latest_at": "2026-07-14T08:35:21.174812Z",
-      "primary_item": {
-        "id": "d175968ce830a107641f2faabd1b491517898122",
-        "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
-        "url": "https://www.ithome.com/0/976/538.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1289,15 +1368,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7517,
+      "importance": 0.7517,
+      "importance_score": 0.7517,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8298,
+        "recency": 0.8059,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1351,15 +1430,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7253,
-      "importance": 0.7253,
-      "importance_score": 0.7253,
+      "score": 0.7206,
+      "importance": 0.7206,
+      "importance_score": 0.7206,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8981,
+        "recency": 0.8721,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1411,15 +1490,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7241,
-      "importance": 0.7241,
-      "importance_score": 0.7241,
+      "score": 0.72,
+      "importance": 0.72,
+      "importance_score": 0.72,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7916,
+        "recency": 0.7687,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1433,87 +1512,6 @@
         "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
         "url": "https://x.com/googleaidevs/status/2077049898059354565",
         "source": "X：Google AI for Developers (@googleaidevs)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_eb9b80fadbba",
-      "title": "数据中心已使美国公众电费增加230亿美元，回收成本困难重重",
-      "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
-      "primary_url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7780ac5867d8905bd2b741d4f72a57d47bde334a",
-          "title": "数据中心已使美国公众电费增加230亿美元，回收成本困难重重",
-          "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T03:51:16.524000Z"
-        },
-        {
-          "id": "1c2aadf61cc7aa7e0b8fcfe152ee25bea2f95ac3",
-          "title": "数据中心已使美国公众电费增加230亿美元，回收成本困难重重 / Data centers have hiked electricity prices on the public by $23B",
-          "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-15T00:20:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "7780ac5867d8905bd2b741d4f72a57d47bde334a",
-          "title": "数据中心已使美国公众电费增加230亿美元，回收成本困难重重",
-          "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T03:51:16.524000Z"
-        },
-        {
-          "id": "1c2aadf61cc7aa7e0b8fcfe152ee25bea2f95ac3",
-          "title": "数据中心已使美国公众电费增加230亿美元，回收成本困难重重 / Data centers have hiked electricity prices on the public by $23B",
-          "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-15T00:20:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7834,
-      "importance": 0.7834,
-      "importance_score": 0.7834,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9491,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T00:20:31Z",
-      "latest_at": "2026-07-15T03:51:16.524000Z",
-      "primary_item": {
-        "id": "7780ac5867d8905bd2b741d4f72a57d47bde334a",
-        "title": "数据中心已使美国公众电费增加230亿美元，回收成本困难重重",
-        "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     }
