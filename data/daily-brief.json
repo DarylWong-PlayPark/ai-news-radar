@@ -1,8 +1,109 @@
 {
-  "generated_at": "2026-07-15T23:00:41.627972Z",
+  "generated_at": "2026-07-16T00:55:30.383963Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_ee230258f27f",
+      "title": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性 / GPT-Red: Unlocking Self-Improvement for Robustness",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "primary_url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "684e8a3b4518eeb703ca575d74f032dd5b51f744",
+          "title": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性 / GPT-Red: Unlocking Self-Improvement for Robustness",
+          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T10:00:00Z"
+        },
+        {
+          "id": "1991cbe19a797293654bbf54a25123430284d7b6",
+          "title": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性",
+          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T10:00:00Z"
+        },
+        {
+          "id": "cd87819e714b7abba4ae9bd899cf22e1ff5a698b",
+          "title": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性 / GPT‑Red: Unlocking Self-Improvement for Robustness",
+          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-15T17:41:46Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "684e8a3b4518eeb703ca575d74f032dd5b51f744",
+          "title": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性 / GPT-Red: Unlocking Self-Improvement for Robustness",
+          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T10:00:00Z"
+        },
+        {
+          "id": "1991cbe19a797293654bbf54a25123430284d7b6",
+          "title": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性",
+          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T10:00:00Z"
+        },
+        {
+          "id": "cd87819e714b7abba4ae9bd899cf22e1ff5a698b",
+          "title": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性 / GPT‑Red: Unlocking Self-Improvement for Robustness",
+          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-15T17:41:46Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8751,
+      "importance": 0.8751,
+      "importance_score": 0.8751,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8061,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T10:00:00Z",
+      "latest_at": "2026-07-15T17:41:46Z",
+      "primary_item": {
+        "id": "684e8a3b4518eeb703ca575d74f032dd5b51f744",
+        "title": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性 / GPT-Red: Unlocking Self-Improvement for Robustness",
+        "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_53e3149d2cc1",
       "title": "Shippy 的建造教会了我们关于建筑代理的哪些知识 / What building Shippy taught us about building agents",
@@ -38,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8462,
-      "importance": 0.8462,
-      "importance_score": 0.8462,
+      "score": 0.8417,
+      "importance": 0.8417,
+      "importance_score": 0.8417,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9234,
+        "recency": 0.8983,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +201,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.843,
-      "importance": 0.843,
-      "importance_score": 0.843,
+      "score": 0.8382,
+      "importance": 0.8382,
+      "importance_score": 0.8382,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9946,
+        "recency": 0.9675,
         "story_heat": 0.0
       },
       "category": "official",
@@ -128,65 +229,122 @@
       }
     },
     {
-      "story_id": "story_ee230258f27f",
-      "title": "GPT-Red：释放自我完善的稳健性 / GPT-Red: Unlocking Self-Improvement for Robustness",
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "primary_url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_7669484c209f",
+      "title": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
+      "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+      "primary_url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "684e8a3b4518eeb703ca575d74f032dd5b51f744",
-          "title": "GPT-Red：释放自我完善的稳健性 / GPT-Red: Unlocking Self-Improvement for Robustness",
-          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T10:00:00Z"
+          "id": "88dc0bf9317a1563017cb1b98d2db0c7b975877c",
+          "title": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
+          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T16:25:19.955000Z"
+        },
+        {
+          "id": "56581aadd6344a1ae1344ad345a485c4f59f0854",
+          "title": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
+          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+          "source": "smarterarticles.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-15T16:25:19.955000Z"
+        },
+        {
+          "id": "2375d6e296a96e032d78a14ecb4f7f01b454fa88",
+          "title": "三秒盗窃：为何人工智能语音欺诈胜过一切防御 / The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+          "url": "https://news.ycombinator.com/item?id=48920432",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-15T14:33:45.826000Z"
+        },
+        {
+          "id": "92141d270354cc799ed1c1df5e04a10557e11714",
+          "title": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元 / The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-15T13:18:15Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 4,
       "source_names": [
-        "OpenAI News"
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews",
+        "smarterarticles.co.uk"
       ],
       "items": [
         {
-          "id": "684e8a3b4518eeb703ca575d74f032dd5b51f744",
-          "title": "GPT-Red：释放自我完善的稳健性 / GPT-Red: Unlocking Self-Improvement for Robustness",
-          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T10:00:00Z"
+          "id": "88dc0bf9317a1563017cb1b98d2db0c7b975877c",
+          "title": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
+          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T16:25:19.955000Z"
+        },
+        {
+          "id": "56581aadd6344a1ae1344ad345a485c4f59f0854",
+          "title": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
+          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+          "source": "smarterarticles.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-15T16:25:19.955000Z"
+        },
+        {
+          "id": "2375d6e296a96e032d78a14ecb4f7f01b454fa88",
+          "title": "三秒盗窃：为何人工智能语音欺诈胜过一切防御 / The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+          "url": "https://news.ycombinator.com/item?id=48920432",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-15T14:33:45.826000Z"
+        },
+        {
+          "id": "92141d270354cc799ed1c1df5e04a10557e11714",
+          "title": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元 / The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-15T13:18:15Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8292,
-      "importance": 0.8292,
-      "importance_score": 0.8292,
-      "importance_label": "官方更新",
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8218,
+      "importance": 0.8218,
+      "importance_score": 0.8218,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8287,
-        "story_heat": 0.0
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8845,
+        "story_heat": 0.75
       },
-      "category": "official",
+      "category": "multi_source",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-15T10:00:00Z",
-      "latest_at": "2026-07-15T10:00:00Z",
+      "earliest_at": "2026-07-15T13:18:15Z",
+      "latest_at": "2026-07-15T16:25:19.955000Z",
       "primary_item": {
-        "id": "684e8a3b4518eeb703ca575d74f032dd5b51f744",
-        "title": "GPT-Red：释放自我完善的稳健性 / GPT-Red: Unlocking Self-Improvement for Robustness",
-        "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "id": "88dc0bf9317a1563017cb1b98d2db0c7b975877c",
+        "title": "AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元",
+        "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -224,15 +382,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8461,
-      "importance": 0.8461,
-      "importance_score": 0.8461,
+      "score": 0.8416,
+      "importance": 0.8416,
+      "importance_score": 0.8416,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9228,
+        "recency": 0.8977,
         "story_heat": 0.0
       },
       "category": "official",
@@ -286,15 +444,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8255,
-      "importance": 0.8255,
-      "importance_score": 0.8255,
+      "score": 0.8214,
+      "importance": 0.8214,
+      "importance_score": 0.8214,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.853,
+        "recency": 0.8297,
         "story_heat": 0.0
       },
       "category": "official",
@@ -311,87 +469,6 @@
         "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e21c965e6aed",
-      "title": "Telegram 无服务器架构",
-      "url": "https://core.telegram.org/bots/serverless",
-      "primary_url": "https://core.telegram.org/bots/serverless",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b48d0bcf1ac9713812076dcfd68a880183ee0fa8",
-          "title": "Telegram 无服务器架构",
-          "url": "https://core.telegram.org/bots/serverless",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T15:37:19.450000Z"
-        },
-        {
-          "id": "896aa7903770e1ec702edbf7b8920e29b26a2232",
-          "title": "Telegram 无服务器架构 / Telegram Serverless",
-          "url": "https://core.telegram.org/bots/serverless",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-15T10:06:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "b48d0bcf1ac9713812076dcfd68a880183ee0fa8",
-          "title": "Telegram 无服务器架构",
-          "url": "https://core.telegram.org/bots/serverless",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T15:37:19.450000Z"
-        },
-        {
-          "id": "896aa7903770e1ec702edbf7b8920e29b26a2232",
-          "title": "Telegram 无服务器架构 / Telegram Serverless",
-          "url": "https://core.telegram.org/bots/serverless",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-15T10:06:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7894,
-      "importance": 0.7894,
-      "importance_score": 0.7894,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8988,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T10:06:39Z",
-      "latest_at": "2026-07-15T15:37:19.450000Z",
-      "primary_item": {
-        "id": "b48d0bcf1ac9713812076dcfd68a880183ee0fa8",
-        "title": "Telegram 无服务器架构",
-        "url": "https://core.telegram.org/bots/serverless",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -448,15 +525,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.789,
-      "importance": 0.789,
-      "importance_score": 0.789,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8132,
+        "recency": 0.791,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -476,65 +553,531 @@
       }
     },
     {
-      "story_id": "story_18f99e3f3fbc",
-      "title": "Visual Studio 中的 GitHub Copilot — 6 月更新 / GitHub Copilot in Visual Studio — June update",
-      "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
-      "primary_url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_2ac9497cd907",
+      "title": "OpenAI 用 AI 攻击自家 AI：GPT-Red 自动发现安全漏洞，成功率 84% 远超人类",
+      "url": "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did",
+      "primary_url": "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "fecab8ea56e8c4805fa973284e92c3890a51ae9c",
-          "title": "Visual Studio 中的 GitHub Copilot — 6 月更新 / GitHub Copilot in Visual Studio — June update",
-          "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T00:01:24Z"
+          "id": "9d49d2529c38c53caf9bcc6c924438dcc3138154",
+          "title": "OpenAI 用 AI 攻击自家 AI：GPT-Red 自动发现安全漏洞，成功率 84% 远超人类",
+          "url": "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T19:47:53Z"
+        },
+        {
+          "id": "1e8e86498a3d2afd5dc3e10900ced5496a90f321",
+          "title": "OpenAI 用 AI 攻击自家 AI：GPT-Red 自动发现安全漏洞，成功率 84% 远超人类 / OpenAI is now using AI to attack its own AI, and it's working better than humans ever did",
+          "url": "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-15T19:47:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9d49d2529c38c53caf9bcc6c924438dcc3138154",
+          "title": "OpenAI 用 AI 攻击自家 AI：GPT-Red 自动发现安全漏洞，成功率 84% 远超人类",
+          "url": "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T19:47:53Z"
+        },
+        {
+          "id": "1e8e86498a3d2afd5dc3e10900ced5496a90f321",
+          "title": "OpenAI 用 AI 攻击自家 AI：GPT-Red 自动发现安全漏洞，成功率 84% 远超人类 / OpenAI is now using AI to attack its own AI, and it's working better than humans ever did",
+          "url": "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-15T19:47:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7768,
+      "importance": 0.7768,
+      "importance_score": 0.7768,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9286,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T19:47:53Z",
+      "latest_at": "2026-07-15T19:47:53Z",
+      "primary_item": {
+        "id": "9d49d2529c38c53caf9bcc6c924438dcc3138154",
+        "title": "OpenAI 用 AI 攻击自家 AI：GPT-Red 自动发现安全漏洞，成功率 84% 远超人类",
+        "url": "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7a6e0dd34e66",
+      "title": "xAI 开源 Grok Build 编程智能体与终端界面",
+      "url": "https://x.ai/news/grok-build-open-source",
+      "primary_url": "https://x.ai/news/grok-build-open-source",
+      "source": "xAI：News（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bb86a46a5cff165db425e348bd845ae985ad2b1b",
+          "title": "xAI 开源 Grok Build 编程智能体与终端界面",
+          "url": "https://x.ai/news/grok-build-open-source",
+          "source": "xAI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T21:07:41.894000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "xAI：News（网页）"
       ],
       "items": [
         {
-          "id": "fecab8ea56e8c4805fa973284e92c3890a51ae9c",
-          "title": "Visual Studio 中的 GitHub Copilot — 6 月更新 / GitHub Copilot in Visual Studio — June update",
-          "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T00:01:24Z"
+          "id": "bb86a46a5cff165db425e348bd845ae985ad2b1b",
+          "title": "xAI 开源 Grok Build 编程智能体与终端界面",
+          "url": "https://x.ai/news/grok-build-open-source",
+          "source": "xAI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T21:07:41.894000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8012,
-      "importance": 0.8012,
-      "importance_score": 0.8012,
-      "importance_label": "官方更新",
+      "score": 0.773,
+      "importance": 0.773,
+      "importance_score": 0.773,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7175,
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9466,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-15T00:01:24Z",
-      "latest_at": "2026-07-15T00:01:24Z",
+      "earliest_at": "2026-07-15T21:07:41.894000Z",
+      "latest_at": "2026-07-15T21:07:41.894000Z",
       "primary_item": {
-        "id": "fecab8ea56e8c4805fa973284e92c3890a51ae9c",
-        "title": "Visual Studio 中的 GitHub Copilot — 6 月更新 / GitHub Copilot in Visual Studio — June update",
-        "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "bb86a46a5cff165db425e348bd845ae985ad2b1b",
+        "title": "xAI 开源 Grok Build 编程智能体与终端界面",
+        "url": "https://x.ai/news/grok-build-open-source",
+        "source": "xAI：News（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7dd1f1241d4d",
+      "title": "开源编程智能体内存方案发布，通过 SSH 同步",
+      "url": "https://github.com/vshulcz/deja-vu",
+      "primary_url": "https://github.com/vshulcz/deja-vu",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "00d5e904c541227c2cff61620f16fec15cd08fc2",
+          "title": "开源编程智能体内存方案发布，通过 SSH 同步",
+          "url": "https://github.com/vshulcz/deja-vu",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T22:49:15.715000Z"
+        },
+        {
+          "id": "88994b5806e88e5bfa72e7fa77ffc34f85286b04",
+          "title": "开源编程智能体内存方案发布，通过 SSH 同步 / Open-source memory for coding agents, synced over SSH",
+          "url": "https://github.com/vshulcz/deja-vu",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-15T16:15:03Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "00d5e904c541227c2cff61620f16fec15cd08fc2",
+          "title": "开源编程智能体内存方案发布，通过 SSH 同步",
+          "url": "https://github.com/vshulcz/deja-vu",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T22:49:15.715000Z"
+        },
+        {
+          "id": "88994b5806e88e5bfa72e7fa77ffc34f85286b04",
+          "title": "开源编程智能体内存方案发布，通过 SSH 同步 / Open-source memory for coding agents, synced over SSH",
+          "url": "https://github.com/vshulcz/deja-vu",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-15T16:15:03Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7992,
+      "importance": 0.7992,
+      "importance_score": 0.7992,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9701,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T16:15:03Z",
+      "latest_at": "2026-07-15T22:49:15.715000Z",
+      "primary_item": {
+        "id": "00d5e904c541227c2cff61620f16fec15cd08fc2",
+        "title": "开源编程智能体内存方案发布，通过 SSH 同步",
+        "url": "https://github.com/vshulcz/deja-vu",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_304dad6e549d",
+      "title": "Grok Build 现已开源",
+      "url": "https://x.com/elonmusk/status/2077495635687723408",
+      "primary_url": "https://x.com/elonmusk/status/2077495635687723408",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6e572ca1990679f00e59cde232eaf2c655075dcf",
+          "title": "Grok Build 现已开源",
+          "url": "https://x.com/elonmusk/status/2077495635687723408",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T20:48:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Elon Musk (@elonmusk, xAI)"
+      ],
+      "items": [
+        {
+          "id": "6e572ca1990679f00e59cde232eaf2c655075dcf",
+          "title": "Grok Build 现已开源",
+          "url": "https://x.com/elonmusk/status/2077495635687723408",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T20:48:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7692,
+      "importance": 0.7692,
+      "importance_score": 0.7692,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9424,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T20:48:52Z",
+      "latest_at": "2026-07-15T20:48:52Z",
+      "primary_item": {
+        "id": "6e572ca1990679f00e59cde232eaf2c655075dcf",
+        "title": "Grok Build 现已开源",
+        "url": "https://x.com/elonmusk/status/2077495635687723408",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b7bae1a2d7ad",
+      "title": "​xAI把Grok Build的源代码全摊开了：自己编译、本地离线跑，连每一行工具调用都看得见",
+      "url": "https://www.aibase.com/news/29627",
+      "primary_url": "https://www.aibase.com/news/29627",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1f7d3e304e5539e92adbaf9bdc5ec6807ad0a098",
+          "title": "​xAI把Grok Build的源代码全摊开了：自己编译、本地离线跑，连每一行工具调用都看得见",
+          "url": "https://www.aibase.com/news/29627",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T00:55:30.383963Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1f7d3e304e5539e92adbaf9bdc5ec6807ad0a098",
+          "title": "​xAI把Grok Build的源代码全摊开了：自己编译、本地离线跑，连每一行工具调用都看得见",
+          "url": "https://www.aibase.com/news/29627",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T00:55:30.383963Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T00:55:30.383963Z",
+      "latest_at": "2026-07-16T00:55:30.383963Z",
+      "primary_item": {
+        "id": "1f7d3e304e5539e92adbaf9bdc5ec6807ad0a098",
+        "title": "​xAI把Grok Build的源代码全摊开了：自己编译、本地离线跑，连每一行工具调用都看得见",
+        "url": "https://www.aibase.com/news/29627",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a4fed1204385",
+      "title": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具",
+      "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid",
+      "primary_url": "https://simonwillison.net/2026/Jul/16/grok-mermaid",
+      "source": "Simon Willison 博客",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "67a32c2116cce00a5f76e3432a7b540189bbd594",
+          "title": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具",
+          "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T00:33:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Simon Willison 博客"
+      ],
+      "items": [
+        {
+          "id": "67a32c2116cce00a5f76e3432a7b540189bbd594",
+          "title": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具",
+          "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T00:33:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7666,
+      "importance": 0.7666,
+      "importance_score": 0.7666,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9947,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T00:33:18Z",
+      "latest_at": "2026-07-16T00:33:18Z",
+      "primary_item": {
+        "id": "67a32c2116cce00a5f76e3432a7b540189bbd594",
+        "title": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具",
+        "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid",
+        "source": "Simon Willison 博客",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d223be4610de",
+      "title": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
+      "url": "https://mp.weixin.qq.com/s/x2JlkhOlGNVhL8oe7AVk9Q",
+      "primary_url": "https://mp.weixin.qq.com/s/x2JlkhOlGNVhL8oe7AVk9Q",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a61c6e99f28af9a1fdca4942051b64dec8baf05d",
+          "title": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
+          "url": "https://mp.weixin.qq.com/s/x2JlkhOlGNVhL8oe7AVk9Q",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T00:12:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "a61c6e99f28af9a1fdca4942051b64dec8baf05d",
+          "title": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
+          "url": "https://mp.weixin.qq.com/s/x2JlkhOlGNVhL8oe7AVk9Q",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T00:12:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7537,
+      "importance": 0.7537,
+      "importance_score": 0.7537,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9896,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T00:12:00Z",
+      "latest_at": "2026-07-16T00:12:00Z",
+      "primary_item": {
+        "id": "a61c6e99f28af9a1fdca4942051b64dec8baf05d",
+        "title": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
+        "url": "https://mp.weixin.qq.com/s/x2JlkhOlGNVhL8oe7AVk9Q",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_25d632ed3557",
+      "title": "Anthropic 研究：AI 智能体模拟中行为偏差",
+      "url": "https://x.com/AnthropicAI/status/2077452646303006927",
+      "primary_url": "https://x.com/AnthropicAI/status/2077452646303006927",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9e3a209c107b8eebe49833c7a7af585ee46afb55",
+          "title": "Anthropic 研究：AI 智能体模拟中行为偏差",
+          "url": "https://x.com/AnthropicAI/status/2077452646303006927",
+          "source": "X：Anthropic (@AnthropicAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T17:58:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Anthropic (@AnthropicAI)"
+      ],
+      "items": [
+        {
+          "id": "9e3a209c107b8eebe49833c7a7af585ee46afb55",
+          "title": "Anthropic 研究：AI 智能体模拟中行为偏差",
+          "url": "https://x.com/AnthropicAI/status/2077452646303006927",
+          "source": "X：Anthropic (@AnthropicAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T17:58:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7534,
+      "importance": 0.7534,
+      "importance_score": 0.7534,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9044,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T17:58:02Z",
+      "latest_at": "2026-07-15T17:58:02Z",
+      "primary_item": {
+        "id": "9e3a209c107b8eebe49833c7a7af585ee46afb55",
+        "title": "Anthropic 研究：AI 智能体模拟中行为偏差",
+        "url": "https://x.com/AnthropicAI/status/2077452646303006927",
+        "source": "X：Anthropic (@AnthropicAI)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -572,15 +1115,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7568,
-      "importance": 0.7568,
-      "importance_score": 0.7568,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8402,
+        "recency": 0.8173,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -599,207 +1142,124 @@
       }
     },
     {
-      "story_id": "story_467fe263bae9",
-      "title": "OPPO与支付宝实现智能体跨端互联，一句话调用阿宝200项办事技能",
-      "url": "https://www.aibase.com/news/29610",
-      "primary_url": "https://www.aibase.com/news/29610",
+      "story_id": "story_e95665f87a0d",
+      "title": "Thinking Machines 发布多模态模型 Inkling",
+      "url": "https://x.com/thinkymachines/status/2077454609551921208",
+      "primary_url": "https://x.com/thinkymachines/status/2077454609551921208",
+      "source": "X：Thinking Machines (@thinkymachines)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dc2b9b2e890493572a6f74f0b9cde582f02466c5",
+          "title": "Thinking Machines 发布多模态模型 Inkling",
+          "url": "https://x.com/thinkymachines/status/2077454609551921208",
+          "source": "X：Thinking Machines (@thinkymachines)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T18:05:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Thinking Machines (@thinkymachines)"
+      ],
+      "items": [
+        {
+          "id": "dc2b9b2e890493572a6f74f0b9cde582f02466c5",
+          "title": "Thinking Machines 发布多模态模型 Inkling",
+          "url": "https://x.com/thinkymachines/status/2077454609551921208",
+          "source": "X：Thinking Machines (@thinkymachines)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T18:05:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7447,
+      "importance": 0.7447,
+      "importance_score": 0.7447,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9061,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-15T18:05:50Z",
+      "latest_at": "2026-07-15T18:05:50Z",
+      "primary_item": {
+        "id": "dc2b9b2e890493572a6f74f0b9cde582f02466c5",
+        "title": "Thinking Machines 发布多模态模型 Inkling",
+        "url": "https://x.com/thinkymachines/status/2077454609551921208",
+        "source": "X：Thinking Machines (@thinkymachines)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b1f1fc5002da",
+      "title": "我国首个水风光一体化智慧运营大模型发布，流域来水预报从十几天延长至 60 天",
+      "url": "https://www.aibase.com/news/29626",
+      "primary_url": "https://www.aibase.com/news/29626",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1cc13af0e5d44704bb73cb2cca39d34d27487797",
-          "title": "OPPO与支付宝实现智能体跨端互联，一句话调用阿宝200项办事技能",
-          "url": "https://www.aibase.com/news/29610",
+          "id": "d7a0860ddf744c67c89bfb0c61c8a315c9d833ce",
+          "title": "我国首个水风光一体化智慧运营大模型发布，流域来水预报从十几天延长至 60 天",
+          "url": "https://www.aibase.com/news/29626",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-15T07:28:31.150483Z"
-        },
-        {
-          "id": "db3ce05e71b3599e8c447d89e3f22641091c2abf",
-          "title": "支付宝联手OPPO实现智能体跨端互联，“阿宝”与“小布”协同代办生活服务",
-          "url": "https://www.aibase.com/news/29610",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-15T05:14:04.182448Z"
+          "published_at": "2026-07-16T00:55:30.383963Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
         "AIbase"
       ],
       "items": [
         {
-          "id": "1cc13af0e5d44704bb73cb2cca39d34d27487797",
-          "title": "OPPO与支付宝实现智能体跨端互联，一句话调用阿宝200项办事技能",
-          "url": "https://www.aibase.com/news/29610",
+          "id": "d7a0860ddf744c67c89bfb0c61c8a315c9d833ce",
+          "title": "我国首个水风光一体化智慧运营大模型发布，流域来水预报从十几天延长至 60 天",
+          "url": "https://www.aibase.com/news/29626",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-15T07:28:31.150483Z"
-        },
-        {
-          "id": "db3ce05e71b3599e8c447d89e3f22641091c2abf",
-          "title": "支付宝联手OPPO实现智能体跨端互联，“阿宝”与“小布”协同代办生活服务",
-          "url": "https://www.aibase.com/news/29610",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-15T05:14:04.182448Z"
+          "published_at": "2026-07-16T00:55:30.383963Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7564,
-      "importance": 0.7564,
-      "importance_score": 0.7564,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.799,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-15T05:14:04.182448Z",
-      "latest_at": "2026-07-15T07:28:31.150483Z",
+      "earliest_at": "2026-07-16T00:55:30.383963Z",
+      "latest_at": "2026-07-16T00:55:30.383963Z",
       "primary_item": {
-        "id": "1cc13af0e5d44704bb73cb2cca39d34d27487797",
-        "title": "OPPO与支付宝实现智能体跨端互联，一句话调用阿宝200项办事技能",
-        "url": "https://www.aibase.com/news/29610",
+        "id": "d7a0860ddf744c67c89bfb0c61c8a315c9d833ce",
+        "title": "我国首个水风光一体化智慧运营大模型发布，流域来水预报从十几天延长至 60 天",
+        "url": "https://www.aibase.com/news/29626",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_210f6726bf4a",
-      "title": "欢迎来自 Thinking Machine 的 Inkling / Welcome Inkling by Thinking Machines",
-      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
-      "primary_url": "https://huggingface.co/blog/thinkingmachines-inkling",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c8c11a622764bf3ffa132c923152e9b5ad3424f3",
-          "title": "欢迎来自 Thinking Machine 的 Inkling / Welcome Inkling by Thinking Machines",
-          "url": "https://huggingface.co/blog/thinkingmachines-inkling",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "c8c11a622764bf3ffa132c923152e9b5ad3424f3",
-          "title": "欢迎来自 Thinking Machine 的 Inkling / Welcome Inkling by Thinking Machines",
-          "url": "https://huggingface.co/blog/thinkingmachines-inkling",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8091,
-      "importance": 0.8091,
-      "importance_score": 0.8091,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7173,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T00:00:00Z",
-      "latest_at": "2026-07-15T00:00:00Z",
-      "primary_item": {
-        "id": "c8c11a622764bf3ffa132c923152e9b5ad3424f3",
-        "title": "欢迎来自 Thinking Machine 的 Inkling / Welcome Inkling by Thinking Machines",
-        "url": "https://huggingface.co/blog/thinkingmachines-inkling",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_ad1e2a9c5407",
-      "title": "GitHub Copilot for JetBrains 扩展了 BYOK 功能 / GitHub Copilot for JetBrains expands BYOK capabilities",
-      "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
-      "primary_url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "906fa3659ef6d9e0e6773b4b6aaa7a2245287883",
-          "title": "GitHub Copilot for JetBrains 扩展了 BYOK 功能 / GitHub Copilot for JetBrains expands BYOK capabilities",
-          "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T23:37:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "906fa3659ef6d9e0e6773b4b6aaa7a2245287883",
-          "title": "GitHub Copilot for JetBrains 扩展了 BYOK 功能 / GitHub Copilot for JetBrains expands BYOK capabilities",
-          "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T23:37:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8004,
-      "importance": 0.8004,
-      "importance_score": 0.8004,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7134,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T23:37:29Z",
-      "latest_at": "2026-07-14T23:37:29Z",
-      "primary_item": {
-        "id": "906fa3659ef6d9e0e6773b4b6aaa7a2245287883",
-        "title": "GitHub Copilot for JetBrains 扩展了 BYOK 功能 / GitHub Copilot for JetBrains expands BYOK capabilities",
-        "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -837,15 +1297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
+      "score": 0.7356,
+      "importance": 0.7356,
+      "importance_score": 0.7356,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7424,
+        "recency": 0.7221,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -863,507 +1323,63 @@
       }
     },
     {
-      "story_id": "story_fd1c7d783feb",
-      "title": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
-      "url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
-      "primary_url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
-      "source": "公众号：通义实验室（千问）",
+      "story_id": "story_b02eb08df82a",
+      "title": "Claude Code 新增 MCP 连接器调用功能",
+      "url": "https://x.com/ClaudeDevs/status/2077489907350856038",
+      "primary_url": "https://x.com/ClaudeDevs/status/2077489907350856038",
+      "source": "X：Claude Devs (@ClaudeDevs)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ae4337d9eeb79e389eb8dca02fc217633f7ad02b",
-          "title": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
-          "url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
-          "source": "公众号：通义实验室（千问）",
+          "id": "2758bfe897b69511438af28072b3c9956fd3ff7a",
+          "title": "Claude Code 新增 MCP 连接器调用功能",
+          "url": "https://x.com/ClaudeDevs/status/2077489907350856038",
+          "source": "X：Claude Devs (@ClaudeDevs)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-15T02:30:26Z"
+          "published_at": "2026-07-15T20:26:06Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：通义实验室（千问）"
+        "X：Claude Devs (@ClaudeDevs)"
       ],
       "items": [
         {
-          "id": "ae4337d9eeb79e389eb8dca02fc217633f7ad02b",
-          "title": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
-          "url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
-          "source": "公众号：通义实验室（千问）",
+          "id": "2758bfe897b69511438af28072b3c9956fd3ff7a",
+          "title": "Claude Code 新增 MCP 连接器调用功能",
+          "url": "https://x.com/ClaudeDevs/status/2077489907350856038",
+          "source": "X：Claude Devs (@ClaudeDevs)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-15T02:30:26Z"
+          "published_at": "2026-07-15T20:26:06Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7245,
-      "importance": 0.7245,
-      "importance_score": 0.7245,
+      "score": 0.7353,
+      "importance": 0.7353,
+      "importance_score": 0.7353,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.73,
+        "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7437,
+        "recency": 0.9372,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-15T02:30:26Z",
-      "latest_at": "2026-07-15T02:30:26Z",
+      "earliest_at": "2026-07-15T20:26:06Z",
+      "latest_at": "2026-07-15T20:26:06Z",
       "primary_item": {
-        "id": "ae4337d9eeb79e389eb8dca02fc217633f7ad02b",
-        "title": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
-        "url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
-        "source": "公众号：通义实验室（千问）",
+        "id": "2758bfe897b69511438af28072b3c9956fd3ff7a",
+        "title": "Claude Code 新增 MCP 连接器调用功能",
+        "url": "https://x.com/ClaudeDevs/status/2077489907350856038",
+        "source": "X：Claude Devs (@ClaudeDevs)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4ee13a5b89cb",
-      "title": "金山办公推出 WPS Comate AI 办公客户端",
-      "url": "https://www.ithome.com/0/977/105.htm",
-      "primary_url": "https://www.ithome.com/0/977/105.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "158f3a0863d16bcc8250be8b05b122dea75efcdc",
-          "title": "金山办公推出 WPS Comate AI 办公客户端",
-          "url": "https://www.ithome.com/0/977/105.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T08:39:58Z"
-        },
-        {
-          "id": "840aae8f5c5cc84fa4faef76a08e0f1aad6bf0d5",
-          "title": "金山办公推出 WPS Comate AI 办公客户端，支持 Skill 技能生态、自动化任务、Wiki 知识库等",
-          "url": "https://www.ithome.com/0/977/105.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-15T08:39:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "158f3a0863d16bcc8250be8b05b122dea75efcdc",
-          "title": "金山办公推出 WPS Comate AI 办公客户端",
-          "url": "https://www.ithome.com/0/977/105.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T08:39:58Z"
-        },
-        {
-          "id": "840aae8f5c5cc84fa4faef76a08e0f1aad6bf0d5",
-          "title": "金山办公推出 WPS Comate AI 办公客户端，支持 Skill 技能生态、自动化任务、Wiki 知识库等",
-          "url": "https://www.ithome.com/0/977/105.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-15T08:39:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7529,
-      "importance": 0.7529,
-      "importance_score": 0.7529,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8129,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T08:39:58Z",
-      "latest_at": "2026-07-15T08:39:58Z",
-      "primary_item": {
-        "id": "158f3a0863d16bcc8250be8b05b122dea75efcdc",
-        "title": "金山办公推出 WPS Comate AI 办公客户端",
-        "url": "https://www.ithome.com/0/977/105.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3cb375934083",
-      "title": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
-      "url": "https://www.aibase.com/news/29609",
-      "primary_url": "https://www.aibase.com/news/29609",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f42390251bc986e4ab09f27a61b95d1832ec7738",
-          "title": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
-          "url": "https://www.aibase.com/news/29609",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-15T05:14:04.182448Z"
-        },
-        {
-          "id": "233fccf637e7d448c766f90673d7b0169a2f7b62",
-          "title": "AI 转录 Mac 工具 MacWhisper 14 发布：新增编辑器视图，修复 CPU 占用过高问题",
-          "url": "https://www.ithome.com/0/976/812.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-15T01:37:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "IT之家 (ITHome)"
-      ],
-      "items": [
-        {
-          "id": "f42390251bc986e4ab09f27a61b95d1832ec7738",
-          "title": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
-          "url": "https://www.aibase.com/news/29609",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-15T05:14:04.182448Z"
-        },
-        {
-          "id": "233fccf637e7d448c766f90673d7b0169a2f7b62",
-          "title": "AI 转录 Mac 工具 MacWhisper 14 发布：新增编辑器视图，修复 CPU 占用过高问题",
-          "url": "https://www.ithome.com/0/976/812.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-15T01:37:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7736,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T01:37:49Z",
-      "latest_at": "2026-07-15T05:14:04.182448Z",
-      "primary_item": {
-        "id": "f42390251bc986e4ab09f27a61b95d1832ec7738",
-        "title": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
-        "url": "https://www.aibase.com/news/29609",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d7a72e9aa349",
-      "title": "Codex 周活超700万，两月更新150+项",
-      "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
-      "primary_url": "https://x.com/OpenAIDevs/status/2077166520392970529",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5d91636db5625e900361a03a18921524a4153cb4",
-          "title": "Codex 周活超700万，两月更新150+项",
-          "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T23:01:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI Developers (@OpenAIDevs)"
-      ],
-      "items": [
-        {
-          "id": "5d91636db5625e900361a03a18921524a4153cb4",
-          "title": "Codex 周活超700万，两月更新150+项",
-          "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T23:01:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7209,
-      "importance": 0.7209,
-      "importance_score": 0.7209,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7072,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-14T23:01:05Z",
-      "latest_at": "2026-07-14T23:01:05Z",
-      "primary_item": {
-        "id": "5d91636db5625e900361a03a18921524a4153cb4",
-        "title": "Codex 周活超700万，两月更新150+项",
-        "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5d7569c2afe3",
-      "title": "真实世界 VoiceEQ 简介：测量语音 AI 的人类质量 / Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-      "url": "https://huggingface.co/blog/real-world-voiceeq",
-      "primary_url": "https://huggingface.co/blog/real-world-voiceeq",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "80a3de57206305e274a186a394d0d50502b735a3",
-          "title": "真实世界 VoiceEQ 简介：测量语音 AI 的人类质量 / Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-          "url": "https://huggingface.co/blog/real-world-voiceeq",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "80a3de57206305e274a186a394d0d50502b735a3",
-          "title": "真实世界 VoiceEQ 简介：测量语音 AI 的人类质量 / Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-          "url": "https://huggingface.co/blog/real-world-voiceeq",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8091,
-      "importance": 0.8091,
-      "importance_score": 0.8091,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7173,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T00:00:00Z",
-      "latest_at": "2026-07-15T00:00:00Z",
-      "primary_item": {
-        "id": "80a3de57206305e274a186a394d0d50502b735a3",
-        "title": "真实世界 VoiceEQ 简介：测量语音 AI 的人类质量 / Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-        "url": "https://huggingface.co/blog/real-world-voiceeq",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_eb9b80fadbba",
-      "title": "数据中心已使美国公众电费增加230亿美元，回收成本困难重重",
-      "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
-      "primary_url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7780ac5867d8905bd2b741d4f72a57d47bde334a",
-          "title": "数据中心已使美国公众电费增加230亿美元，回收成本困难重重",
-          "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T03:51:16.524000Z"
-        },
-        {
-          "id": "1c2aadf61cc7aa7e0b8fcfe152ee25bea2f95ac3",
-          "title": "数据中心已使公众的电费增加了230亿美元 / Data centers have hiked electricity prices on the public by $23B",
-          "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-15T00:20:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "7780ac5867d8905bd2b741d4f72a57d47bde334a",
-          "title": "数据中心已使美国公众电费增加230亿美元，回收成本困难重重",
-          "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T03:51:16.524000Z"
-        },
-        {
-          "id": "1c2aadf61cc7aa7e0b8fcfe152ee25bea2f95ac3",
-          "title": "数据中心已使公众的电费增加了230亿美元 / Data centers have hiked electricity prices on the public by $23B",
-          "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-15T00:20:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7583,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-15T00:20:31Z",
-      "latest_at": "2026-07-15T03:51:16.524000Z",
-      "primary_item": {
-        "id": "7780ac5867d8905bd2b741d4f72a57d47bde334a",
-        "title": "数据中心已使美国公众电费增加230亿美元，回收成本困难重重",
-        "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_82b1ef1c8ca0",
-      "title": "Hinge创始人筹资1800万美元，推出全新AI语音约会服务Overtone",
-      "url": "https://www.aibase.com/news/29595",
-      "primary_url": "https://www.aibase.com/news/29595",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "19cb14b1824e5e39a13f6f07cd59b0179cdd480f",
-          "title": "Hinge创始人筹资1800万美元，推出全新AI语音约会服务Overtone",
-          "url": "https://www.aibase.com/news/29595",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-15T02:10:05.644163Z"
-        },
-        {
-          "id": "b4772f8ba369a667c0f7f7c54731b159f3199b89",
-          "title": "Hinge 创始人筹资 1800 万美元，推出全新 AI 语音约会服务 Overtone",
-          "url": "https://www.aibase.com/zh/news/29595",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "19cb14b1824e5e39a13f6f07cd59b0179cdd480f",
-          "title": "Hinge创始人筹资1800万美元，推出全新AI语音约会服务Overtone",
-          "url": "https://www.aibase.com/news/29595",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-15T02:10:05.644163Z"
-        },
-        {
-          "id": "b4772f8ba369a667c0f7f7c54731b159f3199b89",
-          "title": "Hinge 创始人筹资 1800 万美元，推出全新 AI 语音约会服务 Overtone",
-          "url": "https://www.aibase.com/zh/news/29595",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7458,
-      "importance": 0.7458,
-      "importance_score": 0.7458,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7401,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-15T02:10:05.644163Z",
-      "latest_at": "2026-07-15T02:10:05.644163Z",
-      "primary_item": {
-        "id": "19cb14b1824e5e39a13f6f07cd59b0179cdd480f",
-        "title": "Hinge创始人筹资1800万美元，推出全新AI语音约会服务Overtone",
-        "url": "https://www.aibase.com/news/29595",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
