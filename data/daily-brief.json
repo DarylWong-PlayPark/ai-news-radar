@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T14:41:49.436139Z",
+  "generated_at": "2026-07-17T16:13:20.087175Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8652,
-      "importance": 0.8652,
-      "importance_score": 0.8652,
+      "score": 0.8615,
+      "importance": 0.8615,
+      "importance_score": 0.8615,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9344,
+        "recency": 0.9141,
         "story_heat": 0.25
       },
       "category": "official",
@@ -86,103 +86,21 @@
       }
     },
     {
-      "story_id": "story_45a4595f19b7",
-      "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能 / Create, edit and star in videos with two Google Vids updates",
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
-      "primary_url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "eb1c0533c3f0cd2bca2920e379a1799766151b44",
-          "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能 / Create, edit and star in videos with two Google Vids updates",
-          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T16:00:00Z"
-        },
-        {
-          "id": "fe84a00887f2c0520a8c226f1720fcc2da2022c5",
-          "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能",
-          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
-          "source": "Google Blog：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T16:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google AI Blog",
-        "Google Blog：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "eb1c0533c3f0cd2bca2920e379a1799766151b44",
-          "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能 / Create, edit and star in videos with two Google Vids updates",
-          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T16:00:00Z"
-        },
-        {
-          "id": "fe84a00887f2c0520a8c226f1720fcc2da2022c5",
-          "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能",
-          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
-          "source": "Google Blog：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T16:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8187,
-      "importance": 0.8187,
-      "importance_score": 0.8187,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7205,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T16:00:00Z",
-      "latest_at": "2026-07-16T16:00:00Z",
-      "primary_item": {
-        "id": "eb1c0533c3f0cd2bca2920e379a1799766151b44",
-        "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能 / Create, edit and star in videos with two Google Vids updates",
-        "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_ff8c14b3821e",
-      "title": "NVIDIA Nemotron 3 Embed 在 RTEB 上总体排名第一，推动代理检索 / NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "story_id": "story_a0bbc2c6e6f2",
+      "title": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "primary_url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "7b473d5cfb10c3308bce5cb8829a83a6d25e1ea9",
-          "title": "NVIDIA Nemotron 3 Embed 在 RTEB 上总体排名第一，推动代理检索 / NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+          "id": "01c3497dce4036769d3dc0ecb5cd7db5130df1d2",
+          "title": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+          "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-16T16:01:21Z"
+          "published_at": "2026-07-17T15:57:54Z"
         }
       ],
       "source_count": 1,
@@ -191,26 +109,26 @@
       ],
       "items": [
         {
-          "id": "7b473d5cfb10c3308bce5cb8829a83a6d25e1ea9",
-          "title": "NVIDIA Nemotron 3 Embed 在 RTEB 上总体排名第一，推动代理检索 / NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+          "id": "01c3497dce4036769d3dc0ecb5cd7db5130df1d2",
+          "title": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+          "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-16T16:01:21Z"
+          "published_at": "2026-07-17T15:57:54Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8157,
-      "importance": 0.8157,
-      "importance_score": 0.8157,
+      "score": 0.8593,
+      "importance": 0.8593,
+      "importance_score": 0.8593,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7208,
+        "ai_relevance": 0.95,
+        "recency": 0.9963,
         "story_heat": 0.0
       },
       "category": "official",
@@ -219,12 +137,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-16T16:01:21Z",
-      "latest_at": "2026-07-16T16:01:21Z",
+      "earliest_at": "2026-07-17T15:57:54Z",
+      "latest_at": "2026-07-17T15:57:54Z",
       "primary_item": {
-        "id": "7b473d5cfb10c3308bce5cb8829a83a6d25e1ea9",
-        "title": "NVIDIA Nemotron 3 Embed 在 RTEB 上总体排名第一，推动代理检索 / NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-        "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+        "id": "01c3497dce4036769d3dc0ecb5cd7db5130df1d2",
+        "title": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+        "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
@@ -264,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7997,
-      "importance": 0.7997,
-      "importance_score": 0.7997,
+      "score": 0.7967,
+      "importance": 0.7967,
+      "importance_score": 0.7967,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7537,
+        "recency": 0.7373,
         "story_heat": 0.0
       },
       "category": "official",
@@ -289,87 +207,6 @@
         "url": "https://github.blog/changelog/2026-07-16-advanced-search-for-projects-is-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_36cef5117305",
-      "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-      "url": "https://schema-harness.github.io",
-      "primary_url": "https://schema-harness.github.io",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b424de1a6db424313a45a1899c4fa0e980d45480",
-          "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-          "url": "https://schema-harness.github.io",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T08:41:53.383000Z"
-        },
-        {
-          "id": "dc841a26f0599ae54afdc50afff21a9e26f85602",
-          "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩 / Schema Harness Achieves ~99% on Arc‑AGI‑3 Public",
-          "url": "https://schema-harness.github.io",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-16T15:29:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "b424de1a6db424313a45a1899c4fa0e980d45480",
-          "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-          "url": "https://schema-harness.github.io",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T08:41:53.383000Z"
-        },
-        {
-          "id": "dc841a26f0599ae54afdc50afff21a9e26f85602",
-          "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩 / Schema Harness Achieves ~99% on Arc‑AGI‑3 Public",
-          "url": "https://schema-harness.github.io",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-16T15:29:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7957,
-      "importance": 0.7957,
-      "importance_score": 0.7957,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.917,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T15:29:12Z",
-      "latest_at": "2026-07-17T08:41:53.383000Z",
-      "primary_item": {
-        "id": "b424de1a6db424313a45a1899c4fa0e980d45480",
-        "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-        "url": "https://schema-harness.github.io",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -426,15 +263,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7834,
-      "importance": 0.7834,
-      "importance_score": 0.7834,
+      "score": 0.7797,
+      "importance": 0.7797,
+      "importance_score": 0.7797,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9492,
+        "recency": 0.9285,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -488,15 +325,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7752,
-      "importance": 0.7752,
-      "importance_score": 0.7752,
+      "score": 0.7713,
+      "importance": 0.7713,
+      "importance_score": 0.7713,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.992,
+        "recency": 0.9704,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -512,68 +349,6 @@
         "url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
         "source": "X：美团 LongCat (@Meituan_LongCat)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8fe39edff791",
-      "title": "为什么青少年应该获得安全的人工智能 / Why teens deserve access to safe AI",
-      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "primary_url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ed38a837e6df66b70357bb878fdb525481735328",
-          "title": "为什么青少年应该获得安全的人工智能 / Why teens deserve access to safe AI",
-          "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "ed38a837e6df66b70357bb878fdb525481735328",
-          "title": "为什么青少年应该获得安全的人工智能 / Why teens deserve access to safe AI",
-          "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8017,
-      "importance": 0.8017,
-      "importance_score": 0.8017,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7205,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T16:00:00Z",
-      "latest_at": "2026-07-16T16:00:00Z",
-      "primary_item": {
-        "id": "ed38a837e6df66b70357bb878fdb525481735328",
-        "title": "为什么青少年应该获得安全的人工智能 / Why teens deserve access to safe AI",
-        "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -611,15 +386,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7709,
-      "importance": 0.7709,
-      "importance_score": 0.7709,
+      "score": 0.7679,
+      "importance": 0.7679,
+      "importance_score": 0.7679,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7682,
+        "recency": 0.7515,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -634,6 +409,67 @@
         "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
         "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
         "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_36cef5117305",
+      "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
+      "url": "https://schema-harness.github.io",
+      "primary_url": "https://schema-harness.github.io",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b424de1a6db424313a45a1899c4fa0e980d45480",
+          "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
+          "url": "https://schema-harness.github.io",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T08:41:53.383000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "b424de1a6db424313a45a1899c4fa0e980d45480",
+          "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
+          "url": "https://schema-harness.github.io",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T08:41:53.383000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7671,
+      "importance": 0.7671,
+      "importance_score": 0.7671,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.897,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T08:41:53.383000Z",
+      "latest_at": "2026-07-17T08:41:53.383000Z",
+      "primary_item": {
+        "id": "b424de1a6db424313a45a1899c4fa0e980d45480",
+        "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
+        "url": "https://schema-harness.github.io",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -672,15 +508,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7995,
-      "importance": 0.7995,
-      "importance_score": 0.7995,
+      "score": 0.7965,
+      "importance": 0.7965,
+      "importance_score": 0.7965,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7526,
+        "recency": 0.7363,
         "story_heat": 0.0
       },
       "category": "official",
@@ -734,15 +570,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7673,
-      "importance": 0.7673,
-      "importance_score": 0.7673,
+      "score": 0.7643,
+      "importance": 0.7643,
+      "importance_score": 0.7643,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7819,
+        "recency": 0.7649,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -758,68 +594,6 @@
         "url": "https://x.ai/news/grok-automations",
         "source": "xAI：News（网页）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_85cdb4a3634b",
-      "title": "将更多应用程序连接到搜索 / Connect more of your apps to Search",
-      "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
-      "primary_url": "https://blog.google/products-and-platforms/products/search/connected-apps",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "275ff8386d97fb52ed42d6ed6334b2663cdf6521",
-          "title": "将更多应用程序连接到搜索 / Connect more of your apps to Search",
-          "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "275ff8386d97fb52ed42d6ed6334b2663cdf6521",
-          "title": "将更多应用程序连接到搜索 / Connect more of your apps to Search",
-          "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7937,
-      "importance": 0.7937,
-      "importance_score": 0.7937,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7205,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T16:00:00Z",
-      "latest_at": "2026-07-16T16:00:00Z",
-      "primary_item": {
-        "id": "275ff8386d97fb52ed42d6ed6334b2663cdf6521",
-        "title": "将更多应用程序连接到搜索 / Connect more of your apps to Search",
-        "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -857,15 +631,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7617,
-      "importance": 0.7617,
-      "importance_score": 0.7617,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9503,
+        "recency": 0.9296,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -918,15 +692,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.761,
-      "importance": 0.761,
-      "importance_score": 0.761,
+      "score": 0.7574,
+      "importance": 0.7574,
+      "importance_score": 0.7574,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.91,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -979,15 +753,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8688,
+        "recency": 0.8499,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1059,15 +833,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7787,
-      "importance": 0.7787,
-      "importance_score": 0.7787,
+      "score": 0.775,
+      "importance": 0.775,
+      "importance_score": 0.775,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9226,
+        "recency": 0.9025,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1140,15 +914,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7436,
-      "importance": 0.7436,
-      "importance_score": 0.7436,
+      "score": 0.7407,
+      "importance": 0.7407,
+      "importance_score": 0.7407,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7276,
+        "recency": 0.7118,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1201,15 +975,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7977,
-      "importance": 0.7977,
-      "importance_score": 0.7977,
+      "score": 0.7948,
+      "importance": 0.7948,
+      "importance_score": 0.7948,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7429,
+        "recency": 0.7267,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1282,15 +1056,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7242,
-      "importance": 0.7242,
-      "importance_score": 0.7242,
+      "score": 0.7213,
+      "importance": 0.7213,
+      "importance_score": 0.7213,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7367,
+        "recency": 0.7207,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1362,15 +1136,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7421,
-      "importance": 0.7421,
-      "importance_score": 0.7421,
+      "score": 0.7392,
+      "importance": 0.7392,
+      "importance_score": 0.7392,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7529,
+        "recency": 0.7365,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1386,6 +1160,208 @@
         "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
         "source": "VentureBeat：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_054bb53f758e",
+      "title": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
+      "url": "https://www.mixfont.com/experiments/decoy-font",
+      "primary_url": "https://www.mixfont.com/experiments/decoy-font",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "544a8b40618a9ff55c0f0054febd016a3ade9047",
+          "title": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
+          "url": "https://www.mixfont.com/experiments/decoy-font",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T18:32:23.680000Z"
+        },
+        {
+          "id": "2843e32cc2f2e37aa4214f20eadbb89c52f5d682",
+          "title": "Decoy 字体 / Decoy Font",
+          "url": "https://www.mixfont.com/experiments/decoy-font",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-16T16:18:21Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "544a8b40618a9ff55c0f0054febd016a3ade9047",
+          "title": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
+          "url": "https://www.mixfont.com/experiments/decoy-font",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T18:32:23.680000Z"
+        },
+        {
+          "id": "2843e32cc2f2e37aa4214f20eadbb89c52f5d682",
+          "title": "Decoy 字体 / Decoy Font",
+          "url": "https://www.mixfont.com/experiments/decoy-font",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-16T16:18:21Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7382,
+      "importance": 0.7382,
+      "importance_score": 0.7382,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7312,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-16T16:18:21Z",
+      "latest_at": "2026-07-16T18:32:23.680000Z",
+      "primary_item": {
+        "id": "544a8b40618a9ff55c0f0054febd016a3ade9047",
+        "title": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
+        "url": "https://www.mixfont.com/experiments/decoy-font",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6448093f615b",
+      "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
+      "url": "https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg",
+      "primary_url": "https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg",
+      "source": "公众号：通义实验室（千问）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c01f6f8afae4dee902984233154ff627c06daced",
+          "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
+          "url": "https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg",
+          "source": "公众号：通义实验室（千问）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T07:14:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：通义实验室（千问）"
+      ],
+      "items": [
+        {
+          "id": "c01f6f8afae4dee902984233154ff627c06daced",
+          "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
+          "url": "https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg",
+          "source": "公众号：通义实验室（千问）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T07:14:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8783,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-17T07:14:00Z",
+      "latest_at": "2026-07-17T07:14:00Z",
+      "primary_item": {
+        "id": "c01f6f8afae4dee902984233154ff627c06daced",
+        "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
+        "url": "https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg",
+        "source": "公众号：通义实验室（千问）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5c947366c8f5",
+      "title": "Xcode 27 运行程序图像现已公开预览 / Xcode 27 runner image now in public preview",
+      "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8b851e9e6471a3ec412b76a98930d2cd7a0e35aa",
+          "title": "Xcode 27 运行程序图像现已公开预览 / Xcode 27 runner image now in public preview",
+          "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T18:00:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "8b851e9e6471a3ec412b76a98930d2cd7a0e35aa",
+          "title": "Xcode 27 运行程序图像现已公开预览 / Xcode 27 runner image now in public preview",
+          "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T18:00:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7946,
+      "importance": 0.7946,
+      "importance_score": 0.7946,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7255,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T18:00:07Z",
+      "latest_at": "2026-07-16T18:00:07Z",
+      "primary_item": {
+        "id": "8b851e9e6471a3ec412b76a98930d2cd7a0e35aa",
+        "title": "Xcode 27 运行程序图像现已公开预览 / Xcode 27 runner image now in public preview",
+        "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     }
   ]
