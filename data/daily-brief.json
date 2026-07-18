@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T20:06:57.138877Z",
+  "generated_at": "2026-07-18T21:21:37.071218Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8206,
-      "importance": 0.8206,
-      "importance_score": 0.8206,
+      "score": 0.8182,
+      "importance": 0.8182,
+      "importance_score": 0.8182,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7479,
+        "recency": 0.7346,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.803,
-      "importance": 0.803,
-      "importance_score": 0.803,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7275,
+        "recency": 0.7146,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.803,
-      "importance": 0.803,
-      "importance_score": 0.803,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7275,
+        "recency": 0.7146,
         "story_heat": 0.0
       },
       "category": "official",
@@ -243,22 +243,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7509,
-      "importance": 0.7509,
-      "importance_score": 0.7509,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8015,
+        "recency": 0.7872,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-18T04:47:25Z",
       "latest_at": "2026-07-18T04:47:25Z",
@@ -268,68 +267,6 @@
         "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_25d5fb9bf484",
-      "title": "Copilot 代码审查：定制和可配置性改进 / Copilot code review: Customization and configurability improvements",
-      "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
-      "primary_url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2c78ca1612bb57534e665ac69008bd3ce2bdea66",
-          "title": "Copilot 代码审查：定制和可配置性改进 / Copilot code review: Customization and configurability improvements",
-          "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T21:08:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "2c78ca1612bb57534e665ac69008bd3ce2bdea66",
-          "title": "Copilot 代码审查：定制和可配置性改进 / Copilot code review: Customization and configurability improvements",
-          "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T21:08:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8012,
-      "importance": 0.8012,
-      "importance_score": 0.8012,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7177,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-17T21:08:30Z",
-      "latest_at": "2026-07-17T21:08:30Z",
-      "primary_item": {
-        "id": "2c78ca1612bb57534e665ac69008bd3ce2bdea66",
-        "title": "Copilot 代码审查：定制和可配置性改进 / Copilot code review: Customization and configurability improvements",
-        "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -421,15 +358,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6386,
-      "importance": 0.6386,
-      "importance_score": 0.6386,
+      "score": 0.6355,
+      "importance": 0.6355,
+      "importance_score": 0.6355,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9688,
+        "recency": 0.9516,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -538,15 +475,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5763,
-      "importance": 0.5763,
-      "importance_score": 0.5763,
+      "score": 0.5734,
+      "importance": 0.5734,
+      "importance_score": 0.5734,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8915,
+        "recency": 0.8757,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -636,15 +573,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5695,
-      "importance": 0.5695,
-      "importance_score": 0.5695,
+      "score": 0.5663,
+      "importance": 0.5663,
+      "importance_score": 0.5663,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9929,
+        "recency": 0.9752,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -734,15 +671,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5582,
-      "importance": 0.5582,
-      "importance_score": 0.5582,
+      "score": 0.5552,
+      "importance": 0.5552,
+      "importance_score": 0.5552,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.93,
+        "recency": 0.9134,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -832,15 +769,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5563,
-      "importance": 0.5563,
-      "importance_score": 0.5563,
+      "score": 0.5533,
+      "importance": 0.5533,
+      "importance_score": 0.5533,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9194,
+        "recency": 0.903,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -930,15 +867,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5544,
-      "importance": 0.5544,
-      "importance_score": 0.5544,
+      "score": 0.5515,
+      "importance": 0.5515,
+      "importance_score": 0.5515,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9087,
+        "recency": 0.8925,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1009,15 +946,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
+      "score": 0.5341,
+      "importance": 0.5341,
+      "importance_score": 0.5341,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9518,
+        "recency": 0.9348,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1088,15 +1025,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5332,
-      "importance": 0.5332,
-      "importance_score": 0.5332,
+      "score": 0.5303,
+      "importance": 0.5303,
+      "importance_score": 0.5303,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9302,
+        "recency": 0.9136,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1167,15 +1104,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5287,
-      "importance": 0.5287,
-      "importance_score": 0.5287,
+      "score": 0.5258,
+      "importance": 0.5258,
+      "importance_score": 0.5258,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9053,
+        "recency": 0.8891,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1246,15 +1183,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5281,
-      "importance": 0.5281,
-      "importance_score": 0.5281,
+      "score": 0.5252,
+      "importance": 0.5252,
+      "importance_score": 0.5252,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9018,
+        "recency": 0.8857,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1325,15 +1262,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5264,
-      "importance": 0.5264,
-      "importance_score": 0.5264,
+      "score": 0.5235,
+      "importance": 0.5235,
+      "importance_score": 0.5235,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.892,
+        "recency": 0.8761,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1404,15 +1341,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5257,
-      "importance": 0.5257,
-      "importance_score": 0.5257,
+      "score": 0.5228,
+      "importance": 0.5228,
+      "importance_score": 0.5228,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8881,
+        "recency": 0.8722,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1502,15 +1439,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5247,
-      "importance": 0.5247,
-      "importance_score": 0.5247,
+      "score": 0.5223,
+      "importance": 0.5223,
+      "importance_score": 0.5223,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.744,
+        "recency": 0.7307,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1581,15 +1518,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5236,
-      "importance": 0.5236,
-      "importance_score": 0.5236,
+      "score": 0.5208,
+      "importance": 0.5208,
+      "importance_score": 0.5208,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8769,
+        "recency": 0.8613,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1660,15 +1597,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5226,
-      "importance": 0.5226,
-      "importance_score": 0.5226,
+      "score": 0.5198,
+      "importance": 0.5198,
+      "importance_score": 0.5198,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8711,
+        "recency": 0.8556,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1683,6 +1620,84 @@
         "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e775946229ad",
+      "title": "[程序员] ai 用得越多，越发现产品人才 > 技术人才 了",
+      "url": "https://www.v2ex.com/t/1228233",
+      "primary_url": "https://www.v2ex.com/t/1228233",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "39b4e011267fc4a7147bf06d99520b86da1af605",
+          "title": "[程序员] ai 用得越多，越发现产品人才 > 技术人才 了",
+          "url": "https://www.v2ex.com/t/1228233",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T10:32:04Z"
+        },
+        {
+          "id": "27503ce1c08c17dc5837bf6332fe0509f67b1208",
+          "title": "[职场话题] ai 用得越多，越发现产品人才 > 技术人才 了",
+          "url": "https://www.v2ex.com/t/1228233",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T10:32:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "39b4e011267fc4a7147bf06d99520b86da1af605",
+          "title": "[程序员] ai 用得越多，越发现产品人才 > 技术人才 了",
+          "url": "https://www.v2ex.com/t/1228233",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T10:32:04Z"
+        },
+        {
+          "id": "27503ce1c08c17dc5837bf6332fe0509f67b1208",
+          "title": "[职场话题] ai 用得越多，越发现产品人才 > 技术人才 了",
+          "url": "https://www.v2ex.com/t/1228233",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T10:32:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5197,
+      "importance": 0.5197,
+      "importance_score": 0.5197,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8553,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T10:32:04Z",
+      "latest_at": "2026-07-18T10:32:04Z",
+      "primary_item": {
+        "id": "39b4e011267fc4a7147bf06d99520b86da1af605",
+        "title": "[程序员] ai 用得越多，越发现产品人才 > 技术人才 了",
+        "url": "https://www.v2ex.com/t/1228233",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
       }
     }
   ]
