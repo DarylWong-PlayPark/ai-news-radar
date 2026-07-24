@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T03:16:23.709079Z",
+  "generated_at": "2026-07-24T06:08:48.451524Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8461,
-      "importance": 0.8461,
-      "importance_score": 0.8461,
+      "score": 0.8393,
+      "importance": 0.8393,
+      "importance_score": 0.8393,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9339,
+        "recency": 0.896,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8396,
-      "importance": 0.8396,
-      "importance_score": 0.8396,
+      "score": 0.833,
+      "importance": 0.833,
+      "importance_score": 0.833,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8977,
+        "recency": 0.8612,
         "story_heat": 0.0
       },
       "category": "official",
@@ -200,15 +200,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8031,
-      "importance": 0.8031,
-      "importance_score": 0.8031,
+      "score": 0.7965,
+      "importance": 0.7965,
+      "importance_score": 0.7965,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9028,
+        "recency": 0.8661,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -281,15 +281,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7981,
-      "importance": 0.7981,
-      "importance_score": 0.7981,
+      "score": 0.7912,
+      "importance": 0.7912,
+      "importance_score": 0.7912,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9471,
+        "recency": 0.9086,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -362,15 +362,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7853,
+      "importance": 0.7853,
+      "importance_score": 0.7853,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9594,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -461,15 +461,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7881,
-      "importance": 0.7881,
-      "importance_score": 0.7881,
+      "score": 0.782,
+      "importance": 0.782,
+      "importance_score": 0.782,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8361,
+        "recency": 0.8021,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -523,15 +523,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8356,
-      "importance": 0.8356,
-      "importance_score": 0.8356,
+      "score": 0.8289,
+      "importance": 0.8289,
+      "importance_score": 0.8289,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9086,
+        "recency": 0.8717,
         "story_heat": 0.0
       },
       "category": "official",
@@ -585,15 +585,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.77,
-      "importance": 0.77,
-      "importance_score": 0.77,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8966,
+        "recency": 0.8602,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -608,6 +608,87 @@
         "title": "ChatGPT 桌面版上线语音控制多智能体",
         "url": "https://x.com/OpenAI/status/2080378182469857576",
         "source": "X：OpenAI (@OpenAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f874ff9a4072",
+      "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
+      "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
+      "primary_url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "39ca60e336078bc560f5427e1deef672799be840",
+          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
+          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T17:01:30Z"
+        },
+        {
+          "id": "13371efb49f353a8b7394144c16a08179fd2381c",
+          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-23T17:01:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "39ca60e336078bc560f5427e1deef672799be840",
+          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
+          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T17:01:30Z"
+        },
+        {
+          "id": "13371efb49f353a8b7394144c16a08179fd2381c",
+          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-23T17:01:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8274,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T17:01:30Z",
+      "latest_at": "2026-07-23T17:01:30Z",
+      "primary_item": {
+        "id": "39ca60e336078bc560f5427e1deef672799be840",
+        "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
+        "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -665,15 +746,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7853,
+      "importance": 0.7853,
+      "importance_score": 0.7853,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9594,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -690,87 +771,6 @@
         "url": "https://www.aibase.com/news/29851",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f874ff9a4072",
-      "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
-      "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
-      "primary_url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "39ca60e336078bc560f5427e1deef672799be840",
-          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
-          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T17:01:30Z"
-        },
-        {
-          "id": "13371efb49f353a8b7394144c16a08179fd2381c",
-          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-23T17:01:30Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "39ca60e336078bc560f5427e1deef672799be840",
-          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
-          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T17:01:30Z"
-        },
-        {
-          "id": "13371efb49f353a8b7394144c16a08179fd2381c",
-          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-23T17:01:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8624,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T17:01:30Z",
-      "latest_at": "2026-07-23T17:01:30Z",
-      "primary_item": {
-        "id": "39ca60e336078bc560f5427e1deef672799be840",
-        "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
-        "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -827,15 +827,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7612,
-      "importance": 0.7612,
-      "importance_score": 0.7612,
+      "score": 0.7552,
+      "importance": 0.7552,
+      "importance_score": 0.7552,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8256,
+        "recency": 0.792,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -889,15 +889,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
+      "score": 0.7519,
+      "importance": 0.7519,
+      "importance_score": 0.7519,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8993,
+        "recency": 0.8628,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -950,21 +950,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8086,
+        "recency": 0.7757,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-23T12:33:27Z",
       "latest_at": "2026-07-23T12:33:27Z",
@@ -1030,15 +1029,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7804,
-      "importance": 0.7804,
-      "importance_score": 0.7804,
+      "score": 0.7739,
+      "importance": 0.7739,
+      "importance_score": 0.7739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8822,
+        "recency": 0.8463,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1092,15 +1091,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7359,
-      "importance": 0.7359,
-      "importance_score": 0.7359,
+      "score": 0.7295,
+      "importance": 0.7295,
+      "importance_score": 0.7295,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8738,
+        "recency": 0.8382,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1115,6 +1114,68 @@
         "url": "https://x.com/gdb/status/2080351159638704615",
         "source": "X：Greg Brockman (@gdb)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1c806736e9c9",
+      "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
+      "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
+          "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
+          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T18:19:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
+          "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
+          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T18:19:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8157,
+      "importance": 0.8157,
+      "importance_score": 0.8157,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.843,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T18:19:14Z",
+      "latest_at": "2026-07-23T18:19:14Z",
+      "primary_item": {
+        "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
+        "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
+        "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1171,15 +1232,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7853,
+      "importance": 0.7853,
+      "importance_score": 0.7853,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9594,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1196,188 +1257,6 @@
         "url": "https://www.aibase.com/news/29852",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1c806736e9c9",
-      "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-      "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
-          "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T18:19:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
-          "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T18:19:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8222,
-      "importance": 0.8222,
-      "importance_score": 0.8222,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8787,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T18:19:14Z",
-      "latest_at": "2026-07-23T18:19:14Z",
-      "primary_item": {
-        "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
-        "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-        "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_a34a897d283a",
-      "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
-      "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
-      "primary_url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
-      "source": "公众号：小红书技术（dots.llm）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4c73c7c8afcb262fb794bd2cca00819ef9338379",
-          "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
-          "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T04:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：小红书技术（dots.llm）"
-      ],
-      "items": [
-        {
-          "id": "4c73c7c8afcb262fb794bd2cca00819ef9338379",
-          "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
-          "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T04:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7312,
-      "importance": 0.7312,
-      "importance_score": 0.7312,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7146,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T04:00:00Z",
-      "latest_at": "2026-07-23T04:00:00Z",
-      "primary_item": {
-        "id": "4c73c7c8afcb262fb794bd2cca00819ef9338379",
-        "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
-        "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
-        "source": "公众号：小红书技术（dots.llm）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_112b4523d36f",
-      "title": "微软MAI模型：以更低成本实现前沿能力规模化",
-      "url": "https://x.com/satyanadella/status/2080329851127669104",
-      "primary_url": "https://x.com/satyanadella/status/2080329851127669104",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d72daa2e5b7b6321ccd98fbe31c3a75f08bef8e2",
-          "title": "微软MAI模型：以更低成本实现前沿能力规模化",
-          "url": "https://x.com/satyanadella/status/2080329851127669104",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T16:31:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Satya Nadella (@satyanadella)"
-      ],
-      "items": [
-        {
-          "id": "d72daa2e5b7b6321ccd98fbe31c3a75f08bef8e2",
-          "title": "微软MAI模型：以更低成本实现前沿能力规模化",
-          "url": "https://x.com/satyanadella/status/2080329851127669104",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T16:31:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7207,
-      "importance": 0.7207,
-      "importance_score": 0.7207,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8561,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T16:31:01Z",
-      "latest_at": "2026-07-23T16:31:01Z",
-      "primary_item": {
-        "id": "d72daa2e5b7b6321ccd98fbe31c3a75f08bef8e2",
-        "title": "微软MAI模型：以更低成本实现前沿能力规模化",
-        "url": "https://x.com/satyanadella/status/2080329851127669104",
-        "source": "X：Satya Nadella (@satyanadella)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1434,15 +1313,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7853,
+      "importance": 0.7853,
+      "importance_score": 0.7853,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9594,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1457,6 +1336,149 @@
         "id": "b623a138752f2054b382ede5cc91f4f9579fe7b6",
         "title": "马斯克官宣 Grok 4.5 全平台上线：比不过 Fable，但快、便宜、能干活",
         "url": "https://www.aibase.com/news/29855",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_660c6350b79c",
+      "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
+      "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bc43672efad43350530cee56250f555e6a0d9b73",
+          "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
+          "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T15:30:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "bc43672efad43350530cee56250f555e6a0d9b73",
+          "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
+          "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T15:30:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8097,
+      "importance": 0.8097,
+      "importance_score": 0.8097,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8095,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T15:30:29Z",
+      "latest_at": "2026-07-23T15:30:29Z",
+      "primary_item": {
+        "id": "bc43672efad43350530cee56250f555e6a0d9b73",
+        "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
+        "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6f71cb92a83a",
+      "title": "黑森林实验室发布Flux3 多模态模型 首次支持 20 秒原生音视频同步生成",
+      "url": "https://www.aibase.com/news/29856",
+      "primary_url": "https://www.aibase.com/news/29856",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8d2d30f341231c571b15f177f21f2d492ede9ecc",
+          "title": "黑森林实验室发布Flux3 多模态模型 首次支持 20 秒原生音视频同步生成",
+          "url": "https://www.aibase.com/news/29856",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T03:16:23.709079Z"
+        },
+        {
+          "id": "fa62b035cf45d7ce812c458adb6fed83766d31e1",
+          "title": "黑森林实验室发布 Flux3 多模态模型，首次支持 20 秒原生音视频同步生成",
+          "url": "https://www.aibase.com/zh/news/29856",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "8d2d30f341231c571b15f177f21f2d492ede9ecc",
+          "title": "黑森林实验室发布Flux3 多模态模型 首次支持 20 秒原生音视频同步生成",
+          "url": "https://www.aibase.com/news/29856",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T03:16:23.709079Z"
+        },
+        {
+          "id": "fa62b035cf45d7ce812c458adb6fed83766d31e1",
+          "title": "黑森林实验室发布 Flux3 多模态模型，首次支持 20 秒原生音视频同步生成",
+          "url": "https://www.aibase.com/zh/news/29856",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7853,
+      "importance": 0.7853,
+      "importance_score": 0.7853,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9594,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T03:16:23.709079Z",
+      "latest_at": "2026-07-24T03:16:23.709079Z",
+      "primary_item": {
+        "id": "8d2d30f341231c571b15f177f21f2d492ede9ecc",
+        "title": "黑森林实验室发布Flux3 多模态模型 首次支持 20 秒原生音视频同步生成",
+        "url": "https://www.aibase.com/news/29856",
         "source": "AIbase",
         "source_name": "AIbase"
       }
