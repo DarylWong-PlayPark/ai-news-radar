@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T22:13:32.552848Z",
+  "generated_at": "2026-07-24T23:31:18.597444Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8606,
-      "importance": 0.8606,
-      "importance_score": 0.8606,
+      "score": 0.8582,
+      "importance": 0.8582,
+      "importance_score": 0.8582,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7255,
+        "recency": 0.712,
         "story_heat": 0.5
       },
       "category": "official",
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8461,
-      "importance": 0.8461,
-      "importance_score": 0.8461,
+      "score": 0.843,
+      "importance": 0.843,
+      "importance_score": 0.843,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9229,
+        "recency": 0.9058,
         "story_heat": 0.0
       },
       "category": "official",
@@ -220,15 +220,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7997,
-      "importance": 0.7997,
-      "importance_score": 0.7997,
+      "score": 0.7965,
+      "importance": 0.7965,
+      "importance_score": 0.7965,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9563,
+        "recency": 0.9386,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -248,65 +248,64 @@
       }
     },
     {
-      "story_id": "story_d1636ce0d6d1",
-      "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
-      "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_c57f168d73f1",
+      "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
+      "url": "https://updates.midjourney.com/version-8-2",
+      "primary_url": "https://updates.midjourney.com/version-8-2",
+      "source": "Midjourney：Updates（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "09274412181224c288c30c79cc8cd092e8a6df03",
-          "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
-          "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T22:32:23Z"
+          "id": "6715b8c36caa48bad1405256fe026a3909e5eae4",
+          "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
+          "url": "https://updates.midjourney.com/version-8-2",
+          "source": "Midjourney：Updates（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T22:18:48Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "Midjourney：Updates（RSS）"
       ],
       "items": [
         {
-          "id": "09274412181224c288c30c79cc8cd092e8a6df03",
-          "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
-          "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T22:32:23Z"
+          "id": "6715b8c36caa48bad1405256fe026a3909e5eae4",
+          "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
+          "url": "https://updates.midjourney.com/version-8-2",
+          "source": "Midjourney：Updates（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T22:18:48Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8059,
-      "importance": 0.8059,
-      "importance_score": 0.8059,
-      "importance_label": "官方更新",
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.7103,
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9827,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T22:32:23Z",
-      "latest_at": "2026-07-23T22:32:23Z",
+      "earliest_at": "2026-07-24T22:18:48Z",
+      "latest_at": "2026-07-24T22:18:48Z",
       "primary_item": {
-        "id": "09274412181224c288c30c79cc8cd092e8a6df03",
-        "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
-        "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "6715b8c36caa48bad1405256fe026a3909e5eae4",
+        "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
+        "url": "https://updates.midjourney.com/version-8-2",
+        "source": "Midjourney：Updates（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -363,15 +362,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.7633,
+      "importance": 0.7633,
+      "importance_score": 0.7633,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8359,
+        "recency": 0.8204,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -444,15 +443,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8267,
+        "recency": 0.8113,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -525,15 +524,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8003,
+        "recency": 0.7855,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -587,15 +586,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7557,
-      "importance": 0.7557,
-      "importance_score": 0.7557,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8838,
+        "recency": 0.8675,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -667,15 +666,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.784,
-      "importance": 0.784,
-      "importance_score": 0.784,
+      "score": 0.7812,
+      "importance": 0.7812,
+      "importance_score": 0.7812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8356,
+        "recency": 0.8201,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -729,15 +728,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.7507,
+      "importance": 0.7507,
+      "importance_score": 0.7507,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9065,
+        "recency": 0.8897,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -790,21 +789,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7522,
-      "importance": 0.7522,
-      "importance_score": 0.7522,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8812,
+        "recency": 0.8648,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T13:27:56Z",
       "latest_at": "2026-07-24T13:27:56Z",
@@ -851,15 +849,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7437,
-      "importance": 0.7437,
-      "importance_score": 0.7437,
+      "score": 0.7407,
+      "importance": 0.7407,
+      "importance_score": 0.7407,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8838,
+        "recency": 0.8674,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -911,15 +909,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9331,
+        "recency": 0.9158,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -971,15 +969,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.729,
-      "importance": 0.729,
-      "importance_score": 0.729,
+      "score": 0.7261,
+      "importance": 0.7261,
+      "importance_score": 0.7261,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8686,
+        "recency": 0.8525,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -993,87 +991,6 @@
         "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
         "url": "https://mp.weixin.qq.com/s/HRySK1LU53clPe2I_M-Fug",
         "source": "公众号：百度智能云（文心）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d70d846b51ce",
-      "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-      "url": "https://www.ithome.com/0/980/890.htm",
-      "primary_url": "https://www.ithome.com/0/980/890.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
-          "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-          "url": "https://www.ithome.com/0/980/890.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T23:30:43Z"
-        },
-        {
-          "id": "789ebe117e2fc35b399b461a09065b5c2f1371b7",
-          "title": "佛州一男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-          "url": "https://www.ithome.com/0/980/890.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-23T23:30:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
-          "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-          "url": "https://www.ithome.com/0/980/890.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T23:30:43Z"
-        },
-        {
-          "id": "789ebe117e2fc35b399b461a09065b5c2f1371b7",
-          "title": "佛州一男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-          "url": "https://www.ithome.com/0/980/890.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-23T23:30:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7204,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T23:30:43Z",
-      "latest_at": "2026-07-23T23:30:43Z",
-      "primary_item": {
-        "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
-        "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-        "url": "https://www.ithome.com/0/980/890.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1131,15 +1048,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
+      "score": 0.747,
+      "importance": 0.747,
+      "importance_score": 0.747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7606,
+        "recency": 0.7465,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1211,15 +1128,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7767,
-      "importance": 0.7767,
-      "importance_score": 0.7767,
+      "score": 0.7739,
+      "importance": 0.7739,
+      "importance_score": 0.7739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8618,
+        "recency": 0.8459,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1292,15 +1209,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
+      "score": 0.747,
+      "importance": 0.747,
+      "importance_score": 0.747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7606,
+        "recency": 0.7465,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1372,15 +1289,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
+      "score": 0.747,
+      "importance": 0.747,
+      "importance_score": 0.747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7606,
+        "recency": 0.7465,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1452,15 +1369,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
+      "score": 0.747,
+      "importance": 0.747,
+      "importance_score": 0.747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7606,
+        "recency": 0.7465,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1476,6 +1393,102 @@
         "url": "https://www.aibase.com/news/29855",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "3000 多名学员、78 个搭子团，小鱿鱼翻完70多个群聊，重新拆解了下什么样的团长真的能带动一个学习团队。有群因为目标不清慢慢沉默，也有团长用一句具体建议把小白从挫败里拉回来；有人先做作业样板，让大家知道怎么开始；有人用数据看板让进度可见，同时保留人的温度；还有作品墙、私聊提醒、结营后的继续协作，把普通学员的完成感认真托住。如果你在做训练营、社群运营、AI学习小组，这篇文章不容错过：好的组织感，很多时候就藏在一次及时回应、一份样板、一次被看见里。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-07-24",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "22c59feedb13b0e221b1321b12ffb24ff4bc4e95",
+          "title": "3000 多名学员、78 个搭子团，小鱿鱼翻完70多个群聊，重新拆解了下什么样的团长真的能带动一个学习团队。有群因为目标不清慢慢沉默，也有团长用一句具体建议把小白从挫败里拉回来；有人先做作业样板，让大家知道怎么开始；有人用数据看板让进度可见，同时保留人的温度；还有作品墙、私聊提醒、结营后的继续协作，把普通学员的完成感认真托住。如果你在做训练营、社群运营、AI学习小组，这篇文章不容错过：好的组织感，很多时候就藏在一次及时回应、一份样板、一次被看见里。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-24T19:53:51.569368Z"
+        },
+        {
+          "id": "30c713b3091364b83d21d4247cad6a53bc61f69c",
+          "title": "Agent 进入生产后，最容易卡在评测：线上轨迹一堆，失败复现困难，改了模型、提示词，也不知道到底有没有变好。LangChain发布了Eval Engineering Skill。这个Skill能利用代码仓库和智能体轨迹中的上下文，帮助编程智能体构建评测。快来试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-24T19:53:51.569368Z"
+        },
+        {
+          "id": "e15420569019f4ad6b3cabf142ef5b4a44ef778a",
+          "title": "Claude Opus 5正式发布，在编程、知识工作、自动化任务和计算机使用基准上表现很强，接近Fable 5的能力，但任务成本更低；它也更擅长自检、迭代和修根因，适合高价值工程任务。Opus 5对齐表现更好，但网络安全和生物高风险能力仍落后于Mythos 5。快来体验一下真实效果如何！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-24T18:01:01.492086Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "社区更新 · 2026-07-24"
+      ],
+      "items": [
+        {
+          "id": "22c59feedb13b0e221b1321b12ffb24ff4bc4e95",
+          "title": "3000 多名学员、78 个搭子团，小鱿鱼翻完70多个群聊，重新拆解了下什么样的团长真的能带动一个学习团队。有群因为目标不清慢慢沉默，也有团长用一句具体建议把小白从挫败里拉回来；有人先做作业样板，让大家知道怎么开始；有人用数据看板让进度可见，同时保留人的温度；还有作品墙、私聊提醒、结营后的继续协作，把普通学员的完成感认真托住。如果你在做训练营、社群运营、AI学习小组，这篇文章不容错过：好的组织感，很多时候就藏在一次及时回应、一份样板、一次被看见里。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-24T19:53:51.569368Z"
+        },
+        {
+          "id": "30c713b3091364b83d21d4247cad6a53bc61f69c",
+          "title": "Agent 进入生产后，最容易卡在评测：线上轨迹一堆，失败复现困难，改了模型、提示词，也不知道到底有没有变好。LangChain发布了Eval Engineering Skill。这个Skill能利用代码仓库和智能体轨迹中的上下文，帮助编程智能体构建评测。快来试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-24T19:53:51.569368Z"
+        },
+        {
+          "id": "e15420569019f4ad6b3cabf142ef5b4a44ef778a",
+          "title": "Claude Opus 5正式发布，在编程、知识工作、自动化任务和计算机使用基准上表现很强，接近Fable 5的能力，但任务成本更低；它也更擅长自检、迭代和修根因，适合高价值工程任务。Opus 5对齐表现更好，但网络安全和生物高风险能力仍落后于Mythos 5。快来体验一下真实效果如何！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-24T18:01:01.492086Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.61,
+      "importance": 0.61,
+      "importance_score": 0.61,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.949,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-24T18:01:01.492086Z",
+      "latest_at": "2026-07-24T19:53:51.569368Z",
+      "primary_item": {
+        "id": "22c59feedb13b0e221b1321b12ffb24ff4bc4e95",
+        "title": "3000 多名学员、78 个搭子团，小鱿鱼翻完70多个群聊，重新拆解了下什么样的团长真的能带动一个学习团队。有群因为目标不清慢慢沉默，也有团长用一句具体建议把小白从挫败里拉回来；有人先做作业样板，让大家知道怎么开始；有人用数据看板让进度可见，同时保留人的温度；还有作品墙、私聊提醒、结营后的继续协作，把普通学员的完成感认真托住。如果你在做训练营、社群运营、AI学习小组，这篇文章不容错过：好的组织感，很多时候就藏在一次及时回应、一份样板、一次被看见里。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-07-24",
+        "source_name": "WaytoAGI"
       }
     }
   ]
