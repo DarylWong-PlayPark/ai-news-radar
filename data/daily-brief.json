@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T20:48:46.280331Z",
+  "generated_at": "2026-07-25T21:53:16.250469Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7872,
-      "importance": 0.7872,
-      "importance_score": 0.7872,
+      "score": 0.7847,
+      "importance": 0.7847,
+      "importance_score": 0.7847,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9032,
+        "recency": 0.8893,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -138,15 +138,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7571,
-      "importance": 0.7571,
-      "importance_score": 0.7571,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7528,
+        "recency": 0.7412,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -162,66 +162,6 @@
         "title": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
         "url": "https://www.ithome.com/0/981/432.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c57f168d73f1",
-      "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
-      "url": "https://updates.midjourney.com/version-8-2",
-      "primary_url": "https://updates.midjourney.com/version-8-2",
-      "source": "Midjourney：Updates（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6715b8c36caa48bad1405256fe026a3909e5eae4",
-          "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
-          "url": "https://updates.midjourney.com/version-8-2",
-          "source": "Midjourney：Updates（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T22:18:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Midjourney：Updates（RSS）"
-      ],
-      "items": [
-        {
-          "id": "6715b8c36caa48bad1405256fe026a3909e5eae4",
-          "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
-          "url": "https://updates.midjourney.com/version-8-2",
-          "source": "Midjourney：Updates（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T22:18:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7207,
-      "importance": 0.7207,
-      "importance_score": 0.7207,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7226,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T22:18:48Z",
-      "latest_at": "2026-07-24T22:18:48Z",
-      "primary_item": {
-        "id": "6715b8c36caa48bad1405256fe026a3909e5eae4",
-        "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
-        "url": "https://updates.midjourney.com/version-8-2",
-        "source": "Midjourney：Updates（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -314,15 +254,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6415,
-      "importance": 0.6415,
-      "importance_score": 0.6415,
+      "score": 0.6388,
+      "importance": 0.6388,
+      "importance_score": 0.6388,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9852,
+        "recency": 0.97,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -412,15 +352,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5644,
-      "importance": 0.5644,
-      "importance_score": 0.5644,
+      "score": 0.5618,
+      "importance": 0.5618,
+      "importance_score": 0.5618,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9646,
+        "recency": 0.9497,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -438,81 +378,161 @@
       }
     },
     {
-      "story_id": "story_8b70706ef7b0",
-      "title": "开放重量人工智能正在迎来 Kubernetes 时刻 / Open-weight AI is having its Kubernetes moment",
-      "url": "https://news.ycombinator.com/item?id=49048034",
-      "primary_url": "https://news.ycombinator.com/item?id=49048034",
+      "story_id": "story_81e43f035001",
+      "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+      "url": "https://news.ycombinator.com/item?id=49051361",
+      "primary_url": "https://news.ycombinator.com/item?id=49051361",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "022e97c1d3677e4208c9c17090d5febdbabf66af",
-          "title": "开放重量人工智能正在迎来 Kubernetes 时刻 / Open-weight AI is having its Kubernetes moment",
-          "url": "https://news.ycombinator.com/item?id=49048034",
+          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
+          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "url": "https://news.ycombinator.com/item?id=49051361",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-25T19:22:39.590000Z"
+          "published_at": "2026-07-25T21:53:53.427000Z"
         },
         {
-          "id": "e4e665210e805664d11add74053bec2c0fd0ecf5",
-          "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-          "url": "https://news.ycombinator.com/item?id=49048034",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T18:30:39.343000Z"
+          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
+          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T20:42:35Z"
         }
       ],
       "source_count": 2,
       "source_names": [
+        "Hacker News",
         "hackernews"
       ],
       "items": [
         {
-          "id": "022e97c1d3677e4208c9c17090d5febdbabf66af",
-          "title": "开放重量人工智能正在迎来 Kubernetes 时刻 / Open-weight AI is having its Kubernetes moment",
-          "url": "https://news.ycombinator.com/item?id=49048034",
+          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
+          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "url": "https://news.ycombinator.com/item?id=49051361",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-25T19:22:39.590000Z"
+          "published_at": "2026-07-25T21:53:53.427000Z"
         },
         {
-          "id": "e4e665210e805664d11add74053bec2c0fd0ecf5",
-          "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-          "url": "https://news.ycombinator.com/item?id=49048034",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T18:30:39.343000Z"
+          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
+          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T20:42:35Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5421,
-      "importance": 0.5421,
-      "importance_score": 0.5421,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9795,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T18:30:39.343000Z",
-      "latest_at": "2026-07-25T19:22:39.590000Z",
+      "earliest_at": "2026-07-25T20:42:35Z",
+      "latest_at": "2026-07-25T21:53:53.427000Z",
       "primary_item": {
-        "id": "022e97c1d3677e4208c9c17090d5febdbabf66af",
-        "title": "开放重量人工智能正在迎来 Kubernetes 时刻 / Open-weight AI is having its Kubernetes moment",
-        "url": "https://news.ycombinator.com/item?id=49048034",
+        "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
+        "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+        "url": "https://news.ycombinator.com/item?id=49051361",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_40b66364c786",
+      "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对”",
+      "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
+      "primary_url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e5c2fb315cc604ef49b0a39661ddb7b587e54d0b",
+          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对”",
+          "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T20:59:11.659000Z"
+        },
+        {
+          "id": "1a8594fac9c97c26e23f9918e366df5e0e9c7262",
+          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对” / Hugging Face CEO shares his demands of OpenAI after 'rogue' agent hack: 'It deserves an unprecedented response'",
+          "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T20:21:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "e5c2fb315cc604ef49b0a39661ddb7b587e54d0b",
+          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对”",
+          "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T20:59:11.659000Z"
+        },
+        {
+          "id": "1a8594fac9c97c26e23f9918e366df5e0e9c7262",
+          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对” / Hugging Face CEO shares his demands of OpenAI after 'rogue' agent hack: 'It deserves an unprecedented response'",
+          "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T20:21:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5435,
+      "importance": 0.5435,
+      "importance_score": 0.5435,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9871,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T20:21:01Z",
+      "latest_at": "2026-07-25T20:59:11.659000Z",
+      "primary_item": {
+        "id": "e5c2fb315cc604ef49b0a39661ddb7b587e54d0b",
+        "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对”",
+        "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -586,15 +606,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5397,
-      "importance": 0.5397,
-      "importance_score": 0.5397,
+      "score": 0.5374,
+      "importance": 0.5374,
+      "importance_score": 0.5374,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.827,
+        "recency": 0.8143,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -665,15 +685,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.535,
-      "importance": 0.535,
-      "importance_score": 0.535,
+      "score": 0.5324,
+      "importance": 0.5324,
+      "importance_score": 0.5324,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9399,
+        "recency": 0.9254,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -744,15 +764,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5348,
-      "importance": 0.5348,
-      "importance_score": 0.5348,
+      "score": 0.5322,
+      "importance": 0.5322,
+      "importance_score": 0.5322,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.939,
+        "recency": 0.9245,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -823,15 +843,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5335,
-      "importance": 0.5335,
-      "importance_score": 0.5335,
+      "score": 0.5309,
+      "importance": 0.5309,
+      "importance_score": 0.5309,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9318,
+        "recency": 0.9174,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -902,15 +922,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5306,
-      "importance": 0.5306,
-      "importance_score": 0.5306,
+      "score": 0.528,
+      "importance": 0.528,
+      "importance_score": 0.528,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9153,
+        "recency": 0.9012,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -928,82 +948,82 @@
       }
     },
     {
-      "story_id": "story_7991fa3ce865",
-      "title": "AI的新“北极星”：每美元智能值",
-      "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
-      "primary_url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
+      "story_id": "story_a92321595322",
+      "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
+      "url": "https://news.ycombinator.com/item?id=49051692",
+      "primary_url": "https://news.ycombinator.com/item?id=49051692",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "d0cb1aba099db2a5904889cc884b2ad835eb933d",
-          "title": "AI的新“北极星”：每美元智能值",
-          "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T13:14:51.939000Z"
+          "id": "1c457ee6bf171aa619d8b716e91619b1339d6f25",
+          "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
+          "url": "https://news.ycombinator.com/item?id=49051692",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T21:53:53.427000Z"
         },
         {
-          "id": "b019d20007b2fee79b9481442a27097c93520dfd",
-          "title": "AI的新“北极星”：每美元智能值 / AI's new North Star: Intelligence per dollar",
-          "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
-          "source": "Business Insider",
+          "id": "b177dd60cd4406913c3921ae6f3b47fdeca5cab9",
+          "title": "“人工智能狂热正在彻底改变全球决策” / ‘AI Mania Is Eviscerating Global Decision-Making’",
+          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+          "source": "Daring Fireball",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-25T13:02:01Z"
+          "published_at": "2026-07-25T18:15:12Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "Daring Fireball",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "d0cb1aba099db2a5904889cc884b2ad835eb933d",
-          "title": "AI的新“北极星”：每美元智能值",
-          "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T13:14:51.939000Z"
+          "id": "1c457ee6bf171aa619d8b716e91619b1339d6f25",
+          "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
+          "url": "https://news.ycombinator.com/item?id=49051692",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T21:53:53.427000Z"
         },
         {
-          "id": "b019d20007b2fee79b9481442a27097c93520dfd",
-          "title": "AI的新“北极星”：每美元智能值 / AI's new North Star: Intelligence per dollar",
-          "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
-          "source": "Business Insider",
+          "id": "b177dd60cd4406913c3921ae6f3b47fdeca5cab9",
+          "title": "“人工智能狂热正在彻底改变全球决策” / ‘AI Mania Is Eviscerating Global Decision-Making’",
+          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+          "source": "Daring Fireball",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-25T13:02:01Z"
+          "published_at": "2026-07-25T18:15:12Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5272,
-      "importance": 0.5272,
-      "importance_score": 0.5272,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8965,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T13:02:01Z",
-      "latest_at": "2026-07-25T13:14:51.939000Z",
+      "earliest_at": "2026-07-25T18:15:12Z",
+      "latest_at": "2026-07-25T21:53:53.427000Z",
       "primary_item": {
-        "id": "d0cb1aba099db2a5904889cc884b2ad835eb933d",
-        "title": "AI的新“北极星”：每美元智能值",
-        "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
+        "id": "1c457ee6bf171aa619d8b716e91619b1339d6f25",
+        "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
+        "url": "https://news.ycombinator.com/item?id=49051692",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1060,15 +1080,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.51,
-      "importance": 0.51,
-      "importance_score": 0.51,
+      "score": 0.5078,
+      "importance": 0.5078,
+      "importance_score": 0.5078,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8012,
+        "recency": 0.7888,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1139,15 +1159,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.509,
-      "importance": 0.509,
-      "importance_score": 0.509,
+      "score": 0.5068,
+      "importance": 0.5068,
+      "importance_score": 0.5068,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7958,
+        "recency": 0.7835,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1162,85 +1182,6 @@
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVFFLak9qWnRXdllOXzdoR0dESHJsZnUzb3E4UnpreExzYVZMa1lYa1JESlZiZUw4VFFOazNUSE4wTll5U3kycTg4RjlYaDQtdEp0T0xQejFDYXZUaVROT1gtaFRQM1RlM0Fpei1yNmZ5bFZFZlo5VEVVYkVCbzRvLVdpZVMxcG9TQ3c1VERSQmZiRGRDZ1hDNnd5bUhWUGNmNmZYMk9lSjN4bzRGTWhNd2RvQWowYTRqdVdXcjJNejFManNYLXNzb1BuMlg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "source": "news.google.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_4de03213f8f7",
-      "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-      "url": "https://news.ycombinator.com/item?id=49047448",
-      "primary_url": "https://news.ycombinator.com/item?id=49047448",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "ed6c1bc0003623b2eab3908946dbeadafba8a91c",
-          "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "url": "https://news.ycombinator.com/item?id=49047448",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T14:21:50.881000Z"
-        },
-        {
-          "id": "8d77c5ba922ee824c7bd22f02aed2fdef1d7e487",
-          "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T13:33:03Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "ed6c1bc0003623b2eab3908946dbeadafba8a91c",
-          "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "url": "https://news.ycombinator.com/item?id=49047448",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T14:21:50.881000Z"
-        },
-        {
-          "id": "8d77c5ba922ee824c7bd22f02aed2fdef1d7e487",
-          "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T13:33:03Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5298,
-      "importance": 0.5298,
-      "importance_score": 0.5298,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9111,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T13:33:03Z",
-      "latest_at": "2026-07-25T14:21:50.881000Z",
-      "primary_item": {
-        "id": "ed6c1bc0003623b2eab3908946dbeadafba8a91c",
-        "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-        "url": "https://news.ycombinator.com/item?id=49047448",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1297,15 +1238,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4984,
-      "importance": 0.4984,
-      "importance_score": 0.4984,
+      "score": 0.4964,
+      "importance": 0.4964,
+      "importance_score": 0.4964,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7368,
+        "recency": 0.7255,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1376,15 +1317,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4974,
-      "importance": 0.4974,
-      "importance_score": 0.4974,
+      "score": 0.4954,
+      "importance": 0.4954,
+      "importance_score": 0.4954,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7312,
+        "recency": 0.7199,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1402,81 +1343,81 @@
       }
     },
     {
-      "story_id": "story_70081e2eda02",
-      "title": "Anthropic的Opus 5侧重于代币效率，而非性能飞跃",
-      "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap",
-      "primary_url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap",
-      "source": "arstechnica.com",
+      "story_id": "story_7991fa3ce865",
+      "title": "AI的新“北极星”：每美元智能值",
+      "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
+      "primary_url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
+      "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "bde7dca708f78b7594938bb6be1c196a0a8a9a49",
-          "title": "Anthropic的Opus 5侧重于代币效率，而非性能飞跃",
-          "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap",
-          "source": "arstechnica.com",
+          "id": "d0cb1aba099db2a5904889cc884b2ad835eb933d",
+          "title": "AI的新“北极星”：每美元智能值",
+          "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-24T21:47:42.345000Z"
+          "published_at": "2026-07-25T13:14:51.939000Z"
         },
         {
-          "id": "5bd2a1243286967c2f552b917748e15394e1042c",
-          "title": "Anthropic的Opus 5侧重于代币效率，而非性能飞跃 / Anthropic's Opus 5 is about token efficiency, not a capability leap",
-          "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap",
-          "source": "Ars Technica",
+          "id": "b019d20007b2fee79b9481442a27097c93520dfd",
+          "title": "AI的新“北极星”：每美元智能值 / AI's new North Star: Intelligence per dollar",
+          "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
+          "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-24T21:05:51Z"
+          "published_at": "2026-07-25T13:02:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Ars Technica",
-        "arstechnica.com"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "bde7dca708f78b7594938bb6be1c196a0a8a9a49",
-          "title": "Anthropic的Opus 5侧重于代币效率，而非性能飞跃",
-          "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap",
-          "source": "arstechnica.com",
+          "id": "d0cb1aba099db2a5904889cc884b2ad835eb933d",
+          "title": "AI的新“北极星”：每美元智能值",
+          "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-24T21:47:42.345000Z"
+          "published_at": "2026-07-25T13:14:51.939000Z"
         },
         {
-          "id": "5bd2a1243286967c2f552b917748e15394e1042c",
-          "title": "Anthropic的Opus 5侧重于代币效率，而非性能飞跃 / Anthropic's Opus 5 is about token efficiency, not a capability leap",
-          "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap",
-          "source": "Ars Technica",
+          "id": "b019d20007b2fee79b9481442a27097c93520dfd",
+          "title": "AI的新“北极星”：每美元智能值 / AI's new North Star: Intelligence per dollar",
+          "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
+          "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-24T21:05:51Z"
+          "published_at": "2026-07-25T13:02:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4949,
-      "importance": 0.4949,
-      "importance_score": 0.4949,
+      "score": 0.5247,
+      "importance": 0.5247,
+      "importance_score": 0.5247,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7172,
+        "recency": 0.8827,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-24T21:05:51Z",
-      "latest_at": "2026-07-24T21:47:42.345000Z",
+      "earliest_at": "2026-07-25T13:02:01Z",
+      "latest_at": "2026-07-25T13:14:51.939000Z",
       "primary_item": {
-        "id": "bde7dca708f78b7594938bb6be1c196a0a8a9a49",
-        "title": "Anthropic的Opus 5侧重于代币效率，而非性能飞跃",
-        "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap",
-        "source": "arstechnica.com",
+        "id": "d0cb1aba099db2a5904889cc884b2ad835eb933d",
+        "title": "AI的新“北极星”：每美元智能值",
+        "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1553,15 +1494,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5245,
-      "importance": 0.5245,
-      "importance_score": 0.5245,
+      "score": 0.5225,
+      "importance": 0.5225,
+      "importance_score": 0.5225,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.743,
+        "recency": 0.7316,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1579,81 +1520,159 @@
       }
     },
     {
-      "story_id": "story_2b75b6719305",
-      "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元",
-      "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
-      "primary_url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
+      "story_id": "story_8b70706ef7b0",
+      "title": "开放重量人工智能正在迎来 Kubernetes 时刻 / Open-weight AI is having its Kubernetes moment",
+      "url": "https://news.ycombinator.com/item?id=49048034",
+      "primary_url": "https://news.ycombinator.com/item?id=49048034",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "7ce5968c55e53d2732c9ea078ff0c489adb2a1a0",
-          "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元",
-          "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T10:35:07.024000Z"
+          "id": "022e97c1d3677e4208c9c17090d5febdbabf66af",
+          "title": "开放重量人工智能正在迎来 Kubernetes 时刻 / Open-weight AI is having its Kubernetes moment",
+          "url": "https://news.ycombinator.com/item?id=49048034",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T19:22:39.590000Z"
         },
         {
-          "id": "10f6b1bfd771afc7cb58c6786f978e5992d0d68a",
-          "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元 / I dreamt of building rockets until my aunt's illness inspired me to build an AI startup that's raised nearly $10 million",
-          "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T10:02:01Z"
+          "id": "e4e665210e805664d11add74053bec2c0fd0ecf5",
+          "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "url": "https://news.ycombinator.com/item?id=49048034",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T18:30:39.343000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "hackernews"
       ],
       "items": [
         {
-          "id": "7ce5968c55e53d2732c9ea078ff0c489adb2a1a0",
-          "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元",
-          "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T10:35:07.024000Z"
+          "id": "022e97c1d3677e4208c9c17090d5febdbabf66af",
+          "title": "开放重量人工智能正在迎来 Kubernetes 时刻 / Open-weight AI is having its Kubernetes moment",
+          "url": "https://news.ycombinator.com/item?id=49048034",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T19:22:39.590000Z"
         },
         {
-          "id": "10f6b1bfd771afc7cb58c6786f978e5992d0d68a",
-          "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元 / I dreamt of building rockets until my aunt's illness inspired me to build an AI startup that's raised nearly $10 million",
-          "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T10:02:01Z"
+          "id": "e4e665210e805664d11add74053bec2c0fd0ecf5",
+          "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "url": "https://news.ycombinator.com/item?id=49048034",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T18:30:39.343000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5211,
-      "importance": 0.5211,
-      "importance_score": 0.5211,
+      "score": 0.5394,
+      "importance": 0.5394,
+      "importance_score": 0.5394,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8627,
+        "recency": 0.9644,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T10:02:01Z",
-      "latest_at": "2026-07-25T10:35:07.024000Z",
+      "earliest_at": "2026-07-25T18:30:39.343000Z",
+      "latest_at": "2026-07-25T19:22:39.590000Z",
       "primary_item": {
-        "id": "7ce5968c55e53d2732c9ea078ff0c489adb2a1a0",
-        "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元",
-        "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
-        "source": "www.businessinsider.com",
+        "id": "022e97c1d3677e4208c9c17090d5febdbabf66af",
+        "title": "开放重量人工智能正在迎来 Kubernetes 时刻 / Open-weight AI is having its Kubernetes moment",
+        "url": "https://news.ycombinator.com/item?id=49048034",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_0b5ad25d53ee",
+      "title": "Show HN: 你对Claude Code的掌握程度如何？",
+      "url": "https://news.ycombinator.com/item?id=49042653",
+      "primary_url": "https://news.ycombinator.com/item?id=49042653",
+      "source": "news.ycombinator.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "210d0de78e00f49c81551b18efda0fbda4893c55",
+          "title": "Show HN: 你对Claude Code的掌握程度如何？",
+          "url": "https://news.ycombinator.com/item?id=49042653",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T23:07:45.162000Z"
+        },
+        {
+          "id": "8bcf1695d489ab72648d1717ce2a4eda9129a9c3",
+          "title": "Show HN: 你对Claude Code的掌握程度如何？ / Show HN: How well do you use Claude Code?",
+          "url": "https://news.ycombinator.com/item?id=49042653",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-07-24T23:00:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "news.ycombinator.com"
+      ],
+      "items": [
+        {
+          "id": "210d0de78e00f49c81551b18efda0fbda4893c55",
+          "title": "Show HN: 你对Claude Code的掌握程度如何？",
+          "url": "https://news.ycombinator.com/item?id=49042653",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T23:07:45.162000Z"
+        },
+        {
+          "id": "8bcf1695d489ab72648d1717ce2a4eda9129a9c3",
+          "title": "Show HN: 你对Claude Code的掌握程度如何？ / Show HN: How well do you use Claude Code?",
+          "url": "https://news.ycombinator.com/item?id=49042653",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-07-24T23:00:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4954,
+      "importance": 0.4954,
+      "importance_score": 0.4954,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7199,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-24T23:00:38Z",
+      "latest_at": "2026-07-24T23:07:45.162000Z",
+      "primary_item": {
+        "id": "210d0de78e00f49c81551b18efda0fbda4893c55",
+        "title": "Show HN: 你对Claude Code的掌握程度如何？",
+        "url": "https://news.ycombinator.com/item?id=49042653",
+        "source": "news.ycombinator.com",
         "source_name": "Buzzing"
       }
     }
