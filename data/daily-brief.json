@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T22:53:21.621947Z",
+  "generated_at": "2026-07-25T23:58:28.515051Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7824,
-      "importance": 0.7824,
-      "importance_score": 0.7824,
+      "score": 0.7799,
+      "importance": 0.7799,
+      "importance_score": 0.7799,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8765,
+        "recency": 0.8629,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -138,15 +138,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7511,
+      "importance": 0.7511,
+      "importance_score": 0.7511,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7305,
+        "recency": 0.7192,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -254,15 +254,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6363,
-      "importance": 0.6363,
-      "importance_score": 0.6363,
+      "score": 0.6336,
+      "importance": 0.6336,
+      "importance_score": 0.6336,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9561,
+        "recency": 0.9412,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -277,6 +277,104 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-25",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_81e43f035001",
+      "title": "Claude 5 生成模型的上下文工程新规则",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "primary_url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "source": "claude.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
+          "title": "Claude 5 生成模型的上下文工程新规则",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T23:23:09.413000Z"
+        },
+        {
+          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
+          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "url": "https://news.ycombinator.com/item?id=49051361",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T21:53:53.427000Z"
+        },
+        {
+          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
+          "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T20:42:35Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "claude.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
+          "title": "Claude 5 生成模型的上下文工程新规则",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T23:23:09.413000Z"
+        },
+        {
+          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
+          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "url": "https://news.ycombinator.com/item?id=49051361",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T21:53:53.427000Z"
+        },
+        {
+          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
+          "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T20:42:35Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5693,
+      "importance": 0.5693,
+      "importance_score": 0.5693,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9915,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T20:42:35Z",
+      "latest_at": "2026-07-25T23:23:09.413000Z",
+      "primary_item": {
+        "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
+        "title": "Claude 5 生成模型的上下文工程新规则",
+        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+        "source": "claude.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -352,15 +450,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5593,
-      "importance": 0.5593,
-      "importance_score": 0.5593,
+      "score": 0.5567,
+      "importance": 0.5567,
+      "importance_score": 0.5567,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9361,
+        "recency": 0.9216,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -378,80 +476,80 @@
       }
     },
     {
-      "story_id": "story_81e43f035001",
-      "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-      "url": "https://news.ycombinator.com/item?id=49051361",
-      "primary_url": "https://news.ycombinator.com/item?id=49051361",
+      "story_id": "story_5f284decdfa5",
+      "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+      "url": "https://news.ycombinator.com/item?id=49050512",
+      "primary_url": "https://news.ycombinator.com/item?id=49050512",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
-          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "url": "https://news.ycombinator.com/item?id=49051361",
+          "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
+          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "url": "https://news.ycombinator.com/item?id=49050512",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-25T21:53:53.427000Z"
+          "published_at": "2026-07-25T23:36:09.455000Z"
         },
         {
-          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
-          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T20:42:35Z"
+          "id": "fa17019e58414a7f6a4d622fe9328891ef58c102",
+          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T18:59:50Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
-          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "url": "https://news.ycombinator.com/item?id=49051361",
+          "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
+          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "url": "https://news.ycombinator.com/item?id=49050512",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-25T21:53:53.427000Z"
+          "published_at": "2026-07-25T23:36:09.455000Z"
         },
         {
-          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
-          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T20:42:35Z"
+          "id": "fa17019e58414a7f6a4d622fe9328891ef58c102",
+          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T18:59:50Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
+      "score": 0.5448,
+      "importance": 0.5448,
+      "importance_score": 0.5448,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9858,
+        "recency": 0.9946,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T20:42:35Z",
-      "latest_at": "2026-07-25T21:53:53.427000Z",
+      "earliest_at": "2026-07-25T18:59:50Z",
+      "latest_at": "2026-07-25T23:36:09.455000Z",
       "primary_item": {
-        "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
-        "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-        "url": "https://news.ycombinator.com/item?id=49051361",
+        "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
+        "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+        "url": "https://news.ycombinator.com/item?id=49050512",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -510,15 +608,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5409,
-      "importance": 0.5409,
-      "importance_score": 0.5409,
+      "score": 0.5382,
+      "importance": 0.5382,
+      "importance_score": 0.5382,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9729,
+        "recency": 0.9578,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -589,15 +687,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5383,
-      "importance": 0.5383,
-      "importance_score": 0.5383,
+      "score": 0.5356,
+      "importance": 0.5356,
+      "importance_score": 0.5356,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9581,
+        "recency": 0.9432,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -668,15 +766,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5378,
-      "importance": 0.5378,
-      "importance_score": 0.5378,
+      "score": 0.5351,
+      "importance": 0.5351,
+      "importance_score": 0.5351,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9556,
+        "recency": 0.9407,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -764,15 +862,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5353,
-      "importance": 0.5353,
-      "importance_score": 0.5353,
+      "score": 0.533,
+      "importance": 0.533,
+      "importance_score": 0.533,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8026,
+        "recency": 0.7901,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -842,15 +940,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.53,
-      "importance": 0.53,
-      "importance_score": 0.53,
+      "score": 0.5274,
+      "importance": 0.5274,
+      "importance_score": 0.5274,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9121,
+        "recency": 0.898,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -921,15 +1019,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5286,
-      "importance": 0.5286,
-      "importance_score": 0.5286,
+      "score": 0.526,
+      "importance": 0.526,
+      "importance_score": 0.526,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9042,
+        "recency": 0.8902,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -947,80 +1045,80 @@
       }
     },
     {
-      "story_id": "story_a92321595322",
-      "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
-      "url": "https://news.ycombinator.com/item?id=49051692",
-      "primary_url": "https://news.ycombinator.com/item?id=49051692",
+      "story_id": "story_6876b0340723",
+      "title": "就业形势如何？区分人工智能炒作与现实 / What is happening to jobs? Separating AI hype from reality",
+      "url": "https://news.ycombinator.com/item?id=49052570",
+      "primary_url": "https://news.ycombinator.com/item?id=49052570",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "1c457ee6bf171aa619d8b716e91619b1339d6f25",
-          "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
-          "url": "https://news.ycombinator.com/item?id=49051692",
+          "id": "bc7e4b4593aaf4e3fed54b00809c6ebaf2b2b6e1",
+          "title": "就业形势如何？区分人工智能炒作与现实 / What is happening to jobs? Separating AI hype from reality",
+          "url": "https://news.ycombinator.com/item?id=49052570",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-25T21:53:53.427000Z"
+          "published_at": "2026-07-25T23:36:09.455000Z"
         },
         {
-          "id": "b177dd60cd4406913c3921ae6f3b47fdeca5cab9",
-          "title": "“人工智能狂热正在彻底改变全球决策” / ‘AI Mania Is Eviscerating Global Decision-Making’",
-          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-          "source": "Daring Fireball",
+          "id": "b18fbc041109800fae4f38b4a6e043d005c00414",
+          "title": "就业形势如何？区分人工智能炒作与现实 / What is happening to jobs? Separating AI hype from reality",
+          "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+          "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-25T18:15:12Z"
+          "published_at": "2026-07-25T22:51:10Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Daring Fireball",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
         {
-          "id": "1c457ee6bf171aa619d8b716e91619b1339d6f25",
-          "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
-          "url": "https://news.ycombinator.com/item?id=49051692",
+          "id": "bc7e4b4593aaf4e3fed54b00809c6ebaf2b2b6e1",
+          "title": "就业形势如何？区分人工智能炒作与现实 / What is happening to jobs? Separating AI hype from reality",
+          "url": "https://news.ycombinator.com/item?id=49052570",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-25T21:53:53.427000Z"
+          "published_at": "2026-07-25T23:36:09.455000Z"
         },
         {
-          "id": "b177dd60cd4406913c3921ae6f3b47fdeca5cab9",
-          "title": "“人工智能狂热正在彻底改变全球决策” / ‘AI Mania Is Eviscerating Global Decision-Making’",
-          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-          "source": "Daring Fireball",
+          "id": "b18fbc041109800fae4f38b4a6e043d005c00414",
+          "title": "就业形势如何？区分人工智能炒作与现实 / What is happening to jobs? Separating AI hype from reality",
+          "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+          "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-25T18:15:12Z"
+          "published_at": "2026-07-25T22:51:10Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
+      "score": 0.5448,
+      "importance": 0.5448,
+      "importance_score": 0.5448,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9858,
+        "recency": 0.9946,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T18:15:12Z",
-      "latest_at": "2026-07-25T21:53:53.427000Z",
+      "earliest_at": "2026-07-25T22:51:10Z",
+      "latest_at": "2026-07-25T23:36:09.455000Z",
       "primary_item": {
-        "id": "1c457ee6bf171aa619d8b716e91619b1339d6f25",
-        "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
-        "url": "https://news.ycombinator.com/item?id=49051692",
+        "id": "bc7e4b4593aaf4e3fed54b00809c6ebaf2b2b6e1",
+        "title": "就业形势如何？区分人工智能炒作与现实 / What is happening to jobs? Separating AI hype from reality",
+        "url": "https://news.ycombinator.com/item?id=49052570",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1079,15 +1177,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5058,
-      "importance": 0.5058,
-      "importance_score": 0.5058,
+      "score": 0.5036,
+      "importance": 0.5036,
+      "importance_score": 0.5036,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7775,
+        "recency": 0.7654,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1158,15 +1256,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5048,
-      "importance": 0.5048,
-      "importance_score": 0.5048,
+      "score": 0.5027,
+      "importance": 0.5027,
+      "importance_score": 0.5027,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7723,
+        "recency": 0.7603,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1237,15 +1335,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5257,
-      "importance": 0.5257,
-      "importance_score": 0.5257,
+      "score": 0.5232,
+      "importance": 0.5232,
+      "importance_score": 0.5232,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8883,
+        "recency": 0.8745,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1260,164 +1358,6 @@
         "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_bbb0789ef07d",
-      "title": "是警告性行动还是噱头——我们该对OpenAI遭黑客攻击一事有多担心？",
-      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-      "source": "www.bbc.co.uk",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1b64e19f9e8fe51f86837d22583e161467328660",
-          "title": "是警告性行动还是噱头——我们该对OpenAI遭黑客攻击一事有多担心？",
-          "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T23:39:48.013000Z"
-        },
-        {
-          "id": "e0708f69e05de4da0a4fc19e8eeddea00515ed7c",
-          "title": "是警告性行动还是噱头——我们该对OpenAI遭黑客攻击一事有多担心？ / Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-          "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T23:11:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News (世界新闻)",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "1b64e19f9e8fe51f86837d22583e161467328660",
-          "title": "是警告性行动还是噱头——我们该对OpenAI遭黑客攻击一事有多担心？",
-          "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T23:39:48.013000Z"
-        },
-        {
-          "id": "e0708f69e05de4da0a4fc19e8eeddea00515ed7c",
-          "title": "是警告性行动还是噱头——我们该对OpenAI遭黑客攻击一事有多担心？ / Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-          "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T23:11:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4945,
-      "importance": 0.4945,
-      "importance_score": 0.4945,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7151,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T23:11:13Z",
-      "latest_at": "2026-07-24T23:39:48.013000Z",
-      "primary_item": {
-        "id": "1b64e19f9e8fe51f86837d22583e161467328660",
-        "title": "是警告性行动还是噱头——我们该对OpenAI遭黑客攻击一事有多担心？",
-        "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-        "source": "www.bbc.co.uk",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b2e8ce2bc9a2",
-      "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键",
-      "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
-      "primary_url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
-      "source": "unsung.aresluna.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d0b2e976bfac416a1b5a2b3c76d0c7ceab3059e7",
-          "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键",
-          "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
-          "source": "unsung.aresluna.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T23:07:45.216000Z"
-        },
-        {
-          "id": "ad53f7596fdcf009a092b960b37b9ad3d4e38ceb",
-          "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键 / Chrome registers a global shortcut for Gemini popup window",
-          "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T23:04:57Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "unsung.aresluna.org"
-      ],
-      "items": [
-        {
-          "id": "d0b2e976bfac416a1b5a2b3c76d0c7ceab3059e7",
-          "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键",
-          "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
-          "source": "unsung.aresluna.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T23:07:45.216000Z"
-        },
-        {
-          "id": "ad53f7596fdcf009a092b960b37b9ad3d4e38ceb",
-          "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键 / Chrome registers a global shortcut for Gemini popup window",
-          "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T23:04:57Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4935,
-      "importance": 0.4935,
-      "importance_score": 0.4935,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7096,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T23:04:57Z",
-      "latest_at": "2026-07-24T23:07:45.216000Z",
-      "primary_item": {
-        "id": "d0b2e976bfac416a1b5a2b3c76d0c7ceab3059e7",
-        "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键",
-        "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
-        "source": "unsung.aresluna.org",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1474,15 +1414,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5224,
-      "importance": 0.5224,
-      "importance_score": 0.5224,
+      "score": 0.52,
+      "importance": 0.52,
+      "importance_score": 0.52,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.87,
+        "recency": 0.8565,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1495,6 +1435,164 @@
         "id": "d0cb1aba099db2a5904889cc884b2ad835eb933d",
         "title": "AI的新“北极星”：每美元智能值",
         "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a92321595322",
+      "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
+      "url": "https://news.ycombinator.com/item?id=49051692",
+      "primary_url": "https://news.ycombinator.com/item?id=49051692",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "1c457ee6bf171aa619d8b716e91619b1339d6f25",
+          "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
+          "url": "https://news.ycombinator.com/item?id=49051692",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T21:53:53.427000Z"
+        },
+        {
+          "id": "b177dd60cd4406913c3921ae6f3b47fdeca5cab9",
+          "title": "“人工智能狂热正在彻底改变全球决策” / ‘AI Mania Is Eviscerating Global Decision-Making’",
+          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+          "source": "Daring Fireball",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T18:15:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Daring Fireball",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1c457ee6bf171aa619d8b716e91619b1339d6f25",
+          "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
+          "url": "https://news.ycombinator.com/item?id=49051692",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T21:53:53.427000Z"
+        },
+        {
+          "id": "b177dd60cd4406913c3921ae6f3b47fdeca5cab9",
+          "title": "“人工智能狂热正在彻底改变全球决策” / ‘AI Mania Is Eviscerating Global Decision-Making’",
+          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+          "source": "Daring Fireball",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T18:15:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5405,
+      "importance": 0.5405,
+      "importance_score": 0.5405,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9705,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T18:15:12Z",
+      "latest_at": "2026-07-25T21:53:53.427000Z",
+      "primary_item": {
+        "id": "1c457ee6bf171aa619d8b716e91619b1339d6f25",
+        "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
+        "url": "https://news.ycombinator.com/item?id=49051692",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_2b75b6719305",
+      "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元",
+      "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
+      "primary_url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7ce5968c55e53d2732c9ea078ff0c489adb2a1a0",
+          "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元",
+          "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T10:35:07.024000Z"
+        },
+        {
+          "id": "10f6b1bfd771afc7cb58c6786f978e5992d0d68a",
+          "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元 / I dreamt of building rockets until my aunt's illness inspired me to build an AI startup that's raised nearly $10 million",
+          "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T10:02:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "7ce5968c55e53d2732c9ea078ff0c489adb2a1a0",
+          "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元",
+          "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T10:35:07.024000Z"
+        },
+        {
+          "id": "10f6b1bfd771afc7cb58c6786f978e5992d0d68a",
+          "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元 / I dreamt of building rockets until my aunt's illness inspired me to build an AI startup that's raised nearly $10 million",
+          "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T10:02:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5142,
+      "importance": 0.5142,
+      "importance_score": 0.5142,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8242,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T10:02:01Z",
+      "latest_at": "2026-07-25T10:35:07.024000Z",
+      "primary_item": {
+        "id": "7ce5968c55e53d2732c9ea078ff0c489adb2a1a0",
+        "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元",
+        "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -1552,15 +1650,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5369,
-      "importance": 0.5369,
-      "importance_score": 0.5369,
+      "score": 0.5342,
+      "importance": 0.5342,
+      "importance_score": 0.5342,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9506,
+        "recency": 0.9358,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1575,85 +1673,6 @@
         "url": "https://news.ycombinator.com/item?id=49048034",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_0b5ad25d53ee",
-      "title": "Show HN: 你对Claude Code的掌握程度如何？",
-      "url": "https://news.ycombinator.com/item?id=49042653",
-      "primary_url": "https://news.ycombinator.com/item?id=49042653",
-      "source": "news.ycombinator.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "210d0de78e00f49c81551b18efda0fbda4893c55",
-          "title": "Show HN: 你对Claude Code的掌握程度如何？",
-          "url": "https://news.ycombinator.com/item?id=49042653",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T23:07:45.162000Z"
-        },
-        {
-          "id": "8bcf1695d489ab72648d1717ce2a4eda9129a9c3",
-          "title": "Show HN: 你对Claude Code的掌握程度如何？ / Show HN: How well do you use Claude Code?",
-          "url": "https://news.ycombinator.com/item?id=49042653",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-24T23:00:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "news.ycombinator.com"
-      ],
-      "items": [
-        {
-          "id": "210d0de78e00f49c81551b18efda0fbda4893c55",
-          "title": "Show HN: 你对Claude Code的掌握程度如何？",
-          "url": "https://news.ycombinator.com/item?id=49042653",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T23:07:45.162000Z"
-        },
-        {
-          "id": "8bcf1695d489ab72648d1717ce2a4eda9129a9c3",
-          "title": "Show HN: 你对Claude Code的掌握程度如何？ / Show HN: How well do you use Claude Code?",
-          "url": "https://news.ycombinator.com/item?id=49042653",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-24T23:00:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4935,
-      "importance": 0.4935,
-      "importance_score": 0.4935,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7096,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T23:00:38Z",
-      "latest_at": "2026-07-24T23:07:45.162000Z",
-      "primary_item": {
-        "id": "210d0de78e00f49c81551b18efda0fbda4893c55",
-        "title": "Show HN: 你对Claude Code的掌握程度如何？",
-        "url": "https://news.ycombinator.com/item?id=49042653",
-        "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
       }
     }
   ]
