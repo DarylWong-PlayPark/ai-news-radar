@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T07:33:10.889280Z",
+  "generated_at": "2026-07-25T09:43:47.302452Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8252,
-      "importance": 0.8252,
-      "importance_score": 0.8252,
+      "score": 0.8207,
+      "importance": 0.8207,
+      "importance_score": 0.8207,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8066,
+        "recency": 0.7816,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,19 +83,19 @@
           "published_at": "2026-07-24T17:24:25.589000Z"
         },
         {
-          "id": "7fdd4aa79bac6da7a6f1a55036976e3dfaf6a27c",
+          "id": "5e6f4b2d0286887467b40335ebe2f64104234f87",
           "title": "Anthropic 发布 Claude Opus 5 / Claude Opus 5",
           "url": "https://www.anthropic.com/news/claude-opus-5",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-24T16:55:26Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Anthropic：Newsroom（网页）",
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "items": [
         {
@@ -108,26 +108,26 @@
           "published_at": "2026-07-24T17:24:25.589000Z"
         },
         {
-          "id": "7fdd4aa79bac6da7a6f1a55036976e3dfaf6a27c",
+          "id": "5e6f4b2d0286887467b40335ebe2f64104234f87",
           "title": "Anthropic 发布 Claude Opus 5 / Claude Opus 5",
           "url": "https://www.anthropic.com/news/claude-opus-5",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-24T16:55:26Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8193,
-      "importance": 0.8193,
-      "importance_score": 0.8193,
+      "score": 0.8148,
+      "importance": 0.8148,
+      "importance_score": 0.8148,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.92,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8152,
+        "recency": 0.79,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -200,15 +200,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7857,
-      "importance": 0.7857,
-      "importance_score": 0.7857,
+      "score": 0.7806,
+      "importance": 0.7806,
+      "importance_score": 0.7806,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9116,
+        "recency": 0.8834,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -281,15 +281,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.778,
-      "importance": 0.778,
-      "importance_score": 0.778,
+      "score": 0.7734,
+      "importance": 0.7734,
+      "importance_score": 0.7734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8358,
+        "recency": 0.8099,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -343,15 +343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
+      "score": 0.7432,
+      "importance": 0.7432,
+      "importance_score": 0.7432,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8751,
+        "recency": 0.848,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -422,15 +422,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7471,
-      "importance": 0.7471,
-      "importance_score": 0.7471,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7305,
+        "recency": 0.7079,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -446,86 +446,6 @@
         "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0d93824837c0",
-      "title": "菲尔兹奖新得主齐默尔曼官宣加入OpenAI，数学最高荣誉得主转向AI安全",
-      "url": "https://www.aibase.com/news/29878",
-      "primary_url": "https://www.aibase.com/news/29878",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "58659f5dd3dc74b843ffc89831f0c02c19ce26ec",
-          "title": "菲尔兹奖新得主齐默尔曼官宣加入OpenAI，数学最高荣誉得主转向AI安全",
-          "url": "https://www.aibase.com/news/29878",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T09:02:38.442125Z"
-        },
-        {
-          "id": "853e55fbbd390d90b06120a5a4e83cb63bb8bd29",
-          "title": "菲尔兹奖新得主齐默尔曼官宣加入 OpenAI，数学最高荣誉得主转向 AI 安全",
-          "url": "https://www.aibase.com/zh/news/29878",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "58659f5dd3dc74b843ffc89831f0c02c19ce26ec",
-          "title": "菲尔兹奖新得主齐默尔曼官宣加入OpenAI，数学最高荣誉得主转向AI安全",
-          "url": "https://www.aibase.com/news/29878",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T09:02:38.442125Z"
-        },
-        {
-          "id": "853e55fbbd390d90b06120a5a4e83cb63bb8bd29",
-          "title": "菲尔兹奖新得主齐默尔曼官宣加入 OpenAI，数学最高荣誉得主转向 AI 安全",
-          "url": "https://www.aibase.com/zh/news/29878",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7225,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T09:02:38.442125Z",
-      "latest_at": "2026-07-24T11:15:52.980110Z",
-      "primary_item": {
-        "id": "58659f5dd3dc74b843ffc89831f0c02c19ce26ec",
-        "title": "菲尔兹奖新得主齐默尔曼官宣加入OpenAI，数学最高荣誉得主转向AI安全",
-        "url": "https://www.aibase.com/news/29878",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -563,15 +483,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7356,
-      "importance": 0.7356,
-      "importance_score": 0.7356,
+      "score": 0.7313,
+      "importance": 0.7313,
+      "importance_score": 0.7313,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7725,
+        "recency": 0.7486,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -642,15 +562,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.761,
+      "importance": 0.761,
+      "importance_score": 0.761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7303,
+        "recency": 0.7077,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -704,15 +624,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
+      "score": 0.7288,
+      "importance": 0.7288,
+      "importance_score": 0.7288,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7923,
+        "recency": 0.7678,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -764,15 +684,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7322,
-      "importance": 0.7322,
-      "importance_score": 0.7322,
+      "score": 0.7279,
+      "importance": 0.7279,
+      "importance_score": 0.7279,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7701,
+        "recency": 0.7463,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -786,66 +706,6 @@
         "title": "微软阐述开源模型助力美国竞争力路径",
         "url": "https://x.com/satyanadella/status/2080646162483417097",
         "source": "X：Satya Nadella (@satyanadella)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_31cf3740c53e",
-      "title": "Runway Agent 推出自然语言工作流功能",
-      "url": "https://x.com/runwayml/status/2080649234672439389",
-      "primary_url": "https://x.com/runwayml/status/2080649234672439389",
-      "source": "X：Runway (@runwayml)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "38b19e75307d67f7ea16deda84f93dc8f08bf77a",
-          "title": "Runway Agent 推出自然语言工作流功能",
-          "url": "https://x.com/runwayml/status/2080649234672439389",
-          "source": "X：Runway (@runwayml)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T13:40:08Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Runway (@runwayml)"
-      ],
-      "items": [
-        {
-          "id": "38b19e75307d67f7ea16deda84f93dc8f08bf77a",
-          "title": "Runway Agent 推出自然语言工作流功能",
-          "url": "https://x.com/runwayml/status/2080649234672439389",
-          "source": "X：Runway (@runwayml)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T13:40:08Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7236,
-      "importance": 0.7236,
-      "importance_score": 0.7236,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7724,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T13:40:08Z",
-      "latest_at": "2026-07-24T13:40:08Z",
-      "primary_item": {
-        "id": "38b19e75307d67f7ea16deda84f93dc8f08bf77a",
-        "title": "Runway Agent 推出自然语言工作流功能",
-        "url": "https://x.com/runwayml/status/2080649234672439389",
-        "source": "X：Runway (@runwayml)",
         "source_name": "AI HOT"
       }
     },
@@ -865,20 +725,10 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-07-24T11:55:45.885000Z"
-        },
-        {
-          "id": "36542a2fb972d1da2e9bfb21c568c238806bec3f",
-          "title": "Flux 3 X Mimic：新一代视频动作模型 / Flux 3 X Mimic: The Next Generation of Video-Action Models",
-          "url": "https://bfl.ai/blog/flux-3-mimic",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T09:31:48Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
@@ -890,37 +740,26 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-07-24T11:55:45.885000Z"
-        },
-        {
-          "id": "36542a2fb972d1da2e9bfb21c568c238806bec3f",
-          "title": "Flux 3 X Mimic：新一代视频动作模型 / Flux 3 X Mimic: The Next Generation of Video-Action Models",
-          "url": "https://bfl.ai/blog/flux-3-mimic",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T09:31:48Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.728,
+      "importance": 0.728,
+      "importance_score": 0.728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7532,
-        "story_heat": 0.25
+        "recency": 0.7299,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T09:31:48Z",
+      "earliest_at": "2026-07-24T11:55:45.885000Z",
       "latest_at": "2026-07-24T11:55:45.885000Z",
       "primary_item": {
         "id": "fd77d4f467151087a7e14015ce2e68234888ff71",
@@ -928,186 +767,6 @@
         "url": "https://bfl.ai/blog/flux-3-mimic",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0b0a0e69a075",
-      "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-      "url": "https://www.aibase.com/news/29881",
-      "primary_url": "https://www.aibase.com/news/29881",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
-          "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-          "url": "https://www.aibase.com/news/29881",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T11:15:52.980110Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
-          "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-          "url": "https://www.aibase.com/news/29881",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T11:15:52.980110Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7219,
-      "importance": 0.7219,
-      "importance_score": 0.7219,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.746,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T11:15:52.980110Z",
-      "latest_at": "2026-07-24T11:15:52.980110Z",
-      "primary_item": {
-        "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
-        "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-        "url": "https://www.aibase.com/news/29881",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_538fbca60cb9",
-      "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-      "url": "https://www.aibase.com/news/29879",
-      "primary_url": "https://www.aibase.com/news/29879",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "73f202821fdad56b7559a6d316da467d75b4e508",
-          "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-          "url": "https://www.aibase.com/news/29879",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T11:15:52.980110Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "73f202821fdad56b7559a6d316da467d75b4e508",
-          "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-          "url": "https://www.aibase.com/news/29879",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T11:15:52.980110Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7219,
-      "importance": 0.7219,
-      "importance_score": 0.7219,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.746,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T11:15:52.980110Z",
-      "latest_at": "2026-07-24T11:15:52.980110Z",
-      "primary_item": {
-        "id": "73f202821fdad56b7559a6d316da467d75b4e508",
-        "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-        "url": "https://www.aibase.com/news/29879",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_55dc522f59b8",
-      "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-      "url": "https://www.aibase.com/news/29880",
-      "primary_url": "https://www.aibase.com/news/29880",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
-          "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-          "url": "https://www.aibase.com/news/29880",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T11:15:52.980110Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
-          "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-          "url": "https://www.aibase.com/news/29880",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T11:15:52.980110Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7219,
-      "importance": 0.7219,
-      "importance_score": 0.7219,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.746,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T11:15:52.980110Z",
-      "latest_at": "2026-07-24T11:15:52.980110Z",
-      "primary_item": {
-        "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
-        "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-        "url": "https://www.aibase.com/news/29880",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1163,15 +822,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5948,
-      "importance": 0.5948,
-      "importance_score": 0.5948,
+      "score": 0.5902,
+      "importance": 0.5902,
+      "importance_score": 0.5902,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.8209,
+        "recency": 0.7955,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1259,15 +918,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5913,
-      "importance": 0.5913,
-      "importance_score": 0.5913,
+      "score": 0.5866,
+      "importance": 0.5866,
+      "importance_score": 0.5866,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8451,
+        "recency": 0.8189,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1395,15 +1054,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5872,
-      "importance": 0.5872,
-      "importance_score": 0.5872,
+      "score": 0.5827,
+      "importance": 0.5827,
+      "importance_score": 0.5827,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8135,
+        "recency": 0.7883,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1417,6 +1076,102 @@
         "title": "开放权重与美国在人工智能领域的领导地位 [pdf]",
         "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
         "source": "images.nvidia.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_764d08a751dc",
+      "title": "三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企",
+      "url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25",
+      "primary_url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9000cdfe989925fdc37baffe9561af4590153830",
+          "title": "三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企",
+          "url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T07:39:30.981000Z"
+        },
+        {
+          "id": "91aa00819920b4c82a1305226cf2195db8ea5cc2",
+          "title": "韩国总统李某主持美国科技峰会，呼吁开启人工智能新时代",
+          "url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T02:35:42.562000Z"
+        },
+        {
+          "id": "9a9b9e23de3669885f29175d4c4dfb759b2b2db3",
+          "title": "韩国总统李某希望与全球科技公司共同开启人工智能的新时代",
+          "url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T00:43:57.192000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "9000cdfe989925fdc37baffe9561af4590153830",
+          "title": "三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企",
+          "url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T07:39:30.981000Z"
+        },
+        {
+          "id": "91aa00819920b4c82a1305226cf2195db8ea5cc2",
+          "title": "韩国总统李某主持美国科技峰会，呼吁开启人工智能新时代",
+          "url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T02:35:42.562000Z"
+        },
+        {
+          "id": "9a9b9e23de3669885f29175d4c4dfb759b2b2db3",
+          "title": "韩国总统李某希望与全球科技公司共同开启人工智能的新时代",
+          "url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T00:43:57.192000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5655,
+      "importance": 0.5655,
+      "importance_score": 0.5655,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9705,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T00:43:57.192000Z",
+      "latest_at": "2026-07-25T07:39:30.981000Z",
+      "primary_item": {
+        "id": "9000cdfe989925fdc37baffe9561af4590153830",
+        "title": "三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企",
+        "url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25",
+        "source": "www.reuters.com",
         "source_name": "Buzzing"
       }
     },
@@ -1493,15 +1248,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5528,
-      "importance": 0.5528,
-      "importance_score": 0.5528,
+      "score": 0.5478,
+      "importance": 0.5478,
+      "importance_score": 0.5478,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8999,
+        "recency": 0.872,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1516,6 +1271,359 @@
         "url": "https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_b2e8ce2bc9a2",
+      "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键",
+      "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
+      "primary_url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
+      "source": "unsung.aresluna.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d0b2e976bfac416a1b5a2b3c76d0c7ceab3059e7",
+          "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键",
+          "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
+          "source": "unsung.aresluna.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T23:07:45.216000Z"
+        },
+        {
+          "id": "ad53f7596fdcf009a092b960b37b9ad3d4e38ceb",
+          "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键 / Chrome registers a global shortcut for Gemini popup window",
+          "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-24T23:04:57Z"
+        },
+        {
+          "id": "f076be8f1ba4ddf534ef17d508b42143d2d678ff",
+          "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键 / Chrome's Breaking and Entering",
+          "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-24T19:51:50Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Lobsters (技术社区)",
+        "unsung.aresluna.org"
+      ],
+      "items": [
+        {
+          "id": "d0b2e976bfac416a1b5a2b3c76d0c7ceab3059e7",
+          "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键",
+          "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
+          "source": "unsung.aresluna.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T23:07:45.216000Z"
+        },
+        {
+          "id": "ad53f7596fdcf009a092b960b37b9ad3d4e38ceb",
+          "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键 / Chrome registers a global shortcut for Gemini popup window",
+          "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-24T23:04:57Z"
+        },
+        {
+          "id": "f076be8f1ba4ddf534ef17d508b42143d2d678ff",
+          "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键 / Chrome's Breaking and Entering",
+          "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-24T19:51:50Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8581,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-24T19:51:50Z",
+      "latest_at": "2026-07-24T23:07:45.216000Z",
+      "primary_item": {
+        "id": "d0b2e976bfac416a1b5a2b3c76d0c7ceab3059e7",
+        "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键",
+        "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
+        "source": "unsung.aresluna.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_cbed4f8a8384",
+      "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
+      "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+      "primary_url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "373f63e0ae1af7be66703e8bc183eb92c728c797",
+          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
+          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T09:15:25.633000Z"
+        },
+        {
+          "id": "02442d5bb45ba1a82681c3cfbb792a1f0f2605e6",
+          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？ / AI is good, we swear! Trust us!",
+          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T08:19:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "373f63e0ae1af7be66703e8bc183eb92c728c797",
+          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
+          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T09:15:25.633000Z"
+        },
+        {
+          "id": "02442d5bb45ba1a82681c3cfbb792a1f0f2605e6",
+          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？ / AI is good, we swear! Trust us!",
+          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T08:19:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9932,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T08:19:01Z",
+      "latest_at": "2026-07-25T09:15:25.633000Z",
+      "primary_item": {
+        "id": "373f63e0ae1af7be66703e8bc183eb92c728c797",
+        "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
+        "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_3f7650520ee0",
+      "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
+      "url": "https://www.36kr.com/p/3910351337821318",
+      "primary_url": "https://www.36kr.com/p/3910351337821318",
+      "source": "36氪 · 24小时热榜",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "647584204616186cb5c014ebb50041b1173f8954",
+          "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
+          "url": "https://www.36kr.com/p/3910351337821318",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7bac0788e0f935fd785c64555515c11bcafc75e6",
+          "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
+          "url": "https://36kr.com/p/3910351337821318?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T00:57:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "36氪 · 24小时热榜"
+      ],
+      "items": [
+        {
+          "id": "647584204616186cb5c014ebb50041b1173f8954",
+          "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
+          "url": "https://www.36kr.com/p/3910351337821318",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7bac0788e0f935fd785c64555515c11bcafc75e6",
+          "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
+          "url": "https://36kr.com/p/3910351337821318?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T00:57:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.535,
+      "importance": 0.535,
+      "importance_score": 0.535,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9402,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T00:57:52Z",
+      "latest_at": "2026-07-25T05:27:44.175163Z",
+      "primary_item": {
+        "id": "647584204616186cb5c014ebb50041b1173f8954",
+        "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
+        "url": "https://www.36kr.com/p/3910351337821318",
+        "source": "36氪 · 24小时热榜",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_3ecc7db58a46",
+      "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
+      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+      "primary_url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+      "source": "www.theguardian.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b7cee266358674bbfa115907e1fa668565616cbb",
+          "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
+          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T18:03:38.315000Z"
+        },
+        {
+          "id": "81b41f41108b32d7858d78a125b32bc7ab6a54f3",
+          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿 / Be skeptical of OpenAI's rogue hacker agent story",
+          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-24T16:33:31Z"
+        },
+        {
+          "id": "ab81b1f75584c63440810504587934f1b70153a7",
+          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿",
+          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T13:15:35.524000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.theguardian.com"
+      ],
+      "items": [
+        {
+          "id": "b7cee266358674bbfa115907e1fa668565616cbb",
+          "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
+          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T18:03:38.315000Z"
+        },
+        {
+          "id": "81b41f41108b32d7858d78a125b32bc7ab6a54f3",
+          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿 / Be skeptical of OpenAI's rogue hacker agent story",
+          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-24T16:33:31Z"
+        },
+        {
+          "id": "ab81b1f75584c63440810504587934f1b70153a7",
+          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿",
+          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T13:15:35.524000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5344,
+      "importance": 0.5344,
+      "importance_score": 0.5344,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7975,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-24T13:15:35.524000Z",
+      "latest_at": "2026-07-24T18:03:38.315000Z",
+      "primary_item": {
+        "id": "b7cee266358674bbfa115907e1fa668565616cbb",
+        "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
+        "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+        "source": "www.theguardian.com",
+        "source_name": "Buzzing"
       }
     }
   ]
