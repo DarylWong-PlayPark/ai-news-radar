@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T18:54:57.004062Z",
+  "generated_at": "2026-07-27T20:19:52.181512Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8696,
-      "importance": 0.8696,
-      "importance_score": 0.8696,
+      "score": 0.8661,
+      "importance": 0.8661,
+      "importance_score": 0.8661,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9588,
+        "recency": 0.9394,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8472,
-      "importance": 0.8472,
-      "importance_score": 0.8472,
+      "score": 0.844,
+      "importance": 0.844,
+      "importance_score": 0.844,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8734,
+        "recency": 0.8557,
         "story_heat": 0.0
       },
       "category": "official",
@@ -144,6 +144,88 @@
         "title": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟 / NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
         "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_97b8a5b6a8dc",
+      "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查 / The harness is all you need (mostly)",
+      "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "dfe1166a7e4b61e194a54d3f29e213dcc90401c2",
+          "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查 / The harness is all you need (mostly)",
+          "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T18:00:00Z"
+        },
+        {
+          "id": "14c3844b789a43cdd84064b00b5779806855f4b4",
+          "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查",
+          "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T18:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub AI & ML",
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "dfe1166a7e4b61e194a54d3f29e213dcc90401c2",
+          "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查 / The harness is all you need (mostly)",
+          "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T18:00:00Z"
+        },
+        {
+          "id": "14c3844b789a43cdd84064b00b5779806855f4b4",
+          "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查",
+          "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T18:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.863,
+      "importance": 0.863,
+      "importance_score": 0.863,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9669,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T18:00:00Z",
+      "latest_at": "2026-07-27T18:00:00Z",
+      "primary_item": {
+        "id": "dfe1166a7e4b61e194a54d3f29e213dcc90401c2",
+        "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查 / The harness is all you need (mostly)",
+        "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       }
     },
@@ -182,15 +264,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8161,
-      "importance": 0.8161,
-      "importance_score": 0.8161,
+      "score": 0.8132,
+      "importance": 0.8132,
+      "importance_score": 0.8132,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8004,
+        "recency": 0.7842,
         "story_heat": 0.0
       },
       "category": "official",
@@ -263,15 +345,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7971,
-      "importance": 0.7971,
-      "importance_score": 0.7971,
+      "score": 0.7936,
+      "importance": 0.7936,
+      "importance_score": 0.7936,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9581,
+        "recency": 0.9387,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -344,15 +426,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7906,
-      "importance": 0.7906,
-      "importance_score": 0.7906,
+      "score": 0.787,
+      "importance": 0.787,
+      "importance_score": 0.787,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9889,
+        "recency": 0.9689,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -368,6 +450,87 @@
         "title": "用Claude和Python构建技能驱动的金融分析智能体",
         "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
         "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a982c7141f7e",
+      "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
+      "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
+      "primary_url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1df65f5a0b26e10fa240159b96bb1655a40503ce",
+          "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
+          "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T19:08:51Z"
+        },
+        {
+          "id": "7d25e3e649ce454d59aba614481f31f22dbcf269",
+          "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作 / OpenAI says more workers are using ChatGPT to do other people's jobs",
+          "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-27T19:08:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "1df65f5a0b26e10fa240159b96bb1655a40503ce",
+          "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
+          "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T19:08:51Z"
+        },
+        {
+          "id": "7d25e3e649ce454d59aba614481f31f22dbcf269",
+          "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作 / OpenAI says more workers are using ChatGPT to do other people's jobs",
+          "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-27T19:08:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7835,
+      "importance": 0.7835,
+      "importance_score": 0.7835,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9831,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T19:08:51Z",
+      "latest_at": "2026-07-27T19:08:51Z",
+      "primary_item": {
+        "id": "1df65f5a0b26e10fa240159b96bb1655a40503ce",
+        "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
+        "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -406,15 +569,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7853,
-      "importance": 0.7853,
-      "importance_score": 0.7853,
+      "score": 0.7819,
+      "importance": 0.7819,
+      "importance_score": 0.7819,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9484,
+        "recency": 0.9292,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -486,15 +649,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8653,
+        "recency": 0.8478,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -548,15 +711,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7648,
-      "importance": 0.7648,
-      "importance_score": 0.7648,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9846,
+        "recency": 0.9646,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -609,15 +772,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7418,
-      "importance": 0.7418,
-      "importance_score": 0.7418,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7898,
+        "recency": 0.7738,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -631,6 +794,67 @@
         "title": "用AI Skill自动生成可协作HTML PPT",
         "url": "https://x.com/vista8/status/2081568902241513786",
         "source": "X：Vista (@vista8)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_bce699caba55",
+      "title": "Kimi 发布视觉感知基准 PerceptionBench",
+      "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
+      "primary_url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e6b16416a5e8ad87e1da1b9cb071bca244e23bde",
+          "title": "Kimi 发布视觉感知基准 PerceptionBench",
+          "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T18:45:20Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Kimi.ai (@Kimi_Moonshot)"
+      ],
+      "items": [
+        {
+          "id": "e6b16416a5e8ad87e1da1b9cb071bca244e23bde",
+          "title": "Kimi 发布视觉感知基准 PerceptionBench",
+          "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T18:45:20Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7666,
+      "importance": 0.7666,
+      "importance_score": 0.7666,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9775,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T18:45:20Z",
+      "latest_at": "2026-07-27T18:45:20Z",
+      "primary_item": {
+        "id": "e6b16416a5e8ad87e1da1b9cb071bca244e23bde",
+        "title": "Kimi 发布视觉感知基准 PerceptionBench",
+        "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
+        "source": "X：Kimi.ai (@Kimi_Moonshot)",
         "source_name": "AI HOT"
       }
     },
@@ -688,15 +912,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7356,
-      "importance": 0.7356,
-      "importance_score": 0.7356,
+      "score": 0.7324,
+      "importance": 0.7324,
+      "importance_score": 0.7324,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8666,
+        "recency": 0.8491,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -768,15 +992,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8197,
+        "recency": 0.8031,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -793,67 +1017,6 @@
         "url": "https://www.aibase.com/news/29895",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7e5aebcddeab",
-      "title": "Kimi K3 上线 Modal，支持无损加速推理",
-      "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
-      "primary_url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
-      "source": "X：Kimi.ai (@Kimi_Moonshot)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
-          "title": "Kimi K3 上线 Modal，支持无损加速推理",
-          "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T15:44:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Kimi.ai (@Kimi_Moonshot)"
-      ],
-      "items": [
-        {
-          "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
-          "title": "Kimi K3 上线 Modal，支持无损加速推理",
-          "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T15:44:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9551,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T15:44:05Z",
-      "latest_at": "2026-07-27T15:44:05Z",
-      "primary_item": {
-        "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
-        "title": "Kimi K3 上线 Modal，支持无损加速推理",
-        "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
-        "source": "X：Kimi.ai (@Kimi_Moonshot)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -910,15 +1073,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8197,
+        "recency": 0.8031,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -938,21 +1101,21 @@
       }
     },
     {
-      "story_id": "story_19eeca1736fb",
-      "title": "Kimi K3 开源分布式智能体环境 AgentENV",
-      "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
-      "primary_url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+      "story_id": "story_7e5aebcddeab",
+      "title": "Kimi K3 上线 Modal，支持无损加速推理",
+      "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
+      "primary_url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
       "source": "X：Kimi.ai (@Kimi_Moonshot)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
-          "title": "Kimi K3 开源分布式智能体环境 AgentENV",
-          "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+          "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
+          "title": "Kimi K3 上线 Modal，支持无损加速推理",
+          "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
           "source": "X：Kimi.ai (@Kimi_Moonshot)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-27T15:25:45Z"
+          "published_at": "2026-07-27T15:44:05Z"
         }
       ],
       "source_count": 1,
@@ -961,38 +1124,39 @@
       ],
       "items": [
         {
-          "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
-          "title": "Kimi K3 开源分布式智能体环境 AgentENV",
-          "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+          "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
+          "title": "Kimi K3 上线 Modal，支持无损加速推理",
+          "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
           "source": "X：Kimi.ai (@Kimi_Moonshot)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-27T15:25:45Z"
+          "published_at": "2026-07-27T15:44:05Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7498,
-      "importance": 0.7498,
-      "importance_score": 0.7498,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.69,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9509,
+        "recency": 0.9358,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-27T15:25:45Z",
-      "latest_at": "2026-07-27T15:25:45Z",
+      "earliest_at": "2026-07-27T15:44:05Z",
+      "latest_at": "2026-07-27T15:44:05Z",
       "primary_item": {
-        "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
-        "title": "Kimi K3 开源分布式智能体环境 AgentENV",
-        "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+        "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
+        "title": "Kimi K3 上线 Modal，支持无损加速推理",
+        "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
         "source": "X：Kimi.ai (@Kimi_Moonshot)",
         "source_name": "AI HOT"
       }
@@ -1051,15 +1215,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8197,
+        "recency": 0.8031,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1239,15 +1403,15 @@
       ],
       "item_count": 8,
       "duplicate_count": 8,
-      "score": 0.665,
-      "importance": 0.665,
-      "importance_score": 0.665,
+      "score": 0.6615,
+      "importance": 0.6615,
+      "importance_score": 0.6615,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9767,
+        "recency": 0.957,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1262,6 +1426,66 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-27",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_19eeca1736fb",
+      "title": "Kimi K3 开源分布式智能体环境 AgentENV",
+      "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+      "primary_url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
+          "title": "Kimi K3 开源分布式智能体环境 AgentENV",
+          "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:25:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Kimi.ai (@Kimi_Moonshot)"
+      ],
+      "items": [
+        {
+          "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
+          "title": "Kimi K3 开源分布式智能体环境 AgentENV",
+          "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:25:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7463,
+      "importance": 0.7463,
+      "importance_score": 0.7463,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9317,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-27T15:25:45Z",
+      "latest_at": "2026-07-27T15:25:45Z",
+      "primary_item": {
+        "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
+        "title": "Kimi K3 开源分布式智能体环境 AgentENV",
+        "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+        "source": "X：Kimi.ai (@Kimi_Moonshot)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1318,15 +1542,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8197,
+        "recency": 0.8031,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1343,299 +1567,6 @@
         "url": "https://www.aibase.com/news/29894",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7372d8cb937a",
-      "title": "HuggingFace 上的 Kimi-K3 / Kimi-K3 on HuggingFace",
-      "url": "https://news.ycombinator.com/item?id=49065752",
-      "primary_url": "https://news.ycombinator.com/item?id=49065752",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "3fa6196fd6e9b153c1de557a839b96ff3fff0f94",
-          "title": "HuggingFace 上的 Kimi-K3 / Kimi-K3 on HuggingFace",
-          "url": "https://news.ycombinator.com/item?id=49065752",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T18:55:39.591000Z"
-        },
-        {
-          "id": "aef79877fe0677a9ac3e3b2b8989645960fb5942",
-          "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-          "url": "https://news.ycombinator.com/item?id=49065752",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T08:32:32.037000Z"
-        },
-        {
-          "id": "e1e07cd277305abdc98b63c45f673b20341b0169",
-          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T08:09:26.811000Z"
-        },
-        {
-          "id": "b20dcb7861c5981e7b7d57cf87deb7524e6be6a3",
-          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T06:18:10Z"
-        },
-        {
-          "id": "03d4def794bcdda6e8136fe808b398aba9d2cd0b",
-          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布 / Kimi-K3 on HuggingFace",
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T06:18:10Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "huggingface.co"
-      ],
-      "items": [
-        {
-          "id": "3fa6196fd6e9b153c1de557a839b96ff3fff0f94",
-          "title": "HuggingFace 上的 Kimi-K3 / Kimi-K3 on HuggingFace",
-          "url": "https://news.ycombinator.com/item?id=49065752",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T18:55:39.591000Z"
-        },
-        {
-          "id": "aef79877fe0677a9ac3e3b2b8989645960fb5942",
-          "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-          "url": "https://news.ycombinator.com/item?id=49065752",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T08:32:32.037000Z"
-        },
-        {
-          "id": "e1e07cd277305abdc98b63c45f673b20341b0169",
-          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T08:09:26.811000Z"
-        },
-        {
-          "id": "b20dcb7861c5981e7b7d57cf87deb7524e6be6a3",
-          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T06:18:10Z"
-        },
-        {
-          "id": "03d4def794bcdda6e8136fe808b398aba9d2cd0b",
-          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布 / Kimi-K3 on HuggingFace",
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T06:18:10Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6208,
-      "importance": 0.6208,
-      "importance_score": 0.6208,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T06:18:10Z",
-      "latest_at": "2026-07-27T18:55:39.591000Z",
-      "primary_item": {
-        "id": "3fa6196fd6e9b153c1de557a839b96ff3fff0f94",
-        "title": "HuggingFace 上的 Kimi-K3 / Kimi-K3 on HuggingFace",
-        "url": "https://news.ycombinator.com/item?id=49065752",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_32fc745a2f66",
-      "title": "谷歌确认正在训练 Gemini4大模型:承诺算力优先供给 AGI，未来或每月迭代新模型",
-      "url": "https://www.aibase.com/news/29892",
-      "primary_url": "https://www.aibase.com/news/29892",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f58d35bf9c140e68a65481faf3349bf2521e4ade",
-          "title": "谷歌确认正在训练 Gemini4大模型:承诺算力优先供给 AGI，未来或每月迭代新模型",
-          "url": "https://www.aibase.com/news/29892",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T05:08:53.964104Z"
-        },
-        {
-          "id": "f1463870a48e5adebe9dc083500d94fa150a93bd",
-          "title": "谷歌确认正在训练 Gemini4 大模型：承诺算力优先供给 AGI，未来或每月迭代新模型",
-          "url": "https://www.aibase.com/zh/news/29892",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "f58d35bf9c140e68a65481faf3349bf2521e4ade",
-          "title": "谷歌确认正在训练 Gemini4大模型:承诺算力优先供给 AGI，未来或每月迭代新模型",
-          "url": "https://www.aibase.com/news/29892",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T05:08:53.964104Z"
-        },
-        {
-          "id": "f1463870a48e5adebe9dc083500d94fa150a93bd",
-          "title": "谷歌确认正在训练 Gemini4 大模型：承诺算力优先供给 AGI，未来或每月迭代新模型",
-          "url": "https://www.aibase.com/zh/news/29892",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8197,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T05:08:53.964104Z",
-      "latest_at": "2026-07-27T05:08:53.964104Z",
-      "primary_item": {
-        "id": "f58d35bf9c140e68a65481faf3349bf2521e4ade",
-        "title": "谷歌确认正在训练 Gemini4大模型:承诺算力优先供给 AGI，未来或每月迭代新模型",
-        "url": "https://www.aibase.com/news/29892",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_0fa8dbe87767",
-      "title": "从Token到任务：智能体AI如何改变基础设施的关注焦点",
-      "url": "https://www.infoq.cn/article/vhx0VYNXpieSIuq0YIR6",
-      "primary_url": "https://www.infoq.cn/article/vhx0VYNXpieSIuq0YIR6",
-      "source": "InfoQ CN",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "58e8121bd858e9a6cf490e25149bfd00c4067ecf",
-          "title": "从Token到任务：Agentic AI 如何改变基础设施的关注焦点",
-          "url": "https://www.infoq.cn/article/vhx0VYNXpieSIuq0YIR6",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T16:51:36Z"
-        },
-        {
-          "id": "3ab1ec705d5bb46be347ea7791e08db69595df66",
-          "title": "从Token到任务：智能体AI如何改变基础设施的关注焦点",
-          "url": "https://www.infoq.cn/article/vhx0VYNXpieSIuq0YIR6",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T16:51:36Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "InfoQ CN"
-      ],
-      "items": [
-        {
-          "id": "58e8121bd858e9a6cf490e25149bfd00c4067ecf",
-          "title": "从Token到任务：Agentic AI 如何改变基础设施的关注焦点",
-          "url": "https://www.infoq.cn/article/vhx0VYNXpieSIuq0YIR6",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T16:51:36Z"
-        },
-        {
-          "id": "3ab1ec705d5bb46be347ea7791e08db69595df66",
-          "title": "从Token到任务：智能体AI如何改变基础设施的关注焦点",
-          "url": "https://www.infoq.cn/article/vhx0VYNXpieSIuq0YIR6",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T16:51:36Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6051,
-      "importance": 0.6051,
-      "importance_score": 0.6051,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.9707,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T16:51:36Z",
-      "latest_at": "2026-07-27T16:51:36Z",
-      "primary_item": {
-        "id": "3ab1ec705d5bb46be347ea7791e08db69595df66",
-        "title": "从Token到任务：智能体AI如何改变基础设施的关注焦点",
-        "url": "https://www.infoq.cn/article/vhx0VYNXpieSIuq0YIR6",
-        "source": "InfoQ CN",
-        "source_name": "OPML RSS"
       }
     }
   ]
