@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T06:24:10.271911Z",
+  "generated_at": "2026-07-28T09:16:44.561944Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8432,
-      "importance": 0.8432,
-      "importance_score": 0.8432,
+      "score": 0.8373,
+      "importance": 0.8373,
+      "importance_score": 0.8373,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8122,
+        "recency": 0.7792,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8394,
-      "importance": 0.8394,
-      "importance_score": 0.8394,
+      "score": 0.8326,
+      "importance": 0.8326,
+      "importance_score": 0.8326,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9301,
+        "recency": 0.8923,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8232,
-      "importance": 0.8232,
-      "importance_score": 0.8232,
+      "score": 0.8178,
+      "importance": 0.8178,
+      "importance_score": 0.8178,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7399,
+        "recency": 0.7098,
         "story_heat": 0.0
       },
       "category": "official",
@@ -263,15 +263,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8395,
-      "importance": 0.8395,
-      "importance_score": 0.8395,
+      "score": 0.8334,
+      "importance": 0.8334,
+      "importance_score": 0.8334,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.836,
+        "recency": 0.802,
         "story_heat": 0.25
       },
       "category": "official",
@@ -289,6 +289,87 @@
         "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
         "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f8207de20d1f",
+      "title": "北大才女翁荔再次转身：因身体严重透支辞别AI创业，一句\"以人为本\"戳中行业痛点",
+      "url": "https://www.aibase.com/news/29944",
+      "primary_url": "https://www.aibase.com/news/29944",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2091a6859c842bed84126eadaf9003361de8f115",
+          "title": "北大才女翁荔再次转身：因身体严重透支辞别AI创业，一句\"以人为本\"戳中行业痛点",
+          "url": "https://www.aibase.com/news/29944",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T09:16:44.561944Z"
+        },
+        {
+          "id": "fa6f42d47a7945cdd44f261615be78d13158b514",
+          "title": "北大才女翁荔再次转身：因身体严重透支辞别 AI 创业，一句「以人为本」戳中行业痛点",
+          "url": "https://www.aibase.com/zh/news/29944",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "2091a6859c842bed84126eadaf9003361de8f115",
+          "title": "北大才女翁荔再次转身：因身体严重透支辞别AI创业，一句\"以人为本\"戳中行业痛点",
+          "url": "https://www.aibase.com/news/29944",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T09:16:44.561944Z"
+        },
+        {
+          "id": "fa6f42d47a7945cdd44f261615be78d13158b514",
+          "title": "北大才女翁荔再次转身：因身体严重透支辞别 AI 创业，一句「以人为本」戳中行业痛点",
+          "url": "https://www.aibase.com/zh/news/29944",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T09:16:44.561944Z",
+      "latest_at": "2026-07-28T09:16:44.561944Z",
+      "primary_item": {
+        "id": "2091a6859c842bed84126eadaf9003361de8f115",
+        "title": "北大才女翁荔再次转身：因身体严重透支辞别AI创业，一句\"以人为本\"戳中行业痛点",
+        "url": "https://www.aibase.com/news/29944",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -326,15 +407,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8285,
-      "importance": 0.8285,
-      "importance_score": 0.8285,
+      "score": 0.8222,
+      "importance": 0.8222,
+      "importance_score": 0.8222,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8696,
+        "recency": 0.8342,
         "story_heat": 0.0
       },
       "category": "official",
@@ -407,15 +488,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7969,
-      "importance": 0.7969,
-      "importance_score": 0.7969,
+      "score": 0.791,
+      "importance": 0.791,
+      "importance_score": 0.791,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8073,
+        "recency": 0.7745,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -431,6 +512,87 @@
         "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
         "url": "https://mp.weixin.qq.com/s/IW9BdyA3hLvuuiX_aMCJEQ",
         "source": "公众号：月之暗面（Kimi）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f841a2fd8827",
+      "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
+      "url": "https://www.ithome.com/0/982/520.htm",
+      "primary_url": "https://www.ithome.com/0/982/520.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d82c1df7f7c81ef1bf167b70c59ad38b65351f88",
+          "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
+          "url": "https://www.ithome.com/0/982/520.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T06:21:07Z"
+        },
+        {
+          "id": "5c3e7f6336ac63629db281971d76662f59496bb4",
+          "title": "德里高等法院裁定 OpenAI 利用印媒 ANI 内容训练 AI 未侵犯版权",
+          "url": "https://www.ithome.com/0/982/520.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-28T06:21:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d82c1df7f7c81ef1bf167b70c59ad38b65351f88",
+          "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
+          "url": "https://www.ithome.com/0/982/520.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T06:21:07Z"
+        },
+        {
+          "id": "5c3e7f6336ac63629db281971d76662f59496bb4",
+          "title": "德里高等法院裁定 OpenAI 利用印媒 ANI 内容训练 AI 未侵犯版权",
+          "url": "https://www.ithome.com/0/982/520.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-28T06:21:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7882,
+      "importance": 0.7882,
+      "importance_score": 0.7882,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9586,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T06:21:07Z",
+      "latest_at": "2026-07-28T06:21:07Z",
+      "primary_item": {
+        "id": "d82c1df7f7c81ef1bf167b70c59ad38b65351f88",
+        "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
+        "url": "https://www.ithome.com/0/982/520.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -488,15 +650,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7859,
-      "importance": 0.7859,
-      "importance_score": 0.7859,
+      "score": 0.7787,
+      "importance": 0.7787,
+      "importance_score": 0.7787,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9793,
+        "recency": 0.9394,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -513,87 +675,6 @@
         "url": "https://usefeyn.com/blog/feynobg",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ce1adc64a894",
-      "title": "Kimi K3 开源，2.8 万亿参数登顶全球最大开源模型，马斯克也来点了个赞",
-      "url": "https://www.aibase.com/news/29920",
-      "primary_url": "https://www.aibase.com/news/29920",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bf64ba9f8abea53b1ea154f9518e0dbe92408fae",
-          "title": "Kimi K3 开源，2.8 万亿参数登顶全球最大开源模型，马斯克也来点了个赞",
-          "url": "https://www.aibase.com/news/29920",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T03:45:23.386877Z"
-        },
-        {
-          "id": "71491ce658ead7425639df84b013a54fa374fc48",
-          "title": "Kimi K3 开源，2.8 万亿参数登顶全球最大开源模型，马斯克也来点了个赞",
-          "url": "https://www.aibase.com/zh/news/29920",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "bf64ba9f8abea53b1ea154f9518e0dbe92408fae",
-          "title": "Kimi K3 开源，2.8 万亿参数登顶全球最大开源模型，马斯克也来点了个赞",
-          "url": "https://www.aibase.com/news/29920",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T03:45:23.386877Z"
-        },
-        {
-          "id": "71491ce658ead7425639df84b013a54fa374fc48",
-          "title": "Kimi K3 开源，2.8 万亿参数登顶全球最大开源模型，马斯克也来点了个赞",
-          "url": "https://www.aibase.com/zh/news/29920",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7859,
-      "importance": 0.7859,
-      "importance_score": 0.7859,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9625,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T03:45:23.386877Z",
-      "latest_at": "2026-07-28T03:45:23.386877Z",
-      "primary_item": {
-        "id": "bf64ba9f8abea53b1ea154f9518e0dbe92408fae",
-        "title": "Kimi K3 开源，2.8 万亿参数登顶全球最大开源模型，马斯克也来点了个赞",
-        "url": "https://www.aibase.com/news/29920",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -650,15 +731,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
+      "score": 0.7648,
+      "importance": 0.7648,
+      "importance_score": 0.7648,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8117,
+        "recency": 0.7787,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -675,6 +756,148 @@
         "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_94eb8ee2081f",
+      "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
+      "url": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym",
+      "primary_url": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6f766c74ef4c51667bffb3da594152f025b50442",
+          "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
+          "url": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T08:33:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "6f766c74ef4c51667bffb3da594152f025b50442",
+          "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
+          "url": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T08:33:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7627,
+      "importance": 0.7627,
+      "importance_score": 0.7627,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9896,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T08:33:30Z",
+      "latest_at": "2026-07-28T08:33:30Z",
+      "primary_item": {
+        "id": "6f766c74ef4c51667bffb3da594152f025b50442",
+        "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
+        "url": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ba2e6d7c0264",
+      "title": "宇树G1人形机器人首次完成活体动物手术，远程操控切除猪胆囊",
+      "url": "https://www.aibase.com/news/29948",
+      "primary_url": "https://www.aibase.com/news/29948",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cbb0a2755205a6257fedab4efede42214dc84bfb",
+          "title": "宇树G1人形机器人首次完成活体动物手术，远程操控切除猪胆囊",
+          "url": "https://www.aibase.com/news/29948",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T09:16:44.561944Z"
+        },
+        {
+          "id": "c78a2044c5802dbcdbbeb460f307d6c7b5cf83bf",
+          "title": "宇树 G1 人形机器人首次完成活体动物手术，远程操控切除猪胆囊",
+          "url": "https://www.aibase.com/zh/news/29948",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "cbb0a2755205a6257fedab4efede42214dc84bfb",
+          "title": "宇树G1人形机器人首次完成活体动物手术，远程操控切除猪胆囊",
+          "url": "https://www.aibase.com/news/29948",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T09:16:44.561944Z"
+        },
+        {
+          "id": "c78a2044c5802dbcdbbeb460f307d6c7b5cf83bf",
+          "title": "宇树 G1 人形机器人首次完成活体动物手术，远程操控切除猪胆囊",
+          "url": "https://www.aibase.com/zh/news/29948",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T09:16:44.561944Z",
+      "latest_at": "2026-07-28T09:16:44.561944Z",
+      "primary_item": {
+        "id": "cbb0a2755205a6257fedab4efede42214dc84bfb",
+        "title": "宇树G1人形机器人首次完成活体动物手术，远程操控切除猪胆囊",
+        "url": "https://www.aibase.com/news/29948",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -712,15 +935,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8263,
-      "importance": 0.8263,
-      "importance_score": 0.8263,
+      "score": 0.8203,
+      "importance": 0.8203,
+      "importance_score": 0.8203,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8241,
+        "recency": 0.7906,
         "story_heat": 0.0
       },
       "category": "official",
@@ -812,15 +1035,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7585,
+      "importance": 0.7585,
+      "importance_score": 0.7585,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8913,
+        "recency": 0.855,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -836,87 +1059,6 @@
         "title": "Anthropic 澄清立场：从未主张全面禁止开源权重模型，支持芯片出口管制与安全测试",
         "url": "https://www.anthropic.com/news/position-open-weights-models",
         "source": "Anthropic：Newsroom（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_29a86983fc77",
-      "title": "用Claude和Python构建技能驱动的金融分析智能体",
-      "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
-      "primary_url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3679876fae19f4c7430979f3189354450f102f86",
-          "title": "用Claude和Python构建技能驱动的金融分析智能体",
-          "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T18:08:24Z"
-        },
-        {
-          "id": "a7f6183fc8f006cb35c401089c06bd50f0d91e63",
-          "title": "用Claude和Python构建技能驱动的金融分析智能体 / Designing Skill-Driven Financial Analysis Agents with Claude, Python, MCP Connectors, and Automated Deliverables",
-          "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-27T18:08:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "MarkTechPost Research",
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "3679876fae19f4c7430979f3189354450f102f86",
-          "title": "用Claude和Python构建技能驱动的金融分析智能体",
-          "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T18:08:24Z"
-        },
-        {
-          "id": "a7f6183fc8f006cb35c401089c06bd50f0d91e63",
-          "title": "用Claude和Python构建技能驱动的金融分析智能体 / Designing Skill-Driven Financial Analysis Agents with Claude, Python, MCP Connectors, and Automated Deliverables",
-          "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-27T18:08:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8377,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T18:08:24Z",
-      "latest_at": "2026-07-27T18:08:24Z",
-      "primary_item": {
-        "id": "3679876fae19f4c7430979f3189354450f102f86",
-        "title": "用Claude和Python构建技能驱动的金融分析智能体",
-        "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
-        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -974,15 +1116,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7596,
-      "importance": 0.7596,
-      "importance_score": 0.7596,
+      "score": 0.7534,
+      "importance": 0.7534,
+      "importance_score": 0.7534,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.85,
+        "recency": 0.8154,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1036,15 +1178,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
+      "score": 0.7533,
+      "importance": 0.7533,
+      "importance_score": 0.7533,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8034,
+        "recency": 0.7707,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1063,26 +1205,26 @@
       }
     },
     {
-      "story_id": "story_6cbecdb1abc7",
-      "title": "英伟达拟向Ilya Sutskever创办的SSI投资50亿美元，深化AI算力合作",
-      "url": "https://www.aibase.com/news/29931",
-      "primary_url": "https://www.aibase.com/news/29931",
+      "story_id": "story_0c8588291aff",
+      "title": "我国启动大模型 IPv6 专项行动：生成式 AI 应用将被要求全面拥抱下一代网络",
+      "url": "https://www.aibase.com/news/29943",
+      "primary_url": "https://www.aibase.com/news/29943",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e1645bfc72cb498d09854b73208a127653022bca",
-          "title": "英伟达拟向Ilya Sutskever创办的SSI投资50亿美元，深化AI算力合作",
-          "url": "https://www.aibase.com/news/29931",
+          "id": "906a2b7ee8aef1243dc650354068f7edc8dbdb8c",
+          "title": "我国启动大模型 IPv6 专项行动：生成式 AI 应用将被要求全面拥抱下一代网络",
+          "url": "https://www.aibase.com/news/29943",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-28T03:45:23.386877Z"
+          "published_at": "2026-07-28T09:16:44.561944Z"
         },
         {
-          "id": "dc304ceb698d4fde6fe6912dbf85d954e06e69b3",
-          "title": "英伟达拟向 Ilya Sutskever 创办的 SSI 投资 50 亿美元，深化 AI 算力合作",
-          "url": "https://www.aibase.com/zh/news/29931",
+          "id": "763840da3a6b434dd9349cbe2cf16a015f02501b",
+          "title": "我国启动大模型 IPv6 专项行动：生成式 AI 应用将被要求全面拥抱下一代网络",
+          "url": "https://www.aibase.com/zh/news/29943",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1096,18 +1238,18 @@
       ],
       "items": [
         {
-          "id": "e1645bfc72cb498d09854b73208a127653022bca",
-          "title": "英伟达拟向Ilya Sutskever创办的SSI投资50亿美元，深化AI算力合作",
-          "url": "https://www.aibase.com/news/29931",
+          "id": "906a2b7ee8aef1243dc650354068f7edc8dbdb8c",
+          "title": "我国启动大模型 IPv6 专项行动：生成式 AI 应用将被要求全面拥抱下一代网络",
+          "url": "https://www.aibase.com/news/29943",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-28T03:45:23.386877Z"
+          "published_at": "2026-07-28T09:16:44.561944Z"
         },
         {
-          "id": "dc304ceb698d4fde6fe6912dbf85d954e06e69b3",
-          "title": "英伟达拟向 Ilya Sutskever 创办的 SSI 投资 50 亿美元，深化 AI 算力合作",
-          "url": "https://www.aibase.com/zh/news/29931",
+          "id": "763840da3a6b434dd9349cbe2cf16a015f02501b",
+          "title": "我国启动大模型 IPv6 专项行动：生成式 AI 应用将被要求全面拥抱下一代网络",
+          "url": "https://www.aibase.com/zh/news/29943",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1116,15 +1258,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7859,
-      "importance": 0.7859,
-      "importance_score": 0.7859,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9625,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1133,12 +1275,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T03:45:23.386877Z",
-      "latest_at": "2026-07-28T03:45:23.386877Z",
+      "earliest_at": "2026-07-28T09:16:44.561944Z",
+      "latest_at": "2026-07-28T09:16:44.561944Z",
       "primary_item": {
-        "id": "e1645bfc72cb498d09854b73208a127653022bca",
-        "title": "英伟达拟向Ilya Sutskever创办的SSI投资50亿美元，深化AI算力合作",
-        "url": "https://www.aibase.com/news/29931",
+        "id": "906a2b7ee8aef1243dc650354068f7edc8dbdb8c",
+        "title": "我国启动大模型 IPv6 专项行动：生成式 AI 应用将被要求全面拥抱下一代网络",
+        "url": "https://www.aibase.com/news/29943",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1178,15 +1320,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7377,
-      "importance": 0.7377,
-      "importance_score": 0.7377,
+      "score": 0.7316,
+      "importance": 0.7316,
+      "importance_score": 0.7316,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8341,
+        "recency": 0.8001,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1200,6 +1342,87 @@
         "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持",
         "url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
         "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_29a86983fc77",
+      "title": "用Claude和Python构建技能驱动的金融分析智能体",
+      "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+      "primary_url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3679876fae19f4c7430979f3189354450f102f86",
+          "title": "用Claude和Python构建技能驱动的金融分析智能体",
+          "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T18:08:24Z"
+        },
+        {
+          "id": "a7f6183fc8f006cb35c401089c06bd50f0d91e63",
+          "title": "用Claude和Python构建技能驱动的金融分析智能体 / Designing Skill-Driven Financial Analysis Agents with Claude, Python, MCP Connectors, and Automated Deliverables",
+          "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-27T18:08:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "3679876fae19f4c7430979f3189354450f102f86",
+          "title": "用Claude和Python构建技能驱动的金融分析智能体",
+          "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T18:08:24Z"
+        },
+        {
+          "id": "a7f6183fc8f006cb35c401089c06bd50f0d91e63",
+          "title": "用Claude和Python构建技能驱动的金融分析智能体 / Designing Skill-Driven Financial Analysis Agents with Claude, Python, MCP Connectors, and Automated Deliverables",
+          "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-27T18:08:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8036,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T18:08:24Z",
+      "latest_at": "2026-07-27T18:08:24Z",
+      "primary_item": {
+        "id": "3679876fae19f4c7430979f3189354450f102f86",
+        "title": "用Claude和Python构建技能驱动的金融分析智能体",
+        "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1238,15 +1461,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7307,
-      "importance": 0.7307,
-      "importance_score": 0.7307,
+      "score": 0.724,
+      "importance": 0.724,
+      "importance_score": 0.724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9117,
+        "recency": 0.8746,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1261,207 +1484,6 @@
         "url": "https://openrouter.ai/blog/insights/evaluate-llm-provider-performance",
         "source": "OpenRouter：Announcements（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_bce699caba55",
-      "title": "Kimi 发布视觉感知基准 PerceptionBench",
-      "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
-      "primary_url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
-      "source": "X：Kimi.ai (@Kimi_Moonshot)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e6b16416a5e8ad87e1da1b9cb071bca244e23bde",
-          "title": "Kimi 发布视觉感知基准 PerceptionBench",
-          "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T18:45:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Kimi.ai (@Kimi_Moonshot)"
-      ],
-      "items": [
-        {
-          "id": "e6b16416a5e8ad87e1da1b9cb071bca244e23bde",
-          "title": "Kimi 发布视觉感知基准 PerceptionBench",
-          "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T18:45:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7427,
-      "importance": 0.7427,
-      "importance_score": 0.7427,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8452,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T18:45:20Z",
-      "latest_at": "2026-07-27T18:45:20Z",
-      "primary_item": {
-        "id": "e6b16416a5e8ad87e1da1b9cb071bca244e23bde",
-        "title": "Kimi 发布视觉感知基准 PerceptionBench",
-        "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
-        "source": "X：Kimi.ai (@Kimi_Moonshot)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c87b2e5fb45e",
-      "title": "NVIDIA 等多家行业领袖联合成立 Open Secure AI Alliance，推动 AI 安全与防御开源化",
-      "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance",
-      "primary_url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance",
-      "source": "NVIDIA Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bcb128a1135d0a51d9fe999cfa4eaeb9a831370f",
-          "title": "NVIDIA 等多家行业领袖联合成立 Open Secure AI Alliance，推动 AI 安全与防御开源化",
-          "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T09:00:07Z"
-        },
-        {
-          "id": "583321ca753d9c2f5c197a2c9d6033b0f9807928",
-          "title": "NVIDIA 等多家行业领袖联合成立 Open Secure AI Alliance，推动 AI 安全与防御开源化 / Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
-          "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "NVIDIA Blog（RSS）",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "bcb128a1135d0a51d9fe999cfa4eaeb9a831370f",
-          "title": "NVIDIA 等多家行业领袖联合成立 Open Secure AI Alliance，推动 AI 安全与防御开源化",
-          "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T09:00:07Z"
-        },
-        {
-          "id": "583321ca753d9c2f5c197a2c9d6033b0f9807928",
-          "title": "NVIDIA 等多家行业领袖联合成立 Open Secure AI Alliance，推动 AI 安全与防御开源化 / Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
-          "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7117,
-      "importance": 0.7117,
-      "importance_score": 0.7117,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.61,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7342,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T09:00:07Z",
-      "latest_at": "2026-07-27T12:20:07.690685Z",
-      "primary_item": {
-        "id": "bcb128a1135d0a51d9fe999cfa4eaeb9a831370f",
-        "title": "NVIDIA 等多家行业领袖联合成立 Open Secure AI Alliance，推动 AI 安全与防御开源化",
-        "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance",
-        "source": "NVIDIA Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c9a7dbabfc21",
-      "title": "比亚迪人形机器人8月亮相郑州，商业服务场景或率先落地",
-      "url": "https://www.aibase.com/news/29940",
-      "primary_url": "https://www.aibase.com/news/29940",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2e18f9befe07389dbc4307e561f72f9dcc3e0e6c",
-          "title": "比亚迪人形机器人8月亮相郑州，商业服务场景或率先落地",
-          "url": "https://www.aibase.com/news/29940",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T06:24:10.271911Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2e18f9befe07389dbc4307e561f72f9dcc3e0e6c",
-          "title": "比亚迪人形机器人8月亮相郑州，商业服务场景或率先落地",
-          "url": "https://www.aibase.com/news/29940",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T06:24:10.271911Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T06:24:10.271911Z",
-      "latest_at": "2026-07-28T06:24:10.271911Z",
-      "primary_item": {
-        "id": "2e18f9befe07389dbc4307e561f72f9dcc3e0e6c",
-        "title": "比亚迪人形机器人8月亮相郑州，商业服务场景或率先落地",
-        "url": "https://www.aibase.com/news/29940",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
