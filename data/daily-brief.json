@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T01:03:14.020082Z",
+  "generated_at": "2026-07-31T04:57:24.334210Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8998,
-      "importance": 0.8998,
-      "importance_score": 0.8998,
+      "score": 0.8919,
+      "importance": 0.8919,
+      "importance_score": 0.8919,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8046,
+        "recency": 0.7605,
         "story_heat": 0.75
       },
       "category": "official",
@@ -177,15 +177,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8647,
-      "importance": 0.8647,
-      "importance_score": 0.8647,
+      "score": 0.8562,
+      "importance": 0.8562,
+      "importance_score": 0.8562,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.97,
-        "recency": 0.8651,
+        "recency": 0.8177,
         "story_heat": 0.25
       },
       "category": "official",
@@ -259,15 +259,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8584,
-      "importance": 0.8584,
-      "importance_score": 0.8584,
+      "score": 0.8496,
+      "importance": 0.8496,
+      "importance_score": 0.8496,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8967,
+        "recency": 0.8476,
         "story_heat": 0.25
       },
       "category": "official",
@@ -341,15 +341,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8475,
-      "importance": 0.8475,
-      "importance_score": 0.8475,
+      "score": 0.8388,
+      "importance": 0.8388,
+      "importance_score": 0.8388,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8805,
+        "recency": 0.8323,
         "story_heat": 0.25
       },
       "category": "official",
@@ -404,15 +404,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.842,
-      "importance": 0.842,
-      "importance_score": 0.842,
+      "score": 0.8335,
+      "importance": 0.8335,
+      "importance_score": 0.8335,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8668,
+        "recency": 0.8193,
         "story_heat": 0.0
       },
       "category": "official",
@@ -504,15 +504,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.809,
-      "importance": 0.809,
-      "importance_score": 0.809,
+      "score": 0.7998,
+      "importance": 0.7998,
+      "importance_score": 0.7998,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9356,
+        "recency": 0.8843,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -529,6 +529,87 @@
         "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_385c62f510dc",
+      "title": "MiniMax发布通用全模态模型H3，15秒2K音视频生成价格不到主流模型三分之一",
+      "url": "https://www.aibase.com/news/30026",
+      "primary_url": "https://www.aibase.com/news/30026",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "857543124e813d9562ef12e2ffae04d915a722c9",
+          "title": "MiniMax发布通用全模态模型H3，15秒2K音视频生成价格不到主流模型三分之一",
+          "url": "https://www.aibase.com/news/30026",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T04:57:24.334210Z"
+        },
+        {
+          "id": "841fa9c90d66fda780a0d3b0f79d9c6cc8975a1d",
+          "title": "MiniMax 发布通用全模态模型 H3，15 秒 2K 音视频生成价格不到主流模型三分之一",
+          "url": "https://www.aibase.com/zh/news/30026",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "857543124e813d9562ef12e2ffae04d915a722c9",
+          "title": "MiniMax发布通用全模态模型H3，15秒2K音视频生成价格不到主流模型三分之一",
+          "url": "https://www.aibase.com/news/30026",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T04:57:24.334210Z"
+        },
+        {
+          "id": "841fa9c90d66fda780a0d3b0f79d9c6cc8975a1d",
+          "title": "MiniMax 发布通用全模态模型 H3，15 秒 2K 音视频生成价格不到主流模型三分之一",
+          "url": "https://www.aibase.com/zh/news/30026",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T04:57:24.334210Z",
+      "latest_at": "2026-07-31T04:57:24.334210Z",
+      "primary_item": {
+        "id": "857543124e813d9562ef12e2ffae04d915a722c9",
+        "title": "MiniMax发布通用全模态模型H3，15秒2K音视频生成价格不到主流模型三分之一",
+        "url": "https://www.aibase.com/news/30026",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -566,15 +647,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8295,
-      "importance": 0.8295,
-      "importance_score": 0.8295,
+      "score": 0.8204,
+      "importance": 0.8204,
+      "importance_score": 0.8204,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9195,
+        "recency": 0.8691,
         "story_heat": 0.0
       },
       "category": "official",
@@ -591,6 +672,148 @@
         "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c7dbaf790e17",
+      "title": "国家发改委：将加快《人工智能法》立法进程",
+      "url": "https://www.ithome.com/0/983/974.htm",
+      "primary_url": "https://www.ithome.com/0/983/974.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "96f8a210f6ec3e094fa97bbe422488013d4d710e",
+          "title": "国家发改委：将加快《人工智能法》立法进程",
+          "url": "https://www.ithome.com/0/983/974.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T02:48:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "96f8a210f6ec3e094fa97bbe422488013d4d710e",
+          "title": "国家发改委：将加快《人工智能法》立法进程",
+          "url": "https://www.ithome.com/0/983/974.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T02:48:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9694,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T02:48:12Z",
+      "latest_at": "2026-07-31T02:48:12Z",
+      "primary_item": {
+        "id": "96f8a210f6ec3e094fa97bbe422488013d4d710e",
+        "title": "国家发改委：将加快《人工智能法》立法进程",
+        "url": "https://www.ithome.com/0/983/974.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8c365587ec15",
+      "title": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
+      "url": "https://www.aibase.com/news/30030",
+      "primary_url": "https://www.aibase.com/news/30030",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0eb87d26581970423c8c63c7294151c503e5a65f",
+          "title": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
+          "url": "https://www.aibase.com/news/30030",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T04:57:24.334210Z"
+        },
+        {
+          "id": "b253c0a98f87327eb851831cc7739964bdab76bd",
+          "title": "华为开源 5050 亿参数 openPangu-2.0-Pro 模型，权重与推理代码同步开放",
+          "url": "https://www.aibase.com/zh/news/30030",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "0eb87d26581970423c8c63c7294151c503e5a65f",
+          "title": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
+          "url": "https://www.aibase.com/news/30030",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T04:57:24.334210Z"
+        },
+        {
+          "id": "b253c0a98f87327eb851831cc7739964bdab76bd",
+          "title": "华为开源 5050 亿参数 openPangu-2.0-Pro 模型，权重与推理代码同步开放",
+          "url": "https://www.aibase.com/zh/news/30030",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T04:57:24.334210Z",
+      "latest_at": "2026-07-31T04:57:24.334210Z",
+      "primary_item": {
+        "id": "0eb87d26581970423c8c63c7294151c503e5a65f",
+        "title": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
+        "url": "https://www.aibase.com/news/30030",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -647,15 +870,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7699,
-      "importance": 0.7699,
-      "importance_score": 0.7699,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8739,
+        "recency": 0.826,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -671,6 +894,67 @@
         "title": "llm-chat-completions-server 0.1a0 发布",
         "url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server",
         "source": "Simon Willison 博客",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7bdbbc9438d6",
+      "title": "字节发布 Seedance 2.5：单次生成 30 秒视频，支持多模态参考与精准编辑",
+      "url": "https://seed.bytedance.com/zh/blog/%E4%B8%80%E9%95%9C%E6%88%90%E7%89%87-%E9%9A%8F%E5%BF%83%E5%8F%82%E8%80%83-seedance-2-5-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+      "primary_url": "https://seed.bytedance.com/zh/blog/%E4%B8%80%E9%95%9C%E6%88%90%E7%89%87-%E9%9A%8F%E5%BF%83%E5%8F%82%E8%80%83-seedance-2-5-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+      "source": "字节 Seed：Research Feed（网页内嵌数据）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6d9b4c34043c6868841e634ff88d5579ce934753",
+          "title": "字节发布 Seedance 2.5：单次生成 30 秒视频，支持多模态参考与精准编辑",
+          "url": "https://seed.bytedance.com/zh/blog/%E4%B8%80%E9%95%9C%E6%88%90%E7%89%87-%E9%9A%8F%E5%BF%83%E5%8F%82%E8%80%83-seedance-2-5-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+          "source": "字节 Seed：Research Feed（网页内嵌数据）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "字节 Seed：Research Feed（网页内嵌数据）"
+      ],
+      "items": [
+        {
+          "id": "6d9b4c34043c6868841e634ff88d5579ce934753",
+          "title": "字节发布 Seedance 2.5：单次生成 30 秒视频，支持多模态参考与精准编辑",
+          "url": "https://seed.bytedance.com/zh/blog/%E4%B8%80%E9%95%9C%E6%88%90%E7%89%87-%E9%9A%8F%E5%BF%83%E5%8F%82%E8%80%83-seedance-2-5-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+          "source": "字节 Seed：Research Feed（网页内嵌数据）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8294,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T16:00:00Z",
+      "latest_at": "2026-07-30T16:00:00Z",
+      "primary_item": {
+        "id": "6d9b4c34043c6868841e634ff88d5579ce934753",
+        "title": "字节发布 Seedance 2.5：单次生成 30 秒视频，支持多模态参考与精准编辑",
+        "url": "https://seed.bytedance.com/zh/blog/%E4%B8%80%E9%95%9C%E6%88%90%E7%89%87-%E9%9A%8F%E5%BF%83%E5%8F%82%E8%80%83-seedance-2-5-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+        "source": "字节 Seed：Research Feed（网页内嵌数据）",
         "source_name": "AI HOT"
       }
     },
@@ -709,15 +993,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8277,
-      "importance": 0.8277,
-      "importance_score": 0.8277,
+      "score": 0.8192,
+      "importance": 0.8192,
+      "importance_score": 0.8192,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8652,
+        "recency": 0.8178,
         "story_heat": 0.0
       },
       "category": "official",
@@ -734,67 +1018,6 @@
         "url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_59c483f9150c",
-      "title": "AI 的真正威胁不是失业，而是让你的工资涨不动了",
-      "url": "https://www.aibase.com/news/30016",
-      "primary_url": "https://www.aibase.com/news/30016",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "610322e6b8850b28347e43f7621c4eea4e574497",
-          "title": "AI 的真正威胁不是失业，而是让你的工资涨不动了",
-          "url": "https://www.aibase.com/news/30016",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T01:03:14.020082Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "610322e6b8850b28347e43f7621c4eea4e574497",
-          "title": "AI 的真正威胁不是失业，而是让你的工资涨不动了",
-          "url": "https://www.aibase.com/news/30016",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T01:03:14.020082Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T01:03:14.020082Z",
-      "latest_at": "2026-07-31T01:03:14.020082Z",
-      "primary_item": {
-        "id": "610322e6b8850b28347e43f7621c4eea4e574497",
-        "title": "AI 的真正威胁不是失业，而是让你的工资涨不动了",
-        "url": "https://www.aibase.com/news/30016",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -851,15 +1074,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7654,
-      "importance": 0.7654,
-      "importance_score": 0.7654,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8653,
+        "recency": 0.8179,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -932,15 +1155,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8378,
+        "recency": 0.7919,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1013,15 +1236,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
+      "score": 0.7511,
+      "importance": 0.7511,
+      "importance_score": 0.7511,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7786,
+        "recency": 0.7359,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1075,21 +1298,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7534,
-      "importance": 0.7534,
-      "importance_score": 0.7534,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9714,
+        "recency": 0.9181,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-30T23:02:34Z",
       "latest_at": "2026-07-30T23:02:34Z",
@@ -1136,15 +1358,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
+      "score": 0.7404,
+      "importance": 0.7404,
+      "importance_score": 0.7404,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9331,
+        "recency": 0.882,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1196,15 +1418,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7469,
-      "importance": 0.7469,
-      "importance_score": 0.7469,
+      "score": 0.7372,
+      "importance": 0.7372,
+      "importance_score": 0.7372,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9849,
+        "recency": 0.9309,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1218,66 +1440,6 @@
         "title": "Replit Design 推出数百设计模板",
         "url": "https://x.com/Replit/status/2082979584799060267",
         "source": "X：Replit (@Replit)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_235ce9288be4",
-      "title": "Google Earth 集成 Nano Banana 2 图像生成",
-      "url": "https://x.com/GoogleAI/status/2082902334984609936",
-      "primary_url": "https://x.com/GoogleAI/status/2082902334984609936",
-      "source": "X：Google AI (@GoogleAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0868d412089140b46edc3f1649b972040bed8699",
-          "title": "Google Earth 集成 Nano Banana 2 图像生成",
-          "url": "https://x.com/GoogleAI/status/2082902334984609936",
-          "source": "X：Google AI (@GoogleAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T18:53:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Google AI (@GoogleAI)"
-      ],
-      "items": [
-        {
-          "id": "0868d412089140b46edc3f1649b972040bed8699",
-          "title": "Google Earth 集成 Nano Banana 2 图像生成",
-          "url": "https://x.com/GoogleAI/status/2082902334984609936",
-          "source": "X：Google AI (@GoogleAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T18:53:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7433,
-      "importance": 0.7433,
-      "importance_score": 0.7433,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9148,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T18:53:09Z",
-      "latest_at": "2026-07-30T18:53:09Z",
-      "primary_item": {
-        "id": "0868d412089140b46edc3f1649b972040bed8699",
-        "title": "Google Earth 集成 Nano Banana 2 图像生成",
-        "url": "https://x.com/GoogleAI/status/2082902334984609936",
-        "source": "X：Google AI (@GoogleAI)",
         "source_name": "AI HOT"
       }
     },
@@ -1316,15 +1478,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7431,
-      "importance": 0.7431,
-      "importance_score": 0.7431,
+      "score": 0.7343,
+      "importance": 0.7343,
+      "importance_score": 0.7343,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8973,
+        "recency": 0.8481,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1339,147 +1501,6 @@
         "url": "https://x.com/OpenRouter/status/2082882158574911564",
         "source": "X：OpenRouter (@OpenRouter)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_cf352dddb40c",
-      "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-      "url": "https://www.ithome.com/0/983/444.htm",
-      "primary_url": "https://www.ithome.com/0/983/444.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2f2c2962adb80539002c13357b644f38857975fc",
-          "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-          "url": "https://www.ithome.com/0/983/444.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T02:49:47Z"
-        },
-        {
-          "id": "b7b3015852d443a90d3912bfdee9f469c2399767",
-          "title": "OpenAI 总裁布罗克曼承认新 ChatGPT AI 桌面应用“有点乱”，目标打造“零标签”",
-          "url": "https://www.ithome.com/0/983/444.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-30T02:49:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "2f2c2962adb80539002c13357b644f38857975fc",
-          "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-          "url": "https://www.ithome.com/0/983/444.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T02:49:47Z"
-        },
-        {
-          "id": "b7b3015852d443a90d3912bfdee9f469c2399767",
-          "title": "OpenAI 总裁布罗克曼承认新 ChatGPT AI 桌面应用“有点乱”，目标打造“零标签”",
-          "url": "https://www.ithome.com/0/983/444.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-30T02:49:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7402,
-      "importance": 0.7402,
-      "importance_score": 0.7402,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7255,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T02:49:47Z",
-      "latest_at": "2026-07-30T02:49:47Z",
-      "primary_item": {
-        "id": "2f2c2962adb80539002c13357b644f38857975fc",
-        "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-        "url": "https://www.ithome.com/0/983/444.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_226e6a7eea69",
-      "title": "DeepMind发布Gemini Robotics ER 2，首次解锁多机协同",
-      "url": "https://www.aibase.com/news/30017",
-      "primary_url": "https://www.aibase.com/news/30017",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "40f3bc14fd6d871014cdbe094bfabfcc8ab04b27",
-          "title": "DeepMind发布Gemini Robotics ER 2，首次解锁多机协同",
-          "url": "https://www.aibase.com/news/30017",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T01:03:14.020082Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "40f3bc14fd6d871014cdbe094bfabfcc8ab04b27",
-          "title": "DeepMind发布Gemini Robotics ER 2，首次解锁多机协同",
-          "url": "https://www.aibase.com/news/30017",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T01:03:14.020082Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T01:03:14.020082Z",
-      "latest_at": "2026-07-31T01:03:14.020082Z",
-      "primary_item": {
-        "id": "40f3bc14fd6d871014cdbe094bfabfcc8ab04b27",
-        "title": "DeepMind发布Gemini Robotics ER 2，首次解锁多机协同",
-        "url": "https://www.aibase.com/news/30017",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
