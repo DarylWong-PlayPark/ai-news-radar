@@ -1,145 +1,8 @@
 {
-  "generated_at": "2026-07-31T17:03:19.908621Z",
+  "generated_at": "2026-07-31T18:52:22.964815Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_945ecdf346e3",
-      "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
-      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-      "primary_url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "30991f97bf0f8d90c3e956f81625ef377ba92bda",
-          "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
-          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T04:57:18.494000Z"
-        },
-        {
-          "id": "d16a12a7d756f24b6b9333a4d75260566b0628d0",
-          "title": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
-          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-          "source": "www.ctgt.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T04:57:18.494000Z"
-        },
-        {
-          "id": "55fb76fec5df85d31a652b9de8edd8996a0d724f",
-          "title": "Show HN：将 DeepSeek 提炼为 GPT-OSS 并不会转移审查制度。尝试一下 / Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-          "url": "https://news.ycombinator.com/item?id=49113599",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-30T20:14:48.051000Z"
-        },
-        {
-          "id": "0b50c642d7508dab77d935158c12266317951581",
-          "title": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中并不会带来审查。试试看",
-          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-          "source": "www.ctgt.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-30T18:17:20.178000Z"
-        },
-        {
-          "id": "f7b4aa2760ca6c843f930071c0896b5674b97753",
-          "title": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中并不会带来审查。试试看 / Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-30T18:13:06Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "www.ctgt.ai"
-      ],
-      "items": [
-        {
-          "id": "30991f97bf0f8d90c3e956f81625ef377ba92bda",
-          "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
-          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T04:57:18.494000Z"
-        },
-        {
-          "id": "d16a12a7d756f24b6b9333a4d75260566b0628d0",
-          "title": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
-          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-          "source": "www.ctgt.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T04:57:18.494000Z"
-        },
-        {
-          "id": "55fb76fec5df85d31a652b9de8edd8996a0d724f",
-          "title": "Show HN：将 DeepSeek 提炼为 GPT-OSS 并不会转移审查制度。尝试一下 / Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-          "url": "https://news.ycombinator.com/item?id=49113599",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-30T20:14:48.051000Z"
-        },
-        {
-          "id": "0b50c642d7508dab77d935158c12266317951581",
-          "title": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中并不会带来审查。试试看",
-          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-          "source": "www.ctgt.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-30T18:17:20.178000Z"
-        },
-        {
-          "id": "f7b4aa2760ca6c843f930071c0896b5674b97753",
-          "title": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中并不会带来审查。试试看 / Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-30T18:13:06Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.8567,
-      "importance": 0.8567,
-      "importance_score": 0.8567,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8397,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T18:13:06Z",
-      "latest_at": "2026-07-31T04:57:18.494000Z",
-      "primary_item": {
-        "id": "30991f97bf0f8d90c3e956f81625ef377ba92bda",
-        "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
-        "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
     {
       "story_id": "story_c5ad624a6ffb",
       "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -203,84 +66,64 @@
       }
     },
     {
-      "story_id": "story_8871db2f43d8",
-      "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能 / Stacked sessions and pull requests in the GitHub Copilot app",
-      "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
-      "source": "GitHub AI & ML",
+      "story_id": "story_3bde4c44877d",
+      "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+      "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "599d265292a80d46f3762173a3ae6bf662966bad",
-          "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能 / Stacked sessions and pull requests in the GitHub Copilot app",
-          "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
-          "source": "GitHub AI & ML",
+          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
+          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-30T17:30:24Z"
-        },
-        {
-          "id": "60d91c86762adeeab864186e3844c59b0353e90f",
-          "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能",
-          "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T17:30:24Z"
+          "published_at": "2026-07-31T18:11:50Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "GitHub AI & ML",
-        "GitHub Blog"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "599d265292a80d46f3762173a3ae6bf662966bad",
-          "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能 / Stacked sessions and pull requests in the GitHub Copilot app",
-          "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
-          "source": "GitHub AI & ML",
+          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
+          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-30T17:30:24Z"
-        },
-        {
-          "id": "60d91c86762adeeab864186e3844c59b0353e90f",
-          "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能",
-          "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T17:30:24Z"
+          "published_at": "2026-07-31T18:11:50Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8251,
-      "importance": 0.8251,
-      "importance_score": 0.8251,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8423,
+      "importance": 0.8423,
+      "importance_score": 0.8423,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7117,
-        "story_heat": 0.25
+        "ai_relevance": 0.87,
+        "recency": 0.9903,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-30T17:30:24Z",
-      "latest_at": "2026-07-30T17:30:24Z",
+      "earliest_at": "2026-07-31T18:11:50Z",
+      "latest_at": "2026-07-31T18:11:50Z",
       "primary_item": {
-        "id": "599d265292a80d46f3762173a3ae6bf662966bad",
-        "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能 / Stacked sessions and pull requests in the GitHub Copilot app",
-        "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
-        "source": "GitHub AI & ML",
+        "id": "85684ae353d62814aaced6dd8005af52e330e36f",
+        "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+        "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -319,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8467,
-      "importance": 0.8467,
-      "importance_score": 0.8467,
+      "score": 0.8422,
+      "importance": 0.8422,
+      "importance_score": 0.8422,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9708,
+        "recency": 0.9456,
         "story_heat": 0.0
       },
       "category": "official",
@@ -347,21 +190,21 @@
       }
     },
     {
-      "story_id": "story_570402ed1c5f",
-      "title": "GitHub Models 现已退役 / GitHub Models is now retired",
-      "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
-      "primary_url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
+      "story_id": "story_40a9fce1f45e",
+      "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
+      "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+      "primary_url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "aaa2d2752f47738c2437bef0836e95ed582bbec2",
-          "title": "GitHub Models 现已退役 / GitHub Models is now retired",
-          "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
+          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
+          "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
+          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-30T19:14:22Z"
+          "published_at": "2026-07-31T16:45:50Z"
         }
       ],
       "source_count": 1,
@@ -370,26 +213,26 @@
       ],
       "items": [
         {
-          "id": "aaa2d2752f47738c2437bef0836e95ed582bbec2",
-          "title": "GitHub Models 现已退役 / GitHub Models is now retired",
-          "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
+          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
+          "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
+          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-30T19:14:22Z"
+          "published_at": "2026-07-31T16:45:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7954,
-      "importance": 0.7954,
-      "importance_score": 0.7954,
+      "score": 0.8386,
+      "importance": 0.8386,
+      "importance_score": 0.8386,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7298,
+        "recency": 0.97,
         "story_heat": 0.0
       },
       "category": "official",
@@ -398,12 +241,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-30T19:14:22Z",
-      "latest_at": "2026-07-30T19:14:22Z",
+      "earliest_at": "2026-07-31T16:45:50Z",
+      "latest_at": "2026-07-31T16:45:50Z",
       "primary_item": {
-        "id": "aaa2d2752f47738c2437bef0836e95ed582bbec2",
-        "title": "GitHub Models 现已退役 / GitHub Models is now retired",
-        "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
+        "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
+        "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
+        "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -443,15 +286,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8467,
-      "importance": 0.8467,
-      "importance_score": 0.8467,
+      "score": 0.8422,
+      "importance": 0.8422,
+      "importance_score": 0.8422,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9708,
+        "recency": 0.9456,
         "story_heat": 0.0
       },
       "category": "official",
@@ -524,15 +367,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7834,
-      "importance": 0.7834,
-      "importance_score": 0.7834,
+      "score": 0.7792,
+      "importance": 0.7792,
+      "importance_score": 0.7792,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9157,
+        "recency": 0.892,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -548,6 +391,87 @@
         "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
         "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
         "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_945ecdf346e3",
+      "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "primary_url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "30991f97bf0f8d90c3e956f81625ef377ba92bda",
+          "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T04:57:18.494000Z"
+        },
+        {
+          "id": "d16a12a7d756f24b6b9333a4d75260566b0628d0",
+          "title": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "www.ctgt.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-31T04:57:18.494000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.ctgt.ai"
+      ],
+      "items": [
+        {
+          "id": "30991f97bf0f8d90c3e956f81625ef377ba92bda",
+          "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T04:57:18.494000Z"
+        },
+        {
+          "id": "d16a12a7d756f24b6b9333a4d75260566b0628d0",
+          "title": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "www.ctgt.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-31T04:57:18.494000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7778,
+      "importance": 0.7778,
+      "importance_score": 0.7778,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8179,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T04:57:18.494000Z",
+      "latest_at": "2026-07-31T04:57:18.494000Z",
+      "primary_item": {
+        "id": "30991f97bf0f8d90c3e956f81625ef377ba92bda",
+        "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+        "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -624,15 +548,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7743,
-      "importance": 0.7743,
-      "importance_score": 0.7743,
+      "score": 0.7708,
+      "importance": 0.7708,
+      "importance_score": 0.7708,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7426,
+        "recency": 0.7233,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -686,15 +610,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.774,
-      "importance": 0.774,
-      "importance_score": 0.774,
+      "score": 0.7694,
+      "importance": 0.7694,
+      "importance_score": 0.7694,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9853,
+        "recency": 0.9598,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -766,15 +690,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7705,
-      "importance": 0.7705,
-      "importance_score": 0.7705,
+      "score": 0.7665,
+      "importance": 0.7665,
+      "importance_score": 0.7665,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8605,
+        "recency": 0.8382,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -847,15 +771,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7702,
-      "importance": 0.7702,
-      "importance_score": 0.7702,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8758,
+        "recency": 0.8531,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -909,15 +833,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
+      "score": 0.7639,
+      "importance": 0.7639,
+      "importance_score": 0.7639,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9029,
+        "recency": 0.8795,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -970,15 +894,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7664,
-      "importance": 0.7664,
-      "importance_score": 0.7664,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9431,
+        "recency": 0.9187,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -997,65 +921,64 @@
       }
     },
     {
-      "story_id": "story_af33f72d4acf",
-      "title": "使用自存储库语法引用相同存储库操作 / Reference same-repository actions with self-repository syntax",
-      "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
-      "primary_url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_0ae4eaaaeeda",
+      "title": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分",
+      "url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
+      "primary_url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "795d87e8242e74f2756049bcac1df12249ae8f50",
-          "title": "使用自存储库语法引用相同存储库操作 / Reference same-repository actions with self-repository syntax",
-          "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T17:39:46Z"
+          "id": "c9ea765a549630b1225f52ace49b6d1c6619d979",
+          "title": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分",
+          "url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T09:30:43Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "X：Artificial Analysis (@ArtificialAnlys)"
       ],
       "items": [
         {
-          "id": "795d87e8242e74f2756049bcac1df12249ae8f50",
-          "title": "使用自存储库语法引用相同存储库操作 / Reference same-repository actions with self-repository syntax",
-          "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T17:39:46Z"
+          "id": "c9ea765a549630b1225f52ace49b6d1c6619d979",
+          "title": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分",
+          "url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T09:30:43Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7924,
-      "importance": 0.7924,
-      "importance_score": 0.7924,
-      "importance_label": "官方更新",
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7133,
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8736,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-30T17:39:46Z",
-      "latest_at": "2026-07-30T17:39:46Z",
+      "earliest_at": "2026-07-31T09:30:43Z",
+      "latest_at": "2026-07-31T09:30:43Z",
       "primary_item": {
-        "id": "795d87e8242e74f2756049bcac1df12249ae8f50",
-        "title": "使用自存储库语法引用相同存储库操作 / Reference same-repository actions with self-repository syntax",
-        "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "c9ea765a549630b1225f52ace49b6d1c6619d979",
+        "title": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分",
+        "url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1093,15 +1016,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7408,
-      "importance": 0.7408,
-      "importance_score": 0.7408,
+      "score": 0.7365,
+      "importance": 0.7365,
+      "importance_score": 0.7365,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9179,
+        "recency": 0.8942,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1172,15 +1095,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7702,
-      "importance": 0.7702,
-      "importance_score": 0.7702,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8758,
+        "recency": 0.8531,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1234,15 +1157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8277,
-      "importance": 0.8277,
-      "importance_score": 0.8277,
+      "score": 0.8236,
+      "importance": 0.8236,
+      "importance_score": 0.8236,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8648,
+        "recency": 0.8424,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1258,6 +1181,68 @@
         "title": "Univé 打造人工智能就绪的劳动力队伍 / Univé builds an AI-ready workforce",
         "url": "https://openai.com/index/unive",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_570402ed1c5f",
+      "title": "GitHub Models 现已退役 / GitHub Models is now retired",
+      "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
+      "primary_url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "aaa2d2752f47738c2437bef0836e95ed582bbec2",
+          "title": "GitHub Models 现已退役 / GitHub Models is now retired",
+          "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T19:14:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "aaa2d2752f47738c2437bef0836e95ed582bbec2",
+          "title": "GitHub Models 现已退役 / GitHub Models is now retired",
+          "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T19:14:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.792,
+      "importance": 0.792,
+      "importance_score": 0.792,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7109,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T19:14:22Z",
+      "latest_at": "2026-07-30T19:14:22Z",
+      "primary_item": {
+        "id": "aaa2d2752f47738c2437bef0836e95ed582bbec2",
+        "title": "GitHub Models 现已退役 / GitHub Models is now retired",
+        "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -1296,21 +1281,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9252,
+        "recency": 0.9012,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-31T11:40:12Z",
       "latest_at": "2026-07-31T11:40:12Z",
@@ -1376,15 +1360,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7702,
-      "importance": 0.7702,
-      "importance_score": 0.7702,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8758,
+        "recency": 0.8531,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1401,66 +1385,6 @@
         "url": "https://www.aibase.com/news/30040",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c7dbaf790e17",
-      "title": "国家发改委：将加快《人工智能法》立法进程",
-      "url": "https://www.ithome.com/0/983/974.htm",
-      "primary_url": "https://www.ithome.com/0/983/974.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "96f8a210f6ec3e094fa97bbe422488013d4d710e",
-          "title": "国家发改委：将加快《人工智能法》立法进程",
-          "url": "https://www.ithome.com/0/983/974.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T02:48:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "96f8a210f6ec3e094fa97bbe422488013d4d710e",
-          "title": "国家发改委：将加快《人工智能法》立法进程",
-          "url": "https://www.ithome.com/0/983/974.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T02:48:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7431,
-      "importance": 0.7431,
-      "importance_score": 0.7431,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.814,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T02:48:12Z",
-      "latest_at": "2026-07-31T02:48:12Z",
-      "primary_item": {
-        "id": "96f8a210f6ec3e094fa97bbe422488013d4d710e",
-        "title": "国家发改委：将加快《人工智能法》立法进程",
-        "url": "https://www.ithome.com/0/983/974.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     }
   ]
