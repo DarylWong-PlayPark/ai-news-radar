@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T09:04:00.219265Z",
+  "generated_at": "2026-08-01T10:56:46.655811Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -66,6 +66,88 @@
       }
     },
     {
+      "story_id": "story_6d58997b466c",
+      "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "primary_url": "https://openai.com/index/ten-advances-in-mathematics",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
+          "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-01T00:00:00Z"
+        },
+        {
+          "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
+          "title": "数学与理论计算机科学领域的十大进展",
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T10:17:30.122000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
+          "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-01T00:00:00Z"
+        },
+        {
+          "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
+          "title": "数学与理论计算机科学领域的十大进展",
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T10:17:30.122000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8507,
+      "importance": 0.8507,
+      "importance_score": 0.8507,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8538,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-01T00:00:00Z",
+      "latest_at": "2026-08-01T10:17:30.122000Z",
+      "primary_item": {
+        "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
+        "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+        "url": "https://openai.com/index/ten-advances-in-mathematics",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
       "story_id": "story_337d712579d2",
       "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
       "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
@@ -100,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8212,
-      "importance": 0.8212,
-      "importance_score": 0.8212,
+      "score": 0.8172,
+      "importance": 0.8172,
+      "importance_score": 0.8172,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8288,
+        "recency": 0.8066,
         "story_heat": 0.0
       },
       "category": "official",
@@ -219,15 +301,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8066,
-      "importance": 0.8066,
-      "importance_score": 0.8066,
+      "score": 0.8025,
+      "importance": 0.8025,
+      "importance_score": 0.8025,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8331,
+        "recency": 0.8108,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -244,6 +326,68 @@
         "url": "https://tailscale.com/blog/hugging-face-intrusion",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3bde4c44877d",
+      "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+      "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
+          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T18:11:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
+          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T18:11:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8053,
+      "importance": 0.8053,
+      "importance_score": 0.8053,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7852,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T18:11:50Z",
+      "latest_at": "2026-07-31T18:11:50Z",
+      "primary_item": {
+        "id": "85684ae353d62814aaced6dd8005af52e330e36f",
+        "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+        "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -300,15 +444,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8357,
-      "importance": 0.8357,
-      "importance_score": 0.8357,
+      "score": 0.832,
+      "importance": 0.832,
+      "importance_score": 0.832,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7704,
+        "recency": 0.7497,
         "story_heat": 0.25
       },
       "category": "official",
@@ -324,130 +468,6 @@
         "id": "2440a232fead11fbf349052abb1cbc7f0577e5f6",
         "title": "构建丰富的智能 / Building abundant intelligence",
         "url": "https://openai.com/index/building-abundant-intelligence",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_3bde4c44877d",
-      "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-      "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
-          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T18:11:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
-          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T18:11:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8092,
-      "importance": 0.8092,
-      "importance_score": 0.8092,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8068,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T18:11:50Z",
-      "latest_at": "2026-07-31T18:11:50Z",
-      "primary_item": {
-        "id": "85684ae353d62814aaced6dd8005af52e330e36f",
-        "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-        "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6d58997b466c",
-      "title": "数学和理论计算机科学的十大进展 / Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
-      "primary_url": "https://openai.com/index/ten-advances-in-mathematics",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
-          "title": "数学和理论计算机科学的十大进展 / Ten advances in mathematics and theoretical computer science",
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-01T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
-          "title": "数学和理论计算机科学的十大进展 / Ten advances in mathematics and theoretical computer science",
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-01T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8299,
-      "importance": 0.8299,
-      "importance_score": 0.8299,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8773,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-01T00:00:00Z",
-      "latest_at": "2026-08-01T00:00:00Z",
-      "primary_item": {
-        "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
-        "title": "数学和理论计算机科学的十大进展 / Ten advances in mathematics and theoretical computer science",
-        "url": "https://openai.com/index/ten-advances-in-mathematics",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
@@ -506,15 +526,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7674,
-      "importance": 0.7674,
-      "importance_score": 0.7674,
+      "score": 0.7633,
+      "importance": 0.7633,
+      "importance_score": 0.7633,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8432,
+        "recency": 0.8206,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -568,15 +588,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7638,
-      "importance": 0.7638,
-      "importance_score": 0.7638,
+      "score": 0.7593,
+      "importance": 0.7593,
+      "importance_score": 0.7593,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9288,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -629,15 +649,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7582,
-      "importance": 0.7582,
-      "importance_score": 0.7582,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8478,
+        "recency": 0.8251,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -690,15 +710,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9798,
+        "recency": 0.9535,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -770,15 +790,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7494,
-      "importance": 0.7494,
-      "importance_score": 0.7494,
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7267,
+        "recency": 0.7072,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -831,15 +851,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8062,
-      "importance": 0.8062,
-      "importance_score": 0.8062,
+      "score": 0.8024,
+      "importance": 0.8024,
+      "importance_score": 0.8024,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7902,
+        "recency": 0.7691,
         "story_heat": 0.0
       },
       "category": "official",
@@ -856,66 +876,6 @@
         "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e29bceaab5cd",
-      "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
-      "url": "https://www.minimax.io/blog/minimax-h3",
-      "primary_url": "https://www.minimax.io/blog/minimax-h3",
-      "source": "MiniMax：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "36deacf6e462ddac3ac60b8fd225c67e6636640b",
-          "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
-          "url": "https://www.minimax.io/blog/minimax-h3",
-          "source": "MiniMax：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T09:59:02.996000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MiniMax：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "36deacf6e462ddac3ac60b8fd225c67e6636640b",
-          "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
-          "url": "https://www.minimax.io/blog/minimax-h3",
-          "source": "MiniMax：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T09:59:02.996000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7165,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T09:59:02.996000Z",
-      "latest_at": "2026-07-31T09:59:02.996000Z",
-      "primary_item": {
-        "id": "36deacf6e462ddac3ac60b8fd225c67e6636640b",
-        "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
-        "url": "https://www.minimax.io/blog/minimax-h3",
-        "source": "MiniMax：Blog（网页）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -953,15 +913,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7313,
-      "importance": 0.7313,
-      "importance_score": 0.7313,
+      "score": 0.7277,
+      "importance": 0.7277,
+      "importance_score": 0.7277,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7484,
+        "recency": 0.7284,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1013,15 +973,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8107,
-      "importance": 0.8107,
-      "importance_score": 0.8107,
+      "score": 0.807,
+      "importance": 0.807,
+      "importance_score": 0.807,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7704,
+        "recency": 0.7497,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1075,15 +1035,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7373,
-      "importance": 0.7373,
-      "importance_score": 0.7373,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7819,
+        "recency": 0.761,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1097,66 +1057,6 @@
         "title": "animated-voiceover 开源：一人干翻动画工作室",
         "url": "https://x.com/AYi_AInotes/status/2083221612778668388",
         "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0ae4eaaaeeda",
-      "title": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分",
-      "url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c9ea765a549630b1225f52ace49b6d1c6619d979",
-          "title": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分",
-          "url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T09:30:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
-      ],
-      "items": [
-        {
-          "id": "c9ea765a549630b1225f52ace49b6d1c6619d979",
-          "title": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分",
-          "url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T09:30:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7277,
-      "importance": 0.7277,
-      "importance_score": 0.7277,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7117,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T09:30:43Z",
-      "latest_at": "2026-07-31T09:30:43Z",
-      "primary_item": {
-        "id": "c9ea765a549630b1225f52ace49b6d1c6619d979",
-        "title": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分",
-        "url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
         "source_name": "AI HOT"
       }
     },
@@ -1285,15 +1185,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6566,
-      "importance": 0.6566,
-      "importance_score": 0.6566,
+      "score": 0.6527,
+      "importance": 0.6527,
+      "importance_score": 0.6527,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.504,
         "source_tier": 0.54,
         "ai_relevance": 0.7,
-        "recency": 0.8147,
+        "recency": 0.7929,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1364,15 +1264,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5883,
-      "importance": 0.5883,
-      "importance_score": 0.5883,
+      "score": 0.584,
+      "importance": 0.584,
+      "importance_score": 0.584,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8772,
+        "recency": 0.8537,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1442,15 +1342,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5829,
-      "importance": 0.5829,
-      "importance_score": 0.5829,
+      "score": 0.5789,
+      "importance": 0.5789,
+      "importance_score": 0.5789,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8188,
+        "recency": 0.7969,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1465,6 +1365,202 @@
         "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
         "source": "The Verge",
         "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_25475716ab25",
+      "title": "Flint：面向人工智能时代的可视化语言",
+      "url": "https://microsoft.github.io/flint-chart",
+      "primary_url": "https://microsoft.github.io/flint-chart",
+      "source": "microsoft.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e4650faa1d9e6e14141535cf794dceaff0486ad3",
+          "title": "Flint：面向人工智能时代的可视化语言",
+          "url": "https://microsoft.github.io/flint-chart",
+          "source": "microsoft.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T08:41:23.781000Z"
+        },
+        {
+          "id": "7566c9af461db37ce69beab06930c018b0a158ec",
+          "title": "Flint：AI时代的可视化语言 / Flint: A Visualization Language for the AI Era",
+          "url": "https://news.ycombinator.com/item?id=49130604",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T06:20:59.247000Z"
+        },
+        {
+          "id": "a0c1c63603f2363a96e0f45f9d9fbeab30867423",
+          "title": "Flint：面向人工智能时代的可视化语言 / Flint: A Visualization Language for the AI Era",
+          "url": "https://microsoft.github.io/flint-chart",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T02:45:09Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "microsoft.github.io"
+      ],
+      "items": [
+        {
+          "id": "e4650faa1d9e6e14141535cf794dceaff0486ad3",
+          "title": "Flint：面向人工智能时代的可视化语言",
+          "url": "https://microsoft.github.io/flint-chart",
+          "source": "microsoft.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T08:41:23.781000Z"
+        },
+        {
+          "id": "7566c9af461db37ce69beab06930c018b0a158ec",
+          "title": "Flint：AI时代的可视化语言 / Flint: A Visualization Language for the AI Era",
+          "url": "https://news.ycombinator.com/item?id=49130604",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T06:20:59.247000Z"
+        },
+        {
+          "id": "a0c1c63603f2363a96e0f45f9d9fbeab30867423",
+          "title": "Flint：面向人工智能时代的可视化语言 / Flint: A Visualization Language for the AI Era",
+          "url": "https://microsoft.github.io/flint-chart",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T02:45:09Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.565,
+      "importance": 0.565,
+      "importance_score": 0.565,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9679,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T02:45:09Z",
+      "latest_at": "2026-08-01T08:41:23.781000Z",
+      "primary_item": {
+        "id": "e4650faa1d9e6e14141535cf794dceaff0486ad3",
+        "title": "Flint：面向人工智能时代的可视化语言",
+        "url": "https://microsoft.github.io/flint-chart",
+        "source": "microsoft.github.io",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b5a2b7d3ff4e",
+      "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
+      "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
+      "primary_url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
+      "source": "manifest.build",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "91bad940c6696bf37ef9d77613b6a837efba312e",
+          "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
+          "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
+          "source": "manifest.build",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T03:21:33.850000Z"
+        },
+        {
+          "id": "5c98dc6841203e555006f0945ed5f9774ce61522",
+          "title": "每个人都在构建 LLM 路由器，我们弃用了我们的路由器 / Everyone is building LLM routers, we deprecated ours",
+          "url": "https://news.ycombinator.com/item?id=49126630",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-31T18:52:58.609000Z"
+        },
+        {
+          "id": "ea169d12fe409871c6f4c3b99ae4f4752711fce0",
+          "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器 / Everyone is building LLM routers, we deprecated ours",
+          "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-31T18:06:39Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "manifest.build"
+      ],
+      "items": [
+        {
+          "id": "91bad940c6696bf37ef9d77613b6a837efba312e",
+          "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
+          "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
+          "source": "manifest.build",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T03:21:33.850000Z"
+        },
+        {
+          "id": "5c98dc6841203e555006f0945ed5f9774ce61522",
+          "title": "每个人都在构建 LLM 路由器，我们弃用了我们的路由器 / Everyone is building LLM routers, we deprecated ours",
+          "url": "https://news.ycombinator.com/item?id=49126630",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-31T18:52:58.609000Z"
+        },
+        {
+          "id": "ea169d12fe409871c6f4c3b99ae4f4752711fce0",
+          "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器 / Everyone is building LLM routers, we deprecated ours",
+          "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-31T18:06:39Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5521,
+      "importance": 0.5521,
+      "importance_score": 0.5521,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8962,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-31T18:06:39Z",
+      "latest_at": "2026-08-01T03:21:33.850000Z",
+      "primary_item": {
+        "id": "91bad940c6696bf37ef9d77613b6a837efba312e",
+        "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
+        "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
+        "source": "manifest.build",
+        "source_name": "Buzzing"
       }
     }
   ]
