@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T05:54:35.327932Z",
+  "generated_at": "2026-08-02T08:19:58.593592Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -66,6 +66,67 @@
       }
     },
     {
+      "story_id": "story_9249430a0c17",
+      "title": "Grok 支持分析任意视频",
+      "url": "https://x.com/elonmusk/status/2083800942927839307",
+      "primary_url": "https://x.com/elonmusk/status/2083800942927839307",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4482ac0b34e8a66df33dcfffcbff66f3e210ec46",
+          "title": "Grok 支持分析任意视频",
+          "url": "https://x.com/elonmusk/status/2083800942927839307",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-02T06:23:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Elon Musk (@elonmusk, xAI)"
+      ],
+      "items": [
+        {
+          "id": "4482ac0b34e8a66df33dcfffcbff66f3e210ec46",
+          "title": "Grok 支持分析任意视频",
+          "url": "https://x.com/elonmusk/status/2083800942927839307",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-02T06:23:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9724,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-02T06:23:54Z",
+      "latest_at": "2026-08-02T06:23:54Z",
+      "primary_item": {
+        "id": "4482ac0b34e8a66df33dcfffcbff66f3e210ec46",
+        "title": "Grok 支持分析任意视频",
+        "url": "https://x.com/elonmusk/status/2083800942927839307",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
       "story_id": "story_a86f05568153",
       "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
       "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
@@ -119,22 +180,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.752,
-      "importance": 0.752,
-      "importance_score": 0.752,
+      "score": 0.7473,
+      "importance": 0.7473,
+      "importance_score": 0.7473,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7575,
+        "recency": 0.7315,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-01T10:40:50Z",
       "latest_at": "2026-08-01T10:40:50Z",
@@ -253,15 +313,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.645,
-      "importance": 0.645,
-      "importance_score": 0.645,
+      "score": 0.6398,
+      "importance": 0.6398,
+      "importance_score": 0.6398,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4752,
         "source_tier": 0.54,
         "ai_relevance": 0.66,
-        "recency": 0.8424,
+        "recency": 0.8135,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -406,15 +466,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6122,
-      "importance": 0.6122,
-      "importance_score": 0.6122,
+      "score": 0.6064,
+      "importance": 0.6064,
+      "importance_score": 0.6064,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9525,
+        "recency": 0.9197,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -485,15 +545,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5895,
-      "importance": 0.5895,
-      "importance_score": 0.5895,
+      "score": 0.5835,
+      "importance": 0.5835,
+      "importance_score": 0.5835,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9768,
+        "recency": 0.9432,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -563,15 +623,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5811,
-      "importance": 0.5811,
-      "importance_score": 0.5811,
+      "score": 0.5764,
+      "importance": 0.5764,
+      "importance_score": 0.5764,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.7447,
+        "recency": 0.7191,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -680,15 +740,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.568,
-      "importance": 0.568,
-      "importance_score": 0.568,
+      "score": 0.5628,
+      "importance": 0.5628,
+      "importance_score": 0.5628,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8455,
+        "recency": 0.8165,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -702,6 +762,164 @@
         "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
         "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
         "source": "www.antipope.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6d58997b466c",
+      "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "primary_url": "https://openai.com/index/ten-advances-in-mathematics",
+      "source": "Lobsters (技术社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "790dbe31aa4e29d5ea8eb7394271d24efcc861cc",
+          "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T08:15:04Z"
+        },
+        {
+          "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
+          "title": "数学与理论计算机科学领域的十大进展",
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T10:17:30.122000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "790dbe31aa4e29d5ea8eb7394271d24efcc861cc",
+          "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T08:15:04Z"
+        },
+        {
+          "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
+          "title": "数学与理论计算机科学领域的十大进展",
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T10:17:30.122000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5456,
+      "importance": 0.5456,
+      "importance_score": 0.5456,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9988,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T10:17:30.122000Z",
+      "latest_at": "2026-08-02T08:15:04Z",
+      "primary_item": {
+        "id": "790dbe31aa4e29d5ea8eb7394271d24efcc861cc",
+        "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+        "url": "https://openai.com/index/ten-advances-in-mathematics",
+        "source": "Lobsters (技术社区)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_91795cf32ccd",
+      "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+      "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+      "primary_url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+      "source": "www.wafer.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5dc5d5699a7685cee97651f148c279b16b74bf5a",
+          "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+          "source": "www.wafer.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T07:21:18.343000Z"
+        },
+        {
+          "id": "95e23b427b192e05cc5a370652a74c10f28ab940",
+          "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300 / Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+          "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T04:21:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "www.wafer.ai"
+      ],
+      "items": [
+        {
+          "id": "5dc5d5699a7685cee97651f148c279b16b74bf5a",
+          "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+          "source": "www.wafer.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T07:21:18.343000Z"
+        },
+        {
+          "id": "95e23b427b192e05cc5a370652a74c10f28ab940",
+          "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300 / Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+          "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T04:21:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5433,
+      "importance": 0.5433,
+      "importance_score": 0.5433,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.986,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T04:21:14Z",
+      "latest_at": "2026-08-02T07:21:18.343000Z",
+      "primary_item": {
+        "id": "5dc5d5699a7685cee97651f148c279b16b74bf5a",
+        "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+        "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+        "source": "www.wafer.ai",
         "source_name": "Buzzing"
       }
     },
@@ -759,15 +977,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5396,
+      "importance": 0.5396,
+      "importance_score": 0.5396,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9656,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -857,15 +1075,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5412,
-      "importance": 0.5412,
-      "importance_score": 0.5412,
+      "score": 0.5361,
+      "importance": 0.5361,
+      "importance_score": 0.5361,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8358,
+        "recency": 0.8071,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -955,15 +1173,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5708,
-      "importance": 0.5708,
-      "importance_score": 0.5708,
+      "score": 0.5647,
+      "importance": 0.5647,
+      "importance_score": 0.5647,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9661,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -978,104 +1196,6 @@
         "url": "https://news.ycombinator.com/item?id=49140340",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_ba7326102fca",
-      "title": "人工智能无法生成可用的产品，这仍然是你的工作",
-      "url": "https://weeraman.com/the-prototype-isnt-the-product",
-      "primary_url": "https://weeraman.com/the-prototype-isnt-the-product",
-      "source": "weeraman.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "35d0d2be42f141daa5899f5588b0cf48c1146021",
-          "title": "人工智能无法生成可用的产品，这仍然是你的工作",
-          "url": "https://weeraman.com/the-prototype-isnt-the-product",
-          "source": "weeraman.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T11:05:25.825000Z"
-        },
-        {
-          "id": "0327dc4de97b5e0cb0ae3765b12eee1bdb53f4f0",
-          "title": "人工智能不会生成可用的产品，这仍然是你的工作 / AI doesn't generate working products, that's still your job",
-          "url": "https://news.ycombinator.com/item?id=49132130",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T10:37:55.073000Z"
-        },
-        {
-          "id": "234538b9d17e12b9fce41e961fc8cd7eb2050379",
-          "title": "人工智能无法生成可用的产品，这仍然是你的工作 / AI doesn't generate working products, that's still your job",
-          "url": "https://weeraman.com/the-prototype-isnt-the-product",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T07:52:10Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "weeraman.com"
-      ],
-      "items": [
-        {
-          "id": "35d0d2be42f141daa5899f5588b0cf48c1146021",
-          "title": "人工智能无法生成可用的产品，这仍然是你的工作",
-          "url": "https://weeraman.com/the-prototype-isnt-the-product",
-          "source": "weeraman.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T11:05:25.825000Z"
-        },
-        {
-          "id": "0327dc4de97b5e0cb0ae3765b12eee1bdb53f4f0",
-          "title": "人工智能不会生成可用的产品，这仍然是你的工作 / AI doesn't generate working products, that's still your job",
-          "url": "https://news.ycombinator.com/item?id=49132130",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T10:37:55.073000Z"
-        },
-        {
-          "id": "234538b9d17e12b9fce41e961fc8cd7eb2050379",
-          "title": "人工智能无法生成可用的产品，这仍然是你的工作 / AI doesn't generate working products, that's still your job",
-          "url": "https://weeraman.com/the-prototype-isnt-the-product",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T07:52:10Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.528,
-      "importance": 0.528,
-      "importance_score": 0.528,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.762,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T07:52:10Z",
-      "latest_at": "2026-08-01T11:05:25.825000Z",
-      "primary_item": {
-        "id": "35d0d2be42f141daa5899f5588b0cf48c1146021",
-        "title": "人工智能无法生成可用的产品，这仍然是你的工作",
-        "url": "https://weeraman.com/the-prototype-isnt-the-product",
-        "source": "weeraman.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1132,15 +1252,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5246,
-      "importance": 0.5246,
-      "importance_score": 0.5246,
+      "score": 0.5191,
+      "importance": 0.5191,
+      "importance_score": 0.5191,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8821,
+        "recency": 0.8518,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1211,15 +1331,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.524,
-      "importance": 0.524,
-      "importance_score": 0.524,
+      "score": 0.5185,
+      "importance": 0.5185,
+      "importance_score": 0.5185,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8787,
+        "recency": 0.8485,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1289,15 +1409,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.521,
-      "importance": 0.521,
-      "importance_score": 0.521,
+      "score": 0.5157,
+      "importance": 0.5157,
+      "importance_score": 0.5157,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8624,
+        "recency": 0.8328,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1368,15 +1488,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5089,
-      "importance": 0.5089,
-      "importance_score": 0.5089,
+      "score": 0.504,
+      "importance": 0.504,
+      "importance_score": 0.504,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.795,
+        "recency": 0.7677,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1447,15 +1567,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5083,
-      "importance": 0.5083,
-      "importance_score": 0.5083,
+      "score": 0.5034,
+      "importance": 0.5034,
+      "importance_score": 0.5034,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7919,
+        "recency": 0.7647,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1526,15 +1646,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5049,
-      "importance": 0.5049,
-      "importance_score": 0.5049,
+      "score": 0.5001,
+      "importance": 0.5001,
+      "importance_score": 0.5001,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7727,
+        "recency": 0.7461,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1549,85 +1669,6 @@
         "url": "https://github.com/microsoft/generative-ai-for-beginners",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_6d58997b466c",
-      "title": "数学与理论计算机科学领域的十大进展",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
-      "primary_url": "https://openai.com/index/ten-advances-in-mathematics",
-      "source": "openai.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
-          "title": "数学与理论计算机科学领域的十大进展",
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T10:17:30.122000Z"
-        },
-        {
-          "id": "e44665178ec4140c0f5a67877b906ac10188bcc3",
-          "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T07:37:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
-          "title": "数学与理论计算机科学领域的十大进展",
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T10:17:30.122000Z"
-        },
-        {
-          "id": "e44665178ec4140c0f5a67877b906ac10188bcc3",
-          "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T07:37:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5014,
-      "importance": 0.5014,
-      "importance_score": 0.5014,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7533,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T07:37:44Z",
-      "latest_at": "2026-08-01T10:17:30.122000Z",
-      "primary_item": {
-        "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
-        "title": "数学与理论计算机科学领域的十大进展",
-        "url": "https://openai.com/index/ten-advances-in-mathematics",
-        "source": "openai.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1683,15 +1724,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5309,
-      "importance": 0.5309,
-      "importance_score": 0.5309,
+      "score": 0.5252,
+      "importance": 0.5252,
+      "importance_score": 0.5252,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9171,
+        "recency": 0.8855,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1706,84 +1747,6 @@
         "url": "https://simonwillison.net/2026/Aug/1/greg-brockman",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_16eec787773e",
-      "title": "均为 10 年以上未解难题：OpenAI 公布下一代模型 Astra 在数学等领域的十项进展，Token 成本约 2000 美元",
-      "url": "https://www.ithome.com/0/984/557.htm",
-      "primary_url": "https://www.ithome.com/0/984/557.htm",
-      "source": "IT之家 (ITHome)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "c4490cc4f94f9539bbb2d2d0453426c792b6aa83",
-          "title": "均为 10 年以上未解难题：OpenAI 公布下一代模型 Astra 在数学等领域的十项进展，Token 成本约 2000 美元",
-          "url": "https://www.ithome.com/0/984/557.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T08:23:25Z"
-        },
-        {
-          "id": "4713ca6708ad870d934005b3abc539671fc76a9d",
-          "title": "均为 10 年以上未解难题：OpenAI 公布在数学与理论计算机科学领域的十项进展，Token 成本约 2000 美元",
-          "url": "https://www.ithome.com/0/984/557.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T08:23:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)"
-      ],
-      "items": [
-        {
-          "id": "c4490cc4f94f9539bbb2d2d0453426c792b6aa83",
-          "title": "均为 10 年以上未解难题：OpenAI 公布下一代模型 Astra 在数学等领域的十项进展，Token 成本约 2000 美元",
-          "url": "https://www.ithome.com/0/984/557.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T08:23:25Z"
-        },
-        {
-          "id": "4713ca6708ad870d934005b3abc539671fc76a9d",
-          "title": "均为 10 年以上未解难题：OpenAI 公布在数学与理论计算机科学领域的十项进展，Token 成本约 2000 美元",
-          "url": "https://www.ithome.com/0/984/557.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T08:23:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4977,
-      "importance": 0.4977,
-      "importance_score": 0.4977,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7329,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T08:23:25Z",
-      "latest_at": "2026-08-01T08:23:25Z",
-      "primary_item": {
-        "id": "c4490cc4f94f9539bbb2d2d0453426c792b6aa83",
-        "title": "均为 10 年以上未解难题：OpenAI 公布下一代模型 Astra 在数学等领域的十项进展，Token 成本约 2000 美元",
-        "url": "https://www.ithome.com/0/984/557.htm",
-        "source": "IT之家 (ITHome)",
-        "source_name": "Info Flow"
       }
     }
   ]
