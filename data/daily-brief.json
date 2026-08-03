@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T10:12:00.117976Z",
+  "generated_at": "2026-08-03T13:24:02.456916Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -92,18 +92,18 @@
           "published_at": "2026-08-03T03:52:51.022000Z"
         },
         {
-          "id": "0f2e65a830beca422e5048c3a6a340c9bba9a126",
+          "id": "2186b47261176b9147992f26e36d3ca491a93567",
           "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数 / Qwen3.8-Max: A New Bar for Coding and Cowork",
           "url": "https://qwen.ai/blog?id=qwen3.8",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-03T02:16:09Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "Qwen：Blog Retrieval（API）",
         "qwen.ai"
       ],
@@ -127,26 +127,26 @@
           "published_at": "2026-08-03T03:52:51.022000Z"
         },
         {
-          "id": "0f2e65a830beca422e5048c3a6a340c9bba9a126",
+          "id": "2186b47261176b9147992f26e36d3ca491a93567",
           "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数 / Qwen3.8-Max: A New Bar for Coding and Cowork",
           "url": "https://qwen.ai/blog?id=qwen3.8",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-03T02:16:09Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8485,
-      "importance": 0.8485,
-      "importance_score": 0.8485,
+      "score": 0.8413,
+      "importance": 0.8413,
+      "importance_score": 0.8413,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.89,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8883,
+        "recency": 0.8482,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -219,15 +219,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7845,
+      "importance": 0.7845,
+      "importance_score": 0.7845,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9548,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -247,26 +247,87 @@
       }
     },
     {
-      "story_id": "story_771ba959c84a",
-      "title": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
-      "url": "https://www.aibase.com/news/30067",
-      "primary_url": "https://www.aibase.com/news/30067",
+      "story_id": "story_1afd7fe290fc",
+      "title": "Kimi Work 幻灯片制作教程发布",
+      "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
+      "primary_url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "105fa79b50a073218fcefadaa53b7c82b1993b5e",
+          "title": "Kimi Work 幻灯片制作教程发布",
+          "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T11:51:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Kimi.ai (@Kimi_Moonshot)"
+      ],
+      "items": [
+        {
+          "id": "105fa79b50a073218fcefadaa53b7c82b1993b5e",
+          "title": "Kimi Work 幻灯片制作教程发布",
+          "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T11:51:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7577,
+      "importance": 0.7577,
+      "importance_score": 0.7577,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9781,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T11:51:51Z",
+      "latest_at": "2026-08-03T11:51:51Z",
+      "primary_item": {
+        "id": "105fa79b50a073218fcefadaa53b7c82b1993b5e",
+        "title": "Kimi Work 幻灯片制作教程发布",
+        "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
+        "source": "X：Kimi.ai (@Kimi_Moonshot)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_19115cd7fab6",
+      "title": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
+      "url": "https://www.aibase.com/news/30081",
+      "primary_url": "https://www.aibase.com/news/30081",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "0c9c3b0ce6e6d52004bd1e9d1c9f952d2280b6b3",
-          "title": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
-          "url": "https://www.aibase.com/news/30067",
+          "id": "f73629ffd72f8ba9329af419c04d8b6a6a7040c0",
+          "title": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
+          "url": "https://www.aibase.com/news/30081",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-03T10:12:00.117976Z"
         },
         {
-          "id": "89ee21058898320bfd09883f7063c42c7baa0916",
-          "title": "国产算力生态迎来重大突破：摩尔线程闪电适配 MiniMax H3 多模态大模型",
-          "url": "https://www.aibase.com/zh/news/30067",
+          "id": "efb5e96ea37bf3f8cfa0e6d90bb51a8a422cd293",
+          "title": "商汤开源 SenseNova U1.5-Lite-Preview:8B 模型，支持原生 4K 图像生成",
+          "url": "https://www.aibase.com/zh/news/30081",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -280,18 +341,18 @@
       ],
       "items": [
         {
-          "id": "0c9c3b0ce6e6d52004bd1e9d1c9f952d2280b6b3",
-          "title": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
-          "url": "https://www.aibase.com/news/30067",
+          "id": "f73629ffd72f8ba9329af419c04d8b6a6a7040c0",
+          "title": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
+          "url": "https://www.aibase.com/news/30081",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-03T10:12:00.117976Z"
         },
         {
-          "id": "89ee21058898320bfd09883f7063c42c7baa0916",
-          "title": "国产算力生态迎来重大突破：摩尔线程闪电适配 MiniMax H3 多模态大模型",
-          "url": "https://www.aibase.com/zh/news/30067",
+          "id": "efb5e96ea37bf3f8cfa0e6d90bb51a8a422cd293",
+          "title": "商汤开源 SenseNova U1.5-Lite-Preview:8B 模型，支持原生 4K 图像生成",
+          "url": "https://www.aibase.com/zh/news/30081",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -300,15 +361,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7845,
+      "importance": 0.7845,
+      "importance_score": 0.7845,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9548,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -318,11 +379,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-08-03T10:12:00.117976Z",
-      "latest_at": "2026-08-03T10:12:00.117976Z",
+      "latest_at": "2026-08-03T13:24:02.456916Z",
       "primary_item": {
-        "id": "0c9c3b0ce6e6d52004bd1e9d1c9f952d2280b6b3",
-        "title": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
-        "url": "https://www.aibase.com/news/30067",
+        "id": "f73629ffd72f8ba9329af419c04d8b6a6a7040c0",
+        "title": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
+        "url": "https://www.aibase.com/news/30081",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -381,15 +442,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
+      "score": 0.7375,
+      "importance": 0.7375,
+      "importance_score": 0.7375,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8315,
+        "recency": 0.794,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -405,6 +466,87 @@
         "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
         "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_771ba959c84a",
+      "title": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
+      "url": "https://www.aibase.com/news/30067",
+      "primary_url": "https://www.aibase.com/news/30067",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0c9c3b0ce6e6d52004bd1e9d1c9f952d2280b6b3",
+          "title": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
+          "url": "https://www.aibase.com/news/30067",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T10:12:00.117976Z"
+        },
+        {
+          "id": "89ee21058898320bfd09883f7063c42c7baa0916",
+          "title": "国产算力生态迎来重大突破：摩尔线程闪电适配 MiniMax H3 多模态大模型",
+          "url": "https://www.aibase.com/zh/news/30067",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "0c9c3b0ce6e6d52004bd1e9d1c9f952d2280b6b3",
+          "title": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
+          "url": "https://www.aibase.com/news/30067",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T10:12:00.117976Z"
+        },
+        {
+          "id": "89ee21058898320bfd09883f7063c42c7baa0916",
+          "title": "国产算力生态迎来重大突破：摩尔线程闪电适配 MiniMax H3 多模态大模型",
+          "url": "https://www.aibase.com/zh/news/30067",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7845,
+      "importance": 0.7845,
+      "importance_score": 0.7845,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9548,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T10:12:00.117976Z",
+      "latest_at": "2026-08-03T10:12:00.117976Z",
+      "primary_item": {
+        "id": "0c9c3b0ce6e6d52004bd1e9d1c9f952d2280b6b3",
+        "title": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
+        "url": "https://www.aibase.com/news/30067",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -461,15 +603,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7845,
+      "importance": 0.7845,
+      "importance_score": 0.7845,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9548,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -484,147 +626,6 @@
         "id": "d627b0fcdb69b5e262acd1cd524ff72737dbcd94",
         "title": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
         "url": "https://www.aibase.com/news/30079",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ea173ba37f58",
-      "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
-      "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
-      "primary_url": "https://x.com/AYi_AInotes/status/2083867265179537565",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fd132bb8303e23d13ed295718428aba04a0d3b98",
-          "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
-          "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-02T10:47:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
-      ],
-      "items": [
-        {
-          "id": "fd132bb8303e23d13ed295718428aba04a0d3b98",
-          "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
-          "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-02T10:47:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.725,
-      "importance": 0.725,
-      "importance_score": 0.725,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7132,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-02T10:47:27Z",
-      "latest_at": "2026-08-02T10:47:27Z",
-      "primary_item": {
-        "id": "fd132bb8303e23d13ed295718428aba04a0d3b98",
-        "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
-        "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_093eaa8b4e8f",
-      "title": "视觉大模型迎来开源重磅消息！多模态生成再升级，2K高清音画如何颠覆行业？",
-      "url": "https://www.aibase.com/news/30069",
-      "primary_url": "https://www.aibase.com/news/30069",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "dfca8260da6754f5f6bbada75279c9896f29c232",
-          "title": "视觉大模型迎来开源重磅消息！多模态生成再升级，2K高清音画如何颠覆行业？",
-          "url": "https://www.aibase.com/news/30069",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T10:12:00.117976Z"
-        },
-        {
-          "id": "44fac3d4380e8094d03982e4a2f6ba32ea14ae37",
-          "title": "视觉大模型迎来开源重磅消息！多模态生成再升级，2K高清音画如何颠覆行业？",
-          "url": "https://www.aibase.com/zh/news/30069",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "dfca8260da6754f5f6bbada75279c9896f29c232",
-          "title": "视觉大模型迎来开源重磅消息！多模态生成再升级，2K高清音画如何颠覆行业？",
-          "url": "https://www.aibase.com/news/30069",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T10:12:00.117976Z"
-        },
-        {
-          "id": "44fac3d4380e8094d03982e4a2f6ba32ea14ae37",
-          "title": "视觉大模型迎来开源重磅消息！多模态生成再升级，2K高清音画如何颠覆行业？",
-          "url": "https://www.aibase.com/zh/news/30069",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T10:12:00.117976Z",
-      "latest_at": "2026-08-03T10:12:00.117976Z",
-      "primary_item": {
-        "id": "dfca8260da6754f5f6bbada75279c9896f29c232",
-        "title": "视觉大模型迎来开源重磅消息！多模态生成再升级，2K高清音画如何颠覆行业？",
-        "url": "https://www.aibase.com/news/30069",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -755,15 +756,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6734,
-      "importance": 0.6734,
-      "importance_score": 0.6734,
+      "score": 0.6652,
+      "importance": 0.6652,
+      "importance_score": 0.6652,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4752,
         "source_tier": 0.54,
         "ai_relevance": 0.66,
-        "recency": 1.0,
+        "recency": 0.9548,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -778,6 +779,87 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-08-03",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_093eaa8b4e8f",
+      "title": "视觉大模型迎来开源重磅消息！多模态生成再升级，2K高清音画如何颠覆行业？",
+      "url": "https://www.aibase.com/news/30069",
+      "primary_url": "https://www.aibase.com/news/30069",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "dfca8260da6754f5f6bbada75279c9896f29c232",
+          "title": "视觉大模型迎来开源重磅消息！多模态生成再升级，2K高清音画如何颠覆行业？",
+          "url": "https://www.aibase.com/news/30069",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T10:12:00.117976Z"
+        },
+        {
+          "id": "44fac3d4380e8094d03982e4a2f6ba32ea14ae37",
+          "title": "视觉大模型迎来开源重磅消息！多模态生成再升级，2K高清音画如何颠覆行业？",
+          "url": "https://www.aibase.com/zh/news/30069",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "dfca8260da6754f5f6bbada75279c9896f29c232",
+          "title": "视觉大模型迎来开源重磅消息！多模态生成再升级，2K高清音画如何颠覆行业？",
+          "url": "https://www.aibase.com/news/30069",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T10:12:00.117976Z"
+        },
+        {
+          "id": "44fac3d4380e8094d03982e4a2f6ba32ea14ae37",
+          "title": "视觉大模型迎来开源重磅消息！多模态生成再升级，2K高清音画如何颠覆行业？",
+          "url": "https://www.aibase.com/zh/news/30069",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7845,
+      "importance": 0.7845,
+      "importance_score": 0.7845,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9548,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T10:12:00.117976Z",
+      "latest_at": "2026-08-03T10:12:00.117976Z",
+      "primary_item": {
+        "id": "dfca8260da6754f5f6bbada75279c9896f29c232",
+        "title": "视觉大模型迎来开源重磅消息！多模态生成再升级，2K高清音画如何颠覆行业？",
+        "url": "https://www.aibase.com/news/30069",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -834,15 +916,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7828,
-      "importance": 0.7828,
-      "importance_score": 0.7828,
+      "score": 0.7751,
+      "importance": 0.7751,
+      "importance_score": 0.7751,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9457,
+        "recency": 0.903,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -859,6 +941,219 @@
         "url": "https://www.aibase.com/news/30060",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_92f8a546317f",
+      "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "0f7cefc4fcaad28b1ef389339b0ce58a5bcdd4cc",
+          "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-03T11:01:11Z"
+        },
+        {
+          "id": "f4d8a698df9099499471bc6183bfc49d8a8c745d",
+          "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China’s Alibaba takes another swipe at America’s AI supremacy",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T11:01:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "0f7cefc4fcaad28b1ef389339b0ce58a5bcdd4cc",
+          "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-03T11:01:11Z"
+        },
+        {
+          "id": "f4d8a698df9099499471bc6183bfc49d8a8c745d",
+          "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China’s Alibaba takes another swipe at America’s AI supremacy",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T11:01:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6094,
+      "importance": 0.6094,
+      "importance_score": 0.6094,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.9662,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-03T11:01:11Z",
+      "latest_at": "2026-08-03T11:01:11Z",
+      "primary_item": {
+        "id": "0f7cefc4fcaad28b1ef389339b0ce58a5bcdd4cc",
+        "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_87444f9634f8",
+      "title": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+      "url": "https://news.ycombinator.com/item?id=49147622",
+      "primary_url": "https://news.ycombinator.com/item?id=49147622",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "75b78bfbd3b17e42ede7d7be6b60633dae2a45eb",
+          "title": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+          "url": "https://news.ycombinator.com/item?id=49147622",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-03T06:21:00.484000Z"
+        },
+        {
+          "id": "4edaaec810850620669c5112868bb919b9b9706c",
+          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
+          "url": "https://frogs.vaguespac.es",
+          "source": "frogs.vaguespac.es",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T01:44:49.130000Z"
+        },
+        {
+          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
+          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "url": "https://news.ycombinator.com/item?id=49147622",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T20:25:10.684000Z"
+        },
+        {
+          "id": "9cdb16941baa8ae1980e1cc4ee81f9dfaf77b800",
+          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "url": "https://frogs.vaguespac.es",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T19:42:08Z"
+        },
+        {
+          "id": "85c464d06f44c53ea531320315e322572052549d",
+          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+          "url": "https://frogs.vaguespac.es",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T19:42:08Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "frogs.vaguespac.es",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "75b78bfbd3b17e42ede7d7be6b60633dae2a45eb",
+          "title": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+          "url": "https://news.ycombinator.com/item?id=49147622",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-03T06:21:00.484000Z"
+        },
+        {
+          "id": "4edaaec810850620669c5112868bb919b9b9706c",
+          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
+          "url": "https://frogs.vaguespac.es",
+          "source": "frogs.vaguespac.es",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T01:44:49.130000Z"
+        },
+        {
+          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
+          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "url": "https://news.ycombinator.com/item?id=49147622",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T20:25:10.684000Z"
+        },
+        {
+          "id": "9cdb16941baa8ae1980e1cc4ee81f9dfaf77b800",
+          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "url": "https://frogs.vaguespac.es",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T19:42:08Z"
+        },
+        {
+          "id": "85c464d06f44c53ea531320315e322572052549d",
+          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+          "url": "https://frogs.vaguespac.es",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T19:42:08Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6034,
+      "importance": 0.6034,
+      "importance_score": 0.6034,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9032,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T19:42:08Z",
+      "latest_at": "2026-08-03T06:21:00.484000Z",
+      "primary_item": {
+        "id": "75b78bfbd3b17e42ede7d7be6b60633dae2a45eb",
+        "title": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+        "url": "https://news.ycombinator.com/item?id=49147622",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -915,15 +1210,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7828,
-      "importance": 0.7828,
-      "importance_score": 0.7828,
+      "score": 0.7751,
+      "importance": 0.7751,
+      "importance_score": 0.7751,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9457,
+        "recency": 0.903,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -996,15 +1291,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7744,
-      "importance": 0.7744,
-      "importance_score": 0.7744,
+      "score": 0.7671,
+      "importance": 0.7671,
+      "importance_score": 0.7671,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.899,
+        "recency": 0.8584,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1024,200 +1319,82 @@
       }
     },
     {
-      "story_id": "story_87444f9634f8",
-      "title": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-      "url": "https://news.ycombinator.com/item?id=49147622",
-      "primary_url": "https://news.ycombinator.com/item?id=49147622",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_d1aa340a6435",
+      "title": "Alisahryar1 / 免费克劳德代码 / Alishahryar1 / free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "primary_url": "https://github.com/Alishahryar1/free-claude-code",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "75b78bfbd3b17e42ede7d7be6b60633dae2a45eb",
-          "title": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "url": "https://news.ycombinator.com/item?id=49147622",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T06:21:00.484000Z"
-        },
-        {
-          "id": "4edaaec810850620669c5112868bb919b9b9706c",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "url": "https://frogs.vaguespac.es",
-          "source": "frogs.vaguespac.es",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T01:44:49.130000Z"
-        },
-        {
-          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
-          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "url": "https://news.ycombinator.com/item?id=49147622",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T20:25:10.684000Z"
-        },
-        {
-          "id": "9cdb16941baa8ae1980e1cc4ee81f9dfaf77b800",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T19:42:08Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "frogs.vaguespac.es",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "75b78bfbd3b17e42ede7d7be6b60633dae2a45eb",
-          "title": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "url": "https://news.ycombinator.com/item?id=49147622",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T06:21:00.484000Z"
-        },
-        {
-          "id": "4edaaec810850620669c5112868bb919b9b9706c",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "url": "https://frogs.vaguespac.es",
-          "source": "frogs.vaguespac.es",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T01:44:49.130000Z"
-        },
-        {
-          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
-          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "url": "https://news.ycombinator.com/item?id=49147622",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T20:25:10.684000Z"
-        },
-        {
-          "id": "9cdb16941baa8ae1980e1cc4ee81f9dfaf77b800",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T19:42:08Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5861,
-      "importance": 0.5861,
-      "importance_score": 0.5861,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9459,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T19:42:08Z",
-      "latest_at": "2026-08-03T06:21:00.484000Z",
-      "primary_item": {
-        "id": "75b78bfbd3b17e42ede7d7be6b60633dae2a45eb",
-        "title": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-        "url": "https://news.ycombinator.com/item?id=49147622",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_01dc8a532434",
-      "title": "OpenAI人工智能体突破沙箱入侵开源平台Hugging Face 自主AI安全边界失守",
-      "url": "https://www.aibase.com/news/30057",
-      "primary_url": "https://www.aibase.com/news/30057",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "59814318328af4611933775cbc86841bd19f6eb1",
-          "title": "OpenAI人工智能体突破沙箱入侵开源平台Hugging Face 自主AI安全边界失守",
-          "url": "https://www.aibase.com/news/30057",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T02:49:35.161437Z"
-        },
-        {
-          "id": "612dce398004ec56b39480fa45484f045540a7b4",
-          "title": "OpenAI 人工智能体突破沙箱入侵开源平台 Hugging Face，自主 AI 安全边界失守",
-          "url": "https://www.aibase.com/zh/news/30057",
-          "source": "Readhub · AI",
+          "id": "21e33b0fa8c7ca81df127bb133a5a23bb7fa2752",
+          "title": "Alisahryar1 / 免费克劳德代码 / Alishahryar1 / free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
+        },
+        {
+          "id": "7ad3cbe07d0ee3c125eaae99c56b832413b04759",
+          "title": "Alisahryar1 / 免费克劳德代码 / Alishahryar1 /      free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-03T12:58:54.447000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "59814318328af4611933775cbc86841bd19f6eb1",
-          "title": "OpenAI人工智能体突破沙箱入侵开源平台Hugging Face 自主AI安全边界失守",
-          "url": "https://www.aibase.com/news/30057",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T02:49:35.161437Z"
-        },
-        {
-          "id": "612dce398004ec56b39480fa45484f045540a7b4",
-          "title": "OpenAI 人工智能体突破沙箱入侵开源平台 Hugging Face，自主 AI 安全边界失守",
-          "url": "https://www.aibase.com/zh/news/30057",
-          "source": "Readhub · AI",
+          "id": "21e33b0fa8c7ca81df127bb133a5a23bb7fa2752",
+          "title": "Alisahryar1 / 免费克劳德代码 / Alishahryar1 / free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
+        },
+        {
+          "id": "7ad3cbe07d0ee3c125eaae99c56b832413b04759",
+          "title": "Alisahryar1 / 免费克劳德代码 / Alishahryar1 /      free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-03T12:58:54.447000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7744,
-      "importance": 0.7744,
-      "importance_score": 0.7744,
-      "importance_label": "行业动态",
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.899,
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-03T02:49:35.161437Z",
-      "latest_at": "2026-08-03T02:49:35.161437Z",
+      "earliest_at": "2026-08-03T12:58:54.447000Z",
+      "latest_at": "2026-08-03T13:24:02.456916Z",
       "primary_item": {
-        "id": "59814318328af4611933775cbc86841bd19f6eb1",
-        "title": "OpenAI人工智能体突破沙箱入侵开源平台Hugging Face 自主AI安全边界失守",
-        "url": "https://www.aibase.com/news/30057",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "21e33b0fa8c7ca81df127bb133a5a23bb7fa2752",
+        "title": "Alisahryar1 / 免费克劳德代码 / Alishahryar1 / free-claude-code",
+        "url": "https://github.com/Alishahryar1/free-claude-code",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1293,15 +1470,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5483,
-      "importance": 0.5483,
-      "importance_score": 0.5483,
+      "score": 0.5412,
+      "importance": 0.5412,
+      "importance_score": 0.5412,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8749,
+        "recency": 0.8354,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1316,6 +1493,183 @@
         "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
         "source": "www.ohiostatefair.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b82e59d62ef1",
+      "title": "阿里巴巴发布了迄今为止规模最大的AI模型，DeepSeek的最新模型成本极低 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUlCNHp6dVFoTEtqbkF3aFZqaVNUUVRJd0dicUhkb2tidzdkUWg0OVp1SU94aFJ1dmdkbDZIZGxMQVNWMm5vYXNKR0JicHNwZWRVX25ZY0hHaTNVUVdIWGdBNERsS3hDT29CdzlydEFGbFJzblgyempKcjljLVFELTVPRjdHVnRrOVRmQUs5QWVFQlg3aWVET1lNcDE4R2wwSC1vazRDaTNTZFhURm9qUGFfWGE5Sk1pMHNBUWx3TG85S1lZSWV4TUJxRU11UVhMR2Iw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUlCNHp6dVFoTEtqbkF3aFZqaVNUUVRJd0dicUhkb2tidzdkUWg0OVp1SU94aFJ1dmdkbDZIZGxMQVNWMm5vYXNKR0JicHNwZWRVX25ZY0hHaTNVUVdIWGdBNERsS3hDT29CdzlydEFGbFJzblgyempKcjljLVFELTVPRjdHVnRrOVRmQUs5QWVFQlg3aWVET1lNcDE4R2wwSC1vazRDaTNTZFhURm9qUGFfWGE5Sk1pMHNBUWx3TG85S1lZSWV4TUJxRU11UVhMR2Iw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "fc9aa96660a735bb076b57b805c5b3515c272066",
+          "title": "阿里巴巴发布了迄今为止规模最大的AI模型，DeepSeek的最新模型成本极低 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUlCNHp6dVFoTEtqbkF3aFZqaVNUUVRJd0dicUhkb2tidzdkUWg0OVp1SU94aFJ1dmdkbDZIZGxMQVNWMm5vYXNKR0JicHNwZWRVX25ZY0hHaTNVUVdIWGdBNERsS3hDT29CdzlydEFGbFJzblgyempKcjljLVFELTVPRjdHVnRrOVRmQUs5QWVFQlg3aWVET1lNcDE4R2wwSC1vazRDaTNTZFhURm9qUGFfWGE5Sk1pMHNBUWx3TG85S1lZSWV4TUJxRU11UVhMR2Iw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T11:20:59.576000Z"
+        },
+        {
+          "id": "a13b93a61558181d1294923e50cfda0978de6c86",
+          "title": "阿里巴巴发布了迄今为止规模最大的AI模型，DeepSeek的最新模型成本极低",
+          "url": "https://www.reuters.com/business/retail-consumer/alibaba-unveils-its-most-capable-ai-model-date-not-far-behind-moonshots-size-2026-08-03",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T09:45:13.093000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com",
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "fc9aa96660a735bb076b57b805c5b3515c272066",
+          "title": "阿里巴巴发布了迄今为止规模最大的AI模型，DeepSeek的最新模型成本极低 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUlCNHp6dVFoTEtqbkF3aFZqaVNUUVRJd0dicUhkb2tidzdkUWg0OVp1SU94aFJ1dmdkbDZIZGxMQVNWMm5vYXNKR0JicHNwZWRVX25ZY0hHaTNVUVdIWGdBNERsS3hDT29CdzlydEFGbFJzblgyempKcjljLVFELTVPRjdHVnRrOVRmQUs5QWVFQlg3aWVET1lNcDE4R2wwSC1vazRDaTNTZFhURm9qUGFfWGE5Sk1pMHNBUWx3TG85S1lZSWV4TUJxRU11UVhMR2Iw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T11:20:59.576000Z"
+        },
+        {
+          "id": "a13b93a61558181d1294923e50cfda0978de6c86",
+          "title": "阿里巴巴发布了迄今为止规模最大的AI模型，DeepSeek的最新模型成本极低",
+          "url": "https://www.reuters.com/business/retail-consumer/alibaba-unveils-its-most-capable-ai-model-date-not-far-behind-moonshots-size-2026-08-03",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T09:45:13.093000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5405,
+      "importance": 0.5405,
+      "importance_score": 0.5405,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9708,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-03T09:45:13.093000Z",
+      "latest_at": "2026-08-03T11:20:59.576000Z",
+      "primary_item": {
+        "id": "fc9aa96660a735bb076b57b805c5b3515c272066",
+        "title": "阿里巴巴发布了迄今为止规模最大的AI模型，DeepSeek的最新模型成本极低 - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUlCNHp6dVFoTEtqbkF3aFZqaVNUUVRJd0dicUhkb2tidzdkUWg0OVp1SU94aFJ1dmdkbDZIZGxMQVNWMm5vYXNKR0JicHNwZWRVX25ZY0hHaTNVUVdIWGdBNERsS3hDT29CdzlydEFGbFJzblgyempKcjljLVFELTVPRjdHVnRrOVRmQUs5QWVFQlg3aWVET1lNcDE4R2wwSC1vazRDaTNTZFhURm9qUGFfWGE5Sk1pMHNBUWx3TG85S1lZSWV4TUJxRU11UVhMR2Iw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5cc7a8dbf672",
+      "title": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+      "url": "https://news.ycombinator.com/item?id=49154127",
+      "primary_url": "https://news.ycombinator.com/item?id=49154127",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "1a396da68a21f3ff29ba5179dcbde2f74c62905e",
+          "title": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+          "url": "https://news.ycombinator.com/item?id=49154127",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-03T13:13:45.403000Z"
+        },
+        {
+          "id": "76ca4377457bf4b34e082a76ed826c60c67ceff9",
+          "title": "Show HN: Nightcrawler——一款在智能手机上运行的本地AI渗透测试工具",
+          "url": "https://github.com/garagehq/nightcrawler",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T11:20:57.958000Z"
+        },
+        {
+          "id": "7b93daa675052006d871322bec78b86c16e024e2",
+          "title": "Show HN: Nightcrawler——一款在智能手机上运行的本地AI渗透测试工具 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+          "url": "https://github.com/garagehq/nightcrawler",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T11:06:15Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1a396da68a21f3ff29ba5179dcbde2f74c62905e",
+          "title": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+          "url": "https://news.ycombinator.com/item?id=49154127",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-03T13:13:45.403000Z"
+        },
+        {
+          "id": "76ca4377457bf4b34e082a76ed826c60c67ceff9",
+          "title": "Show HN: Nightcrawler——一款在智能手机上运行的本地AI渗透测试工具",
+          "url": "https://github.com/garagehq/nightcrawler",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T11:20:57.958000Z"
+        },
+        {
+          "id": "7b93daa675052006d871322bec78b86c16e024e2",
+          "title": "Show HN: Nightcrawler——一款在智能手机上运行的本地AI渗透测试工具 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+          "url": "https://github.com/garagehq/nightcrawler",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T11:06:15Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5704,
+      "importance": 0.5704,
+      "importance_score": 0.5704,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9975,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-03T11:06:15Z",
+      "latest_at": "2026-08-03T13:13:45.403000Z",
+      "primary_item": {
+        "id": "1a396da68a21f3ff29ba5179dcbde2f74c62905e",
+        "title": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+        "url": "https://news.ycombinator.com/item?id=49154127",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1390,15 +1744,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5447,
-      "importance": 0.5447,
-      "importance_score": 0.5447,
+      "score": 0.5377,
+      "importance": 0.5377,
+      "importance_score": 0.5377,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8548,
+        "recency": 0.8162,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1413,341 +1767,6 @@
         "url": "https://www.huxiu.com/article/4880101.html?f=rss",
         "source": "虎嗅 (Huxiu)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_8f51a03d3151",
-      "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
-      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-      "primary_url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "3d9a419d4f24d56af6f25ea69f8d4e6df9fec513",
-          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
-          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T09:32:07Z"
-        },
-        {
-          "id": "ac5b43aa0f6847f061cdb73d97163b3bf96ac7b0",
-          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
-          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-          "source": "ankursethi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T10:48:42.540000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "ankursethi.com"
-      ],
-      "items": [
-        {
-          "id": "3d9a419d4f24d56af6f25ea69f8d4e6df9fec513",
-          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
-          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T09:32:07Z"
-        },
-        {
-          "id": "ac5b43aa0f6847f061cdb73d97163b3bf96ac7b0",
-          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
-          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-          "source": "ankursethi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T10:48:42.540000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5441,
-      "importance": 0.5441,
-      "importance_score": 0.5441,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9904,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T10:48:42.540000Z",
-      "latest_at": "2026-08-03T09:32:07Z",
-      "primary_item": {
-        "id": "3d9a419d4f24d56af6f25ea69f8d4e6df9fec513",
-        "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
-        "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_37c6423d5fd3",
-      "title": "欧盟关于人工智能模型的法规正式生效。这将带来哪些变化？",
-      "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-      "primary_url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-      "source": "www.euronews.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3239bce5628bd9229716fc1c9ae361a12576d2be",
-          "title": "欧盟关于人工智能模型的法规正式生效。这将带来哪些变化？",
-          "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-          "source": "www.euronews.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T22:48:54.109000Z"
-        },
-        {
-          "id": "2d233882c8cabd885510b3853e7c4306e648b22d",
-          "title": "欧盟关于人工智能模型的法规正式生效。这将带来哪些变化？ / EU rules on AI models become enforceable. What's going to change?",
-          "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T21:28:47Z"
-        },
-        {
-          "id": "22d23d553d32775a95bc6a7675c3cfb7edd56004",
-          "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
-          "url": "https://news.ycombinator.com/item?id=49147606",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T20:25:10.684000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "hackernews",
-        "www.euronews.com"
-      ],
-      "items": [
-        {
-          "id": "3239bce5628bd9229716fc1c9ae361a12576d2be",
-          "title": "欧盟关于人工智能模型的法规正式生效。这将带来哪些变化？",
-          "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-          "source": "www.euronews.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T22:48:54.109000Z"
-        },
-        {
-          "id": "2d233882c8cabd885510b3853e7c4306e648b22d",
-          "title": "欧盟关于人工智能模型的法规正式生效。这将带来哪些变化？ / EU rules on AI models become enforceable. What's going to change?",
-          "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T21:28:47Z"
-        },
-        {
-          "id": "22d23d553d32775a95bc6a7675c3cfb7edd56004",
-          "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
-          "url": "https://news.ycombinator.com/item?id=49147606",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T20:25:10.684000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5435,
-      "importance": 0.5435,
-      "importance_score": 0.5435,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8484,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T20:25:10.684000Z",
-      "latest_at": "2026-08-02T22:48:54.109000Z",
-      "primary_item": {
-        "id": "3239bce5628bd9229716fc1c9ae361a12576d2be",
-        "title": "欧盟关于人工智能模型的法规正式生效。这将带来哪些变化？",
-        "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-        "source": "www.euronews.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_9ebc895c2d08",
-      "title": "Hugging Face 首席执行官表示，像 OpenAI 事件这样的黑客攻击需要透明度",
-      "url": "https://www.businessinsider.com/hugging-face-ceo-hack-openai-mandatory-transparency-law-ai-2026-8",
-      "primary_url": "https://www.businessinsider.com/hugging-face-ceo-hack-openai-mandatory-transparency-law-ai-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2b77c8a244bbe12f437b142b77337dc6e16ee434",
-          "title": "Hugging Face 首席执行官表示，像 OpenAI 事件这样的黑客攻击需要透明度",
-          "url": "https://www.businessinsider.com/hugging-face-ceo-hack-openai-mandatory-transparency-law-ai-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T07:20:51.777000Z"
-        },
-        {
-          "id": "340019a9161967c58e7c13ae9acdb78bf2e4fb57",
-          "title": "Hugging Face 首席执行官表示，像 OpenAI 事件这样的黑客攻击需要透明度 / Hugging Face CEO says AI companies should be required to disclose hacks after OpenAI breach",
-          "url": "https://www.businessinsider.com/hugging-face-ceo-hack-openai-mandatory-transparency-law-ai-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T06:52:48Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "2b77c8a244bbe12f437b142b77337dc6e16ee434",
-          "title": "Hugging Face 首席执行官表示，像 OpenAI 事件这样的黑客攻击需要透明度",
-          "url": "https://www.businessinsider.com/hugging-face-ceo-hack-openai-mandatory-transparency-law-ai-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T07:20:51.777000Z"
-        },
-        {
-          "id": "340019a9161967c58e7c13ae9acdb78bf2e4fb57",
-          "title": "Hugging Face 首席执行官表示，像 OpenAI 事件这样的黑客攻击需要透明度 / Hugging Face CEO says AI companies should be required to disclose hacks after OpenAI breach",
-          "url": "https://www.businessinsider.com/hugging-face-ceo-hack-openai-mandatory-transparency-law-ai-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T06:52:48Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5385,
-      "importance": 0.5385,
-      "importance_score": 0.5385,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9596,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-03T06:52:48Z",
-      "latest_at": "2026-08-03T07:20:51.777000Z",
-      "primary_item": {
-        "id": "2b77c8a244bbe12f437b142b77337dc6e16ee434",
-        "title": "Hugging Face 首席执行官表示，像 OpenAI 事件这样的黑客攻击需要透明度",
-        "url": "https://www.businessinsider.com/hugging-face-ceo-hack-openai-mandatory-transparency-law-ai-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_81b42fbebc86",
-      "title": "Show HN: 中国人正在推出Claude/Codex的90%折扣优惠",
-      "url": "https://news.ycombinator.com/item?id=49151751",
-      "primary_url": "https://news.ycombinator.com/item?id=49151751",
-      "source": "news.ycombinator.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9f44ef1180a4061704606b022b753374eaffc0c0",
-          "title": "Show HN: 中国人正在推出Claude/Codex的90%折扣优惠",
-          "url": "https://news.ycombinator.com/item?id=49151751",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T06:48:57.926000Z"
-        },
-        {
-          "id": "96b4fa9a21fbc5c88946389343c89e310c1687cc",
-          "title": "Show HN: 中国人正在推出Claude/Codex的90%折扣优惠 / Show HN: Chinese are offering Claude/Codex offers 90% off",
-          "url": "https://news.ycombinator.com/item?id=49151751",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-03T06:03:33Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "news.ycombinator.com"
-      ],
-      "items": [
-        {
-          "id": "9f44ef1180a4061704606b022b753374eaffc0c0",
-          "title": "Show HN: 中国人正在推出Claude/Codex的90%折扣优惠",
-          "url": "https://news.ycombinator.com/item?id=49151751",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T06:48:57.926000Z"
-        },
-        {
-          "id": "96b4fa9a21fbc5c88946389343c89e310c1687cc",
-          "title": "Show HN: 中国人正在推出Claude/Codex的90%折扣优惠 / Show HN: Chinese are offering Claude/Codex offers 90% off",
-          "url": "https://news.ycombinator.com/item?id=49151751",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-03T06:03:33Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5372,
-      "importance": 0.5372,
-      "importance_score": 0.5372,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9523,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-03T06:03:33Z",
-      "latest_at": "2026-08-03T06:48:57.926000Z",
-      "primary_item": {
-        "id": "9f44ef1180a4061704606b022b753374eaffc0c0",
-        "title": "Show HN: 中国人正在推出Claude/Codex的90%折扣优惠",
-        "url": "https://news.ycombinator.com/item?id=49151751",
-        "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
       }
     }
   ]
