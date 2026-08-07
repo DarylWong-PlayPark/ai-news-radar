@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T03:27:12.801425Z",
+  "generated_at": "2026-08-07T05:14:47.070968Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8949,
-      "importance": 0.8949,
-      "importance_score": 0.8949,
+      "score": 0.8913,
+      "importance": 0.8913,
+      "importance_score": 0.8913,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7772,
+        "recency": 0.7574,
         "story_heat": 0.75
       },
       "category": "official",
@@ -177,15 +177,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8582,
-      "importance": 0.8582,
-      "importance_score": 0.8582,
+      "score": 0.8541,
+      "importance": 0.8541,
+      "importance_score": 0.8541,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8957,
+        "recency": 0.8728,
         "story_heat": 0.25
       },
       "category": "official",
@@ -240,15 +240,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8572,
-      "importance": 0.8572,
-      "importance_score": 0.8572,
+      "score": 0.8529,
+      "importance": 0.8529,
+      "importance_score": 0.8529,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9514,
+        "recency": 0.927,
         "story_heat": 0.0
       },
       "category": "official",
@@ -302,15 +302,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8278,
-      "importance": 0.8278,
-      "importance_score": 0.8278,
+      "score": 0.8238,
+      "importance": 0.8238,
+      "importance_score": 0.8238,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8656,
+        "recency": 0.8435,
         "story_heat": 0.0
       },
       "category": "official",
@@ -364,15 +364,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8146,
-      "importance": 0.8146,
-      "importance_score": 0.8146,
+      "score": 0.8108,
+      "importance": 0.8108,
+      "importance_score": 0.8108,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8367,
+        "recency": 0.8153,
         "story_heat": 0.0
       },
       "category": "official",
@@ -445,15 +445,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.788,
+      "importance": 0.788,
+      "importance_score": 0.788,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9744,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -470,6 +470,68 @@
         "url": "https://www.aibase.com/news/30180",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6da5f2d271da",
+      "title": "与美国心理学会合作研究青少年心理健康和人工智能 / Working with the American Psychological Association on youth mental health and AI",
+      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "primary_url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1a8fe6ac54175c21291af62fd9b6eda69be49685",
+          "title": "与美国心理学会合作研究青少年心理健康和人工智能 / Working with the American Psychological Association on youth mental health and AI",
+          "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-06T06:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "1a8fe6ac54175c21291af62fd9b6eda69be49685",
+          "title": "与美国心理学会合作研究青少年心理健康和人工智能 / Working with the American Psychological Association on youth mental health and AI",
+          "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-06T06:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8007,
+      "importance": 0.8007,
+      "importance_score": 0.8007,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7148,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-06T06:00:00Z",
+      "latest_at": "2026-08-06T06:00:00Z",
+      "primary_item": {
+        "id": "1a8fe6ac54175c21291af62fd9b6eda69be49685",
+        "title": "与美国心理学会合作研究青少年心理健康和人工智能 / Working with the American Psychological Association on youth mental health and AI",
+        "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -525,15 +587,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7741,
-      "importance": 0.7741,
-      "importance_score": 0.7741,
+      "score": 0.7696,
+      "importance": 0.7696,
+      "importance_score": 0.7696,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9804,
+        "recency": 0.9553,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -550,68 +612,6 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e",
         "source": "公众号：千问APP（阿里）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6da5f2d271da",
-      "title": "与美国心理学会合作研究青少年心理健康和人工智能 / Working with the American Psychological Association on youth mental health and AI",
-      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-      "primary_url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1a8fe6ac54175c21291af62fd9b6eda69be49685",
-          "title": "与美国心理学会合作研究青少年心理健康和人工智能 / Working with the American Psychological Association on youth mental health and AI",
-          "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-06T06:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "1a8fe6ac54175c21291af62fd9b6eda69be49685",
-          "title": "与美国心理学会合作研究青少年心理健康和人工智能 / Working with the American Psychological Association on youth mental health and AI",
-          "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-06T06:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.804,
-      "importance": 0.804,
-      "importance_score": 0.804,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7336,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-06T06:00:00Z",
-      "latest_at": "2026-08-06T06:00:00Z",
-      "primary_item": {
-        "id": "1a8fe6ac54175c21291af62fd9b6eda69be49685",
-        "title": "与美国心理学会合作研究青少年心理健康和人工智能 / Working with the American Psychological Association on youth mental health and AI",
-        "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -668,15 +668,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7686,
-      "importance": 0.7686,
-      "importance_score": 0.7686,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8169,
+        "recency": 0.796,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -749,15 +749,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7647,
-      "importance": 0.7647,
-      "importance_score": 0.7647,
+      "score": 0.761,
+      "importance": 0.761,
+      "importance_score": 0.761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8116,
+        "recency": 0.7909,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -830,15 +830,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.788,
+      "importance": 0.788,
+      "importance_score": 0.788,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9744,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -892,15 +892,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7559,
+      "importance": 0.7559,
+      "importance_score": 0.7559,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.891,
+        "recency": 0.8682,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -972,15 +972,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7574,
-      "importance": 0.7574,
-      "importance_score": 0.7574,
+      "score": 0.7535,
+      "importance": 0.7535,
+      "importance_score": 0.7535,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8375,
+        "recency": 0.8161,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1053,15 +1053,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7553,
-      "importance": 0.7553,
-      "importance_score": 0.7553,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8095,
+        "recency": 0.7888,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1115,21 +1115,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7513,
-      "importance": 0.7513,
-      "importance_score": 0.7513,
+      "score": 0.7475,
+      "importance": 0.7475,
+      "importance_score": 0.7475,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8259,
+        "recency": 0.8048,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-06T14:12:19Z",
       "latest_at": "2026-08-06T14:12:19Z",
@@ -1176,21 +1175,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7511,
-      "importance": 0.7511,
-      "importance_score": 0.7511,
+      "score": 0.7472,
+      "importance": 0.7472,
+      "importance_score": 0.7472,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8585,
+        "recency": 0.8365,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-06T16:53:12.298000Z",
       "latest_at": "2026-08-06T16:53:12.298000Z",
@@ -1199,66 +1197,6 @@
         "title": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范",
         "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more",
         "source": "Google Developers Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7fee6508a588",
-      "title": "Anthropic 更新 Claude Fable 5 生物安全防护，误报率大幅降低",
-      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-      "primary_url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bf6cd922a6edf0b91ad01230ec14fd770b9ea656",
-          "title": "Anthropic 更新 Claude Fable 5 生物安全防护，误报率大幅降低",
-          "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T02:41:46.636000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Newsroom（网页）"
-      ],
-      "items": [
-        {
-          "id": "bf6cd922a6edf0b91ad01230ec14fd770b9ea656",
-          "title": "Anthropic 更新 Claude Fable 5 生物安全防护，误报率大幅降低",
-          "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T02:41:46.636000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7476,
-      "importance": 0.7476,
-      "importance_score": 0.7476,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9891,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-07T02:41:46.636000Z",
-      "latest_at": "2026-08-07T02:41:46.636000Z",
-      "primary_item": {
-        "id": "bf6cd922a6edf0b91ad01230ec14fd770b9ea656",
-        "title": "Anthropic 更新 Claude Fable 5 生物安全防护，误报率大幅降低",
-        "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-        "source": "Anthropic：Newsroom（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -1297,15 +1235,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.747,
-      "importance": 0.747,
-      "importance_score": 0.747,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7358,
+        "recency": 0.717,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1319,6 +1257,66 @@
         "title": "Qwen-Image-3.0 发布：高分辨率低至 0.03 美元",
         "url": "https://x.com/alibaba_cloud/status/2085247637734002848",
         "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7fee6508a588",
+      "title": "Anthropic 更新 Claude Fable 5 生物安全防护，误报率大幅降低",
+      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "primary_url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bf6cd922a6edf0b91ad01230ec14fd770b9ea656",
+          "title": "Anthropic 更新 Claude Fable 5 生物安全防护，误报率大幅降低",
+          "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T02:41:46.636000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Newsroom（网页）"
+      ],
+      "items": [
+        {
+          "id": "bf6cd922a6edf0b91ad01230ec14fd770b9ea656",
+          "title": "Anthropic 更新 Claude Fable 5 生物安全防护，误报率大幅降低",
+          "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T02:41:46.636000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9638,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-07T02:41:46.636000Z",
+      "latest_at": "2026-08-07T02:41:46.636000Z",
+      "primary_item": {
+        "id": "bf6cd922a6edf0b91ad01230ec14fd770b9ea656",
+        "title": "Anthropic 更新 Claude Fable 5 生物安全防护，误报率大幅降低",
+        "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+        "source": "Anthropic：Newsroom（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -1376,15 +1374,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7445,
-      "importance": 0.7445,
-      "importance_score": 0.7445,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7661,
+        "recency": 0.7465,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1437,15 +1435,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7367,
-      "importance": 0.7367,
-      "importance_score": 0.7367,
+      "score": 0.7333,
+      "importance": 0.7333,
+      "importance_score": 0.7333,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7449,
+        "recency": 0.7259,
         "story_heat": 0.0
       },
       "category": "industry",
