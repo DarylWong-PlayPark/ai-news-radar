@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T17:04:22.489043Z",
+  "generated_at": "2026-08-08T17:56:55.077746Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -114,15 +114,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8944,
-      "importance": 0.8944,
-      "importance_score": 0.8944,
+      "score": 0.8922,
+      "importance": 0.8922,
+      "importance_score": 0.8922,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9655,
+        "recency": 0.9534,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -176,15 +176,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8112,
-      "importance": 0.8112,
-      "importance_score": 0.8112,
+      "score": 0.8094,
+      "importance": 0.8094,
+      "importance_score": 0.8094,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7733,
+        "recency": 0.7636,
         "story_heat": 0.0
       },
       "category": "official",
@@ -200,68 +200,6 @@
         "title": "GitHub Copilot 每周发布 — 8 月 3 日 / GitHub Copilot weekly releases — August 3",
         "url": "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_fd5b733b3580",
-      "title": "TutorMoments：人工智能导师知道什么时候该帮忙，什么时候该阻止吗？ / TutorMoments: Do AI tutors know when to help and when to hold back?",
-      "url": "https://huggingface.co/blog/allenai/tutormoments",
-      "primary_url": "https://huggingface.co/blog/allenai/tutormoments",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "99d393e8e93ddbc7c75db81d11dde4db00583792",
-          "title": "TutorMoments：人工智能导师知道什么时候该帮忙，什么时候该阻止吗？ / TutorMoments: Do AI tutors know when to help and when to hold back?",
-          "url": "https://huggingface.co/blog/allenai/tutormoments",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T17:53:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "99d393e8e93ddbc7c75db81d11dde4db00583792",
-          "title": "TutorMoments：人工智能导师知道什么时候该帮忙，什么时候该阻止吗？ / TutorMoments: Do AI tutors know when to help and when to hold back?",
-          "url": "https://huggingface.co/blog/allenai/tutormoments",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T17:53:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8088,
-      "importance": 0.8088,
-      "importance_score": 0.8088,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7155,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T17:53:32Z",
-      "latest_at": "2026-08-07T17:53:32Z",
-      "primary_item": {
-        "id": "99d393e8e93ddbc7c75db81d11dde4db00583792",
-        "title": "TutorMoments：人工智能导师知道什么时候该帮忙，什么时候该阻止吗？ / TutorMoments: Do AI tutors know when to help and when to hold back?",
-        "url": "https://huggingface.co/blog/allenai/tutormoments",
-        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -319,15 +257,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7929,
-      "importance": 0.7929,
-      "importance_score": 0.7929,
+      "score": 0.7908,
+      "importance": 0.7908,
+      "importance_score": 0.7908,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9517,
+        "recency": 0.9397,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -381,15 +319,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8069,
-      "importance": 0.8069,
-      "importance_score": 0.8069,
+      "score": 0.8052,
+      "importance": 0.8052,
+      "importance_score": 0.8052,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7494,
+        "recency": 0.74,
         "story_heat": 0.0
       },
       "category": "official",
@@ -443,15 +381,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7677,
-      "importance": 0.7677,
-      "importance_score": 0.7677,
+      "score": 0.7656,
+      "importance": 0.7656,
+      "importance_score": 0.7656,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9173,
+        "recency": 0.9058,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -504,15 +442,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7458,
+      "importance": 0.7458,
+      "importance_score": 0.7458,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9912,
+        "recency": 0.9788,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -564,15 +502,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8064,
-      "importance": 0.8064,
-      "importance_score": 0.8064,
+      "score": 0.8047,
+      "importance": 0.8047,
+      "importance_score": 0.8047,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7465,
+        "recency": 0.7371,
         "story_heat": 0.0
       },
       "category": "official",
@@ -626,15 +564,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
+      "score": 0.7565,
+      "importance": 0.7565,
+      "importance_score": 0.7565,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8825,
+        "recency": 0.8714,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -649,66 +587,6 @@
         "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
         "url": "https://www.ithome.com/0/987/366.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5f60034b7e7a",
-      "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
-      "url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
-      "primary_url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0052276302c8e454bcddbd473a258cc0a8cd7e50",
-          "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
-          "url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T17:51:24.888000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
-      ],
-      "items": [
-        {
-          "id": "0052276302c8e454bcddbd473a258cc0a8cd7e50",
-          "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
-          "url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T17:51:24.888000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7283,
-      "importance": 0.7283,
-      "importance_score": 0.7283,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7152,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-07T17:51:24.888000Z",
-      "latest_at": "2026-08-07T17:51:24.888000Z",
-      "primary_item": {
-        "id": "0052276302c8e454bcddbd473a258cc0a8cd7e50",
-        "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
-        "url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
         "source_name": "AI HOT"
       }
     },
@@ -747,15 +625,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7232,
-      "importance": 0.7232,
-      "importance_score": 0.7232,
+      "score": 0.7216,
+      "importance": 0.7216,
+      "importance_score": 0.7216,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7368,
+        "recency": 0.7275,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -807,15 +685,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8016,
-      "importance": 0.8016,
-      "importance_score": 0.8016,
+      "score": 0.8,
+      "importance": 0.8,
+      "importance_score": 0.8,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7202,
+        "recency": 0.7112,
         "story_heat": 0.0
       },
       "category": "official",
@@ -869,15 +747,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7333,
-      "importance": 0.7333,
-      "importance_score": 0.7333,
+      "score": 0.7317,
+      "importance": 0.7317,
+      "importance_score": 0.7317,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7261,
+        "recency": 0.717,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -929,15 +807,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7446,
-      "importance": 0.7446,
-      "importance_score": 0.7446,
+      "score": 0.7428,
+      "importance": 0.7428,
+      "importance_score": 0.7428,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.772,
+        "recency": 0.7623,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -989,15 +867,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
+      "score": 0.7983,
+      "importance": 0.7983,
+      "importance_score": 0.7983,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7556,
+        "recency": 0.7461,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1088,15 +966,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6445,
-      "importance": 0.6445,
-      "importance_score": 0.6445,
+      "score": 0.6423,
+      "importance": 0.6423,
+      "importance_score": 0.6423,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.9581,
+        "recency": 0.9461,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1111,68 +989,6 @@
         "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
         "source": "Simon Willison",
         "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_999235830ad8",
-      "title": "公共预览版和多选字段中的“涉及”问题关系已普遍可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
-      "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
-      "primary_url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "65540384e1e76367ac2e5a7c2d23682bce9a432a",
-          "title": "公共预览版和多选字段中的“涉及”问题关系已普遍可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
-          "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T17:33:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "65540384e1e76367ac2e5a7c2d23682bce9a432a",
-          "title": "公共预览版和多选字段中的“涉及”问题关系已普遍可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
-          "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T17:33:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7922,
-      "importance": 0.7922,
-      "importance_score": 0.7922,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.712,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T17:33:14Z",
-      "latest_at": "2026-08-07T17:33:14Z",
-      "primary_item": {
-        "id": "65540384e1e76367ac2e5a7c2d23682bce9a432a",
-        "title": "公共预览版和多选字段中的“涉及”问题关系已普遍可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
-        "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1264,15 +1080,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5972,
-      "importance": 0.5972,
-      "importance_score": 0.5972,
+      "score": 0.5955,
+      "importance": 0.5955,
+      "importance_score": 0.5955,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7389,
+        "recency": 0.7296,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1399,15 +1215,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5845,
-      "importance": 0.5845,
-      "importance_score": 0.5845,
+      "score": 0.5827,
+      "importance": 0.5827,
+      "importance_score": 0.5827,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7985,
+        "recency": 0.7884,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1477,15 +1293,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5782,
-      "importance": 0.5782,
-      "importance_score": 0.5782,
+      "score": 0.5766,
+      "importance": 0.5766,
+      "importance_score": 0.5766,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.7237,
+        "recency": 0.7146,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1500,6 +1316,241 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
         "source": "The Verge",
         "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_d5ffa69b0bf6",
+      "title": "与特朗普有关联的金融科技公司AI Financial将其旗下业务部门出售给PrimeDelta",
+      "url": "https://www.reuters.com/legal/transactional/trump-linked-fintech-ai-financial-sells-unit-prime-delta-2026-08-08",
+      "primary_url": "https://www.reuters.com/legal/transactional/trump-linked-fintech-ai-financial-sells-unit-prime-delta-2026-08-08",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "57bc710270b70788cb181d54e69e55d0067b988c",
+          "title": "与特朗普有关联的金融科技公司AI Financial将其旗下业务部门出售给PrimeDelta",
+          "url": "https://www.reuters.com/legal/transactional/trump-linked-fintech-ai-financial-sells-unit-prime-delta-2026-08-08",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T15:26:37.111000Z"
+        },
+        {
+          "id": "6368c719b8d0c676413f52d2abbcb368b48937e9",
+          "title": "与特朗普有关联的金融科技公司AI Financial将旗下业务部门出售给Prime Delta",
+          "url": "https://www.reuters.com/legal/transactional/trump-linked-fintech-ai-financial-sells-unit-prime-delta-2026-08-08",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T01:18:40.309000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "57bc710270b70788cb181d54e69e55d0067b988c",
+          "title": "与特朗普有关联的金融科技公司AI Financial将其旗下业务部门出售给PrimeDelta",
+          "url": "https://www.reuters.com/legal/transactional/trump-linked-fintech-ai-financial-sells-unit-prime-delta-2026-08-08",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T15:26:37.111000Z"
+        },
+        {
+          "id": "6368c719b8d0c676413f52d2abbcb368b48937e9",
+          "title": "与特朗普有关联的金融科技公司AI Financial将旗下业务部门出售给Prime Delta",
+          "url": "https://www.reuters.com/legal/transactional/trump-linked-fintech-ai-financial-sells-unit-prime-delta-2026-08-08",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T01:18:40.309000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5394,
+      "importance": 0.5394,
+      "importance_score": 0.5394,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9645,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T01:18:40.309000Z",
+      "latest_at": "2026-08-08T15:26:37.111000Z",
+      "primary_item": {
+        "id": "57bc710270b70788cb181d54e69e55d0067b988c",
+        "title": "与特朗普有关联的金融科技公司AI Financial将其旗下业务部门出售给PrimeDelta",
+        "url": "https://www.reuters.com/legal/transactional/trump-linked-fintech-ai-financial-sells-unit-prime-delta-2026-08-08",
+        "source": "www.reuters.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_159e06467b2c",
+      "title": "人工智能热潮正在创造薪资更高的数据中心岗位",
+      "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+      "primary_url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b42d891815405d24eaf293fe7d1aa66f5c032f63",
+          "title": "人工智能热潮正在创造薪资更高的数据中心岗位",
+          "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T12:14:35.904000Z"
+        },
+        {
+          "id": "f39453cdbb6dd774dd0e7996370527a3a9beb5fd",
+          "title": "人工智能热潮正在创造薪资更高的数据中心岗位 / The AI boom is creating data center jobs that pay more",
+          "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T12:00:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "b42d891815405d24eaf293fe7d1aa66f5c032f63",
+          "title": "人工智能热潮正在创造薪资更高的数据中心岗位",
+          "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T12:14:35.904000Z"
+        },
+        {
+          "id": "f39453cdbb6dd774dd0e7996370527a3a9beb5fd",
+          "title": "人工智能热潮正在创造薪资更高的数据中心岗位 / The AI boom is creating data center jobs that pay more",
+          "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T12:00:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5316,
+      "importance": 0.5316,
+      "importance_score": 0.5316,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9209,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T12:00:01Z",
+      "latest_at": "2026-08-08T12:14:35.904000Z",
+      "primary_item": {
+        "id": "b42d891815405d24eaf293fe7d1aa66f5c032f63",
+        "title": "人工智能热潮正在创造薪资更高的数据中心岗位",
+        "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_de8a671ce9e4",
+      "title": "[分享创造] 做了个平台 ChatGPT Plus/Pro5x20x 低价自助充值，提供质保，给 V 友来波优惠！",
+      "url": "https://www.v2ex.com/t/1232891",
+      "primary_url": "https://www.v2ex.com/t/1232891",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "311db402e3f7ea4a04e2651d608f8b7377d8665b",
+          "title": "[分享创造] 做了个平台 ChatGPT Plus/Pro5x20x 低价自助充值，提供质保，给 V 友来波优惠！",
+          "url": "https://www.v2ex.com/t/1232891",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T05:38:57Z"
+        },
+        {
+          "id": "903b6fbb18f2c3f717c6f8a6633fbc2571e49798",
+          "title": "[推广] 做了个平台 ChatGPT Plus/Pro5x20x 低价自助充值，提供质保，给 V 友来波优惠！",
+          "url": "https://www.v2ex.com/t/1232891",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T05:38:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "311db402e3f7ea4a04e2651d608f8b7377d8665b",
+          "title": "[分享创造] 做了个平台 ChatGPT Plus/Pro5x20x 低价自助充值，提供质保，给 V 友来波优惠！",
+          "url": "https://www.v2ex.com/t/1232891",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T05:38:57Z"
+        },
+        {
+          "id": "903b6fbb18f2c3f717c6f8a6633fbc2571e49798",
+          "title": "[推广] 做了个平台 ChatGPT Plus/Pro5x20x 低价自助充值，提供质保，给 V 友来波优惠！",
+          "url": "https://www.v2ex.com/t/1232891",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T05:38:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5165,
+      "importance": 0.5165,
+      "importance_score": 0.5165,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8373,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T05:38:57Z",
+      "latest_at": "2026-08-08T05:38:57Z",
+      "primary_item": {
+        "id": "311db402e3f7ea4a04e2651d608f8b7377d8665b",
+        "title": "[分享创造] 做了个平台 ChatGPT Plus/Pro5x20x 低价自助充值，提供质保，给 V 友来波优惠！",
+        "url": "https://www.v2ex.com/t/1232891",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
       }
     }
   ]
