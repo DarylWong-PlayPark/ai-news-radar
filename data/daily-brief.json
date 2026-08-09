@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T03:15:31.812920Z",
+  "generated_at": "2026-08-09T04:45:52.030153Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -151,15 +151,15 @@
       ],
       "item_count": 7,
       "duplicate_count": 7,
-      "score": 0.8706,
-      "importance": 0.8706,
-      "importance_score": 0.8706,
+      "score": 0.8674,
+      "importance": 0.8674,
+      "importance_score": 0.8674,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8335,
+        "recency": 0.8155,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -232,15 +232,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7695,
-      "importance": 0.7695,
-      "importance_score": 0.7695,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8215,
+        "recency": 0.8039,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -257,6 +257,67 @@
         "url": "https://www.ithome.com/0/987/438.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f0a7578f7eba",
+      "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "c71f2f15b9be7737feae2051433a7619cac06f89",
+          "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-08-09T03:30:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "c71f2f15b9be7737feae2051433a7619cac06f89",
+          "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-08-09T03:30:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7644,
+      "importance": 0.7644,
+      "importance_score": 0.7644,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.982,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-09T03:30:30Z",
+      "latest_at": "2026-08-09T03:30:30Z",
+      "primary_item": {
+        "id": "c71f2f15b9be7737feae2051433a7619cac06f89",
+        "title": "何夕2077 AI 深度信号周报 (2026 W32)：安全红线拉锯、谷歌权力真空与算力军备竞赛",
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w32",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
       }
     },
     {
@@ -294,15 +355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7451,
-      "importance": 0.7451,
-      "importance_score": 0.7451,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7919,
+        "recency": 0.7748,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -317,6 +378,67 @@
         "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
         "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2b04770e322d",
+      "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "bf5522d0af6d1090ffb62554ea4574bed6064554",
+          "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-08-09T03:24:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "bf5522d0af6d1090ffb62554ea4574bed6064554",
+          "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-08-09T03:24:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7641,
+      "importance": 0.7641,
+      "importance_score": 0.7641,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9807,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-09T03:24:44Z",
+      "latest_at": "2026-08-09T03:24:44Z",
+      "primary_item": {
+        "id": "bf5522d0af6d1090ffb62554ea4574bed6064554",
+        "title": "何夕2077 AI 深度信号周报 (2026年 W31)：安全失控、千亿基建与模型价格战",
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-09-hexi2077-ai-weekly-2026-w31",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
       }
     },
     {
@@ -354,15 +476,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7563,
-      "importance": 0.7563,
-      "importance_score": 0.7563,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9372,
+        "recency": 0.9171,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -415,15 +537,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7236,
-      "importance": 0.7236,
-      "importance_score": 0.7236,
+      "score": 0.7203,
+      "importance": 0.7203,
+      "importance_score": 0.7203,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8557,
+        "recency": 0.8372,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -475,15 +597,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7367,
-      "importance": 0.7367,
-      "importance_score": 0.7367,
+      "score": 0.7338,
+      "importance": 0.7338,
+      "importance_score": 0.7338,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7618,
+        "recency": 0.7454,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -571,15 +693,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6023,
-      "importance": 0.6023,
-      "importance_score": 0.6023,
+      "score": 0.5988,
+      "importance": 0.5988,
+      "importance_score": 0.5988,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9061,
+        "recency": 0.8866,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -650,15 +772,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5987,
-      "importance": 0.5987,
-      "importance_score": 0.5987,
+      "score": 0.595,
+      "importance": 0.595,
+      "importance_score": 0.595,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9349,
+        "recency": 0.9148,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -747,15 +869,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5612,
-      "importance": 0.5612,
-      "importance_score": 0.5612,
+      "score": 0.5575,
+      "importance": 0.5575,
+      "importance_score": 0.5575,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9464,
+        "recency": 0.926,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -845,15 +967,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5516,
-      "importance": 0.5516,
-      "importance_score": 0.5516,
+      "score": 0.5481,
+      "importance": 0.5481,
+      "importance_score": 0.5481,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8933,
+        "recency": 0.8741,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -868,6 +990,164 @@
         "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
         "source": "mezha.net",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e83b068a58df",
+      "title": "OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器",
+      "url": "http://www.geekpark.net/news/368579",
+      "primary_url": "http://www.geekpark.net/news/368579",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "f32e6d8660985ab53c513a50b84964e09360dd9b",
+          "title": "OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器",
+          "url": "http://www.geekpark.net/news/368579",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "0da323456024f560f9913a54fd0bedc2525ba00b",
+          "title": "OpenAI 用1年时间证明，你并不用为AI 换浏览器",
+          "url": "https://www.huxiu.com/article/4881757.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-09T04:21:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "f32e6d8660985ab53c513a50b84964e09360dd9b",
+          "title": "OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器",
+          "url": "http://www.geekpark.net/news/368579",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "0da323456024f560f9913a54fd0bedc2525ba00b",
+          "title": "OpenAI 用1年时间证明，你并不用为AI 换浏览器",
+          "url": "https://www.huxiu.com/article/4881757.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-09T04:21:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T04:21:14Z",
+      "latest_at": "2026-08-09T04:45:52.030153Z",
+      "primary_item": {
+        "id": "f32e6d8660985ab53c513a50b84964e09360dd9b",
+        "title": "OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器",
+        "url": "http://www.geekpark.net/news/368579",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_8a13e134e6ed",
+      "title": "ChatGPT 开始阻止复制作者风格的直接请求 / ChatGPT starts blocking direct requests to copy an author's style",
+      "url": "https://news.ycombinator.com/item?id=49227718",
+      "primary_url": "https://news.ycombinator.com/item?id=49227718",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "b0bff110a2c809f8b8c8488830fd5669ddf83a59",
+          "title": "ChatGPT 开始阻止复制作者风格的直接请求 / ChatGPT starts blocking direct requests to copy an author's style",
+          "url": "https://news.ycombinator.com/item?id=49227718",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T04:35:53.381000Z"
+        },
+        {
+          "id": "b4b805324bccbc44c7f8412a7c7a24c503100822",
+          "title": "ChatGPT 开始阻止复制作者风格的直接请求 / ChatGPT starts blocking direct requests to copy an author's style",
+          "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T02:01:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b0bff110a2c809f8b8c8488830fd5669ddf83a59",
+          "title": "ChatGPT 开始阻止复制作者风格的直接请求 / ChatGPT starts blocking direct requests to copy an author's style",
+          "url": "https://news.ycombinator.com/item?id=49227718",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T04:35:53.381000Z"
+        },
+        {
+          "id": "b4b805324bccbc44c7f8412a7c7a24c503100822",
+          "title": "ChatGPT 开始阻止复制作者风格的直接请求 / ChatGPT starts blocking direct requests to copy an author's style",
+          "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T02:01:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5454,
+      "importance": 0.5454,
+      "importance_score": 0.5454,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9976,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T02:01:38Z",
+      "latest_at": "2026-08-09T04:35:53.381000Z",
+      "primary_item": {
+        "id": "b0bff110a2c809f8b8c8488830fd5669ddf83a59",
+        "title": "ChatGPT 开始阻止复制作者风格的直接请求 / ChatGPT starts blocking direct requests to copy an author's style",
+        "url": "https://news.ycombinator.com/item?id=49227718",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -943,15 +1223,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5485,
-      "importance": 0.5485,
-      "importance_score": 0.5485,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8763,
+        "recency": 0.8574,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -966,85 +1246,6 @@
         "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
         "source": "social.treehouse.systems",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_787ae63fa6c8",
-      "title": "小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
-      "url": "https://www.ithome.com/0/987/488.htm",
-      "primary_url": "https://www.ithome.com/0/987/488.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "31b35d1e00d12ff5914c0e04c458178999115311",
-          "title": "小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
-          "url": "https://www.ithome.com/0/987/488.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f3ae8e4b071f84bd50ded5958befb25aee8cebd8",
-          "title": "消息称小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
-          "url": "https://www.ithome.com/0/987/488.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T01:32:33Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "31b35d1e00d12ff5914c0e04c458178999115311",
-          "title": "小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
-          "url": "https://www.ithome.com/0/987/488.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f3ae8e4b071f84bd50ded5958befb25aee8cebd8",
-          "title": "消息称小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
-          "url": "https://www.ithome.com/0/987/488.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T01:32:33Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T01:32:33Z",
-      "latest_at": "2026-08-09T03:15:31.812920Z",
-      "primary_item": {
-        "id": "31b35d1e00d12ff5914c0e04c458178999115311",
-        "title": "小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
-        "url": "https://www.ithome.com/0/987/488.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1101,15 +1302,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.5339,
+      "importance": 0.5339,
+      "importance_score": 0.5339,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.32,
         "ai_relevance": 0.67,
-        "recency": 0.9071,
+        "recency": 0.8876,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1124,85 +1325,6 @@
         "url": "https://revisionprompting.info",
         "source": "revisionprompting.info",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_561b016160b5",
-      "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
-      "url": "https://news.ycombinator.com/item?id=49222824",
-      "primary_url": "https://news.ycombinator.com/item?id=49222824",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
-          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
-          "url": "https://news.ycombinator.com/item?id=49222824",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T20:17:29.087000Z"
-        },
-        {
-          "id": "791785f6eb5df43737e935bb32ce700080603158",
-          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
-          "url": "https://code.claude.com/docs/en/cross-session-messaging",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T15:34:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
-          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
-          "url": "https://news.ycombinator.com/item?id=49222824",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T20:17:29.087000Z"
-        },
-        {
-          "id": "791785f6eb5df43737e935bb32ce700080603158",
-          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
-          "url": "https://code.claude.com/docs/en/cross-session-messaging",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T15:34:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5286,
-      "importance": 0.5286,
-      "importance_score": 0.5286,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9043,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T15:34:49Z",
-      "latest_at": "2026-08-08T20:17:29.087000Z",
-      "primary_item": {
-        "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
-        "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
-        "url": "https://news.ycombinator.com/item?id=49222824",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1259,15 +1381,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.527,
-      "importance": 0.527,
-      "importance_score": 0.527,
+      "score": 0.5235,
+      "importance": 0.5235,
+      "importance_score": 0.5235,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8953,
+        "recency": 0.8761,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1338,15 +1460,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5241,
-      "importance": 0.5241,
-      "importance_score": 0.5241,
+      "score": 0.5207,
+      "importance": 0.5207,
+      "importance_score": 0.5207,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8797,
+        "recency": 0.8607,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1361,6 +1483,85 @@
         "url": "https://robot.villas",
         "source": "robot.villas",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6562358308fb",
+      "title": "韶音推出「OpenFit 2 AI」开放式耳机：升级千问大模型，1698 元",
+      "url": "https://www.ithome.com/0/987/531.htm",
+      "primary_url": "https://www.ithome.com/0/987/531.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "8d72b38c6dafd45653989667f53893ac1a5c8f8a",
+          "title": "韶音推出「OpenFit 2 AI」开放式耳机：升级千问大模型，1698 元",
+          "url": "https://www.ithome.com/0/987/531.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "e5ec5d62fba16f9dc7cefa6a6966551a7b8b8dc0",
+          "title": "韶音推出“OpenFit 2 AI”开放式耳机：升级千问大模型，1698 元",
+          "url": "https://www.ithome.com/0/987/531.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-09T03:48:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "8d72b38c6dafd45653989667f53893ac1a5c8f8a",
+          "title": "韶音推出「OpenFit 2 AI」开放式耳机：升级千问大模型，1698 元",
+          "url": "https://www.ithome.com/0/987/531.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "e5ec5d62fba16f9dc7cefa6a6966551a7b8b8dc0",
+          "title": "韶音推出“OpenFit 2 AI”开放式耳机：升级千问大模型，1698 元",
+          "url": "https://www.ithome.com/0/987/531.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-09T03:48:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T03:48:31Z",
+      "latest_at": "2026-08-09T04:45:52.030153Z",
+      "primary_item": {
+        "id": "8d72b38c6dafd45653989667f53893ac1a5c8f8a",
+        "title": "韶音推出「OpenFit 2 AI」开放式耳机：升级千问大模型，1698 元",
+        "url": "https://www.ithome.com/0/987/531.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1416,15 +1617,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5133,
-      "importance": 0.5133,
-      "importance_score": 0.5133,
+      "score": 0.5101,
+      "importance": 0.5101,
+      "importance_score": 0.5101,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8192,
+        "recency": 0.8016,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1439,242 +1640,6 @@
         "url": "https://specification.website/spec/foundations/for-sale-dns",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_159e06467b2c",
-      "title": "人工智能热潮正在创造薪资更高的数据中心岗位",
-      "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
-      "primary_url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b42d891815405d24eaf293fe7d1aa66f5c032f63",
-          "title": "人工智能热潮正在创造薪资更高的数据中心岗位",
-          "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T12:14:35.904000Z"
-        },
-        {
-          "id": "f39453cdbb6dd774dd0e7996370527a3a9beb5fd",
-          "title": "人工智能热潮正在创造薪资更高的数据中心岗位 / The AI boom is creating data center jobs that pay more",
-          "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T12:00:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "b42d891815405d24eaf293fe7d1aa66f5c032f63",
-          "title": "人工智能热潮正在创造薪资更高的数据中心岗位",
-          "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T12:14:35.904000Z"
-        },
-        {
-          "id": "f39453cdbb6dd774dd0e7996370527a3a9beb5fd",
-          "title": "人工智能热潮正在创造薪资更高的数据中心岗位 / The AI boom is creating data center jobs that pay more",
-          "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T12:00:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5107,
-      "importance": 0.5107,
-      "importance_score": 0.5107,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8051,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T12:00:01Z",
-      "latest_at": "2026-08-08T12:14:35.904000Z",
-      "primary_item": {
-        "id": "b42d891815405d24eaf293fe7d1aa66f5c032f63",
-        "title": "人工智能热潮正在创造薪资更高的数据中心岗位",
-        "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_de8a671ce9e4",
-      "title": "[分享创造] 做了个平台 ChatGPT Plus/Pro5x20x 低价自助充值，提供质保，给 V 友来波优惠！",
-      "url": "https://www.v2ex.com/t/1232891",
-      "primary_url": "https://www.v2ex.com/t/1232891",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "311db402e3f7ea4a04e2651d608f8b7377d8665b",
-          "title": "[分享创造] 做了个平台 ChatGPT Plus/Pro5x20x 低价自助充值，提供质保，给 V 友来波优惠！",
-          "url": "https://www.v2ex.com/t/1232891",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T05:38:57Z"
-        },
-        {
-          "id": "903b6fbb18f2c3f717c6f8a6633fbc2571e49798",
-          "title": "[推广] 做了个平台 ChatGPT Plus/Pro5x20x 低价自助充值，提供质保，给 V 友来波优惠！",
-          "url": "https://www.v2ex.com/t/1232891",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T05:38:57Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "items": [
-        {
-          "id": "311db402e3f7ea4a04e2651d608f8b7377d8665b",
-          "title": "[分享创造] 做了个平台 ChatGPT Plus/Pro5x20x 低价自助充值，提供质保，给 V 友来波优惠！",
-          "url": "https://www.v2ex.com/t/1232891",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T05:38:57Z"
-        },
-        {
-          "id": "903b6fbb18f2c3f717c6f8a6633fbc2571e49798",
-          "title": "[推广] 做了个平台 ChatGPT Plus/Pro5x20x 低价自助充值，提供质保，给 V 友来波优惠！",
-          "url": "https://www.v2ex.com/t/1232891",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T05:38:57Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4975,
-      "importance": 0.4975,
-      "importance_score": 0.4975,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7319,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T05:38:57Z",
-      "latest_at": "2026-08-08T05:38:57Z",
-      "primary_item": {
-        "id": "311db402e3f7ea4a04e2651d608f8b7377d8665b",
-        "title": "[分享创造] 做了个平台 ChatGPT Plus/Pro5x20x 低价自助充值，提供质保，给 V 友来波优惠！",
-        "url": "https://www.v2ex.com/t/1232891",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_b2326a7c865c",
-      "title": "ChatGPT最强模型紧急踩刹车，奥特曼：你（Astra）吓到我了",
-      "url": "https://www.huxiu.com/article/4881637.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4881637.html?f=rss",
-      "source": "虎嗅 (Huxiu)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "ec96918d48aa175fc93aeecee9747dd37e696756",
-          "title": "ChatGPT最强模型紧急踩刹车，奥特曼：你（Astra）吓到我了",
-          "url": "https://www.huxiu.com/article/4881637.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T03:37:53Z"
-        },
-        {
-          "id": "7ddf51724f1612fbd15fbf8809ae0127cf698900",
-          "title": "突发 | ChatGPT最强模型紧急踩刹车，奥特曼：你（Astra）吓到我了",
-          "url": "https://www.36kr.com/p/3930193006837125",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 · 24小时热榜",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "ec96918d48aa175fc93aeecee9747dd37e696756",
-          "title": "ChatGPT最强模型紧急踩刹车，奥特曼：你（Astra）吓到我了",
-          "url": "https://www.huxiu.com/article/4881637.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T03:37:53Z"
-        },
-        {
-          "id": "7ddf51724f1612fbd15fbf8809ae0127cf698900",
-          "title": "突发 | ChatGPT最强模型紧急踩刹车，奥特曼：你（Astra）吓到我了",
-          "url": "https://www.36kr.com/p/3930193006837125",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4938,
-      "importance": 0.4938,
-      "importance_score": 0.4938,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7109,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T03:22:44.146247Z",
-      "latest_at": "2026-08-08T03:37:53Z",
-      "primary_item": {
-        "id": "ec96918d48aa175fc93aeecee9747dd37e696756",
-        "title": "ChatGPT最强模型紧急踩刹车，奥特曼：你（Astra）吓到我了",
-        "url": "https://www.huxiu.com/article/4881637.html?f=rss",
-        "source": "虎嗅 (Huxiu)",
-        "source_name": "Info Flow"
       }
     }
   ]
