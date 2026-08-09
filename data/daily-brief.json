@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T23:31:25.331176Z",
+  "generated_at": "2026-08-09T01:25:42.267472Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -21,15 +21,6 @@
           "published_at": "2026-08-08T14:38:40.439000Z"
         },
         {
-          "id": "755cf1d31d3794e0d339f6d6320d0a8565153f25",
-          "title": "OpenAI 对 Hugging Face 的意外攻击时间线公布 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-07T23:55:58Z"
-        },
-        {
           "id": "64fa3f9e49363fc2819186bd8757cd00d59a6545",
           "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
           "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
@@ -37,6 +28,15 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-08-08T14:38:40.439000Z"
+        },
+        {
+          "id": "29407e5727109cce76c77d1f73cb883e658a308f",
+          "title": "OpenAI 对 Hugging Face 的意外攻击时间线公布 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T10:57:44Z"
         },
         {
           "id": "5f517648bf2c7bf6013bdff103610531a35b52c5",
@@ -59,10 +59,10 @@
       ],
       "source_count": 5,
       "source_names": [
+        "Hacker News",
         "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "Readhub · AI",
-        "Simon Willison",
         "simonwillison.net"
       ],
       "items": [
@@ -76,15 +76,6 @@
           "published_at": "2026-08-08T14:38:40.439000Z"
         },
         {
-          "id": "755cf1d31d3794e0d339f6d6320d0a8565153f25",
-          "title": "OpenAI 对 Hugging Face 的意外攻击时间线公布 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-07T23:55:58Z"
-        },
-        {
           "id": "64fa3f9e49363fc2819186bd8757cd00d59a6545",
           "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
           "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
@@ -92,6 +83,15 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-08-08T14:38:40.439000Z"
+        },
+        {
+          "id": "29407e5727109cce76c77d1f73cb883e658a308f",
+          "title": "OpenAI 对 Hugging Face 的意外攻击时间线公布 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T10:57:44Z"
         },
         {
           "id": "5f517648bf2c7bf6013bdff103610531a35b52c5",
@@ -114,15 +114,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8789,
-      "importance": 0.8789,
-      "importance_score": 0.8789,
+      "score": 0.8746,
+      "importance": 0.8746,
+      "importance_score": 0.8746,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8797,
+        "recency": 0.8558,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -131,7 +131,7 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-07T23:55:58Z",
+      "earliest_at": "2026-08-08T01:52:43.618945Z",
       "latest_at": "2026-08-08T14:38:40.439000Z",
       "primary_item": {
         "id": "6f1d927bf0a65acd269f03155a05af3e9253eaa2",
@@ -195,15 +195,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7734,
+      "importance": 0.7734,
+      "importance_score": 0.7734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.867,
+        "recency": 0.8435,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -257,21 +257,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8357,
+        "recency": 0.8131,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-08T11:05:50Z",
       "latest_at": "2026-08-08T11:05:50Z",
@@ -318,15 +317,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7657,
-      "importance": 0.7657,
-      "importance_score": 0.7657,
+      "score": 0.7608,
+      "importance": 0.7608,
+      "importance_score": 0.7608,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9892,
+        "recency": 0.9623,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -379,15 +378,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7322,
-      "importance": 0.7322,
-      "importance_score": 0.7322,
+      "score": 0.7277,
+      "importance": 0.7277,
+      "importance_score": 0.7277,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9031,
+        "recency": 0.8786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -439,15 +438,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
+      "score": 0.7404,
+      "importance": 0.7404,
+      "importance_score": 0.7404,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.804,
+        "recency": 0.7822,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -536,15 +535,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6291,
-      "importance": 0.6291,
-      "importance_score": 0.6291,
+      "score": 0.6249,
+      "importance": 0.6249,
+      "importance_score": 0.6249,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.8729,
+        "recency": 0.8492,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -632,15 +631,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6113,
-      "importance": 0.6113,
-      "importance_score": 0.6113,
+      "score": 0.6067,
+      "importance": 0.6067,
+      "importance_score": 0.6067,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9563,
+        "recency": 0.9304,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -711,15 +710,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.608,
-      "importance": 0.608,
-      "importance_score": 0.608,
+      "score": 0.6032,
+      "importance": 0.6032,
+      "importance_score": 0.6032,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9868,
+        "recency": 0.96,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -808,15 +807,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5706,
-      "importance": 0.5706,
-      "importance_score": 0.5706,
+      "score": 0.5657,
+      "importance": 0.5657,
+      "importance_score": 0.5657,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9988,
+        "recency": 0.9717,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -851,13 +850,13 @@
           "published_at": "2026-08-08T19:26:49.887000Z"
         },
         {
-          "id": "415c5d98e638ad6b96353f679325f05e221f3479",
-          "title": "丹麦要求学生进行书面作业答辩以打击人工智能作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "url": "https://news.ycombinator.com/item?id=49224294",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T19:17:13.349000Z"
+          "id": "caa357cbadb7e19907d9eef0eae3a59f7902d4ee",
+          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊 / Danish high schoolers will have to verbally defend written assignments",
+          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T18:09:31Z"
         },
         {
           "id": "20fcecdef2911569da9805225694720c760b2329",
@@ -872,7 +871,7 @@
       "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "hackernews",
+        "Hacker News · 24h最热",
         "mezha.net"
       ],
       "items": [
@@ -886,13 +885,13 @@
           "published_at": "2026-08-08T19:26:49.887000Z"
         },
         {
-          "id": "415c5d98e638ad6b96353f679325f05e221f3479",
-          "title": "丹麦要求学生进行书面作业答辩以打击人工智能作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "url": "https://news.ycombinator.com/item?id=49224294",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T19:17:13.349000Z"
+          "id": "caa357cbadb7e19907d9eef0eae3a59f7902d4ee",
+          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊 / Danish high schoolers will have to verbally defend written assignments",
+          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T18:09:31Z"
         },
         {
           "id": "20fcecdef2911569da9805225694720c760b2329",
@@ -906,15 +905,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5605,
-      "importance": 0.5605,
-      "importance_score": 0.5605,
+      "score": 0.5559,
+      "importance": 0.5559,
+      "importance_score": 0.5559,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9428,
+        "recency": 0.9173,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -958,18 +957,18 @@
           "published_at": "2026-08-08T14:20:40.026000Z"
         },
         {
-          "id": "00ad3b3517bd94cec6564ea0ddb1e73110d6908f",
+          "id": "097e63a183790779cdbd74809069ad6b98ae2091",
           "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭 / Gentoo bugzilla closed due AI bot scraper overload",
           "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-08T13:55:42Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews",
         "social.treehouse.systems"
       ],
@@ -993,26 +992,26 @@
           "published_at": "2026-08-08T14:20:40.026000Z"
         },
         {
-          "id": "00ad3b3517bd94cec6564ea0ddb1e73110d6908f",
+          "id": "097e63a183790779cdbd74809069ad6b98ae2091",
           "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭 / Gentoo bugzilla closed due AI bot scraper overload",
           "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-08T13:55:42Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5573,
-      "importance": 0.5573,
-      "importance_score": 0.5573,
+      "score": 0.5528,
+      "importance": 0.5528,
+      "importance_score": 0.5528,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9248,
+        "recency": 0.8998,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1083,15 +1082,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5465,
-      "importance": 0.5465,
-      "importance_score": 0.5465,
+      "score": 0.5418,
+      "importance": 0.5418,
+      "importance_score": 0.5418,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.32,
         "ai_relevance": 0.67,
-        "recency": 0.9574,
+        "recency": 0.9314,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1162,15 +1161,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5376,
-      "importance": 0.5376,
-      "importance_score": 0.5376,
+      "score": 0.5329,
+      "importance": 0.5329,
+      "importance_score": 0.5329,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9544,
+        "recency": 0.9285,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1241,15 +1240,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5359,
-      "importance": 0.5359,
-      "importance_score": 0.5359,
+      "score": 0.5313,
+      "importance": 0.5313,
+      "importance_score": 0.5313,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.945,
+        "recency": 0.9193,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1320,15 +1319,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5329,
-      "importance": 0.5329,
-      "importance_score": 0.5329,
+      "score": 0.5284,
+      "importance": 0.5284,
+      "importance_score": 0.5284,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9284,
+        "recency": 0.9032,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1346,81 +1345,81 @@
       }
     },
     {
-      "story_id": "story_d5ffa69b0bf6",
-      "title": "与特朗普有关联的金融科技公司AI Financial将其旗下业务部门出售给PrimeDelta",
-      "url": "https://www.reuters.com/legal/transactional/trump-linked-fintech-ai-financial-sells-unit-prime-delta-2026-08-08",
-      "primary_url": "https://www.reuters.com/legal/transactional/trump-linked-fintech-ai-financial-sells-unit-prime-delta-2026-08-08",
-      "source": "www.reuters.com",
-      "source_name": "Buzzing",
+      "story_id": "story_0d9b355ae6e9",
+      "title": "现在，域名可以在DNS中标注为“待售”了 / A domain can now say it is for sale, in DNS",
+      "url": "https://specification.website/spec/foundations/for-sale-dns",
+      "primary_url": "https://specification.website/spec/foundations/for-sale-dns",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "57bc710270b70788cb181d54e69e55d0067b988c",
-          "title": "与特朗普有关联的金融科技公司AI Financial将其旗下业务部门出售给PrimeDelta",
-          "url": "https://www.reuters.com/legal/transactional/trump-linked-fintech-ai-financial-sells-unit-prime-delta-2026-08-08",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T15:26:37.111000Z"
+          "id": "912c999d8772ec10b813862b6f7777cb3c0f0682",
+          "title": "现在，域名可以在DNS中标注为“待售”了 / A domain can now say it is for sale, in DNS",
+          "url": "https://specification.website/spec/foundations/for-sale-dns",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T13:26:51Z"
         },
         {
-          "id": "6368c719b8d0c676413f52d2abbcb368b48937e9",
-          "title": "与特朗普有关联的金融科技公司AI Financial将旗下业务部门出售给Prime Delta",
-          "url": "https://www.reuters.com/legal/transactional/trump-linked-fintech-ai-financial-sells-unit-prime-delta-2026-08-08",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T01:18:40.309000Z"
+          "id": "270078a06c73023159d7987ccd20c5efd965ffba",
+          "title": "现在，域名可以在DNS中标注为“待售”了 / _for-sale DNS records",
+          "url": "https://specification.website/spec/foundations/for-sale-dns",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T13:26:51Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "www.reuters.com"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "57bc710270b70788cb181d54e69e55d0067b988c",
-          "title": "与特朗普有关联的金融科技公司AI Financial将其旗下业务部门出售给PrimeDelta",
-          "url": "https://www.reuters.com/legal/transactional/trump-linked-fintech-ai-financial-sells-unit-prime-delta-2026-08-08",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T15:26:37.111000Z"
+          "id": "912c999d8772ec10b813862b6f7777cb3c0f0682",
+          "title": "现在，域名可以在DNS中标注为“待售”了 / A domain can now say it is for sale, in DNS",
+          "url": "https://specification.website/spec/foundations/for-sale-dns",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T13:26:51Z"
         },
         {
-          "id": "6368c719b8d0c676413f52d2abbcb368b48937e9",
-          "title": "与特朗普有关联的金融科技公司AI Financial将旗下业务部门出售给Prime Delta",
-          "url": "https://www.reuters.com/legal/transactional/trump-linked-fintech-ai-financial-sells-unit-prime-delta-2026-08-08",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T01:18:40.309000Z"
+          "id": "270078a06c73023159d7987ccd20c5efd965ffba",
+          "title": "现在，域名可以在DNS中标注为“待售”了 / _for-sale DNS records",
+          "url": "https://specification.website/spec/foundations/for-sale-dns",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T13:26:51Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.526,
-      "importance": 0.526,
-      "importance_score": 0.526,
+      "score": 0.5172,
+      "importance": 0.5172,
+      "importance_score": 0.5172,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8899,
+        "recency": 0.8411,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-08T01:18:40.309000Z",
-      "latest_at": "2026-08-08T15:26:37.111000Z",
+      "earliest_at": "2026-08-08T13:26:51Z",
+      "latest_at": "2026-08-08T13:26:51Z",
       "primary_item": {
-        "id": "57bc710270b70788cb181d54e69e55d0067b988c",
-        "title": "与特朗普有关联的金融科技公司AI Financial将其旗下业务部门出售给PrimeDelta",
-        "url": "https://www.reuters.com/legal/transactional/trump-linked-fintech-ai-financial-sells-unit-prime-delta-2026-08-08",
-        "source": "www.reuters.com",
-        "source_name": "Buzzing"
+        "id": "912c999d8772ec10b813862b6f7777cb3c0f0682",
+        "title": "现在，域名可以在DNS中标注为“待售”了 / A domain can now say it is for sale, in DNS",
+        "url": "https://specification.website/spec/foundations/for-sale-dns",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1477,15 +1476,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5187,
-      "importance": 0.5187,
-      "importance_score": 0.5187,
+      "score": 0.5146,
+      "importance": 0.5146,
+      "importance_score": 0.5146,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8497,
+        "recency": 0.8266,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1555,15 +1554,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5049,
-      "importance": 0.5049,
-      "importance_score": 0.5049,
+      "score": 0.5011,
+      "importance": 0.5011,
+      "importance_score": 0.5011,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7725,
+        "recency": 0.7515,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1634,15 +1633,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5027,
-      "importance": 0.5027,
-      "importance_score": 0.5027,
+      "score": 0.499,
+      "importance": 0.499,
+      "importance_score": 0.499,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7606,
+        "recency": 0.74,
         "story_heat": 0.25
       },
       "category": "watch",
