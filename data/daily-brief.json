@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T20:08:46.495566Z",
+  "generated_at": "2026-08-12T21:12:51.201267Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8751,
-      "importance": 0.8751,
-      "importance_score": 0.8751,
+      "score": 0.8725,
+      "importance": 0.8725,
+      "importance_score": 0.8725,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9452,
+        "recency": 0.9307,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.857,
-      "importance": 0.857,
-      "importance_score": 0.857,
+      "score": 0.8543,
+      "importance": 0.8543,
+      "importance_score": 0.8543,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9836,
+        "recency": 0.9685,
         "story_heat": 0.0
       },
       "category": "official",
@@ -149,7 +149,7 @@
     },
     {
       "story_id": "story_52be363e70b3",
-      "title": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+      "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
       "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
       "primary_url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
       "source": "GitHub Changelog",
@@ -157,7 +157,7 @@
       "sources": [
         {
           "id": "18e5595d096312125c112295fde577991c1afc7c",
-          "title": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+          "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
           "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -172,7 +172,7 @@
       "items": [
         {
           "id": "18e5595d096312125c112295fde577991c1afc7c",
-          "title": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+          "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
           "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8482,
-      "importance": 0.8482,
-      "importance_score": 0.8482,
+      "score": 0.8455,
+      "importance": 0.8455,
+      "importance_score": 0.8455,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9787,
+        "recency": 0.9637,
         "story_heat": 0.0
       },
       "category": "official",
@@ -203,7 +203,7 @@
       "latest_at": "2026-08-12T18:39:11Z",
       "primary_item": {
         "id": "18e5595d096312125c112295fde577991c1afc7c",
-        "title": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+        "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
         "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8288,
-      "importance": 0.8288,
-      "importance_score": 0.8288,
+      "score": 0.8263,
+      "importance": 0.8263,
+      "importance_score": 0.8263,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9155,
+        "recency": 0.9015,
         "story_heat": 0.0
       },
       "category": "official",
@@ -268,68 +268,6 @@
         "title": "将手语人工智能交到用户手中 / Putting sign language AI into users’ hands",
         "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
         "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_ab799e9da743",
-      "title": "LFM2.5-VL-3B 为边缘提供更好、更快的视觉功能 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9cd8ef263d667b3a07058e7bc7dfb8dfed09aefe",
-          "title": "LFM2.5-VL-3B 为边缘提供更好、更快的视觉功能 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T14:00:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "9cd8ef263d667b3a07058e7bc7dfb8dfed09aefe",
-          "title": "LFM2.5-VL-3B 为边缘提供更好、更快的视觉功能 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T14:00:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8507,
-      "importance": 0.8507,
-      "importance_score": 0.8507,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.9153,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T14:00:51Z",
-      "latest_at": "2026-08-12T14:00:51Z",
-      "primary_item": {
-        "id": "9cd8ef263d667b3a07058e7bc7dfb8dfed09aefe",
-        "title": "LFM2.5-VL-3B 为边缘提供更好、更快的视觉功能 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -425,15 +363,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8207,
-      "importance": 0.8207,
-      "importance_score": 0.8207,
+      "score": 0.8185,
+      "importance": 0.8185,
+      "importance_score": 0.8185,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8116,
+        "recency": 0.7992,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -450,6 +388,68 @@
         "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ab799e9da743",
+      "title": "LFM2.5-VL-3B 为边缘提供更好、更快的视觉功能 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9cd8ef263d667b3a07058e7bc7dfb8dfed09aefe",
+          "title": "LFM2.5-VL-3B 为边缘提供更好、更快的视觉功能 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T14:00:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "9cd8ef263d667b3a07058e7bc7dfb8dfed09aefe",
+          "title": "LFM2.5-VL-3B 为边缘提供更好、更快的视觉功能 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T14:00:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8482,
+      "importance": 0.8482,
+      "importance_score": 0.8482,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9012,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T14:00:51Z",
+      "latest_at": "2026-08-12T14:00:51Z",
+      "primary_item": {
+        "id": "9cd8ef263d667b3a07058e7bc7dfb8dfed09aefe",
+        "title": "LFM2.5-VL-3B 为边缘提供更好、更快的视觉功能 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -487,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8187,
-      "importance": 0.8187,
-      "importance_score": 0.8187,
+      "score": 0.8165,
+      "importance": 0.8165,
+      "importance_score": 0.8165,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8152,
+        "recency": 0.8028,
         "story_heat": 0.0
       },
       "category": "official",
@@ -516,7 +516,7 @@
     },
     {
       "story_id": "story_50336f408dcb",
-      "title": "Rule insights for organizations in public preview",
+      "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
       "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
       "primary_url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
       "source": "GitHub Changelog",
@@ -524,7 +524,7 @@
       "sources": [
         {
           "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
-          "title": "Rule insights for organizations in public preview",
+          "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
           "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -539,7 +539,7 @@
       "items": [
         {
           "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
-          "title": "Rule insights for organizations in public preview",
+          "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
           "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -549,15 +549,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8398,
-      "importance": 0.8398,
-      "importance_score": 0.8398,
+      "score": 0.8371,
+      "importance": 0.8371,
+      "importance_score": 0.8371,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9766,
+        "recency": 0.9617,
         "story_heat": 0.0
       },
       "category": "official",
@@ -570,7 +570,7 @@
       "latest_at": "2026-08-12T18:30:28Z",
       "primary_item": {
         "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
-        "title": "Rule insights for organizations in public preview",
+        "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
         "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
@@ -630,15 +630,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7705,
-      "importance": 0.7705,
-      "importance_score": 0.7705,
+      "score": 0.7682,
+      "importance": 0.7682,
+      "importance_score": 0.7682,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.827,
+        "recency": 0.8144,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -711,15 +711,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8638,
+        "recency": 0.8506,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -773,15 +773,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9442,
+        "recency": 0.9297,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -853,15 +853,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7622,
-      "importance": 0.7622,
-      "importance_score": 0.7622,
+      "score": 0.7601,
+      "importance": 0.7601,
+      "importance_score": 0.7601,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7476,
+        "recency": 0.7361,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -915,15 +915,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7476,
-      "importance": 0.7476,
-      "importance_score": 0.7476,
+      "score": 0.7452,
+      "importance": 0.7452,
+      "importance_score": 0.7452,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8891,
+        "recency": 0.8755,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -975,15 +975,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7471,
-      "importance": 0.7471,
-      "importance_score": 0.7471,
+      "score": 0.7444,
+      "importance": 0.7444,
+      "importance_score": 0.7444,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9695,
+        "recency": 0.9547,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -997,6 +997,66 @@
         "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
         "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
         "source": "GitHub Blog",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_722d2c551110",
+      "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
+      "url": "https://claude.com/blog/cowork-chrome-side-panel",
+      "primary_url": "https://claude.com/blog/cowork-chrome-side-panel",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fc9380064c748bd843a4ec5431d78b939970f548",
+          "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
+          "url": "https://claude.com/blog/cowork-chrome-side-panel",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T20:15:51.977000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "fc9380064c748bd843a4ec5431d78b939970f548",
+          "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
+          "url": "https://claude.com/blog/cowork-chrome-side-panel",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T20:15:51.977000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9864,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T20:15:51.977000Z",
+      "latest_at": "2026-08-12T20:15:51.977000Z",
+      "primary_item": {
+        "id": "fc9380064c748bd843a4ec5431d78b939970f548",
+        "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
+        "url": "https://claude.com/blog/cowork-chrome-side-panel",
+        "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -1035,15 +1095,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.744,
-      "importance": 0.744,
-      "importance_score": 0.744,
+      "score": 0.7413,
+      "importance": 0.7413,
+      "importance_score": 0.7413,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9689,
+        "recency": 0.9541,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1058,68 +1118,6 @@
         "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
         "source": "Google Research：Blog（网页）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_dad741422848",
-      "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
-      "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
-      "primary_url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ca6e0d7202fb1ebe8762e92b584b426237dda742",
-          "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
-          "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T20:15:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ca6e0d7202fb1ebe8762e92b584b426237dda742",
-          "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
-          "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T20:15:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7995,
-      "importance": 0.7995,
-      "importance_score": 0.7995,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7083,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T20:15:55Z",
-      "latest_at": "2026-08-11T20:15:55Z",
-      "primary_item": {
-        "id": "ca6e0d7202fb1ebe8762e92b584b426237dda742",
-        "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
-        "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1157,15 +1155,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
+      "score": 0.7366,
+      "importance": 0.7366,
+      "importance_score": 0.7366,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9421,
+        "recency": 0.9277,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1236,15 +1234,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8486,
+        "recency": 0.8356,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1261,66 +1259,6 @@
         "url": "https://www.aibase.com/news/30285",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ec0d34d30f20",
-      "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
-      "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-      "primary_url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-      "source": "Nathan Lambert：Interconnects（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9ebbab8acc299b2a6ba84182ed950e6abe29ec7b",
-          "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
-          "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-          "source": "Nathan Lambert：Interconnects（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T13:01:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Nathan Lambert：Interconnects（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9ebbab8acc299b2a6ba84182ed950e6abe29ec7b",
-          "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
-          "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-          "source": "Nathan Lambert：Interconnects（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T13:01:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.72,
-      "importance": 0.72,
-      "importance_score": 0.72,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.62,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9022,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T13:01:16Z",
-      "latest_at": "2026-08-12T13:01:16Z",
-      "primary_item": {
-        "id": "9ebbab8acc299b2a6ba84182ed950e6abe29ec7b",
-        "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
-        "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-        "source": "Nathan Lambert：Interconnects（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1377,15 +1315,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8486,
+        "recency": 0.8356,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1402,6 +1340,66 @@
         "url": "https://www.aibase.com/news/30283",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_8925a4da83bc",
+      "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+      "url": "https://www.ithome.com/0/988/766.htm",
+      "primary_url": "https://www.ithome.com/0/988/766.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "533681e8a43ff685799fe6f21dfee45795c99acb",
+          "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+          "url": "https://www.ithome.com/0/988/766.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T06:46:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "533681e8a43ff685799fe6f21dfee45795c99acb",
+          "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+          "url": "https://www.ithome.com/0/988/766.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T06:46:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7307,
+      "importance": 0.7307,
+      "importance_score": 0.7307,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8119,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T06:46:51Z",
+      "latest_at": "2026-08-12T06:46:51Z",
+      "primary_item": {
+        "id": "533681e8a43ff685799fe6f21dfee45795c99acb",
+        "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+        "url": "https://www.ithome.com/0/988/766.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     }
   ]
