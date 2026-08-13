@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T08:19:51.916560Z",
+  "generated_at": "2026-08-13T09:40:24.499769Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8477,
-      "importance": 0.8477,
-      "importance_score": 0.8477,
+      "score": 0.8449,
+      "importance": 0.8449,
+      "importance_score": 0.8449,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7927,
+        "recency": 0.7775,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8285,
-      "importance": 0.8285,
-      "importance_score": 0.8285,
+      "score": 0.8256,
+      "importance": 0.8256,
+      "importance_score": 0.8256,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8249,
+        "recency": 0.8091,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8197,
-      "importance": 0.8197,
-      "importance_score": 0.8197,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8208,
+        "recency": 0.805,
         "story_heat": 0.0
       },
       "category": "official",
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8022,
-      "importance": 0.8022,
-      "importance_score": 0.8022,
+      "score": 0.7995,
+      "importance": 0.7995,
+      "importance_score": 0.7995,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7678,
+        "recency": 0.7531,
         "story_heat": 0.0
       },
       "category": "official",
@@ -269,6 +269,87 @@
         "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
         "source": "Google DeepMind",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_dd81f1248e75",
+      "title": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+      "url": "https://www.aibase.com/news/30323",
+      "primary_url": "https://www.aibase.com/news/30323",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5c0b0700ee96f06bf9ffc1bf4fd8553d4c589199",
+          "title": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+          "url": "https://www.aibase.com/news/30323",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T09:40:24.499769Z"
+        },
+        {
+          "id": "b9202cc5de8334d9966b856b45d3daeeae458b52",
+          "title": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+          "url": "https://www.aibase.com/zh/news/30323",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "5c0b0700ee96f06bf9ffc1bf4fd8553d4c589199",
+          "title": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+          "url": "https://www.aibase.com/news/30323",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T09:40:24.499769Z"
+        },
+        {
+          "id": "b9202cc5de8334d9966b856b45d3daeeae458b52",
+          "title": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+          "url": "https://www.aibase.com/zh/news/30323",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T09:40:24.499769Z",
+      "latest_at": "2026-08-13T09:40:24.499769Z",
+      "primary_item": {
+        "id": "5c0b0700ee96f06bf9ffc1bf4fd8553d4c589199",
+        "title": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+        "url": "https://www.aibase.com/news/30323",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -306,15 +387,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8242,
-      "importance": 0.8242,
-      "importance_score": 0.8242,
+      "score": 0.8215,
+      "importance": 0.8215,
+      "importance_score": 0.8215,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7676,
+        "recency": 0.7528,
         "story_heat": 0.0
       },
       "category": "official",
@@ -331,6 +412,129 @@
         "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_50336f408dcb",
+      "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
+      "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
+          "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
+          "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T18:30:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
+          "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
+          "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T18:30:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8086,
+      "importance": 0.8086,
+      "importance_score": 0.8086,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8033,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T18:30:28Z",
+      "latest_at": "2026-08-12T18:30:28Z",
+      "primary_item": {
+        "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
+        "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
+        "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_af863cb3b215",
+      "title": "新兴多智能体系统的模式与问题",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "primary_url": "https://www.anthropic.com/research/multiagent-systems",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9d57b112356e13780b596ad2e3b2399f6e5a6a63",
+          "title": "新兴多智能体系统的模式与问题",
+          "url": "https://www.anthropic.com/research/multiagent-systems",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T01:20:54.259000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "9d57b112356e13780b596ad2e3b2399f6e5a6a63",
+          "title": "新兴多智能体系统的模式与问题",
+          "url": "https://www.anthropic.com/research/multiagent-systems",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T01:20:54.259000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7682,
+      "importance": 0.7682,
+      "importance_score": 0.7682,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8867,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T01:20:54.259000Z",
+      "latest_at": "2026-08-13T01:20:54.259000Z",
+      "primary_item": {
+        "id": "9d57b112356e13780b596ad2e3b2399f6e5a6a63",
+        "title": "新兴多智能体系统的模式与问题",
+        "url": "https://www.anthropic.com/research/multiagent-systems",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -387,15 +591,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7891,
+      "importance": 0.7891,
+      "importance_score": 0.7891,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9808,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -412,129 +616,6 @@
         "url": "https://www.aibase.com/news/30317",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_50336f408dcb",
-      "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
-      "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
-          "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
-          "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T18:30:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
-          "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
-          "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T18:30:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8114,
-      "importance": 0.8114,
-      "importance_score": 0.8114,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.819,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T18:30:28Z",
-      "latest_at": "2026-08-12T18:30:28Z",
-      "primary_item": {
-        "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
-        "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
-        "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_af863cb3b215",
-      "title": "新兴多智能体系统的模式与问题",
-      "url": "https://www.anthropic.com/research/multiagent-systems",
-      "primary_url": "https://www.anthropic.com/research/multiagent-systems",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9d57b112356e13780b596ad2e3b2399f6e5a6a63",
-          "title": "新兴多智能体系统的模式与问题",
-          "url": "https://www.anthropic.com/research/multiagent-systems",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T01:20:54.259000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Research（发表成果 · 网页）"
-      ],
-      "items": [
-        {
-          "id": "9d57b112356e13780b596ad2e3b2399f6e5a6a63",
-          "title": "新兴多智能体系统的模式与问题",
-          "url": "https://www.anthropic.com/research/multiagent-systems",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T01:20:54.259000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7713,
-      "importance": 0.7713,
-      "importance_score": 0.7713,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9041,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T01:20:54.259000Z",
-      "latest_at": "2026-08-13T01:20:54.259000Z",
-      "primary_item": {
-        "id": "9d57b112356e13780b596ad2e3b2399f6e5a6a63",
-        "title": "新兴多智能体系统的模式与问题",
-        "url": "https://www.anthropic.com/research/multiagent-systems",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -590,15 +671,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9467,
+        "recency": 0.9286,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -615,6 +696,228 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
         "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f23f549d42d2",
+      "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
+      "url": "https://www.ithome.com/0/989/001.htm",
+      "primary_url": "https://www.ithome.com/0/989/001.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6ac7ca081eff008390b2045aa33b5cf28a8d2efc",
+          "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
+          "url": "https://www.ithome.com/0/989/001.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T16:10:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "6ac7ca081eff008390b2045aa33b5cf28a8d2efc",
+          "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
+          "url": "https://www.ithome.com/0/989/001.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T16:10:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7334,
+      "importance": 0.7334,
+      "importance_score": 0.7334,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7766,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T16:10:01Z",
+      "latest_at": "2026-08-12T16:10:01Z",
+      "primary_item": {
+        "id": "6ac7ca081eff008390b2045aa33b5cf28a8d2efc",
+        "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
+        "url": "https://www.ithome.com/0/989/001.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_796235c08104",
+      "title": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
+      "url": "https://www.aibase.com/news/30318",
+      "primary_url": "https://www.aibase.com/news/30318",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3197e6ef65cc3c1880bb7b41008ab7699d038dd8",
+          "title": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
+          "url": "https://www.aibase.com/news/30318",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T08:19:51.916560Z"
+        },
+        {
+          "id": "75e24cec0594c48add750165f6576e330faa5240",
+          "title": "Anthropic 被曝拟 10 月上市，目标估值或超 2 万亿美元",
+          "url": "https://www.aibase.com/zh/news/30318",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "3197e6ef65cc3c1880bb7b41008ab7699d038dd8",
+          "title": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
+          "url": "https://www.aibase.com/news/30318",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T08:19:51.916560Z"
+        },
+        {
+          "id": "75e24cec0594c48add750165f6576e330faa5240",
+          "title": "Anthropic 被曝拟 10 月上市，目标估值或超 2 万亿美元",
+          "url": "https://www.aibase.com/zh/news/30318",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7891,
+      "importance": 0.7891,
+      "importance_score": 0.7891,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9808,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T08:19:51.916560Z",
+      "latest_at": "2026-08-13T09:40:24.499769Z",
+      "primary_item": {
+        "id": "3197e6ef65cc3c1880bb7b41008ab7699d038dd8",
+        "title": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
+        "url": "https://www.aibase.com/news/30318",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_887703856285",
+      "title": "哈萨比斯卸任前密谋\"AI 原子能机构\"：已与美国财长通气，对标国际原子能机构",
+      "url": "https://www.aibase.com/news/30319",
+      "primary_url": "https://www.aibase.com/news/30319",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "21574b246ea0c9df1b2e1b52e25dfa202313b982",
+          "title": "哈萨比斯卸任前密谋\"AI 原子能机构\"：已与美国财长通气，对标国际原子能机构",
+          "url": "https://www.aibase.com/news/30319",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T08:19:51.916560Z"
+        },
+        {
+          "id": "c8fe24b6e7db12dd3044f83f28125f6e6cf0e618",
+          "title": "哈萨比斯卸任前密谋「AI 原子能机构」：已与美国财长通气，对标国际原子能机构",
+          "url": "https://www.aibase.com/zh/news/30319",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "21574b246ea0c9df1b2e1b52e25dfa202313b982",
+          "title": "哈萨比斯卸任前密谋\"AI 原子能机构\"：已与美国财长通气，对标国际原子能机构",
+          "url": "https://www.aibase.com/news/30319",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T08:19:51.916560Z"
+        },
+        {
+          "id": "c8fe24b6e7db12dd3044f83f28125f6e6cf0e618",
+          "title": "哈萨比斯卸任前密谋「AI 原子能机构」：已与美国财长通气，对标国际原子能机构",
+          "url": "https://www.aibase.com/zh/news/30319",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7891,
+      "importance": 0.7891,
+      "importance_score": 0.7891,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9808,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T08:19:51.916560Z",
+      "latest_at": "2026-08-13T09:40:24.499769Z",
+      "primary_item": {
+        "id": "21574b246ea0c9df1b2e1b52e25dfa202313b982",
+        "title": "哈萨比斯卸任前密谋\"AI 原子能机构\"：已与美国财长通气，对标国际原子能机构",
+        "url": "https://www.aibase.com/news/30319",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -671,15 +974,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.789,
-      "importance": 0.789,
-      "importance_score": 0.789,
+      "score": 0.7856,
+      "importance": 0.7856,
+      "importance_score": 0.7856,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.98,
+        "recency": 0.9612,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -694,369 +997,6 @@
         "id": "2a2b363aa21a6846353082b7e60676fe3dc230da",
         "title": "90% 高管承认 AI 没提升生产力：裁员后才发现离不开老员工",
         "url": "https://www.aibase.com/news/30310",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f23f549d42d2",
-      "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
-      "url": "https://www.ithome.com/0/989/001.htm",
-      "primary_url": "https://www.ithome.com/0/989/001.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6ac7ca081eff008390b2045aa33b5cf28a8d2efc",
-          "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
-          "url": "https://www.ithome.com/0/989/001.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T16:10:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "6ac7ca081eff008390b2045aa33b5cf28a8d2efc",
-          "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
-          "url": "https://www.ithome.com/0/989/001.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T16:10:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7361,
-      "importance": 0.7361,
-      "importance_score": 0.7361,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7918,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T16:10:01Z",
-      "latest_at": "2026-08-12T16:10:01Z",
-      "primary_item": {
-        "id": "6ac7ca081eff008390b2045aa33b5cf28a8d2efc",
-        "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
-        "url": "https://www.ithome.com/0/989/001.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b650bb1e15d8",
-      "title": "谷歌DeepMind发布SL2T，手语AI首次进入消费级手机",
-      "url": "https://www.aibase.com/news/30314",
-      "primary_url": "https://www.aibase.com/news/30314",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0d65dabdbfcb418e14c0131395b99c6a206cc765",
-          "title": "谷歌DeepMind发布SL2T，手语AI首次进入消费级手机",
-          "url": "https://www.aibase.com/news/30314",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T06:55:48.641118Z"
-        },
-        {
-          "id": "f58683d07042bbbb40aa65ebdc42e5879ba18b08",
-          "title": "谷歌 DeepMind 发布 SL2T，手语 AI 首次进入消费级手机",
-          "url": "https://www.aibase.com/zh/news/30314",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "0d65dabdbfcb418e14c0131395b99c6a206cc765",
-          "title": "谷歌DeepMind发布SL2T，手语AI首次进入消费级手机",
-          "url": "https://www.aibase.com/news/30314",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T06:55:48.641118Z"
-        },
-        {
-          "id": "f58683d07042bbbb40aa65ebdc42e5879ba18b08",
-          "title": "谷歌 DeepMind 发布 SL2T，手语 AI 首次进入消费级手机",
-          "url": "https://www.aibase.com/zh/news/30314",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.789,
-      "importance": 0.789,
-      "importance_score": 0.789,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.98,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T06:55:48.641118Z",
-      "latest_at": "2026-08-13T06:55:48.641118Z",
-      "primary_item": {
-        "id": "0d65dabdbfcb418e14c0131395b99c6a206cc765",
-        "title": "谷歌DeepMind发布SL2T，手语AI首次进入消费级手机",
-        "url": "https://www.aibase.com/news/30314",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e1122cbc7d4a",
-      "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
-      "url": "https://x.com/OpenRouter/status/2087509478480765218",
-      "primary_url": "https://x.com/OpenRouter/status/2087509478480765218",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "70eab17d09da8c59da57f9d9c3e922bcdc8b41b4",
-          "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
-          "url": "https://x.com/OpenRouter/status/2087509478480765218",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T12:00:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "70eab17d09da8c59da57f9d9c3e922bcdc8b41b4",
-          "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
-          "url": "https://x.com/OpenRouter/status/2087509478480765218",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T12:00:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7218,
-      "importance": 0.7218,
-      "importance_score": 0.7218,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7456,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T12:00:18Z",
-      "latest_at": "2026-08-12T12:00:18Z",
-      "primary_item": {
-        "id": "70eab17d09da8c59da57f9d9c3e922bcdc8b41b4",
-        "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
-        "url": "https://x.com/OpenRouter/status/2087509478480765218",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e386e6d144f0",
-      "title": "韩国AI新王Solar Pro 4登场，直接硬刚全球顶尖大模型？",
-      "url": "https://www.aibase.com/news/30315",
-      "primary_url": "https://www.aibase.com/news/30315",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "02d1737118f0460395a90ac4c78bd45e50b038b8",
-          "title": "韩国AI新王Solar Pro 4登场，直接硬刚全球顶尖大模型？",
-          "url": "https://www.aibase.com/news/30315",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T06:55:48.641118Z"
-        },
-        {
-          "id": "9a2898d32ee03748ca8e8397c48a396d0e7cc277",
-          "title": "韩国 AI 新王 Solar Pro 4 登场，直接硬刚全球顶尖大模型？",
-          "url": "https://www.aibase.com/zh/news/30315",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "02d1737118f0460395a90ac4c78bd45e50b038b8",
-          "title": "韩国AI新王Solar Pro 4登场，直接硬刚全球顶尖大模型？",
-          "url": "https://www.aibase.com/news/30315",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T06:55:48.641118Z"
-        },
-        {
-          "id": "9a2898d32ee03748ca8e8397c48a396d0e7cc277",
-          "title": "韩国 AI 新王 Solar Pro 4 登场，直接硬刚全球顶尖大模型？",
-          "url": "https://www.aibase.com/zh/news/30315",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.789,
-      "importance": 0.789,
-      "importance_score": 0.789,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.98,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T06:55:48.641118Z",
-      "latest_at": "2026-08-13T08:19:51.916560Z",
-      "primary_item": {
-        "id": "02d1737118f0460395a90ac4c78bd45e50b038b8",
-        "title": "韩国AI新王Solar Pro 4登场，直接硬刚全球顶尖大模型？",
-        "url": "https://www.aibase.com/news/30315",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6c78468e49bb",
-      "title": "鸿蒙版支付宝升级上线 AI助手“阿宝”开启全平台公测",
-      "url": "https://www.aibase.com/news/30313",
-      "primary_url": "https://www.aibase.com/news/30313",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "45218035611f297b1507e3462f097d51f7ad34db",
-          "title": "鸿蒙版支付宝升级上线 AI助手“阿宝”开启全平台公测",
-          "url": "https://www.aibase.com/news/30313",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T06:55:48.641118Z"
-        },
-        {
-          "id": "4d1cad54a0e2251a9c97e60aa818710a7020b6af",
-          "title": "鸿蒙版支付宝升级上线 AI 助手「阿宝」开启全平台公测",
-          "url": "https://www.aibase.com/zh/news/30313",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "45218035611f297b1507e3462f097d51f7ad34db",
-          "title": "鸿蒙版支付宝升级上线 AI助手“阿宝”开启全平台公测",
-          "url": "https://www.aibase.com/news/30313",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T06:55:48.641118Z"
-        },
-        {
-          "id": "4d1cad54a0e2251a9c97e60aa818710a7020b6af",
-          "title": "鸿蒙版支付宝升级上线 AI 助手「阿宝」开启全平台公测",
-          "url": "https://www.aibase.com/zh/news/30313",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.789,
-      "importance": 0.789,
-      "importance_score": 0.789,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.98,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T06:55:48.641118Z",
-      "latest_at": "2026-08-13T06:55:48.641118Z",
-      "primary_item": {
-        "id": "45218035611f297b1507e3462f097d51f7ad34db",
-        "title": "鸿蒙版支付宝升级上线 AI助手“阿宝”开启全平台公测",
-        "url": "https://www.aibase.com/news/30313",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1115,15 +1055,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6498,
-      "importance": 0.6498,
-      "importance_score": 0.6498,
+      "score": 0.6468,
+      "importance": 0.6468,
+      "importance_score": 0.6468,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.8669,
+        "recency": 0.8503,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1142,26 +1082,26 @@
       }
     },
     {
-      "story_id": "story_73c748e56062",
-      "title": "AI编程独角兽迎来爆发：Cognition传正洽谈新一轮融资，估值或达 400 亿美元",
-      "url": "https://www.aibase.com/news/30309",
-      "primary_url": "https://www.aibase.com/news/30309",
+      "story_id": "story_b650bb1e15d8",
+      "title": "谷歌DeepMind发布SL2T，手语AI首次进入消费级手机",
+      "url": "https://www.aibase.com/news/30314",
+      "primary_url": "https://www.aibase.com/news/30314",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6971695ec11a5b6c16e23403816651f3b26667fb",
-          "title": "AI编程独角兽迎来爆发：Cognition传正洽谈新一轮融资，估值或达 400 亿美元",
-          "url": "https://www.aibase.com/news/30309",
+          "id": "0d65dabdbfcb418e14c0131395b99c6a206cc765",
+          "title": "谷歌DeepMind发布SL2T，手语AI首次进入消费级手机",
+          "url": "https://www.aibase.com/news/30314",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-13T05:16:35.460778Z"
+          "published_at": "2026-08-13T06:55:48.641118Z"
         },
         {
-          "id": "31416a34095dd1da34ac067cd22b06c64b612daa",
-          "title": "AI 编程独角兽 Cognition 洽谈新一轮融资，估值或达 400 亿美元",
-          "url": "https://www.aibase.com/zh/news/30309",
+          "id": "f58683d07042bbbb40aa65ebdc42e5879ba18b08",
+          "title": "谷歌 DeepMind 发布 SL2T，手语 AI 首次进入消费级手机",
+          "url": "https://www.aibase.com/zh/news/30314",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1175,18 +1115,18 @@
       ],
       "items": [
         {
-          "id": "6971695ec11a5b6c16e23403816651f3b26667fb",
-          "title": "AI编程独角兽迎来爆发：Cognition传正洽谈新一轮融资，估值或达 400 亿美元",
-          "url": "https://www.aibase.com/news/30309",
+          "id": "0d65dabdbfcb418e14c0131395b99c6a206cc765",
+          "title": "谷歌DeepMind发布SL2T，手语AI首次进入消费级手机",
+          "url": "https://www.aibase.com/news/30314",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-13T05:16:35.460778Z"
+          "published_at": "2026-08-13T06:55:48.641118Z"
         },
         {
-          "id": "31416a34095dd1da34ac067cd22b06c64b612daa",
-          "title": "AI 编程独角兽 Cognition 洽谈新一轮融资，估值或达 400 亿美元",
-          "url": "https://www.aibase.com/zh/news/30309",
+          "id": "f58683d07042bbbb40aa65ebdc42e5879ba18b08",
+          "title": "谷歌 DeepMind 发布 SL2T，手语 AI 首次进入消费级手机",
+          "url": "https://www.aibase.com/zh/news/30314",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1195,15 +1135,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7848,
-      "importance": 0.7848,
-      "importance_score": 0.7848,
+      "score": 0.7856,
+      "importance": 0.7856,
+      "importance_score": 0.7856,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9568,
+        "recency": 0.9612,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1212,37 +1152,37 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-13T05:16:35.460778Z",
-      "latest_at": "2026-08-13T05:16:35.460778Z",
+      "earliest_at": "2026-08-13T06:55:48.641118Z",
+      "latest_at": "2026-08-13T06:55:48.641118Z",
       "primary_item": {
-        "id": "6971695ec11a5b6c16e23403816651f3b26667fb",
-        "title": "AI编程独角兽迎来爆发：Cognition传正洽谈新一轮融资，估值或达 400 亿美元",
-        "url": "https://www.aibase.com/news/30309",
+        "id": "0d65dabdbfcb418e14c0131395b99c6a206cc765",
+        "title": "谷歌DeepMind发布SL2T，手语AI首次进入消费级手机",
+        "url": "https://www.aibase.com/news/30314",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_956eea7dd2f0",
-      "title": "AI应用初创公司Lovable完成4亿美元C轮融资 估值翻倍至133亿美元",
-      "url": "https://www.aibase.com/news/30297",
-      "primary_url": "https://www.aibase.com/news/30297",
+      "story_id": "story_e386e6d144f0",
+      "title": "韩国AI新王Solar Pro 4登场，直接硬刚全球顶尖大模型？",
+      "url": "https://www.aibase.com/news/30315",
+      "primary_url": "https://www.aibase.com/news/30315",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "bbda6a1073049b1164ccc22878335f097a927c23",
-          "title": "AI应用初创公司Lovable完成4亿美元C轮融资 估值翻倍至133亿美元",
-          "url": "https://www.aibase.com/news/30297",
+          "id": "02d1737118f0460395a90ac4c78bd45e50b038b8",
+          "title": "韩国AI新王Solar Pro 4登场，直接硬刚全球顶尖大模型？",
+          "url": "https://www.aibase.com/news/30315",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-13T03:07:21.478874Z"
+          "published_at": "2026-08-13T06:55:48.641118Z"
         },
         {
-          "id": "d4ea31367d7f9e8bf661188d4a48329dd99ceba1",
-          "title": "AI 应用初创公司 Lovable 完成 4 亿美元 C 轮融资，估值翻倍至 133 亿美元",
-          "url": "https://www.aibase.com/zh/news/30297",
+          "id": "9a2898d32ee03748ca8e8397c48a396d0e7cc277",
+          "title": "韩国 AI 新王 Solar Pro 4 登场，直接硬刚全球顶尖大模型？",
+          "url": "https://www.aibase.com/zh/news/30315",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1256,18 +1196,18 @@
       ],
       "items": [
         {
-          "id": "bbda6a1073049b1164ccc22878335f097a927c23",
-          "title": "AI应用初创公司Lovable完成4亿美元C轮融资 估值翻倍至133亿美元",
-          "url": "https://www.aibase.com/news/30297",
+          "id": "02d1737118f0460395a90ac4c78bd45e50b038b8",
+          "title": "韩国AI新王Solar Pro 4登场，直接硬刚全球顶尖大模型？",
+          "url": "https://www.aibase.com/news/30315",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-13T03:07:21.478874Z"
+          "published_at": "2026-08-13T06:55:48.641118Z"
         },
         {
-          "id": "d4ea31367d7f9e8bf661188d4a48329dd99ceba1",
-          "title": "AI 应用初创公司 Lovable 完成 4 亿美元 C 轮融资，估值翻倍至 133 亿美元",
-          "url": "https://www.aibase.com/zh/news/30297",
+          "id": "9a2898d32ee03748ca8e8397c48a396d0e7cc277",
+          "title": "韩国 AI 新王 Solar Pro 4 登场，直接硬刚全球顶尖大模型？",
+          "url": "https://www.aibase.com/zh/news/30315",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1276,15 +1216,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7796,
-      "importance": 0.7796,
-      "importance_score": 0.7796,
+      "score": 0.7856,
+      "importance": 0.7856,
+      "importance_score": 0.7856,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9275,
+        "recency": 0.9612,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1293,12 +1233,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-13T03:07:21.478874Z",
-      "latest_at": "2026-08-13T03:07:21.478874Z",
+      "earliest_at": "2026-08-13T06:55:48.641118Z",
+      "latest_at": "2026-08-13T08:19:51.916560Z",
       "primary_item": {
-        "id": "bbda6a1073049b1164ccc22878335f097a927c23",
-        "title": "AI应用初创公司Lovable完成4亿美元C轮融资 估值翻倍至133亿美元",
-        "url": "https://www.aibase.com/news/30297",
+        "id": "02d1737118f0460395a90ac4c78bd45e50b038b8",
+        "title": "韩国AI新王Solar Pro 4登场，直接硬刚全球顶尖大模型？",
+        "url": "https://www.aibase.com/news/30315",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1413,15 +1353,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5941,
-      "importance": 0.5941,
-      "importance_score": 0.5941,
+      "score": 0.5912,
+      "importance": 0.5912,
+      "importance_score": 0.5912,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8518,
+        "recency": 0.8355,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1528,15 +1468,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5937,
-      "importance": 0.5937,
-      "importance_score": 0.5937,
+      "score": 0.5903,
+      "importance": 0.5903,
+      "importance_score": 0.5903,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9886,
+        "recency": 0.9696,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1551,6 +1491,85 @@
         "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News (世界新闻)",
         "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_77da1d8caea4",
+      "title": "Made by Google ’26 宣布的所有内容：Pixel 11、Pixel Watch 5、Pixel Tag 以及大量 Gemini 功能 / Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+      "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
+      "primary_url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "3392d53d8e320f02171fbe08d83c8e0a085008e0",
+          "title": "Made by Google ’26 宣布的所有内容：Pixel 11、Pixel Watch 5、Pixel Tag 以及大量 Gemini 功能 / Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+          "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-12T14:20:33Z"
+        },
+        {
+          "id": "714bbdc216ff742f3bf981a7ea6ba25f3ad209a0",
+          "title": "谷歌在 Made by Google 2026 上推出 Pixel 11 系列、新的 AirTag 竞争对手以及 Gemini 功能 / Google unveils Pixel 11 lineup, new AirTag rival, and Gemini features at Made by Google 2026",
+          "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-12T14:20:33Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "3392d53d8e320f02171fbe08d83c8e0a085008e0",
+          "title": "Made by Google ’26 宣布的所有内容：Pixel 11、Pixel Watch 5、Pixel Tag 以及大量 Gemini 功能 / Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+          "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-12T14:20:33Z"
+        },
+        {
+          "id": "714bbdc216ff742f3bf981a7ea6ba25f3ad209a0",
+          "title": "谷歌在 Made by Google 2026 上推出 Pixel 11 系列、新的 AirTag 竞争对手以及 Gemini 功能 / Google unveils Pixel 11 lineup, new AirTag rival, and Gemini features at Made by Google 2026",
+          "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-12T14:20:33Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6174,
+      "importance": 0.6174,
+      "importance_score": 0.6174,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5688,
+        "source_tier": 0.58,
+        "ai_relevance": 0.79,
+        "recency": 0.7564,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-12T14:20:33Z",
+      "latest_at": "2026-08-12T14:20:33Z",
+      "primary_item": {
+        "id": "3392d53d8e320f02171fbe08d83c8e0a085008e0",
+        "title": "Made by Google ’26 宣布的所有内容：Pixel 11、Pixel Watch 5、Pixel Tag 以及大量 Gemini 功能 / Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+        "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
       }
     }
   ]
