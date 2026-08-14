@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-08-14T17:27:19.745902Z",
+  "generated_at": "2026-08-14T18:25:00.076913Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_61fc6209c742",
+      "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
+          "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-14T16:17:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
+          "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-14T16:17:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8466,
+      "importance": 0.8466,
+      "importance_score": 0.8466,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9698,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T16:17:46Z",
+      "latest_at": "2026-08-14T16:17:46Z",
+      "primary_item": {
+        "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
+        "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_6cbde97d8260",
       "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
@@ -95,15 +157,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8486,
-      "importance": 0.8486,
-      "importance_score": 0.8486,
+      "score": 0.8463,
+      "importance": 0.8463,
+      "importance_score": 0.8463,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9166,
+        "recency": 0.904,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -176,15 +238,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8449,
-      "importance": 0.8449,
-      "importance_score": 0.8449,
+      "score": 0.843,
+      "importance": 0.843,
+      "importance_score": 0.843,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7772,
+        "recency": 0.7665,
         "story_heat": 0.25
       },
       "category": "official",
@@ -239,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8403,
-      "importance": 0.8403,
-      "importance_score": 0.8403,
+      "score": 0.8378,
+      "importance": 0.8378,
+      "importance_score": 0.8378,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9792,
+        "recency": 0.9657,
         "story_heat": 0.0
       },
       "category": "official",
@@ -263,68 +325,6 @@
         "title": "如何使用代理应用程序将软件交付工作流程引入 GitHub / How to bring your software delivery workflow into GitHub with agent apps",
         "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
         "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_117194245eb4",
-      "title": "GitHub Copilot 每周发布 — 8 月 10 日 / GitHub Copilot weekly releases — August 10",
-      "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
-      "primary_url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6ed40aa477dd9941b36d3604cac82a96f82f5a16",
-          "title": "GitHub Copilot 每周发布 — 8 月 10 日 / GitHub Copilot weekly releases — August 10",
-          "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T03:15:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6ed40aa477dd9941b36d3604cac82a96f82f5a16",
-          "title": "GitHub Copilot 每周发布 — 8 月 10 日 / GitHub Copilot weekly releases — August 10",
-          "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T03:15:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8186,
-      "importance": 0.8186,
-      "importance_score": 0.8186,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8147,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T03:15:56Z",
-      "latest_at": "2026-08-14T03:15:56Z",
-      "primary_item": {
-        "id": "6ed40aa477dd9941b36d3604cac82a96f82f5a16",
-        "title": "GitHub Copilot 每周发布 — 8 月 10 日 / GitHub Copilot weekly releases — August 10",
-        "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -382,15 +382,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.797,
-      "importance": 0.797,
-      "importance_score": 0.797,
+      "score": 0.7946,
+      "importance": 0.7946,
+      "importance_score": 0.7946,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9444,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -407,6 +407,68 @@
         "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
         "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_117194245eb4",
+      "title": "GitHub Copilot 每周发布 — 8 月 10 日 / GitHub Copilot weekly releases — August 10",
+      "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
+      "primary_url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6ed40aa477dd9941b36d3604cac82a96f82f5a16",
+          "title": "GitHub Copilot 每周发布 — 8 月 10 日 / GitHub Copilot weekly releases — August 10",
+          "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-14T03:15:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6ed40aa477dd9941b36d3604cac82a96f82f5a16",
+          "title": "GitHub Copilot 每周发布 — 8 月 10 日 / GitHub Copilot weekly releases — August 10",
+          "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-14T03:15:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8166,
+      "importance": 0.8166,
+      "importance_score": 0.8166,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8035,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T03:15:56Z",
+      "latest_at": "2026-08-14T03:15:56Z",
+      "primary_item": {
+        "id": "6ed40aa477dd9941b36d3604cac82a96f82f5a16",
+        "title": "GitHub Copilot 每周发布 — 8 月 10 日 / GitHub Copilot weekly releases — August 10",
+        "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -463,15 +525,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7733,
-      "importance": 0.7733,
-      "importance_score": 0.7733,
+      "score": 0.771,
+      "importance": 0.771,
+      "importance_score": 0.771,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8925,
+        "recency": 0.8802,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -525,15 +587,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7715,
-      "importance": 0.7715,
-      "importance_score": 0.7715,
+      "score": 0.7692,
+      "importance": 0.7692,
+      "importance_score": 0.7692,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9384,
+        "recency": 0.9255,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -605,15 +667,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.767,
-      "importance": 0.767,
-      "importance_score": 0.767,
+      "score": 0.7647,
+      "importance": 0.7647,
+      "importance_score": 0.7647,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9242,
+        "recency": 0.9115,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -630,68 +692,6 @@
         "url": "https://cursor.com/blog/joining-spacex",
         "source": "Cursor Blog",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7b7795911104",
-      "title": "许可数据质量改进 / License data quality improvements",
-      "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
-      "primary_url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "87dd2c8686ef4e741185768b45139d717de59f24",
-          "title": "许可数据质量改进 / License data quality improvements",
-          "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T19:14:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "87dd2c8686ef4e741185768b45139d717de59f24",
-          "title": "许可数据质量改进 / License data quality improvements",
-          "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T19:14:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7946,
-      "importance": 0.7946,
-      "importance_score": 0.7946,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7255,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T19:14:12Z",
-      "latest_at": "2026-08-13T19:14:12Z",
-      "primary_item": {
-        "id": "87dd2c8686ef4e741185768b45139d717de59f24",
-        "title": "许可数据质量改进 / License data quality improvements",
-        "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -729,15 +729,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7584,
-      "importance": 0.7584,
-      "importance_score": 0.7584,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9658,
+        "recency": 0.9525,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -809,15 +809,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7671,
-      "importance": 0.7671,
-      "importance_score": 0.7671,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8584,
+        "recency": 0.8466,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -837,21 +837,21 @@
       }
     },
     {
-      "story_id": "story_968ad09332ea",
-      "title": "阻止用户在个人存储库中发表评论 / Block users from comments in personal repositories",
-      "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
-      "primary_url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+      "story_id": "story_7b7795911104",
+      "title": "许可数据质量改进 / License data quality improvements",
+      "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
+      "primary_url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "60f355677cf4a09c3158662dda1f01d50413d142",
-          "title": "阻止用户在个人存储库中发表评论 / Block users from comments in personal repositories",
-          "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+          "id": "87dd2c8686ef4e741185768b45139d717de59f24",
+          "title": "许可数据质量改进 / License data quality improvements",
+          "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-13T19:02:46Z"
+          "published_at": "2026-08-13T19:14:12Z"
         }
       ],
       "source_count": 1,
@@ -860,26 +860,26 @@
       ],
       "items": [
         {
-          "id": "60f355677cf4a09c3158662dda1f01d50413d142",
-          "title": "阻止用户在个人存储库中发表评论 / Block users from comments in personal repositories",
-          "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+          "id": "87dd2c8686ef4e741185768b45139d717de59f24",
+          "title": "许可数据质量改进 / License data quality improvements",
+          "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-13T19:02:46Z"
+          "published_at": "2026-08-13T19:14:12Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7942,
-      "importance": 0.7942,
-      "importance_score": 0.7942,
+      "score": 0.7928,
+      "importance": 0.7928,
+      "importance_score": 0.7928,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7235,
+        "recency": 0.7155,
         "story_heat": 0.0
       },
       "category": "official",
@@ -888,12 +888,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-13T19:02:46Z",
-      "latest_at": "2026-08-13T19:02:46Z",
+      "earliest_at": "2026-08-13T19:14:12Z",
+      "latest_at": "2026-08-13T19:14:12Z",
       "primary_item": {
-        "id": "60f355677cf4a09c3158662dda1f01d50413d142",
-        "title": "阻止用户在个人存储库中发表评论 / Block users from comments in personal repositories",
-        "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+        "id": "87dd2c8686ef4e741185768b45139d717de59f24",
+        "title": "许可数据质量改进 / License data quality improvements",
+        "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -952,15 +952,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7294,
-      "importance": 0.7294,
-      "importance_score": 0.7294,
+      "score": 0.7276,
+      "importance": 0.7276,
+      "importance_score": 0.7276,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7491,
+        "recency": 0.7388,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -976,6 +976,68 @@
         "url": "https://x.com/bcherny/status/2088014489438621990",
         "source": "X：Boris Cherny (@bcherny)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_968ad09332ea",
+      "title": "阻止用户在个人存储库中发表评论 / Block users from comments in personal repositories",
+      "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+      "primary_url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "60f355677cf4a09c3158662dda1f01d50413d142",
+          "title": "阻止用户在个人存储库中发表评论 / Block users from comments in personal repositories",
+          "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T19:02:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "60f355677cf4a09c3158662dda1f01d50413d142",
+          "title": "阻止用户在个人存储库中发表评论 / Block users from comments in personal repositories",
+          "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T19:02:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7924,
+      "importance": 0.7924,
+      "importance_score": 0.7924,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7136,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T19:02:46Z",
+      "latest_at": "2026-08-13T19:02:46Z",
+      "primary_item": {
+        "id": "60f355677cf4a09c3158662dda1f01d50413d142",
+        "title": "阻止用户在个人存储库中发表评论 / Block users from comments in personal repositories",
+        "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1032,15 +1094,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8382,
+        "recency": 0.8266,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1113,15 +1175,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8382,
+        "recency": 0.8266,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1192,20 +1254,10 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-08-13T19:07:43.298082Z"
-        },
-        {
-          "id": "6e4d764a66bd8b8aece5953f5ceb34e53d40b7b5",
-          "title": "Mini Max H3开源之后，社区已经把它拆成了“300 个分身”：压缩到消费级显卡能跑、重写Mac原生推理、做 NVIDIA/AMD加速，还摸索出“本地低成本打样，云端高质量成片”的新流程。这篇适合AI视频创作者、ComfyUI 玩家和Agent工作流开发者看。里面不仅有长视频续写、单帧图像编辑、独立音频生成这些冷门玩法，还展示了H3被接进自动化制片系统后的可能性。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-13T17:58:06.147924Z"
         }
       ],
-      "source_count": 6,
+      "source_count": 5,
       "source_names": [
-        "社区更新 · 2026-08-12",
         "社区更新 · 2026-08-13"
       ],
       "items": [
@@ -1253,35 +1305,26 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-08-13T19:07:43.298082Z"
-        },
-        {
-          "id": "6e4d764a66bd8b8aece5953f5ceb34e53d40b7b5",
-          "title": "Mini Max H3开源之后，社区已经把它拆成了“300 个分身”：压缩到消费级显卡能跑、重写Mac原生推理、做 NVIDIA/AMD加速，还摸索出“本地低成本打样，云端高质量成片”的新流程。这篇适合AI视频创作者、ComfyUI 玩家和Agent工作流开发者看。里面不仅有长视频续写、单帧图像编辑、独立音频生成这些冷门玩法，还展示了H3被接进自动化制片系统后的可能性。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-13T17:58:06.147924Z"
         }
       ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.6529,
-      "importance": 0.6529,
-      "importance_score": 0.6529,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6511,
+      "importance": 0.6511,
+      "importance_score": 0.6511,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5256,
         "source_tier": 0.54,
         "ai_relevance": 0.73,
-        "recency": 0.7244,
+        "recency": 0.7144,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-13T17:58:06.147924Z",
+      "earliest_at": "2026-08-13T19:07:43.298082Z",
       "latest_at": "2026-08-13T19:07:43.298082Z",
       "primary_item": {
         "id": "efc279d148ac67a3646b71053edab7787440810b",
@@ -1345,15 +1388,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7589,
-      "importance": 0.7589,
-      "importance_score": 0.7589,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8127,
+        "recency": 0.8015,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1370,6 +1413,84 @@
         "url": "https://www.aibase.com/news/30338",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d469d19d5d59",
+      "title": "您现在可以关闭 Google Gemini 的可见水印 / You can now turn off Google Gemini&#8217;s visible watermarks",
+      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "primary_url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "25948c144546574537dcb949f9f1e1f17264c5e1",
+          "title": "您现在可以关闭 Google Gemini 的可见水印 / You can now turn off Google Gemini&#8217;s visible watermarks",
+          "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-14T16:39:32Z"
+        },
+        {
+          "id": "32b164e7c3dfdb3140aa50a9755dc2b81bf015ad",
+          "title": "您现在可以关闭 Google Gemini 的可见水印 / You can now turn off Google Gemini’s visible watermarks",
+          "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-14T16:39:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "25948c144546574537dcb949f9f1e1f17264c5e1",
+          "title": "您现在可以关闭 Google Gemini 的可见水印 / You can now turn off Google Gemini&#8217;s visible watermarks",
+          "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-14T16:39:32Z"
+        },
+        {
+          "id": "32b164e7c3dfdb3140aa50a9755dc2b81bf015ad",
+          "title": "您现在可以关闭 Google Gemini 的可见水印 / You can now turn off Google Gemini’s visible watermarks",
+          "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-14T16:39:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6234,
+      "importance": 0.6234,
+      "importance_score": 0.6234,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5112,
+        "source_tier": 0.58,
+        "ai_relevance": 0.71,
+        "recency": 0.9749,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-14T16:39:32Z",
+      "latest_at": "2026-08-14T16:39:32Z",
+      "primary_item": {
+        "id": "25948c144546574537dcb949f9f1e1f17264c5e1",
+        "title": "您现在可以关闭 Google Gemini 的可见水印 / You can now turn off Google Gemini&#8217;s visible watermarks",
+        "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+        "source": "The Verge",
+        "source_name": "Curated Media"
       }
     },
     {
@@ -1426,15 +1547,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6246,
-      "importance": 0.6246,
-      "importance_score": 0.6246,
+      "score": 0.6228,
+      "importance": 0.6228,
+      "importance_score": 0.6228,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.727,
+        "recency": 0.717,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1449,166 +1570,6 @@
         "title": "OpenAI 推出“超快”新模式，使 GPT-5.6 Sol 的工作速度提高 14 倍 / OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
         "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
         "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_595ebf749a43",
-      "title": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的\"工作记忆\"",
-      "url": "https://www.aibase.com/news/30332",
-      "primary_url": "https://www.aibase.com/news/30332",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f93691ad5f2e54d1db9b6439fd6206f0343a4eca",
-          "title": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的\"工作记忆\"",
-          "url": "https://www.aibase.com/news/30332",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T03:05:31.153649Z"
-        },
-        {
-          "id": "d2dfa1a6c5a2385836633431b47712658e285f22",
-          "title": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的「工作记忆」",
-          "url": "https://www.aibase.com/zh/news/30332",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "f93691ad5f2e54d1db9b6439fd6206f0343a4eca",
-          "title": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的\"工作记忆\"",
-          "url": "https://www.aibase.com/news/30332",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T03:05:31.153649Z"
-        },
-        {
-          "id": "d2dfa1a6c5a2385836633431b47712658e285f22",
-          "title": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的「工作记忆」",
-          "url": "https://www.aibase.com/zh/news/30332",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7589,
-      "importance": 0.7589,
-      "importance_score": 0.7589,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8127,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T03:05:31.153649Z",
-      "latest_at": "2026-08-14T03:05:31.153649Z",
-      "primary_item": {
-        "id": "f93691ad5f2e54d1db9b6439fd6206f0343a4eca",
-        "title": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的\"工作记忆\"",
-        "url": "https://www.aibase.com/news/30332",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a8d30f7063b5",
-      "title": "苹果在阿里巴巴的帮助下为中国训练了自己的人工智能模型 / Apple trained its own AI model for China with help from Alibaba",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "b48a94fbbe103bab1b05ca13b32326d5e59b4e5a",
-          "title": "苹果在阿里巴巴的帮助下为中国训练了自己的人工智能模型 / Apple trained its own AI model for China with help from Alibaba",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-14T09:21:17Z"
-        },
-        {
-          "id": "4a92499d9a353c37f2b90952d4ffcb4fd710c8e7",
-          "title": "苹果在阿里巴巴的帮助下为中国市场训练了自己的人工智能模型 / Apple Trained Own AI model for China Market With Help From Alibaba",
-          "url": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china",
-          "source": "Mac Rumors",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T09:46:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Mac Rumors",
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "b48a94fbbe103bab1b05ca13b32326d5e59b4e5a",
-          "title": "苹果在阿里巴巴的帮助下为中国训练了自己的人工智能模型 / Apple trained its own AI model for China with help from Alibaba",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-14T09:21:17Z"
-        },
-        {
-          "id": "4a92499d9a353c37f2b90952d4ffcb4fd710c8e7",
-          "title": "苹果在阿里巴巴的帮助下为中国市场训练了自己的人工智能模型 / Apple Trained Own AI model for China Market With Help From Alibaba",
-          "url": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china",
-          "source": "Mac Rumors",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T09:46:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5956,
-      "importance": 0.5956,
-      "importance_score": 0.5956,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.8896,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-14T09:21:17Z",
-      "latest_at": "2026-08-14T09:46:29Z",
-      "primary_item": {
-        "id": "b48a94fbbe103bab1b05ca13b32326d5e59b4e5a",
-        "title": "苹果在阿里巴巴的帮助下为中国训练了自己的人工智能模型 / Apple trained its own AI model for China with help from Alibaba",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-        "source": "The Verge",
         "source_name": "Curated Media"
       }
     }
