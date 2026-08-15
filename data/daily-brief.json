@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T11:43:43.385968Z",
+  "generated_at": "2026-08-15T12:31:43.329669Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8132,
-      "importance": 0.8132,
-      "importance_score": 0.8132,
+      "score": 0.8115,
+      "importance": 0.8115,
+      "importance_score": 0.8115,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8288,
+        "recency": 0.8193,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7994,
-      "importance": 0.7994,
-      "importance_score": 0.7994,
+      "score": 0.7978,
+      "importance": 0.7978,
+      "importance_score": 0.7978,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7521,
+        "recency": 0.7435,
         "story_heat": 0.0
       },
       "category": "official",
@@ -125,6 +125,86 @@
         "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
         "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2deeef90fc1a",
+      "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入 / AI-generated books are flooding Amazon and tanking sales for human authors",
+      "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+      "primary_url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d7799803fcf09767f5fac7c966f8170274cdec44",
+          "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入 / AI-generated books are flooding Amazon and tanking sales for human authors",
+          "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-15T11:00:50Z"
+        },
+        {
+          "id": "237f5929662e76d04e6158b8f564028e5c415071",
+          "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入",
+          "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-15T11:00:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d7799803fcf09767f5fac7c966f8170274cdec44",
+          "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入 / AI-generated books are flooding Amazon and tanking sales for human authors",
+          "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-15T11:00:50Z"
+        },
+        {
+          "id": "237f5929662e76d04e6158b8f564028e5c415071",
+          "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入",
+          "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-15T11:00:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7827,
+      "importance": 0.7827,
+      "importance_score": 0.7827,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9784,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-15T11:00:50Z",
+      "latest_at": "2026-08-15T11:00:50Z",
+      "primary_item": {
+        "id": "d7799803fcf09767f5fac7c966f8170274cdec44",
+        "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入 / AI-generated books are flooding Amazon and tanking sales for human authors",
+        "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -162,15 +242,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.808,
-      "importance": 0.808,
-      "importance_score": 0.808,
+      "score": 0.8064,
+      "importance": 0.8064,
+      "importance_score": 0.8064,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7553,
+        "recency": 0.7466,
         "story_heat": 0.0
       },
       "category": "official",
@@ -187,67 +267,6 @@
         "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_2deeef90fc1a",
-      "title": "人工智能生成的书籍充斥亚马逊，人类作家的销量大幅下降 / AI-generated books are flooding Amazon and tanking sales for human authors",
-      "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
-      "primary_url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d7799803fcf09767f5fac7c966f8170274cdec44",
-          "title": "人工智能生成的书籍充斥亚马逊，人类作家的销量大幅下降 / AI-generated books are flooding Amazon and tanking sales for human authors",
-          "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-15T11:00:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d7799803fcf09767f5fac7c966f8170274cdec44",
-          "title": "人工智能生成的书籍充斥亚马逊，人类作家的销量大幅下降 / AI-generated books are flooding Amazon and tanking sales for human authors",
-          "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-15T11:00:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7598,
-      "importance": 0.7598,
-      "importance_score": 0.7598,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9897,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-15T11:00:50Z",
-      "latest_at": "2026-08-15T11:00:50Z",
-      "primary_item": {
-        "id": "d7799803fcf09767f5fac7c966f8170274cdec44",
-        "title": "人工智能生成的书籍充斥亚马逊，人类作家的销量大幅下降 / AI-generated books are flooding Amazon and tanking sales for human authors",
-        "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -323,15 +342,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7897,
+        "recency": 0.7806,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -404,15 +423,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7355,
+        "recency": 0.727,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -466,15 +485,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7323,
-      "importance": 0.7323,
-      "importance_score": 0.7323,
+      "score": 0.7309,
+      "importance": 0.7309,
+      "importance_score": 0.7309,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7208,
+        "recency": 0.7125,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -488,86 +507,6 @@
         "title": "Cursor 正式并入 SpaceXAI 助力 Grok",
         "url": "https://x.com/SpaceXAI/status/2088250109188608289",
         "source": "X：SpaceXAI (@SpaceXAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_20b744e598ba",
-      "title": "Cursor 正式被 SpaceX 收购",
-      "url": "https://cursor.com/blog/joining-spacex",
-      "primary_url": "https://cursor.com/blog/joining-spacex",
-      "source": "Cursor Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "37be0084d39109564aa95e679db99447f43ba6a3",
-          "title": "Cursor 正式被 SpaceX 收购",
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T12:00:00Z"
-        },
-        {
-          "id": "546db9bf87c619ee45dc6f2948f0751751c8841d",
-          "title": "Cursor 正式被 SpaceX 收购 / Cursor is now a part of SpaceX",
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T13:10:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Cursor Blog",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "37be0084d39109564aa95e679db99447f43ba6a3",
-          "title": "Cursor 正式被 SpaceX 收购",
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T12:00:00Z"
-        },
-        {
-          "id": "546db9bf87c619ee45dc6f2948f0751751c8841d",
-          "title": "Cursor 正式被 SpaceX 收购 / Cursor is now a part of SpaceX",
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T13:10:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7099,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-14T12:00:00Z",
-      "latest_at": "2026-08-14T13:10:12Z",
-      "primary_item": {
-        "id": "37be0084d39109564aa95e679db99447f43ba6a3",
-        "title": "Cursor 正式被 SpaceX 收购",
-        "url": "https://cursor.com/blog/joining-spacex",
-        "source": "Cursor Blog",
         "source_name": "AI HOT"
       }
     },
@@ -625,15 +564,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6046,
-      "importance": 0.6046,
-      "importance_score": 0.6046,
+      "score": 0.603,
+      "importance": 0.603,
+      "importance_score": 0.603,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7546,
+        "recency": 0.7459,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -703,15 +642,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5846,
-      "importance": 0.5846,
-      "importance_score": 0.5846,
+      "score": 0.5831,
+      "importance": 0.5831,
+      "importance_score": 0.5831,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.7593,
+        "recency": 0.7506,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -801,15 +740,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5573,
-      "importance": 0.5573,
-      "importance_score": 0.5573,
+      "score": 0.5554,
+      "importance": 0.5554,
+      "importance_score": 0.5554,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9253,
+        "recency": 0.9146,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -899,15 +838,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5571,
-      "importance": 0.5571,
-      "importance_score": 0.5571,
+      "score": 0.5552,
+      "importance": 0.5552,
+      "importance_score": 0.5552,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9238,
+        "recency": 0.9132,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -977,15 +916,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5434,
-      "importance": 0.5434,
-      "importance_score": 0.5434,
+      "score": 0.5413,
+      "importance": 0.5413,
+      "importance_score": 0.5413,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9866,
+        "recency": 0.9752,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1056,15 +995,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5433,
-      "importance": 0.5433,
-      "importance_score": 0.5433,
+      "score": 0.5413,
+      "importance": 0.5413,
+      "importance_score": 0.5413,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9862,
+        "recency": 0.9749,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1135,15 +1074,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5433,
-      "importance": 0.5433,
-      "importance_score": 0.5433,
+      "score": 0.5413,
+      "importance": 0.5413,
+      "importance_score": 0.5413,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9862,
+        "recency": 0.9749,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1233,15 +1172,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.539,
-      "importance": 0.539,
-      "importance_score": 0.539,
+      "score": 0.5373,
+      "importance": 0.5373,
+      "importance_score": 0.5373,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8233,
+        "recency": 0.8139,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1312,15 +1251,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5352,
-      "importance": 0.5352,
-      "importance_score": 0.5352,
+      "score": 0.5333,
+      "importance": 0.5333,
+      "importance_score": 0.5333,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9412,
+        "recency": 0.9304,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1410,15 +1349,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5329,
-      "importance": 0.5329,
-      "importance_score": 0.5329,
+      "score": 0.5313,
+      "importance": 0.5313,
+      "importance_score": 0.5313,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7896,
+        "recency": 0.7806,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1508,15 +1447,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5265,
-      "importance": 0.5265,
-      "importance_score": 0.5265,
+      "score": 0.525,
+      "importance": 0.525,
+      "importance_score": 0.525,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.754,
+        "recency": 0.7453,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1587,15 +1526,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5227,
-      "importance": 0.5227,
-      "importance_score": 0.5227,
+      "score": 0.5209,
+      "importance": 0.5209,
+      "importance_score": 0.5209,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8719,
+        "recency": 0.8618,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1609,6 +1548,84 @@
         "title": "独家：消息人士称，Anthropic的IPO估值取决于2028年1900亿至2000亿美元的营收预测 - Reuters",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "source": "news.google.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a5eaeb028e06",
+      "title": "据《华尔街日报》报道，英伟达缩减了对俄亥俄州OpenAI数据中心的资金担保",
+      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
+      "primary_url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "96266f4e030691dcbf2f8a02a551b8a875f9743f",
+          "title": "据《华尔街日报》报道，英伟达缩减了对俄亥俄州OpenAI数据中心的资金担保",
+          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T00:39:17.549000Z"
+        },
+        {
+          "id": "253a25bcf7c62b09a817c9d210fb19b99efff2a9",
+          "title": "据《华尔街日报》报道，英伟达缩减了对OpenAI数据中心的2500亿美元担保额度",
+          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-14T23:51:59.730000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "96266f4e030691dcbf2f8a02a551b8a875f9743f",
+          "title": "据《华尔街日报》报道，英伟达缩减了对俄亥俄州OpenAI数据中心的资金担保",
+          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T00:39:17.549000Z"
+        },
+        {
+          "id": "253a25bcf7c62b09a817c9d210fb19b99efff2a9",
+          "title": "据《华尔街日报》报道，英伟达缩减了对OpenAI数据中心的2500亿美元担保额度",
+          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-14T23:51:59.730000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5174,
+      "importance": 0.5174,
+      "importance_score": 0.5174,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8424,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-14T23:51:59.730000Z",
+      "latest_at": "2026-08-15T00:39:17.549000Z",
+      "primary_item": {
+        "id": "96266f4e030691dcbf2f8a02a551b8a875f9743f",
+        "title": "据《华尔街日报》报道，英伟达缩减了对俄亥俄州OpenAI数据中心的资金担保",
+        "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
+        "source": "www.reuters.com",
         "source_name": "Buzzing"
       }
     }
