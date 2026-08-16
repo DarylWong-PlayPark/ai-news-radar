@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T02:40:38.744489Z",
+  "generated_at": "2026-08-16T03:44:47.668070Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7733,
-      "importance": 0.7733,
-      "importance_score": 0.7733,
+      "score": 0.7708,
+      "importance": 0.7708,
+      "importance_score": 0.7708,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9094,
+        "recency": 0.8954,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -82,6 +82,67 @@
         "url": "https://cursor.com/blog/joining-spacex",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c64728df94ac",
+      "title": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "e6801d6dd08bb56c57b6a26c7913167eca79f86e",
+          "title": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-08-16T03:15:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "e6801d6dd08bb56c57b6a26c7913167eca79f86e",
+          "title": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-08-16T03:15:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9929,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-16T03:15:09Z",
+      "latest_at": "2026-08-16T03:15:09Z",
+      "primary_item": {
+        "id": "e6801d6dd08bb56c57b6a26c7913167eca79f86e",
+        "title": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
       }
     },
     {
@@ -137,22 +198,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7502,
-      "importance": 0.7502,
-      "importance_score": 0.7502,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7976,
+        "recency": 0.7853,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-15T11:00:50Z",
       "latest_at": "2026-08-15T11:00:50Z",
@@ -218,15 +278,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6548,
-      "importance": 0.6548,
-      "importance_score": 0.6548,
+      "score": 0.6523,
+      "importance": 0.6523,
+      "importance_score": 0.6523,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.8948,
+        "recency": 0.8811,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -354,15 +414,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6094,
-      "importance": 0.6094,
-      "importance_score": 0.6094,
+      "score": 0.6069,
+      "importance": 0.6069,
+      "importance_score": 0.6069,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9369,
+        "recency": 0.9226,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -381,15 +441,24 @@
     },
     {
       "story_id": "story_611835edca3b",
-      "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery – what it is, where we stand and the path forward",
+      "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
       "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
       "primary_url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "source": "www.science.org",
+      "source_name": "Buzzing",
       "sources": [
         {
+          "id": "7d5005fb42ddcfa124069511ff7a8a4f328f6333",
+          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "source": "www.science.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T02:46:42.706000Z"
+        },
+        {
           "id": "c0fe1f3b01d2aa3b80eb53360a87b75e3588b96b",
-          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery – what it is, where we stand and the path forward",
+          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向 / AI in drug discovery – what it is, where we stand and the path forward",
           "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -407,7 +476,7 @@
         },
         {
           "id": "272ea2a447fcb4e4062b82df6b876d97ca4cd881",
-          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向 / So How Is AI Drug Discovery Doing, Really?",
           "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
           "source": "Hacker News",
           "source_name": "TechURLs",
@@ -415,15 +484,25 @@
           "published_at": "2026-08-15T19:12:53Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "Hacker News",
-        "Hacker News (黑客新闻)"
+        "Hacker News (黑客新闻)",
+        "www.science.org"
       ],
       "items": [
         {
+          "id": "7d5005fb42ddcfa124069511ff7a8a4f328f6333",
+          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "source": "www.science.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T02:46:42.706000Z"
+        },
+        {
           "id": "c0fe1f3b01d2aa3b80eb53360a87b75e3588b96b",
-          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery – what it is, where we stand and the path forward",
+          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向 / AI in drug discovery – what it is, where we stand and the path forward",
           "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -441,7 +520,7 @@
         },
         {
           "id": "272ea2a447fcb4e4062b82df6b876d97ca4cd881",
-          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向 / So How Is AI Drug Discovery Doing, Really?",
           "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
           "source": "Hacker News",
           "source_name": "TechURLs",
@@ -449,31 +528,31 @@
           "published_at": "2026-08-15T19:12:53Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5524,
-      "importance": 0.5524,
-      "importance_score": 0.5524,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5933,
+      "importance": 0.5933,
+      "importance_score": 0.5933,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8978,
-        "story_heat": 0.5
+        "recency": 0.9861,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-08-15T19:12:53Z",
-      "latest_at": "2026-08-15T19:12:53Z",
+      "latest_at": "2026-08-16T02:46:42.706000Z",
       "primary_item": {
-        "id": "c0fe1f3b01d2aa3b80eb53360a87b75e3588b96b",
-        "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery – what it is, where we stand and the path forward",
+        "id": "7d5005fb42ddcfa124069511ff7a8a4f328f6333",
+        "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
         "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "source": "www.science.org",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -549,15 +628,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5465,
-      "importance": 0.5465,
-      "importance_score": 0.5465,
+      "score": 0.5441,
+      "importance": 0.5441,
+      "importance_score": 0.5441,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.865,
+        "recency": 0.8517,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -628,15 +707,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5418,
-      "importance": 0.5418,
-      "importance_score": 0.5418,
+      "score": 0.5391,
+      "importance": 0.5391,
+      "importance_score": 0.5391,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9779,
+        "recency": 0.9629,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -726,15 +805,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5406,
-      "importance": 0.5406,
-      "importance_score": 0.5406,
+      "score": 0.5383,
+      "importance": 0.5383,
+      "importance_score": 0.5383,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8323,
+        "recency": 0.8196,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -843,15 +922,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5674,
-      "importance": 0.5674,
-      "importance_score": 0.5674,
+      "score": 0.5651,
+      "importance": 0.5651,
+      "importance_score": 0.5651,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8423,
+        "recency": 0.8294,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -922,15 +1001,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5308,
-      "importance": 0.5308,
-      "importance_score": 0.5308,
+      "score": 0.5282,
+      "importance": 0.5282,
+      "importance_score": 0.5282,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9164,
+        "recency": 0.9024,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1000,15 +1079,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5308,
-      "importance": 0.5308,
-      "importance_score": 0.5308,
+      "score": 0.5282,
+      "importance": 0.5282,
+      "importance_score": 0.5282,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9164,
+        "recency": 0.9024,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1079,15 +1158,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5301,
-      "importance": 0.5301,
-      "importance_score": 0.5301,
+      "score": 0.5276,
+      "importance": 0.5276,
+      "importance_score": 0.5276,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9129,
+        "recency": 0.8989,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1101,104 +1180,6 @@
         "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪",
         "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
         "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c0d7e3a27020",
-      "title": "Show HN: Deltix – 基于人工智能的测试",
-      "url": "https://app.deltix.ai",
-      "primary_url": "https://app.deltix.ai",
-      "source": "app.deltix.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f7a11291e43024b06e2a683e729e24ac2b04dad9",
-          "title": "Show HN: Deltix – 基于人工智能的测试",
-          "url": "https://app.deltix.ai",
-          "source": "app.deltix.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T06:14:13.415000Z"
-        },
-        {
-          "id": "0a7b10cb17b8d4acad23f6140e6218be614c2da6",
-          "title": "Show HN: Deltix – 基于人工智能的测试 / AI Driven Testing",
-          "url": "https://app.deltix.ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T02:42:14Z"
-        },
-        {
-          "id": "e205e722bde4dc4eca5649c78b23bcab4873c0e7",
-          "title": "Show HN: Deltix – 基于人工智能的测试 / Show HN: Deltix – AI Driven Testing",
-          "url": "https://app.deltix.ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T02:42:14Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "app.deltix.ai"
-      ],
-      "items": [
-        {
-          "id": "f7a11291e43024b06e2a683e729e24ac2b04dad9",
-          "title": "Show HN: Deltix – 基于人工智能的测试",
-          "url": "https://app.deltix.ai",
-          "source": "app.deltix.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T06:14:13.415000Z"
-        },
-        {
-          "id": "0a7b10cb17b8d4acad23f6140e6218be614c2da6",
-          "title": "Show HN: Deltix – 基于人工智能的测试 / AI Driven Testing",
-          "url": "https://app.deltix.ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T02:42:14Z"
-        },
-        {
-          "id": "e205e722bde4dc4eca5649c78b23bcab4873c0e7",
-          "title": "Show HN: Deltix – 基于人工智能的测试 / Show HN: Deltix – AI Driven Testing",
-          "url": "https://app.deltix.ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T02:42:14Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5248,
-      "importance": 0.5248,
-      "importance_score": 0.5248,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7444,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T02:42:14Z",
-      "latest_at": "2026-08-15T06:14:13.415000Z",
-      "primary_item": {
-        "id": "f7a11291e43024b06e2a683e729e24ac2b04dad9",
-        "title": "Show HN: Deltix – 基于人工智能的测试",
-        "url": "https://app.deltix.ai",
-        "source": "app.deltix.ai",
         "source_name": "Buzzing"
       }
     },
@@ -1255,15 +1236,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5165,
-      "importance": 0.5165,
-      "importance_score": 0.5165,
+      "score": 0.5142,
+      "importance": 0.5142,
+      "importance_score": 0.5142,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8372,
+        "recency": 0.8244,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1334,15 +1315,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5088,
-      "importance": 0.5088,
-      "importance_score": 0.5088,
+      "score": 0.5067,
+      "importance": 0.5067,
+      "importance_score": 0.5067,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7947,
+        "recency": 0.7825,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1432,15 +1413,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5609,
-      "importance": 0.5609,
-      "importance_score": 0.5609,
+      "score": 0.5583,
+      "importance": 0.5583,
+      "importance_score": 0.5583,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9453,
+        "recency": 0.9308,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1510,15 +1491,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5089,
-      "importance": 0.5089,
-      "importance_score": 0.5089,
+      "score": 0.5067,
+      "importance": 0.5067,
+      "importance_score": 0.5067,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.795,
+        "recency": 0.7828,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1589,15 +1570,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5088,
-      "importance": 0.5088,
-      "importance_score": 0.5088,
+      "score": 0.5067,
+      "importance": 0.5067,
+      "importance_score": 0.5067,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7947,
+        "recency": 0.7825,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1668,15 +1649,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5431,
+      "importance": 0.5431,
+      "importance_score": 0.5431,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9848,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1747,15 +1728,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5083,
-      "importance": 0.5083,
-      "importance_score": 0.5083,
+      "score": 0.5061,
+      "importance": 0.5061,
+      "importance_score": 0.5061,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7917,
+        "recency": 0.7795,
         "story_heat": 0.25
       },
       "category": "watch",
