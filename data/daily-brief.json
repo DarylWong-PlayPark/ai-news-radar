@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T12:33:01.520829Z",
+  "generated_at": "2026-08-16T13:28:18.135408Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7924,
-      "importance": 0.7924,
-      "importance_score": 0.7924,
+      "score": 0.79,
+      "importance": 0.79,
+      "importance_score": 0.79,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9821,
+        "recency": 0.9691,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -119,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.7429,
+      "importance": 0.7429,
+      "importance_score": 0.7429,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8744,
+        "recency": 0.8628,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -198,22 +198,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7515,
-      "importance": 0.7515,
-      "importance_score": 0.7515,
+      "score": 0.7497,
+      "importance": 0.7497,
+      "importance_score": 0.7497,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7885,
+        "recency": 0.7781,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-15T20:05:54.703000Z",
       "latest_at": "2026-08-15T20:05:54.703000Z",
@@ -279,15 +278,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6334,
-      "importance": 0.6334,
-      "importance_score": 0.6334,
+      "score": 0.6315,
+      "importance": 0.6315,
+      "importance_score": 0.6315,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.7759,
+        "recency": 0.7656,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -415,15 +414,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.587,
-      "importance": 0.587,
-      "importance_score": 0.587,
+      "score": 0.5851,
+      "importance": 0.5851,
+      "importance_score": 0.5851,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8124,
+        "recency": 0.8017,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -531,15 +530,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5721,
-      "importance": 0.5721,
-      "importance_score": 0.5721,
+      "score": 0.57,
+      "importance": 0.57,
+      "importance_score": 0.57,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8684,
+        "recency": 0.8569,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -629,15 +628,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5635,
-      "importance": 0.5635,
-      "importance_score": 0.5635,
+      "score": 0.5613,
+      "importance": 0.5613,
+      "importance_score": 0.5613,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9597,
+        "recency": 0.947,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -708,15 +707,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
+      "score": 0.543,
+      "importance": 0.543,
+      "importance_score": 0.543,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9973,
+        "recency": 0.9842,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -730,6 +729,85 @@
         "title": "BCG北美区负责人认为，在人工智能时代，哪项技能更为重要",
         "url": "https://www.businessinsider.com/bcg-consultants-ai-skills-technical-training-mel-wolfgang-2026-8",
         "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_448f5885154c",
+      "title": "Show HN: 从AI生成的文本中移除AI语音",
+      "url": "https://unslopai.com",
+      "primary_url": "https://unslopai.com",
+      "source": "unslopai.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "560a286af1360fb3ce7d395157d6a10a3c4c3968",
+          "title": "Show HN: 从AI生成的文本中移除AI语音",
+          "url": "https://unslopai.com",
+          "source": "unslopai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T11:34:06.552000Z"
+        },
+        {
+          "id": "a9f4c7f9f3a5ac2e038ba39a35387943c197c2f9",
+          "title": "Show HN: 从AI生成的文本中移除AI语音 / Show HN: Remove AI voice from AI writings",
+          "url": "https://unslopai.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T11:28:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "unslopai.com"
+      ],
+      "items": [
+        {
+          "id": "560a286af1360fb3ce7d395157d6a10a3c4c3968",
+          "title": "Show HN: 从AI生成的文本中移除AI语音",
+          "url": "https://unslopai.com",
+          "source": "unslopai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T11:34:06.552000Z"
+        },
+        {
+          "id": "a9f4c7f9f3a5ac2e038ba39a35387943c197c2f9",
+          "title": "Show HN: 从AI生成的文本中移除AI语音 / Show HN: Remove AI voice from AI writings",
+          "url": "https://unslopai.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T11:28:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5409,
+      "importance": 0.5409,
+      "importance_score": 0.5409,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9729,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T11:28:50Z",
+      "latest_at": "2026-08-16T11:34:06.552000Z",
+      "primary_item": {
+        "id": "560a286af1360fb3ce7d395157d6a10a3c4c3968",
+        "title": "Show HN: 从AI生成的文本中移除AI语音",
+        "url": "https://unslopai.com",
+        "source": "unslopai.com",
         "source_name": "Buzzing"
       }
     },
@@ -787,15 +865,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
+      "score": 0.5407,
+      "importance": 0.5407,
+      "importance_score": 0.5407,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9849,
+        "recency": 0.9719,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -866,15 +944,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5367,
-      "importance": 0.5367,
-      "importance_score": 0.5367,
+      "score": 0.5344,
+      "importance": 0.5344,
+      "importance_score": 0.5344,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9492,
+        "recency": 0.9367,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -945,15 +1023,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5412,
-      "importance": 0.5412,
-      "importance_score": 0.5412,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9746,
+        "recency": 0.9617,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1024,15 +1102,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5088,
-      "importance": 0.5088,
-      "importance_score": 0.5088,
+      "score": 0.5069,
+      "importance": 0.5069,
+      "importance_score": 0.5069,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7946,
+        "recency": 0.7841,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1102,15 +1180,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5088,
-      "importance": 0.5088,
-      "importance_score": 0.5088,
+      "score": 0.5069,
+      "importance": 0.5069,
+      "importance_score": 0.5069,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7947,
+        "recency": 0.7842,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1200,15 +1278,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5383,
-      "importance": 0.5383,
-      "importance_score": 0.5383,
+      "score": 0.5364,
+      "importance": 0.5364,
+      "importance_score": 0.5364,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8197,
+        "recency": 0.8088,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1279,15 +1357,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5282,
-      "importance": 0.5282,
-      "importance_score": 0.5282,
+      "score": 0.526,
+      "importance": 0.526,
+      "importance_score": 0.526,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9021,
+        "recency": 0.8902,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1357,15 +1435,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4965,
-      "importance": 0.4965,
-      "importance_score": 0.4965,
+      "score": 0.4947,
+      "importance": 0.4947,
+      "importance_score": 0.4947,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.726,
+        "recency": 0.7164,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1436,15 +1514,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5276,
-      "importance": 0.5276,
-      "importance_score": 0.5276,
+      "score": 0.5255,
+      "importance": 0.5255,
+      "importance_score": 0.5255,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.899,
+        "recency": 0.8871,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1515,15 +1593,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5184,
-      "importance": 0.5184,
-      "importance_score": 0.5184,
+      "score": 0.5164,
+      "importance": 0.5164,
+      "importance_score": 0.5164,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.848,
+        "recency": 0.8368,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1594,15 +1672,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5083,
-      "importance": 0.5083,
-      "importance_score": 0.5083,
+      "score": 0.5064,
+      "importance": 0.5064,
+      "importance_score": 0.5064,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7916,
+        "recency": 0.7811,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1617,104 +1695,6 @@
         "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_0b73ad404776",
-      "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-      "url": "https://news.ycombinator.com/item?id=49310725",
-      "primary_url": "https://news.ycombinator.com/item?id=49310725",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
-          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "url": "https://news.ycombinator.com/item?id=49310725",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T14:47:40.963000Z"
-        },
-        {
-          "id": "df4e0999ddfe3441c499f1ff2a561e8a81fc55e7",
-          "title": "二手书销售正蓬勃发展。这是因为人工智能吗？",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T14:30:12.217000Z"
-        },
-        {
-          "id": "f9db1e50aae4565b43f99f9b9e7aacbbebab7100",
-          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T14:08:55Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
-          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "url": "https://news.ycombinator.com/item?id=49310725",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T14:47:40.963000Z"
-        },
-        {
-          "id": "df4e0999ddfe3441c499f1ff2a561e8a81fc55e7",
-          "title": "二手书销售正蓬勃发展。这是因为人工智能吗？",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T14:30:12.217000Z"
-        },
-        {
-          "id": "f9db1e50aae4565b43f99f9b9e7aacbbebab7100",
-          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T14:08:55Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5223,
-      "importance": 0.5223,
-      "importance_score": 0.5223,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7304,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T14:08:55Z",
-      "latest_at": "2026-08-15T14:47:40.963000Z",
-      "primary_item": {
-        "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
-        "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-        "url": "https://news.ycombinator.com/item?id=49310725",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
