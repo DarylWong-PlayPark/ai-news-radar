@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T10:58:33.243829Z",
+  "generated_at": "2026-08-17T11:31:32.340195Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8444,
-      "importance": 0.8444,
-      "importance_score": 0.8444,
+      "score": 0.8431,
+      "importance": 0.8431,
+      "importance_score": 0.8431,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9579,
+        "recency": 0.9504,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,6 +62,68 @@
         "title": "与 Gemini 和 Pixel 一起近距离接触游戏 / Get closer to the game with Gemini and Pixel",
         "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships",
         "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_96670aeff66e",
+      "title": "情报时代的新政策理念 / New policy ideas for the Intelligence Age",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "primary_url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "98012ec2d34b31c122d53ffafb6e0cbb292bd317",
+          "title": "情报时代的新政策理念 / New policy ideas for the Intelligence Age",
+          "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T03:15:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "98012ec2d34b31c122d53ffafb6e0cbb292bd317",
+          "title": "情报时代的新政策理念 / New policy ideas for the Intelligence Age",
+          "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T03:15:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8317,
+      "importance": 0.8317,
+      "importance_score": 0.8317,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8874,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T03:15:00Z",
+      "latest_at": "2026-08-17T03:15:00Z",
+      "primary_item": {
+        "id": "98012ec2d34b31c122d53ffafb6e0cbb292bd317",
+        "title": "情报时代的新政策理念 / New policy ideas for the Intelligence Age",
+        "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -119,15 +181,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7913,
-      "importance": 0.7913,
-      "importance_score": 0.7913,
+      "score": 0.7899,
+      "importance": 0.7899,
+      "importance_score": 0.7899,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9929,
+        "recency": 0.9851,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -219,15 +281,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7899,
-      "importance": 0.7899,
-      "importance_score": 0.7899,
+      "score": 0.7887,
+      "importance": 0.7887,
+      "importance_score": 0.7887,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8293,
+        "recency": 0.8227,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -300,15 +362,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7891,
-      "importance": 0.7891,
-      "importance_score": 0.7891,
+      "score": 0.7877,
+      "importance": 0.7877,
+      "importance_score": 0.7877,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9807,
+        "recency": 0.973,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -381,15 +443,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7891,
-      "importance": 0.7891,
-      "importance_score": 0.7891,
+      "score": 0.7877,
+      "importance": 0.7877,
+      "importance_score": 0.7877,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9807,
+        "recency": 0.973,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -462,15 +524,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7891,
-      "importance": 0.7891,
-      "importance_score": 0.7891,
+      "score": 0.7877,
+      "importance": 0.7877,
+      "importance_score": 0.7877,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9807,
+        "recency": 0.973,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -543,15 +605,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7867,
-      "importance": 0.7867,
-      "importance_score": 0.7867,
+      "score": 0.7853,
+      "importance": 0.7853,
+      "importance_score": 0.7853,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9671,
+        "recency": 0.9594,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -624,15 +686,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7846,
-      "importance": 0.7846,
-      "importance_score": 0.7846,
+      "score": 0.7833,
+      "importance": 0.7833,
+      "importance_score": 0.7833,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9558,
+        "recency": 0.9482,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -705,15 +767,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6158,
-      "importance": 0.6158,
-      "importance_score": 0.6158,
+      "score": 0.6146,
+      "importance": 0.6146,
+      "importance_score": 0.6146,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8167,
+        "recency": 0.8102,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -801,15 +863,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6157,
-      "importance": 0.6157,
-      "importance_score": 0.6157,
+      "score": 0.6143,
+      "importance": 0.6143,
+      "importance_score": 0.6143,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9807,
+        "recency": 0.973,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -880,15 +942,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7821,
-      "importance": 0.7821,
-      "importance_score": 0.7821,
+      "score": 0.7808,
+      "importance": 0.7808,
+      "importance_score": 0.7808,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9417,
+        "recency": 0.9342,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -961,15 +1023,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7821,
-      "importance": 0.7821,
-      "importance_score": 0.7821,
+      "score": 0.7808,
+      "importance": 0.7808,
+      "importance_score": 0.7808,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9417,
+        "recency": 0.9342,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1079,15 +1141,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5708,
-      "importance": 0.5708,
-      "importance_score": 0.5708,
+      "score": 0.5696,
+      "importance": 0.5696,
+      "importance_score": 0.5696,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8613,
+        "recency": 0.8545,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1196,15 +1258,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5669,
-      "importance": 0.5669,
-      "importance_score": 0.5669,
+      "score": 0.5657,
+      "importance": 0.5657,
+      "importance_score": 0.5657,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8393,
+        "recency": 0.8327,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1294,15 +1356,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5615,
-      "importance": 0.5615,
-      "importance_score": 0.5615,
+      "score": 0.5601,
+      "importance": 0.5601,
+      "importance_score": 0.5601,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9483,
+        "recency": 0.9408,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1392,15 +1454,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5525,
-      "importance": 0.5525,
-      "importance_score": 0.5525,
+      "score": 0.5513,
+      "importance": 0.5513,
+      "importance_score": 0.5513,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8986,
+        "recency": 0.8915,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1418,358 +1480,238 @@
       }
     },
     {
-      "story_id": "story_0f2dda7c9a41",
-      "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "primary_url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "source": "daringfireball.net",
-      "source_name": "Buzzing",
+      "story_id": "story_9eb0b2fa15a1",
+      "title": "AlexsJones / llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "primary_url": "https://github.com/AlexsJones/llmfit",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "f713a587ff54b68a52101f457162b00db26d1184",
-          "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-          "source": "daringfireball.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T00:06:02.469000Z"
+          "id": "027d3412f4073a3f46ace586c754056dd2af7009",
+          "title": "AlexsJones / llmfit",
+          "url": "https://github.com/AlexsJones/llmfit",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "d0e9b4dba32697b50990e520b8b6d050fdbd91d8",
-          "title": "Anthropic 在《克劳德》中的“水印”文本掺假是对写作的歪曲 / Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-          "url": "https://news.ycombinator.com/item?id=49324087",
-          "source": "hackernews",
+          "id": "69e96b91552f5a09de216d4948aab174a73d92c3",
+          "title": "AlexsJones /      llmfit",
+          "url": "https://github.com/AlexsJones/llmfit",
+          "source": "github",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T22:46:01.187000Z"
-        },
-        {
-          "id": "1096d4d6014fef89eee8e27720ab7a0eb66fc753",
-          "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲 / ★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
-          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-          "source": "Daring Fireball",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T19:26:33Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Daring Fireball",
-        "daringfireball.net",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f713a587ff54b68a52101f457162b00db26d1184",
-          "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-          "source": "daringfireball.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T00:06:02.469000Z"
-        },
-        {
-          "id": "d0e9b4dba32697b50990e520b8b6d050fdbd91d8",
-          "title": "Anthropic 在《克劳德》中的“水印”文本掺假是对写作的歪曲 / Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-          "url": "https://news.ycombinator.com/item?id=49324087",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T22:46:01.187000Z"
-        },
-        {
-          "id": "1096d4d6014fef89eee8e27720ab7a0eb66fc753",
-          "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲 / ★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
-          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-          "source": "Daring Fireball",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T19:26:33Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5446,
-      "importance": 0.5446,
-      "importance_score": 0.5446,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8547,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T19:26:33Z",
-      "latest_at": "2026-08-17T00:06:02.469000Z",
-      "primary_item": {
-        "id": "f713a587ff54b68a52101f457162b00db26d1184",
-        "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-        "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-        "source": "daringfireball.net",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_4f0b70a810ad",
-      "title": "HackEurope 2026：关于人工智能和黑客马拉松的简短评论 / HackEurope 2026: A short rant on AI and hackathons",
-      "url": "https://news.ycombinator.com/item?id=49327490",
-      "primary_url": "https://news.ycombinator.com/item?id=49327490",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "e2a76d57c2d72419762f948df06399647f95a81f",
-          "title": "HackEurope 2026：关于人工智能和黑客马拉松的简短评论 / HackEurope 2026: A short rant on AI and hackathons",
-          "url": "https://news.ycombinator.com/item?id=49327490",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T08:40:03.580000Z"
-        },
-        {
-          "id": "423fe5b22371a8e0961e2e153abc46212d5c8e66",
-          "title": "HackEurope 2026：关于人工智能和黑客马拉松的简短评论 / HackEurope 2026: A short rant on AI and hackathons",
-          "url": "https://duti.dev/blog/2026/spr",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-17T07:28:43Z"
+          "published_at": "2026-08-17T11:02:29.630000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "e2a76d57c2d72419762f948df06399647f95a81f",
-          "title": "HackEurope 2026：关于人工智能和黑客马拉松的简短评论 / HackEurope 2026: A short rant on AI and hackathons",
-          "url": "https://news.ycombinator.com/item?id=49327490",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T08:40:03.580000Z"
+          "id": "027d3412f4073a3f46ace586c754056dd2af7009",
+          "title": "AlexsJones / llmfit",
+          "url": "https://github.com/AlexsJones/llmfit",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "423fe5b22371a8e0961e2e153abc46212d5c8e66",
-          "title": "HackEurope 2026：关于人工智能和黑客马拉松的简短评论 / HackEurope 2026: A short rant on AI and hackathons",
-          "url": "https://duti.dev/blog/2026/spr",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-17T07:28:43Z"
+          "id": "69e96b91552f5a09de216d4948aab174a73d92c3",
+          "title": "AlexsJones /      llmfit",
+          "url": "https://github.com/AlexsJones/llmfit",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-17T11:02:29.630000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5399,
-      "importance": 0.5399,
-      "importance_score": 0.5399,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9672,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-17T07:28:43Z",
-      "latest_at": "2026-08-17T08:40:03.580000Z",
+      "earliest_at": "2026-08-17T11:02:29.630000Z",
+      "latest_at": "2026-08-17T11:31:32.340195Z",
       "primary_item": {
-        "id": "e2a76d57c2d72419762f948df06399647f95a81f",
-        "title": "HackEurope 2026：关于人工智能和黑客马拉松的简短评论 / HackEurope 2026: A short rant on AI and hackathons",
-        "url": "https://news.ycombinator.com/item?id=49327490",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "027d3412f4073a3f46ace586c754056dd2af7009",
+        "title": "AlexsJones / llmfit",
+        "url": "https://github.com/AlexsJones/llmfit",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_52ac790130a7",
-      "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
-      "url": "https://www.aibase.com/news/30389",
-      "primary_url": "https://www.aibase.com/news/30389",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_75f9598bdf63",
+      "title": "Anthropic提振人工智能市场乐观情绪，股指期货上涨：市场综述",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "a022d3348fa94af5af15c940e1f2ba5b3a58bdef",
-          "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
-          "url": "https://www.aibase.com/news/30389",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T03:47:03.676207Z"
+          "id": "7ffda4e00c3e83d4ae28e3fc1c35218725382fb6",
+          "title": "Anthropic提振人工智能市场乐观情绪，股指期货上涨：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T11:18:16.359000Z"
         },
         {
-          "id": "f5e62b9b881e85627b0ec6e8eb333bc2df7434b0",
-          "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
-          "url": "https://www.aibase.com/zh/news/30389",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "80279b20f716b91c569c8b21ab04746443bea4b1",
+          "title": "Anthropic推动AI概念股上涨，美股期货走高：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T10:30:07.168000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "www.bloomberg.com"
       ],
       "items": [
         {
-          "id": "a022d3348fa94af5af15c940e1f2ba5b3a58bdef",
-          "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
-          "url": "https://www.aibase.com/news/30389",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T03:47:03.676207Z"
+          "id": "7ffda4e00c3e83d4ae28e3fc1c35218725382fb6",
+          "title": "Anthropic提振人工智能市场乐观情绪，股指期货上涨：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T11:18:16.359000Z"
         },
         {
-          "id": "f5e62b9b881e85627b0ec6e8eb333bc2df7434b0",
-          "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
-          "url": "https://www.aibase.com/zh/news/30389",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "80279b20f716b91c569c8b21ab04746443bea4b1",
+          "title": "Anthropic推动AI概念股上涨，美股期货走高：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T10:30:07.168000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7748,
-      "importance": 0.7748,
-      "importance_score": 0.7748,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9014,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T03:47:03.676207Z",
-      "latest_at": "2026-08-17T03:47:03.676207Z",
-      "primary_item": {
-        "id": "a022d3348fa94af5af15c940e1f2ba5b3a58bdef",
-        "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
-        "url": "https://www.aibase.com/news/30389",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_394dfc3977b6",
-      "title": "人工智能信用转售经济",
-      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "primary_url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "source": "vectoral.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c2cb0f6e9e96adb577db5a1f79da29829e790ca3",
-          "title": "人工智能信用转售经济",
-          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-          "source": "vectoral.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T17:26:39.701000Z"
-        },
-        {
-          "id": "918f58ae6b595ed997f8d4b90c7ddbb3be94ea50",
-          "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
-          "url": "https://news.ycombinator.com/item?id=49320611",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T15:18:48.369000Z"
-        },
-        {
-          "id": "482fca18ad64d36ca9fca761ac18dc3bb898b84d",
-          "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
-          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T14:44:55Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "vectoral.com"
-      ],
-      "items": [
-        {
-          "id": "c2cb0f6e9e96adb577db5a1f79da29829e790ca3",
-          "title": "人工智能信用转售经济",
-          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-          "source": "vectoral.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T17:26:39.701000Z"
-        },
-        {
-          "id": "918f58ae6b595ed997f8d4b90c7ddbb3be94ea50",
-          "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
-          "url": "https://news.ycombinator.com/item?id=49320611",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T15:18:48.369000Z"
-        },
-        {
-          "id": "482fca18ad64d36ca9fca761ac18dc3bb898b84d",
-          "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
-          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T14:44:55Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5305,
-      "importance": 0.5305,
-      "importance_score": 0.5305,
-      "importance_label": "多源热议",
+      "score": 0.5452,
+      "importance": 0.5452,
+      "importance_score": 0.5452,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7763,
-        "story_heat": 0.5
+        "recency": 0.9968,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-16T14:44:55Z",
-      "latest_at": "2026-08-16T17:26:39.701000Z",
+      "earliest_at": "2026-08-17T10:30:07.168000Z",
+      "latest_at": "2026-08-17T11:18:16.359000Z",
       "primary_item": {
-        "id": "c2cb0f6e9e96adb577db5a1f79da29829e790ca3",
-        "title": "人工智能信用转售经济",
-        "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-        "source": "vectoral.com",
+        "id": "7ffda4e00c3e83d4ae28e3fc1c35218725382fb6",
+        "title": "Anthropic提振人工智能市场乐观情绪，股指期货上涨：市场综述",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a3cd8d082831",
+      "title": "对经过审核的AI代码很难给出合理的解释",
+      "url": "https://amoffat.github.io/blog/vetting-burnout.html",
+      "primary_url": "https://amoffat.github.io/blog/vetting-burnout.html",
+      "source": "amoffat.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1a15f27d65766ad33c840987ac2228fcc0e1191b",
+          "title": "对经过审核的AI代码很难给出合理的解释",
+          "url": "https://amoffat.github.io/blog/vetting-burnout.html",
+          "source": "amoffat.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T11:18:15.372000Z"
+        },
+        {
+          "id": "34f991b2011af583b8328e5d48a7cfb815dcb82e",
+          "title": "对经过审核的AI代码很难给出合理的解释 / Vetted AI code is hard to justify",
+          "url": "https://amoffat.github.io/blog/vetting-burnout.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T11:11:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "amoffat.github.io"
+      ],
+      "items": [
+        {
+          "id": "1a15f27d65766ad33c840987ac2228fcc0e1191b",
+          "title": "对经过审核的AI代码很难给出合理的解释",
+          "url": "https://amoffat.github.io/blog/vetting-burnout.html",
+          "source": "amoffat.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T11:18:15.372000Z"
+        },
+        {
+          "id": "34f991b2011af583b8328e5d48a7cfb815dcb82e",
+          "title": "对经过审核的AI代码很难给出合理的解释 / Vetted AI code is hard to justify",
+          "url": "https://amoffat.github.io/blog/vetting-burnout.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T11:11:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5452,
+      "importance": 0.5452,
+      "importance_score": 0.5452,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9968,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-17T11:11:39Z",
+      "latest_at": "2026-08-17T11:18:15.372000Z",
+      "primary_item": {
+        "id": "1a15f27d65766ad33c840987ac2228fcc0e1191b",
+        "title": "对经过审核的AI代码很难给出合理的解释",
+        "url": "https://amoffat.github.io/blog/vetting-burnout.html",
+        "source": "amoffat.github.io",
         "source_name": "Buzzing"
       }
     }
