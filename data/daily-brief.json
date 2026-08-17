@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T23:43:06.084689Z",
+  "generated_at": "2026-08-17T01:05:08.929654Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7912,
-      "importance": 0.7912,
-      "importance_score": 0.7912,
+      "score": 0.7878,
+      "importance": 0.7878,
+      "importance_score": 0.7878,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9756,
+        "recency": 0.9566,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -82,6 +82,67 @@
         "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
         "source": "Simon Willison 博客",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2ed71d999b2d",
+      "title": "Anthropic CEO Amodei反驳“悲观论”批评，称AI信任危机根源在于承诺未兑现",
+      "url": "https://www.aibase.com/news/30370",
+      "primary_url": "https://www.aibase.com/news/30370",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5dc51c647fb0c8308b310fc6c2ee305db30f5d8c",
+          "title": "Anthropic CEO Amodei反驳“悲观论”批评，称AI信任危机根源在于承诺未兑现",
+          "url": "https://www.aibase.com/news/30370",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:05:08.929654Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5dc51c647fb0c8308b310fc6c2ee305db30f5d8c",
+          "title": "Anthropic CEO Amodei反驳“悲观论”批评，称AI信任危机根源在于承诺未兑现",
+          "url": "https://www.aibase.com/news/30370",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:05:08.929654Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T01:05:08.929654Z",
+      "latest_at": "2026-08-17T01:05:08.929654Z",
+      "primary_item": {
+        "id": "5dc51c647fb0c8308b310fc6c2ee305db30f5d8c",
+        "title": "Anthropic CEO Amodei反驳“悲观论”批评，称AI信任危机根源在于承诺未兑现",
+        "url": "https://www.aibase.com/news/30370",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -138,15 +199,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8358,
+        "recency": 0.8195,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -166,73 +227,266 @@
       }
     },
     {
-      "story_id": "story_c64728df94ac",
-      "title": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
+      "story_id": "story_70693800e03c",
+      "title": "DeepSeek-V4 系列 API 今起启用峰谷定价：高峰期价格翻倍，V4-Pro 转正商用",
+      "url": "https://www.aibase.com/news/30368",
+      "primary_url": "https://www.aibase.com/news/30368",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "e6801d6dd08bb56c57b6a26c7913167eca79f86e",
-          "title": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-16T03:15:09Z"
+          "id": "c2f8a6e9b56eeb7208e2d98e77274e647cc9172d",
+          "title": "DeepSeek-V4 系列 API 今起启用峰谷定价：高峰期价格翻倍，V4-Pro 转正商用",
+          "url": "https://www.aibase.com/news/30368",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:05:08.929654Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Daily Digest"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "e6801d6dd08bb56c57b6a26c7913167eca79f86e",
-          "title": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-16T03:15:09Z"
+          "id": "c2f8a6e9b56eeb7208e2d98e77274e647cc9172d",
+          "title": "DeepSeek-V4 系列 API 今起启用峰谷定价：高峰期价格翻倍，V4-Pro 转正商用",
+          "url": "https://www.aibase.com/news/30368",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:05:08.929654Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7215,
-      "importance": 0.7215,
-      "importance_score": 0.7215,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7441,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-16T03:15:09Z",
-      "latest_at": "2026-08-16T03:15:09Z",
+      "earliest_at": "2026-08-17T01:05:08.929654Z",
+      "latest_at": "2026-08-17T01:05:08.929654Z",
       "primary_item": {
-        "id": "e6801d6dd08bb56c57b6a26c7913167eca79f86e",
-        "title": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
+        "id": "c2f8a6e9b56eeb7208e2d98e77274e647cc9172d",
+        "title": "DeepSeek-V4 系列 API 今起启用峰谷定价：高峰期价格翻倍，V4-Pro 转正商用",
+        "url": "https://www.aibase.com/news/30368",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_525d24b22877",
+      "title": "大学生用 AI 伪造人脸视频盗刷银行卡 5 万余元：一条黑灰产业链浮出水面",
+      "url": "https://www.aibase.com/news/30369",
+      "primary_url": "https://www.aibase.com/news/30369",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "971db81862a50c621625b2d65f6bd6acca4d1e7d",
+          "title": "大学生用 AI 伪造人脸视频盗刷银行卡 5 万余元：一条黑灰产业链浮出水面",
+          "url": "https://www.aibase.com/news/30369",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:05:08.929654Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "971db81862a50c621625b2d65f6bd6acca4d1e7d",
+          "title": "大学生用 AI 伪造人脸视频盗刷银行卡 5 万余元：一条黑灰产业链浮出水面",
+          "url": "https://www.aibase.com/news/30369",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:05:08.929654Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T01:05:08.929654Z",
+      "latest_at": "2026-08-17T01:05:08.929654Z",
+      "primary_item": {
+        "id": "971db81862a50c621625b2d65f6bd6acca4d1e7d",
+        "title": "大学生用 AI 伪造人脸视频盗刷银行卡 5 万余元：一条黑灰产业链浮出水面",
+        "url": "https://www.aibase.com/news/30369",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f2d3ed113844",
+      "title": "科技赋能农业：我国科学家重磅发布大豆垂直大模型「丰菽」2.0",
+      "url": "https://www.aibase.com/news/30366",
+      "primary_url": "https://www.aibase.com/news/30366",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6db67c5c1e700fbc7e2131f858e72e496b528a9a",
+          "title": "科技赋能农业：我国科学家重磅发布大豆垂直大模型「丰菽」2.0",
+          "url": "https://www.aibase.com/news/30366",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:05:08.929654Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6db67c5c1e700fbc7e2131f858e72e496b528a9a",
+          "title": "科技赋能农业：我国科学家重磅发布大豆垂直大模型「丰菽」2.0",
+          "url": "https://www.aibase.com/news/30366",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:05:08.929654Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T01:05:08.929654Z",
+      "latest_at": "2026-08-17T01:05:08.929654Z",
+      "primary_item": {
+        "id": "6db67c5c1e700fbc7e2131f858e72e496b528a9a",
+        "title": "科技赋能农业：我国科学家重磅发布大豆垂直大模型「丰菽」2.0",
+        "url": "https://www.aibase.com/news/30366",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_82762d6fd591",
+      "title": "美团全员\"养虾\"曾日烧千万：王莆中复盘 AI 变革，CatPaw 终跑通",
+      "url": "https://www.aibase.com/news/30367",
+      "primary_url": "https://www.aibase.com/news/30367",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9c00aa497067e8d58911f47c56ccb3034af8e050",
+          "title": "美团全员\"养虾\"曾日烧千万：王莆中复盘 AI 变革，CatPaw 终跑通",
+          "url": "https://www.aibase.com/news/30367",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:05:08.929654Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9c00aa497067e8d58911f47c56ccb3034af8e050",
+          "title": "美团全员\"养虾\"曾日烧千万：王莆中复盘 AI 变革，CatPaw 终跑通",
+          "url": "https://www.aibase.com/news/30367",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:05:08.929654Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T01:05:08.929654Z",
+      "latest_at": "2026-08-17T01:05:08.929654Z",
+      "primary_item": {
+        "id": "9c00aa497067e8d58911f47c56ccb3034af8e050",
+        "title": "美团全员\"养虾\"曾日烧千万：王莆中复盘 AI 变革，CatPaw 终跑通",
+        "url": "https://www.aibase.com/news/30367",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
       "story_id": "story_0f2dda7c9a41",
-      "title": "《克劳德》中人类的“水印”文本掺假是对写作的歪曲 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-      "url": "https://news.ycombinator.com/item?id=49324087",
-      "primary_url": "https://news.ycombinator.com/item?id=49324087",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "primary_url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "source": "daringfireball.net",
+      "source_name": "Buzzing",
       "sources": [
+        {
+          "id": "f713a587ff54b68a52101f457162b00db26d1184",
+          "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
+          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+          "source": "daringfireball.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T00:06:02.469000Z"
+        },
         {
           "id": "d0e9b4dba32697b50990e520b8b6d050fdbd91d8",
           "title": "《克劳德》中人类的“水印”文本掺假是对写作的歪曲 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
@@ -244,7 +498,7 @@
         },
         {
           "id": "8a74cffa132b6b8f7353d6e767f6e6e42900bcf5",
-          "title": "《克劳德》中人类的“水印”文本掺假是对写作的歪曲 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+          "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
           "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
           "source": "HN Algolia · AI 24h",
           "source_name": "Hacker News",
@@ -253,7 +507,7 @@
         },
         {
           "id": "1096d4d6014fef89eee8e27720ab7a0eb66fc753",
-          "title": "★ Anthropic 在《克劳德》中的“水印”文本掺假是对写作的歪曲 / ★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
+          "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲 / ★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
           "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
           "source": "Daring Fireball",
           "source_name": "TechURLs",
@@ -261,14 +515,24 @@
           "published_at": "2026-08-16T19:26:33Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "Daring Fireball",
         "HN Algolia · AI 24h",
+        "daringfireball.net",
         "hackernews"
       ],
       "items": [
         {
+          "id": "f713a587ff54b68a52101f457162b00db26d1184",
+          "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
+          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+          "source": "daringfireball.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T00:06:02.469000Z"
+        },
+        {
           "id": "d0e9b4dba32697b50990e520b8b6d050fdbd91d8",
           "title": "《克劳德》中人类的“水印”文本掺假是对写作的歪曲 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
           "url": "https://news.ycombinator.com/item?id=49324087",
@@ -279,7 +543,7 @@
         },
         {
           "id": "8a74cffa132b6b8f7353d6e767f6e6e42900bcf5",
-          "title": "《克劳德》中人类的“水印”文本掺假是对写作的歪曲 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+          "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
           "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
           "source": "HN Algolia · AI 24h",
           "source_name": "Hacker News",
@@ -288,7 +552,7 @@
         },
         {
           "id": "1096d4d6014fef89eee8e27720ab7a0eb66fc753",
-          "title": "★ Anthropic 在《克劳德》中的“水印”文本掺假是对写作的歪曲 / ★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
+          "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲 / ★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
           "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
           "source": "Daring Fireball",
           "source_name": "TechURLs",
@@ -296,31 +560,31 @@
           "published_at": "2026-08-16T19:26:33Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5683,
-      "importance": 0.5683,
-      "importance_score": 0.5683,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5933,
+      "importance": 0.5933,
+      "importance_score": 0.5933,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9864,
-        "story_heat": 0.5
+        "recency": 0.9859,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-08-16T19:26:33Z",
-      "latest_at": "2026-08-16T22:46:01.187000Z",
+      "latest_at": "2026-08-17T00:06:02.469000Z",
       "primary_item": {
-        "id": "d0e9b4dba32697b50990e520b8b6d050fdbd91d8",
-        "title": "《克劳德》中人类的“水印”文本掺假是对写作的歪曲 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-        "url": "https://news.ycombinator.com/item?id=49324087",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "f713a587ff54b68a52101f457162b00db26d1184",
+        "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
+        "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+        "source": "daringfireball.net",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -396,15 +660,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5558,
-      "importance": 0.5558,
-      "importance_score": 0.5558,
+      "score": 0.5526,
+      "importance": 0.5526,
+      "importance_score": 0.5526,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9166,
+        "recency": 0.8987,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -494,15 +758,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5552,
-      "importance": 0.5552,
-      "importance_score": 0.5552,
+      "score": 0.552,
+      "importance": 0.552,
+      "importance_score": 0.552,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9134,
+        "recency": 0.8955,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -516,420 +780,6 @@
         "title": "人工智能信用转售经济",
         "url": "https://vectoral.com/blog/who-are-the-token-brokers",
         "source": "vectoral.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_abaf3e03b97f",
-      "title": "Anthropic Claude 出现大规模服务故障，多项服务无法登录或加载",
-      "url": "https://www.ithome.com/0/990/404.htm",
-      "primary_url": "https://www.ithome.com/0/990/404.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "a60d43ecda7260c7e95879dae273ef8784eac81f",
-          "title": "Anthropic Claude 出现大规模服务故障，多项服务无法登录或加载",
-          "url": "https://www.ithome.com/0/990/404.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "be93018d06b0f6eed6b0dc6111ea6496c61f4766",
-          "title": "Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载",
-          "url": "https://www.ithome.com/0/990/404.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T22:36:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "a60d43ecda7260c7e95879dae273ef8784eac81f",
-          "title": "Anthropic Claude 出现大规模服务故障，多项服务无法登录或加载",
-          "url": "https://www.ithome.com/0/990/404.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "be93018d06b0f6eed6b0dc6111ea6496c61f4766",
-          "title": "Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载",
-          "url": "https://www.ithome.com/0/990/404.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T22:36:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5447,
-      "importance": 0.5447,
-      "importance_score": 0.5447,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9937,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T22:36:24Z",
-      "latest_at": "2026-08-16T23:16:44.146995Z",
-      "primary_item": {
-        "id": "a60d43ecda7260c7e95879dae273ef8784eac81f",
-        "title": "Anthropic Claude 出现大规模服务故障，多项服务无法登录或加载",
-        "url": "https://www.ithome.com/0/990/404.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_badeeae7b539",
-      "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
-      "url": "https://littlelearner-ll.github.io",
-      "primary_url": "https://littlelearner-ll.github.io",
-      "source": "littlelearner-ll.github.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6907bf6f5e5deae8cd01cff9a4eda90bcbad09ea",
-          "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
-          "url": "https://littlelearner-ll.github.io",
-          "source": "littlelearner-ll.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T09:42:02.137000Z"
-        },
-        {
-          "id": "16a13fe58d4cdfcf7ca57702ec884e947f42f269",
-          "title": "如果法学硕士从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
-          "url": "https://news.ycombinator.com/item?id=49317760",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T08:11:23.846000Z"
-        },
-        {
-          "id": "ab4d7fd4d10f46e1fd135490112c3e62f61b2774",
-          "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？ / What happens when an LLM never sees material beyond fifth grade?",
-          "url": "https://littlelearner-ll.github.io",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T07:37:53Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "littlelearner-ll.github.io"
-      ],
-      "items": [
-        {
-          "id": "6907bf6f5e5deae8cd01cff9a4eda90bcbad09ea",
-          "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
-          "url": "https://littlelearner-ll.github.io",
-          "source": "littlelearner-ll.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T09:42:02.137000Z"
-        },
-        {
-          "id": "16a13fe58d4cdfcf7ca57702ec884e947f42f269",
-          "title": "如果法学硕士从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
-          "url": "https://news.ycombinator.com/item?id=49317760",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T08:11:23.846000Z"
-        },
-        {
-          "id": "ab4d7fd4d10f46e1fd135490112c3e62f61b2774",
-          "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？ / What happens when an LLM never sees material beyond fifth grade?",
-          "url": "https://littlelearner-ll.github.io",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T07:37:53Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5378,
-      "importance": 0.5378,
-      "importance_score": 0.5378,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8167,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T07:37:53Z",
-      "latest_at": "2026-08-16T09:42:02.137000Z",
-      "primary_item": {
-        "id": "6907bf6f5e5deae8cd01cff9a4eda90bcbad09ea",
-        "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
-        "url": "https://littlelearner-ll.github.io",
-        "source": "littlelearner-ll.github.io",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_46d4c1f7a618",
-      "title": "Stripe 敲定一笔超过 70 亿美元的交易，收购人工智能公司 OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "2f2157fe5087e46db86f48926fe42ddb8cf585f7",
-          "title": "Stripe 敲定一笔超过 70 亿美元的交易，收购人工智能公司 OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T20:31:16Z"
-        },
-        {
-          "id": "f8be342fa4ca9b9817e9554cdc1cbf75aabfaaf3",
-          "title": "Stripe 敲定一笔超过 70 亿美元的交易，收购人工智能公司 OpenRouter",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T20:24:24.384000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "2f2157fe5087e46db86f48926fe42ddb8cf585f7",
-          "title": "Stripe 敲定一笔超过 70 亿美元的交易，收购人工智能公司 OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T20:31:16Z"
-        },
-        {
-          "id": "f8be342fa4ca9b9817e9554cdc1cbf75aabfaaf3",
-          "title": "Stripe 敲定一笔超过 70 亿美元的交易，收购人工智能公司 OpenRouter",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T20:24:24.384000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5377,
-      "importance": 0.5377,
-      "importance_score": 0.5377,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9549,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T20:24:24.384000Z",
-      "latest_at": "2026-08-16T20:31:16Z",
-      "primary_item": {
-        "id": "2f2157fe5087e46db86f48926fe42ddb8cf585f7",
-        "title": "Stripe 敲定一笔超过 70 亿美元的交易，收购人工智能公司 OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_e81108c281d1",
-      "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机” - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c036f9f93ecc215e63182e735174d14dfa81917b",
-          "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机” - TechCrunch",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T18:30:21.826000Z"
-        },
-        {
-          "id": "12e225c702b6b51fe4ecfba6d6e85ef44bfc9c52",
-          "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机”",
-          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-says-ai-backlash-165351283.html",
-          "source": "finance.yahoo.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T17:26:40.195000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "finance.yahoo.com",
-        "news.google.com"
-      ],
-      "items": [
-        {
-          "id": "c036f9f93ecc215e63182e735174d14dfa81917b",
-          "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机” - TechCrunch",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T18:30:21.826000Z"
-        },
-        {
-          "id": "12e225c702b6b51fe4ecfba6d6e85ef44bfc9c52",
-          "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机”",
-          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-says-ai-backlash-165351283.html",
-          "source": "finance.yahoo.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T17:26:40.195000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5327,
-      "importance": 0.5327,
-      "importance_score": 0.5327,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9275,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T17:26:40.195000Z",
-      "latest_at": "2026-08-16T18:30:21.826000Z",
-      "primary_item": {
-        "id": "c036f9f93ecc215e63182e735174d14dfa81917b",
-        "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机” - TechCrunch",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "source": "news.google.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_9ffac573dcb5",
-      "title": "克劳德：系统提示",
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "primary_url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "source": "platform.claude.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f652679f24bb81d021d5b62102e00cba581f8d6c",
-          "title": "克劳德：系统提示",
-          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-          "source": "platform.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T14:30:18.432000Z"
-        },
-        {
-          "id": "cea8f9e643bc8d866babefa81ba8586221c8913e",
-          "title": "克劳德：系统提示 / Claude: System Prompts",
-          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T12:48:21Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "platform.claude.com"
-      ],
-      "items": [
-        {
-          "id": "f652679f24bb81d021d5b62102e00cba581f8d6c",
-          "title": "克劳德：系统提示",
-          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-          "source": "platform.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T14:30:18.432000Z"
-        },
-        {
-          "id": "cea8f9e643bc8d866babefa81ba8586221c8913e",
-          "title": "克劳德：系统提示 / Claude: System Prompts",
-          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T12:48:21Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5234,
-      "importance": 0.5234,
-      "importance_score": 0.5234,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8754,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T12:48:21Z",
-      "latest_at": "2026-08-16T14:30:18.432000Z",
-      "primary_item": {
-        "id": "f652679f24bb81d021d5b62102e00cba581f8d6c",
-        "title": "克劳德：系统提示",
-        "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-        "source": "platform.claude.com",
         "source_name": "Buzzing"
       }
     },
@@ -1006,15 +856,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5502,
-      "importance": 0.5502,
-      "importance_score": 0.5502,
+      "score": 0.5471,
+      "importance": 0.5471,
+      "importance_score": 0.5471,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8857,
+        "recency": 0.8684,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1029,6 +879,657 @@
         "url": "https://news.ycombinator.com/item?id=49319814",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_5f2cf02546e5",
+      "title": "AI 可通过图片视觉线索识别拍照地点，准确率 87%-91%",
+      "url": "https://www.ithome.com/0/990/420.htm",
+      "primary_url": "https://www.ithome.com/0/990/420.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "d17fbad42278852eb4c6b8cddf880d5c338e551c",
+          "title": "AI 可通过图片视觉线索识别拍照地点，准确率 87%-91%",
+          "url": "https://www.ithome.com/0/990/420.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "91f43dced0cf35b4656beb07aa895c8b9ea0ed12",
+          "title": "准确率 87%-91%，AI 可通过图片视觉线索识别拍照地点",
+          "url": "https://www.ithome.com/0/990/420.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T23:27:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "d17fbad42278852eb4c6b8cddf880d5c338e551c",
+          "title": "AI 可通过图片视觉线索识别拍照地点，准确率 87%-91%",
+          "url": "https://www.ithome.com/0/990/420.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "91f43dced0cf35b4656beb07aa895c8b9ea0ed12",
+          "title": "准确率 87%-91%，AI 可通过图片视觉线索识别拍照地点",
+          "url": "https://www.ithome.com/0/990/420.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T23:27:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T23:27:04Z",
+      "latest_at": "2026-08-17T01:05:08.929654Z",
+      "primary_item": {
+        "id": "d17fbad42278852eb4c6b8cddf880d5c338e551c",
+        "title": "AI 可通过图片视觉线索识别拍照地点，准确率 87%-91%",
+        "url": "https://www.ithome.com/0/990/420.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "《人工智能的局限》——休伯特·德雷福斯（1985）",
+      "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+      "primary_url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+      "source": "www.youtube.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "16fe8daf95dbd70408c5904cd11ad79dfba5790a",
+          "title": "《人工智能的局限》——休伯特·德雷福斯（1985）",
+          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T00:37:58.615000Z"
+        },
+        {
+          "id": "bf32e64f3f810f03c02af538aff956f168e8eb8d",
+          "title": "《人工智能的局限》——休伯特·德雷福斯（1985） / The Limits of AI - Hubert Dreyfus (1985)",
+          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T00:20:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "www.youtube.com"
+      ],
+      "items": [
+        {
+          "id": "16fe8daf95dbd70408c5904cd11ad79dfba5790a",
+          "title": "《人工智能的局限》——休伯特·德雷福斯（1985）",
+          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T00:37:58.615000Z"
+        },
+        {
+          "id": "bf32e64f3f810f03c02af538aff956f168e8eb8d",
+          "title": "《人工智能的局限》——休伯特·德雷福斯（1985） / The Limits of AI - Hubert Dreyfus (1985)",
+          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T00:20:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9935,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-17T00:20:07Z",
+      "latest_at": "2026-08-17T00:37:58.615000Z",
+      "primary_item": {
+        "id": "16fe8daf95dbd70408c5904cd11ad79dfba5790a",
+        "title": "《人工智能的局限》——休伯特·德雷福斯（1985）",
+        "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+        "source": "www.youtube.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_dc26344b17e2",
+      "title": "人工智能软件开发——数据揭示了什么？",
+      "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say",
+      "primary_url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say",
+      "source": "codemanship.wordpress.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "dc7492af2c10be74af16759cef3696016acf426d",
+          "title": "人工智能软件开发——数据揭示了什么？",
+          "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say",
+          "source": "codemanship.wordpress.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T00:22:10.012000Z"
+        },
+        {
+          "id": "ac58a9aac7874b95d811a0ecaeaadd58a9c17e22",
+          "title": "人工智能软件开发——数据揭示了什么？ / AI Software Development – What Does The Data Say?",
+          "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T00:08:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "codemanship.wordpress.com"
+      ],
+      "items": [
+        {
+          "id": "dc7492af2c10be74af16759cef3696016acf426d",
+          "title": "人工智能软件开发——数据揭示了什么？",
+          "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say",
+          "source": "codemanship.wordpress.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T00:22:10.012000Z"
+        },
+        {
+          "id": "ac58a9aac7874b95d811a0ecaeaadd58a9c17e22",
+          "title": "人工智能软件开发——数据揭示了什么？ / AI Software Development – What Does The Data Say?",
+          "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T00:08:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5439,
+      "importance": 0.5439,
+      "importance_score": 0.5439,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9897,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-17T00:08:04Z",
+      "latest_at": "2026-08-17T00:22:10.012000Z",
+      "primary_item": {
+        "id": "dc7492af2c10be74af16759cef3696016acf426d",
+        "title": "人工智能软件开发——数据揭示了什么？",
+        "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say",
+        "source": "codemanship.wordpress.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_badeeae7b539",
+      "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
+      "url": "https://littlelearner-ll.github.io",
+      "primary_url": "https://littlelearner-ll.github.io",
+      "source": "littlelearner-ll.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6907bf6f5e5deae8cd01cff9a4eda90bcbad09ea",
+          "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
+          "url": "https://littlelearner-ll.github.io",
+          "source": "littlelearner-ll.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T09:42:02.137000Z"
+        },
+        {
+          "id": "16a13fe58d4cdfcf7ca57702ec884e947f42f269",
+          "title": "如果法学硕士从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
+          "url": "https://news.ycombinator.com/item?id=49317760",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T08:11:23.846000Z"
+        },
+        {
+          "id": "ab4d7fd4d10f46e1fd135490112c3e62f61b2774",
+          "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？ / What happens when an LLM never sees material beyond fifth grade?",
+          "url": "https://littlelearner-ll.github.io",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T07:37:53Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "littlelearner-ll.github.io"
+      ],
+      "items": [
+        {
+          "id": "6907bf6f5e5deae8cd01cff9a4eda90bcbad09ea",
+          "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
+          "url": "https://littlelearner-ll.github.io",
+          "source": "littlelearner-ll.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T09:42:02.137000Z"
+        },
+        {
+          "id": "16a13fe58d4cdfcf7ca57702ec884e947f42f269",
+          "title": "如果法学硕士从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
+          "url": "https://news.ycombinator.com/item?id=49317760",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T08:11:23.846000Z"
+        },
+        {
+          "id": "ab4d7fd4d10f46e1fd135490112c3e62f61b2774",
+          "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？ / What happens when an LLM never sees material beyond fifth grade?",
+          "url": "https://littlelearner-ll.github.io",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T07:37:53Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5349,
+      "importance": 0.5349,
+      "importance_score": 0.5349,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8008,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T07:37:53Z",
+      "latest_at": "2026-08-16T09:42:02.137000Z",
+      "primary_item": {
+        "id": "6907bf6f5e5deae8cd01cff9a4eda90bcbad09ea",
+        "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
+        "url": "https://littlelearner-ll.github.io",
+        "source": "littlelearner-ll.github.io",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_46d4c1f7a618",
+      "title": "Stripe 敲定一笔超过 70 亿美元的交易，收购人工智能公司 OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "2f2157fe5087e46db86f48926fe42ddb8cf585f7",
+          "title": "Stripe 敲定一笔超过 70 亿美元的交易，收购人工智能公司 OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T20:31:16Z"
+        },
+        {
+          "id": "f8be342fa4ca9b9817e9554cdc1cbf75aabfaaf3",
+          "title": "Stripe 敲定一笔超过 70 亿美元的交易，收购人工智能公司 OpenRouter",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T20:24:24.384000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "2f2157fe5087e46db86f48926fe42ddb8cf585f7",
+          "title": "Stripe 敲定一笔超过 70 亿美元的交易，收购人工智能公司 OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T20:31:16Z"
+        },
+        {
+          "id": "f8be342fa4ca9b9817e9554cdc1cbf75aabfaaf3",
+          "title": "Stripe 敲定一笔超过 70 亿美元的交易，收购人工智能公司 OpenRouter",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T20:24:24.384000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5343,
+      "importance": 0.5343,
+      "importance_score": 0.5343,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9362,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T20:24:24.384000Z",
+      "latest_at": "2026-08-16T20:31:16Z",
+      "primary_item": {
+        "id": "2f2157fe5087e46db86f48926fe42ddb8cf585f7",
+        "title": "Stripe 敲定一笔超过 70 亿美元的交易，收购人工智能公司 OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_e81108c281d1",
+      "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机” - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c036f9f93ecc215e63182e735174d14dfa81917b",
+          "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机” - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T18:30:21.826000Z"
+        },
+        {
+          "id": "12e225c702b6b51fe4ecfba6d6e85ef44bfc9c52",
+          "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机”",
+          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-says-ai-backlash-165351283.html",
+          "source": "finance.yahoo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T17:26:40.195000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "finance.yahoo.com",
+        "news.google.com"
+      ],
+      "items": [
+        {
+          "id": "c036f9f93ecc215e63182e735174d14dfa81917b",
+          "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机” - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T18:30:21.826000Z"
+        },
+        {
+          "id": "12e225c702b6b51fe4ecfba6d6e85ef44bfc9c52",
+          "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机”",
+          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-says-ai-backlash-165351283.html",
+          "source": "finance.yahoo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T17:26:40.195000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5295,
+      "importance": 0.5295,
+      "importance_score": 0.5295,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9094,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T17:26:40.195000Z",
+      "latest_at": "2026-08-16T18:30:21.826000Z",
+      "primary_item": {
+        "id": "c036f9f93ecc215e63182e735174d14dfa81917b",
+        "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机” - TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9ffac573dcb5",
+      "title": "克劳德：系统提示",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "primary_url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "source": "platform.claude.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f652679f24bb81d021d5b62102e00cba581f8d6c",
+          "title": "克劳德：系统提示",
+          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "source": "platform.claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T14:30:18.432000Z"
+        },
+        {
+          "id": "cea8f9e643bc8d866babefa81ba8586221c8913e",
+          "title": "克劳德：系统提示 / Claude: System Prompts",
+          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T12:48:21Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "platform.claude.com"
+      ],
+      "items": [
+        {
+          "id": "f652679f24bb81d021d5b62102e00cba581f8d6c",
+          "title": "克劳德：系统提示",
+          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "source": "platform.claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T14:30:18.432000Z"
+        },
+        {
+          "id": "cea8f9e643bc8d866babefa81ba8586221c8913e",
+          "title": "克劳德：系统提示 / Claude: System Prompts",
+          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T12:48:21Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5203,
+      "importance": 0.5203,
+      "importance_score": 0.5203,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8583,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T12:48:21Z",
+      "latest_at": "2026-08-16T14:30:18.432000Z",
+      "primary_item": {
+        "id": "f652679f24bb81d021d5b62102e00cba581f8d6c",
+        "title": "克劳德：系统提示",
+        "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+        "source": "platform.claude.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_18720c8fd598",
+      "title": "网传深圳道路大面积塌陷致翻车？官方确认系AI合成谣言",
+      "url": "https://www.ithome.com/0/990/423.htm",
+      "primary_url": "https://www.ithome.com/0/990/423.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "149742f52e61c15e902f1bbbf84c3f655f6903dc",
+          "title": "网传深圳道路大面积塌陷致翻车？官方确认系AI合成谣言",
+          "url": "https://www.ithome.com/0/990/423.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7aa21b2b03252f8b770cd052b64f1cd85e63f517",
+          "title": "网传“深圳道路大面积塌陷致翻车”，深圳市委网信办确认“系 AI 合成谣言”",
+          "url": "https://www.ithome.com/0/990/423.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T23:34:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "149742f52e61c15e902f1bbbf84c3f655f6903dc",
+          "title": "网传深圳道路大面积塌陷致翻车？官方确认系AI合成谣言",
+          "url": "https://www.ithome.com/0/990/423.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7aa21b2b03252f8b770cd052b64f1cd85e63f517",
+          "title": "网传“深圳道路大面积塌陷致翻车”，深圳市委网信办确认“系 AI 合成谣言”",
+          "url": "https://www.ithome.com/0/990/423.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T23:34:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T23:34:20Z",
+      "latest_at": "2026-08-17T01:05:08.929654Z",
+      "primary_item": {
+        "id": "149742f52e61c15e902f1bbbf84c3f655f6903dc",
+        "title": "网传深圳道路大面积塌陷致翻车？官方确认系AI合成谣言",
+        "url": "https://www.ithome.com/0/990/423.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1085,15 +1586,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5186,
-      "importance": 0.5186,
-      "importance_score": 0.5186,
+      "score": 0.5156,
+      "importance": 0.5156,
+      "importance_score": 0.5156,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8488,
+        "recency": 0.8322,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1108,559 +1609,6 @@
         "url": "https://www.businessinsider.com/bcg-consultants-ai-skills-technical-training-mel-wolfgang-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_448f5885154c",
-      "title": "Show HN: 从AI生成的文本中移除AI语音",
-      "url": "https://unslopai.com",
-      "primary_url": "https://unslopai.com",
-      "source": "unslopai.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "560a286af1360fb3ce7d395157d6a10a3c4c3968",
-          "title": "Show HN: 从AI生成的文本中移除AI语音",
-          "url": "https://unslopai.com",
-          "source": "unslopai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T11:34:06.552000Z"
-        },
-        {
-          "id": "a9f4c7f9f3a5ac2e038ba39a35387943c197c2f9",
-          "title": "Show HN: 从AI生成的文本中移除AI语音 / Show HN: Remove AI voice from AI writings",
-          "url": "https://unslopai.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T11:28:50Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "unslopai.com"
-      ],
-      "items": [
-        {
-          "id": "560a286af1360fb3ce7d395157d6a10a3c4c3968",
-          "title": "Show HN: 从AI生成的文本中移除AI语音",
-          "url": "https://unslopai.com",
-          "source": "unslopai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T11:34:06.552000Z"
-        },
-        {
-          "id": "a9f4c7f9f3a5ac2e038ba39a35387943c197c2f9",
-          "title": "Show HN: 从AI生成的文本中移除AI语音 / Show HN: Remove AI voice from AI writings",
-          "url": "https://unslopai.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T11:28:50Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5168,
-      "importance": 0.5168,
-      "importance_score": 0.5168,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8391,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T11:28:50Z",
-      "latest_at": "2026-08-16T11:34:06.552000Z",
-      "primary_item": {
-        "id": "560a286af1360fb3ce7d395157d6a10a3c4c3968",
-        "title": "Show HN: 从AI生成的文本中移除AI语音",
-        "url": "https://unslopai.com",
-        "source": "unslopai.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_9b780e5528de",
-      "title": "akitaonrails / ai-内存 / akitaonrails /      ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "primary_url": "https://github.com/akitaonrails/ai-memory",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "e093aec71608c94ab78108d3149519fad3663164",
-          "title": "akitaonrails / ai-内存 / akitaonrails /      ai-memory",
-          "url": "https://github.com/akitaonrails/ai-memory",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T11:29:51.730000Z"
-        },
-        {
-          "id": "7ed9cfc7ad6a8a90822e035db00cc2078fa0ca5e",
-          "title": "akitaonrails / ai-内存 / akitaonrails / ai-memory",
-          "url": "https://github.com/akitaonrails/ai-memory",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "e093aec71608c94ab78108d3149519fad3663164",
-          "title": "akitaonrails / ai-内存 / akitaonrails /      ai-memory",
-          "url": "https://github.com/akitaonrails/ai-memory",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T11:29:51.730000Z"
-        },
-        {
-          "id": "7ed9cfc7ad6a8a90822e035db00cc2078fa0ca5e",
-          "title": "akitaonrails / ai-内存 / akitaonrails / ai-memory",
-          "url": "https://github.com/akitaonrails/ai-memory",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5167,
-      "importance": 0.5167,
-      "importance_score": 0.5167,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8382,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T11:17:37.362646Z",
-      "latest_at": "2026-08-16T11:29:51.730000Z",
-      "primary_item": {
-        "id": "e093aec71608c94ab78108d3149519fad3663164",
-        "title": "akitaonrails / ai-内存 / akitaonrails /      ai-memory",
-        "url": "https://github.com/akitaonrails/ai-memory",
-        "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_7ec51ac786a3",
-      "title": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-      "primary_url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "457b877e8c2046c0acb3f6e23fde3cbb21883c40",
-          "title": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "b1183d5a3643a41d2541bcd015a4fb8d11502f76",
-          "title": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "url": "https://news.ycombinator.com/item?id=49323686",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T21:45:20.362000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "457b877e8c2046c0acb3f6e23fde3cbb21883c40",
-          "title": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "b1183d5a3643a41d2541bcd015a4fb8d11502f76",
-          "title": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "url": "https://news.ycombinator.com/item?id=49323686",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T21:45:20.362000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5433,
-      "importance": 0.5433,
-      "importance_score": 0.5433,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9862,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T21:45:20.362000Z",
-      "latest_at": "2026-08-16T22:45:29.942932Z",
-      "primary_item": {
-        "id": "457b877e8c2046c0acb3f6e23fde3cbb21883c40",
-        "title": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-        "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_425771fe0c90",
-      "title": "Show HN: PyScrappy：具备自愈功能的网页抓取选择器及MCP服务器",
-      "url": "https://github.com/mldsveda/PyScrappy",
-      "primary_url": "https://github.com/mldsveda/PyScrappy",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "42c1a3e239b7a17c2379686844cd75862ef7750a",
-          "title": "Show HN: PyScrappy：具备自愈功能的网页抓取选择器及MCP服务器",
-          "url": "https://github.com/mldsveda/PyScrappy",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T07:50:00.742000Z"
-        },
-        {
-          "id": "ce61fce5d8f3257d4d8ae1b4eb65b47e9e32c002",
-          "title": "Show HN: PyScrappy：具备自愈功能的网页抓取选择器及MCP服务器 / Show HN: PyScrappy, self-healing web scraping selectors plus an MCP server",
-          "url": "https://github.com/mldsveda/PyScrappy",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T07:46:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "42c1a3e239b7a17c2379686844cd75862ef7750a",
-          "title": "Show HN: PyScrappy：具备自愈功能的网页抓取选择器及MCP服务器",
-          "url": "https://github.com/mldsveda/PyScrappy",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T07:50:00.742000Z"
-        },
-        {
-          "id": "ce61fce5d8f3257d4d8ae1b4eb65b47e9e32c002",
-          "title": "Show HN: PyScrappy：具备自愈功能的网页抓取选择器及MCP服务器 / Show HN: PyScrappy, self-healing web scraping selectors plus an MCP server",
-          "url": "https://github.com/mldsveda/PyScrappy",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T07:46:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5089,
-      "importance": 0.5089,
-      "importance_score": 0.5089,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.795,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T07:46:40Z",
-      "latest_at": "2026-08-16T07:50:00.742000Z",
-      "primary_item": {
-        "id": "42c1a3e239b7a17c2379686844cd75862ef7750a",
-        "title": "Show HN: PyScrappy：具备自愈功能的网页抓取选择器及MCP服务器",
-        "url": "https://github.com/mldsveda/PyScrappy",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_007e645643fb",
-      "title": "科技专家称，人工智能热潮虽与安然事件有相似之处，但并不注定会以灾难告终",
-      "url": "https://www.businessinsider.com/ai-boom-enron-tech-stocks-debt-demand-forecasts-circular-deals-2026-8",
-      "primary_url": "https://www.businessinsider.com/ai-boom-enron-tech-stocks-debt-demand-forecasts-circular-deals-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "588ef89a4962e7a1defc940873314cd40cdd4294",
-          "title": "科技专家称，人工智能热潮虽与安然事件有相似之处，但并不注定会以灾难告终",
-          "url": "https://www.businessinsider.com/ai-boom-enron-tech-stocks-debt-demand-forecasts-circular-deals-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T10:45:57.134000Z"
-        },
-        {
-          "id": "ff0007fc3a2f9e2f0e94757c9bdbdee946d4d7f4",
-          "title": "科技专家称，人工智能热潮虽与安然事件有相似之处，但并不注定会以灾难告终 / The AI boom has echoes of Enron — but that might be okay, a tech guru says",
-          "url": "https://www.businessinsider.com/ai-boom-enron-tech-stocks-debt-demand-forecasts-circular-deals-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T10:30:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "588ef89a4962e7a1defc940873314cd40cdd4294",
-          "title": "科技专家称，人工智能热潮虽与安然事件有相似之处，但并不注定会以灾难告终",
-          "url": "https://www.businessinsider.com/ai-boom-enron-tech-stocks-debt-demand-forecasts-circular-deals-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T10:45:57.134000Z"
-        },
-        {
-          "id": "ff0007fc3a2f9e2f0e94757c9bdbdee946d4d7f4",
-          "title": "科技专家称，人工智能热潮虽与安然事件有相似之处，但并不注定会以灾难告终 / The AI boom has echoes of Enron — but that might be okay, a tech guru says",
-          "url": "https://www.businessinsider.com/ai-boom-enron-tech-stocks-debt-demand-forecasts-circular-deals-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T10:30:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5151,
-      "importance": 0.5151,
-      "importance_score": 0.5151,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8294,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T10:30:01Z",
-      "latest_at": "2026-08-16T10:45:57.134000Z",
-      "primary_item": {
-        "id": "588ef89a4962e7a1defc940873314cd40cdd4294",
-        "title": "科技专家称，人工智能热潮虽与安然事件有相似之处，但并不注定会以灾难告终",
-        "url": "https://www.businessinsider.com/ai-boom-enron-tech-stocks-debt-demand-forecasts-circular-deals-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_186740912b76",
-      "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-      "url": "https://news.ycombinator.com/item?id=49323932",
-      "primary_url": "https://news.ycombinator.com/item?id=49323932",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "84486f08031cb804badebdefd5bc8ccf28ec0f0d",
-          "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-          "url": "https://news.ycombinator.com/item?id=49323932",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T22:46:01.187000Z"
-        },
-        {
-          "id": "63ccfe6f157fcc1e9c61323b7a4d1c177e548fd0",
-          "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-          "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T21:34:06Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "84486f08031cb804badebdefd5bc8ccf28ec0f0d",
-          "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-          "url": "https://news.ycombinator.com/item?id=49323932",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T22:46:01.187000Z"
-        },
-        {
-          "id": "63ccfe6f157fcc1e9c61323b7a4d1c177e548fd0",
-          "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-          "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T21:34:06Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5433,
-      "importance": 0.5433,
-      "importance_score": 0.5433,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9864,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T21:34:06Z",
-      "latest_at": "2026-08-16T22:46:01.187000Z",
-      "primary_item": {
-        "id": "84486f08031cb804badebdefd5bc8ccf28ec0f0d",
-        "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-        "url": "https://news.ycombinator.com/item?id=49323932",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_dc17d35aad93",
-      "title": "DeepSeek 涨价背后：中国正在把「智能」变成一种工业品",
-      "url": "https://www.huxiu.com/article/4883517.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4883517.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "95d79892ef4cad03fe678d4d883bfa52b13c816f",
-          "title": "DeepSeek 涨价背后：中国正在把「智能」变成一种工业品",
-          "url": "https://www.huxiu.com/article/4883517.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "139e2530651083380a682ad186daf7d698c08062",
-          "title": "DeepSeek涨价背后：中国正在把“智能”变成一种工业品",
-          "url": "https://www.huxiu.com/article/4883517.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T16:26:33Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "95d79892ef4cad03fe678d4d883bfa52b13c816f",
-          "title": "DeepSeek 涨价背后：中国正在把「智能」变成一种工业品",
-          "url": "https://www.huxiu.com/article/4883517.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "139e2530651083380a682ad186daf7d698c08062",
-          "title": "DeepSeek涨价背后：中国正在把“智能”变成一种工业品",
-          "url": "https://www.huxiu.com/article/4883517.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T16:26:33Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5288,
-      "importance": 0.5288,
-      "importance_score": 0.5288,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9054,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T16:26:33Z",
-      "latest_at": "2026-08-16T16:50:00.349566Z",
-      "primary_item": {
-        "id": "95d79892ef4cad03fe678d4d883bfa52b13c816f",
-        "title": "DeepSeek 涨价背后：中国正在把「智能」变成一种工业品",
-        "url": "https://www.huxiu.com/article/4883517.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
