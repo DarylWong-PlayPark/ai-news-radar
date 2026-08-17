@@ -592,6 +592,37 @@ DIRECT_RSS_SOURCES: list[dict[str, Any]] = [
     # for a live 24h radar.
     # Note: AFK Gaming removed — feed returns text/html not RSS XML despite
     # HTTP 200. Codex research caught this; our initial curl missed it.
+
+    # ── Round 5 additions (2026-08-17) — user-nominated sources ─────────
+    # GamerBraves (also MY) re-checked and still 403 Cloudflare — excluded.
+    # NMia Gaming: no RSS feed found on any path — excluded.
+
+    # Malaysia — Wanuxi is Malaysia's largest Chinese-language gaming portal
+    # ("马来西亚首号游戏网站"). Covers console, PC, and mobile titles in
+    # Simplified Chinese. dedicated=False: mixes anime and entertainment
+    # alongside gaming, so the keyword gate filters non-game items.
+    {
+        "site_id": "wanuxi",
+        "site_name": "Wanuxi",
+        "feed_url": "https://www.wanuxi.com/feed/",
+        "region": "MY",
+        "dedicated": False,
+        "language": "zh",
+        "verified": "2026-08-17",
+    },
+    # Philippines — Enduins is a PH-based gaming/anime media outlet covering
+    # SEA game launches, mobile titles, and local events. English-language,
+    # fully game-focused editorial. dedicated=True: entire site is gaming and
+    # geek culture, so the title keyword gate would wrongly drop real articles.
+    {
+        "site_id": "enduins",
+        "site_name": "Enduins",
+        "feed_url": "https://www.enduins.com/feed",
+        "region": "PH",
+        "dedicated": True,
+        "language": "en",
+        "verified": "2026-08-17",
+    },
 ]
 
 # Singapore status as of 2026-07-09: Geek Culture (/games/ category feed)
