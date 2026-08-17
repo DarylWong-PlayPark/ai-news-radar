@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-08-17T11:31:32.340195Z",
+  "generated_at": "2026-08-17T12:37:43.025001Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_96670aeff66e",
+      "title": "情报时代的新政策理念 / New policy ideas for the Intelligence Age",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "primary_url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "98012ec2d34b31c122d53ffafb6e0cbb292bd317",
+          "title": "情报时代的新政策理念 / New policy ideas for the Intelligence Age",
+          "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T03:15:00Z"
+        },
+        {
+          "id": "ff5779eb5275d18bb889cb1dc3d6781bf96a6313",
+          "title": "OpenAI 资助 14 个项目探索新的人工智能政策理念 / OpenAI funds 14 projects exploring new AI policy ideas",
+          "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "98012ec2d34b31c122d53ffafb6e0cbb292bd317",
+          "title": "情报时代的新政策理念 / New policy ideas for the Intelligence Age",
+          "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T03:15:00Z"
+        },
+        {
+          "id": "ff5779eb5275d18bb889cb1dc3d6781bf96a6313",
+          "title": "OpenAI 资助 14 个项目探索新的人工智能政策理念 / OpenAI funds 14 projects exploring new AI policy ideas",
+          "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8542,
+      "importance": 0.8542,
+      "importance_score": 0.8542,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8733,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T03:15:00Z",
+      "latest_at": "2026-08-17T12:37:43.025001Z",
+      "primary_item": {
+        "id": "98012ec2d34b31c122d53ffafb6e0cbb292bd317",
+        "title": "情报时代的新政策理念 / New policy ideas for the Intelligence Age",
+        "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_cfb1ad6d5c2e",
       "title": "与 Gemini 和 Pixel 一起近距离接触游戏 / Get closer to the game with Gemini and Pixel",
@@ -38,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8431,
-      "importance": 0.8431,
-      "importance_score": 0.8431,
+      "score": 0.8404,
+      "importance": 0.8404,
+      "importance_score": 0.8404,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9504,
+        "recency": 0.9353,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,68 +144,6 @@
         "title": "与 Gemini 和 Pixel 一起近距离接触游戏 / Get closer to the game with Gemini and Pixel",
         "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships",
         "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_96670aeff66e",
-      "title": "情报时代的新政策理念 / New policy ideas for the Intelligence Age",
-      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "primary_url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "98012ec2d34b31c122d53ffafb6e0cbb292bd317",
-          "title": "情报时代的新政策理念 / New policy ideas for the Intelligence Age",
-          "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T03:15:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "98012ec2d34b31c122d53ffafb6e0cbb292bd317",
-          "title": "情报时代的新政策理念 / New policy ideas for the Intelligence Age",
-          "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T03:15:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8317,
-      "importance": 0.8317,
-      "importance_score": 0.8317,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8874,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T03:15:00Z",
-      "latest_at": "2026-08-17T03:15:00Z",
-      "primary_item": {
-        "id": "98012ec2d34b31c122d53ffafb6e0cbb292bd317",
-        "title": "情报时代的新政策理念 / New policy ideas for the Intelligence Age",
-        "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -181,15 +201,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7899,
-      "importance": 0.7899,
-      "importance_score": 0.7899,
+      "score": 0.7871,
+      "importance": 0.7871,
+      "importance_score": 0.7871,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9851,
+        "recency": 0.9695,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -281,15 +301,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7887,
-      "importance": 0.7887,
-      "importance_score": 0.7887,
+      "score": 0.7863,
+      "importance": 0.7863,
+      "importance_score": 0.7863,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8227,
+        "recency": 0.8097,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -362,15 +382,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7877,
-      "importance": 0.7877,
-      "importance_score": 0.7877,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.973,
+        "recency": 0.9576,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -443,15 +463,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7877,
-      "importance": 0.7877,
-      "importance_score": 0.7877,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.973,
+        "recency": 0.9576,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -524,15 +544,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7877,
-      "importance": 0.7877,
-      "importance_score": 0.7877,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.973,
+        "recency": 0.9576,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -605,15 +625,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7853,
-      "importance": 0.7853,
-      "importance_score": 0.7853,
+      "score": 0.7826,
+      "importance": 0.7826,
+      "importance_score": 0.7826,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9594,
+        "recency": 0.9443,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -630,6 +650,84 @@
         "url": "https://www.aibase.com/news/30399",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e6c585a846b4",
+      "title": "Anthropic 解释了克劳德的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "e4a1fa384e7dfe47c175c93347eded816acc40c2",
+          "title": "Anthropic 解释了克劳德的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-17T10:57:13Z"
+        },
+        {
+          "id": "7496fe78bb23935a420d21bbf52934a97a65e42b",
+          "title": "Anthropic 解释了克劳德的隐形文本水印的工作原理 / Anthropic explains how Claude’s invisible text watermarks will work",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T10:57:13Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "e4a1fa384e7dfe47c175c93347eded816acc40c2",
+          "title": "Anthropic 解释了克劳德的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-17T10:57:13Z"
+        },
+        {
+          "id": "7496fe78bb23935a420d21bbf52934a97a65e42b",
+          "title": "Anthropic 解释了克劳德的隐形文本水印的工作原理 / Anthropic explains how Claude’s invisible text watermarks will work",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T10:57:13Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6361,
+      "importance": 0.6361,
+      "importance_score": 0.6361,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5328,
+        "source_tier": 0.58,
+        "ai_relevance": 0.74,
+        "recency": 0.9761,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-17T10:57:13Z",
+      "latest_at": "2026-08-17T10:57:13Z",
+      "primary_item": {
+        "id": "e4a1fa384e7dfe47c175c93347eded816acc40c2",
+        "title": "Anthropic 解释了克劳德的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+        "source": "The Verge",
+        "source_name": "Curated Media"
       }
     },
     {
@@ -686,15 +784,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7833,
-      "importance": 0.7833,
-      "importance_score": 0.7833,
+      "score": 0.7806,
+      "importance": 0.7806,
+      "importance_score": 0.7806,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9482,
+        "recency": 0.9332,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -767,15 +865,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6146,
-      "importance": 0.6146,
-      "importance_score": 0.6146,
+      "score": 0.6123,
+      "importance": 0.6123,
+      "importance_score": 0.6123,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8102,
+        "recency": 0.7974,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -863,15 +961,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6143,
-      "importance": 0.6143,
-      "importance_score": 0.6143,
+      "score": 0.6116,
+      "importance": 0.6116,
+      "importance_score": 0.6116,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.973,
+        "recency": 0.9576,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -942,15 +1040,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7808,
-      "importance": 0.7808,
-      "importance_score": 0.7808,
+      "score": 0.7781,
+      "importance": 0.7781,
+      "importance_score": 0.7781,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9342,
+        "recency": 0.9195,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1023,15 +1121,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7808,
-      "importance": 0.7808,
-      "importance_score": 0.7808,
+      "score": 0.7781,
+      "importance": 0.7781,
+      "importance_score": 0.7781,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9342,
+        "recency": 0.9195,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1141,15 +1239,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5696,
-      "importance": 0.5696,
-      "importance_score": 0.5696,
+      "score": 0.5672,
+      "importance": 0.5672,
+      "importance_score": 0.5672,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8545,
+        "recency": 0.8409,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1258,15 +1356,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5657,
-      "importance": 0.5657,
-      "importance_score": 0.5657,
+      "score": 0.5633,
+      "importance": 0.5633,
+      "importance_score": 0.5633,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8327,
+        "recency": 0.8195,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1356,15 +1454,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5601,
-      "importance": 0.5601,
-      "importance_score": 0.5601,
+      "score": 0.5575,
+      "importance": 0.5575,
+      "importance_score": 0.5575,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9408,
+        "recency": 0.9259,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1454,15 +1552,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5513,
-      "importance": 0.5513,
-      "importance_score": 0.5513,
+      "score": 0.5487,
+      "importance": 0.5487,
+      "importance_score": 0.5487,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8915,
+        "recency": 0.8774,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1480,238 +1578,160 @@
       }
     },
     {
-      "story_id": "story_9eb0b2fa15a1",
-      "title": "AlexsJones / llmfit",
-      "url": "https://github.com/AlexsJones/llmfit",
-      "primary_url": "https://github.com/AlexsJones/llmfit",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "027d3412f4073a3f46ace586c754056dd2af7009",
-          "title": "AlexsJones / llmfit",
-          "url": "https://github.com/AlexsJones/llmfit",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "69e96b91552f5a09de216d4948aab174a73d92c3",
-          "title": "AlexsJones /      llmfit",
-          "url": "https://github.com/AlexsJones/llmfit",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T11:02:29.630000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "027d3412f4073a3f46ace586c754056dd2af7009",
-          "title": "AlexsJones / llmfit",
-          "url": "https://github.com/AlexsJones/llmfit",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "69e96b91552f5a09de216d4948aab174a73d92c3",
-          "title": "AlexsJones /      llmfit",
-          "url": "https://github.com/AlexsJones/llmfit",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T11:02:29.630000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-17T11:02:29.630000Z",
-      "latest_at": "2026-08-17T11:31:32.340195Z",
-      "primary_item": {
-        "id": "027d3412f4073a3f46ace586c754056dd2af7009",
-        "title": "AlexsJones / llmfit",
-        "url": "https://github.com/AlexsJones/llmfit",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_75f9598bdf63",
-      "title": "Anthropic提振人工智能市场乐观情绪，股指期货上涨：市场综述",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates",
-      "source": "www.bloomberg.com",
+      "story_id": "story_ece8532ba7a9",
+      "title": "MathCode，数学编码代理",
+      "url": "https://math-ai-org.github.io/mathcode",
+      "primary_url": "https://math-ai-org.github.io/mathcode",
+      "source": "math-ai-org.github.io",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "7ffda4e00c3e83d4ae28e3fc1c35218725382fb6",
-          "title": "Anthropic提振人工智能市场乐观情绪，股指期货上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
+          "id": "07f75fa673c4968c9d2b523fb141e4a52f712710",
+          "title": "MathCode，数学编码代理",
+          "url": "https://math-ai-org.github.io/mathcode",
+          "source": "math-ai-org.github.io",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-17T11:18:16.359000Z"
+          "published_at": "2026-08-17T11:33:59.048000Z"
         },
         {
-          "id": "80279b20f716b91c569c8b21ab04746443bea4b1",
-          "title": "Anthropic推动AI概念股上涨，美股期货走高：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T10:30:07.168000Z"
+          "id": "94ba1d06854a30f0b2933918dd421418881390cc",
+          "title": "MathCode，数学编码代理 / MathCode, Mathematical Coding Agent",
+          "url": "https://math-ai-org.github.io/mathcode",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T18:17:10Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "www.bloomberg.com"
+        "Hacker News (黑客新闻)",
+        "math-ai-org.github.io"
       ],
       "items": [
         {
-          "id": "7ffda4e00c3e83d4ae28e3fc1c35218725382fb6",
-          "title": "Anthropic提振人工智能市场乐观情绪，股指期货上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
+          "id": "07f75fa673c4968c9d2b523fb141e4a52f712710",
+          "title": "MathCode，数学编码代理",
+          "url": "https://math-ai-org.github.io/mathcode",
+          "source": "math-ai-org.github.io",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-17T11:18:16.359000Z"
+          "published_at": "2026-08-17T11:33:59.048000Z"
         },
         {
-          "id": "80279b20f716b91c569c8b21ab04746443bea4b1",
-          "title": "Anthropic推动AI概念股上涨，美股期货走高：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T10:30:07.168000Z"
+          "id": "94ba1d06854a30f0b2933918dd421418881390cc",
+          "title": "MathCode，数学编码代理 / MathCode, Mathematical Coding Agent",
+          "url": "https://math-ai-org.github.io/mathcode",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T18:17:10Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "score": 0.5431,
+      "importance": 0.5431,
+      "importance_score": 0.5431,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9968,
+        "recency": 0.9848,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-17T10:30:07.168000Z",
-      "latest_at": "2026-08-17T11:18:16.359000Z",
+      "earliest_at": "2026-08-16T18:17:10Z",
+      "latest_at": "2026-08-17T11:33:59.048000Z",
       "primary_item": {
-        "id": "7ffda4e00c3e83d4ae28e3fc1c35218725382fb6",
-        "title": "Anthropic提振人工智能市场乐观情绪，股指期货上涨：市场综述",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates",
-        "source": "www.bloomberg.com",
+        "id": "07f75fa673c4968c9d2b523fb141e4a52f712710",
+        "title": "MathCode，数学编码代理",
+        "url": "https://math-ai-org.github.io/mathcode",
+        "source": "math-ai-org.github.io",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_a3cd8d082831",
-      "title": "对经过审核的AI代码很难给出合理的解释",
-      "url": "https://amoffat.github.io/blog/vetting-burnout.html",
-      "primary_url": "https://amoffat.github.io/blog/vetting-burnout.html",
-      "source": "amoffat.github.io",
+      "story_id": "story_e01442918e19",
+      "title": "最热门的AI模型并不是开发者实际使用的那些",
+      "url": "https://www.businessinsider.com/top-ai-models-usage-data-hugging-face-2026-8",
+      "primary_url": "https://www.businessinsider.com/top-ai-models-usage-data-hugging-face-2026-8",
+      "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "1a15f27d65766ad33c840987ac2228fcc0e1191b",
-          "title": "对经过审核的AI代码很难给出合理的解释",
-          "url": "https://amoffat.github.io/blog/vetting-burnout.html",
-          "source": "amoffat.github.io",
+          "id": "494cd8b2dcc85ec02246d146406ca2bfbf8eda96",
+          "title": "最热门的AI模型并不是开发者实际使用的那些",
+          "url": "https://www.businessinsider.com/top-ai-models-usage-data-hugging-face-2026-8",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-17T11:18:15.372000Z"
+          "published_at": "2026-08-17T11:33:59.847000Z"
         },
         {
-          "id": "34f991b2011af583b8328e5d48a7cfb815dcb82e",
-          "title": "对经过审核的AI代码很难给出合理的解释 / Vetted AI code is hard to justify",
-          "url": "https://amoffat.github.io/blog/vetting-burnout.html",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-17T11:11:39Z"
+          "id": "583c5c6e53828b1e3834cfe92d525f566c721e86",
+          "title": "最热门的AI模型并不是开发者实际使用的那些 / The hottest AI models aren’t the ones developers actually use",
+          "url": "https://www.businessinsider.com/top-ai-models-usage-data-hugging-face-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T09:19:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Lobsters (技术社区)",
-        "amoffat.github.io"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "1a15f27d65766ad33c840987ac2228fcc0e1191b",
-          "title": "对经过审核的AI代码很难给出合理的解释",
-          "url": "https://amoffat.github.io/blog/vetting-burnout.html",
-          "source": "amoffat.github.io",
+          "id": "494cd8b2dcc85ec02246d146406ca2bfbf8eda96",
+          "title": "最热门的AI模型并不是开发者实际使用的那些",
+          "url": "https://www.businessinsider.com/top-ai-models-usage-data-hugging-face-2026-8",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-17T11:18:15.372000Z"
+          "published_at": "2026-08-17T11:33:59.847000Z"
         },
         {
-          "id": "34f991b2011af583b8328e5d48a7cfb815dcb82e",
-          "title": "对经过审核的AI代码很难给出合理的解释 / Vetted AI code is hard to justify",
-          "url": "https://amoffat.github.io/blog/vetting-burnout.html",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-17T11:11:39Z"
+          "id": "583c5c6e53828b1e3834cfe92d525f566c721e86",
+          "title": "最热门的AI模型并不是开发者实际使用的那些 / The hottest AI models aren’t the ones developers actually use",
+          "url": "https://www.businessinsider.com/top-ai-models-usage-data-hugging-face-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T09:19:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "score": 0.5431,
+      "importance": 0.5431,
+      "importance_score": 0.5431,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9968,
+        "recency": 0.9848,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-17T11:11:39Z",
-      "latest_at": "2026-08-17T11:18:15.372000Z",
+      "earliest_at": "2026-08-17T09:19:01Z",
+      "latest_at": "2026-08-17T11:33:59.847000Z",
       "primary_item": {
-        "id": "1a15f27d65766ad33c840987ac2228fcc0e1191b",
-        "title": "对经过审核的AI代码很难给出合理的解释",
-        "url": "https://amoffat.github.io/blog/vetting-burnout.html",
-        "source": "amoffat.github.io",
+        "id": "494cd8b2dcc85ec02246d146406ca2bfbf8eda96",
+        "title": "最热门的AI模型并不是开发者实际使用的那些",
+        "url": "https://www.businessinsider.com/top-ai-models-usage-data-hugging-face-2026-8",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     }
