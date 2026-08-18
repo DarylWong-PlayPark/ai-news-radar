@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T04:31:59.925718Z",
+  "generated_at": "2026-08-18T05:25:19.432787Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8539,
-      "importance": 0.8539,
-      "importance_score": 0.8539,
+      "score": 0.8519,
+      "importance": 0.8519,
+      "importance_score": 0.8519,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.913,
+        "recency": 0.9014,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -157,15 +157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8386,
-      "importance": 0.8386,
-      "importance_score": 0.8386,
+      "score": 0.8366,
+      "importance": 0.8366,
+      "importance_score": 0.8366,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8812,
+        "recency": 0.8699,
         "story_heat": 0.0
       },
       "category": "official",
@@ -238,15 +238,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8261,
-      "importance": 0.8261,
-      "importance_score": 0.8261,
+      "score": 0.8244,
+      "importance": 0.8244,
+      "importance_score": 0.8244,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.717,
+        "recency": 0.7079,
         "story_heat": 0.25
       },
       "category": "official",
@@ -301,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8142,
-      "importance": 0.8142,
-      "importance_score": 0.8142,
+      "score": 0.8123,
+      "importance": 0.8123,
+      "importance_score": 0.8123,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8344,
+        "recency": 0.8238,
         "story_heat": 0.0
       },
       "category": "official",
@@ -477,15 +477,15 @@
       ],
       "item_count": 7,
       "duplicate_count": 7,
-      "score": 0.8409,
-      "importance": 0.8409,
-      "importance_score": 0.8409,
+      "score": 0.8389,
+      "importance": 0.8389,
+      "importance_score": 0.8389,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8685,
+        "recency": 0.8574,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -539,15 +539,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8058,
-      "importance": 0.8058,
-      "importance_score": 0.8058,
+      "score": 0.8041,
+      "importance": 0.8041,
+      "importance_score": 0.8041,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7434,
+        "recency": 0.7339,
         "story_heat": 0.0
       },
       "category": "official",
@@ -620,15 +620,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7904,
-      "importance": 0.7904,
-      "importance_score": 0.7904,
+      "score": 0.7882,
+      "importance": 0.7882,
+      "importance_score": 0.7882,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9879,
+        "recency": 0.9753,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -701,15 +701,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7942,
+        "recency": 0.7841,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -726,68 +726,6 @@
         "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
         "source": "NVIDIA Blog（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ad5623d5cc70",
-      "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
-      "url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "primary_url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "56b86347d148780724bfa2fb4adea8f45cdf3e76",
-          "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
-          "url": "https://openai.com/index/openai-joins-ports-pike-project",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T05:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "56b86347d148780724bfa2fb4adea8f45cdf3e76",
-          "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
-          "url": "https://openai.com/index/openai-joins-ports-pike-project",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T05:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8001,
-      "importance": 0.8001,
-      "importance_score": 0.8001,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7119,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T05:00:00Z",
-      "latest_at": "2026-08-17T05:00:00Z",
-      "primary_item": {
-        "id": "56b86347d148780724bfa2fb4adea8f45cdf3e76",
-        "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
-        "url": "https://openai.com/index/openai-joins-ports-pike-project",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -843,15 +781,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7953,
+        "recency": 0.7851,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -924,15 +862,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7904,
-      "importance": 0.7904,
-      "importance_score": 0.7904,
+      "score": 0.7882,
+      "importance": 0.7882,
+      "importance_score": 0.7882,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9879,
+        "recency": 0.9753,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -986,15 +924,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.751,
+      "importance": 0.751,
+      "importance_score": 0.751,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9362,
+        "recency": 0.9242,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1104,15 +1042,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8111,
-      "importance": 0.8111,
-      "importance_score": 0.8111,
+      "score": 0.8092,
+      "importance": 0.8092,
+      "importance_score": 0.8092,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8585,
+        "recency": 0.8476,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1166,15 +1104,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9282,
+        "recency": 0.9164,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1226,15 +1164,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7925,
+        "recency": 0.7823,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1305,15 +1243,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7904,
-      "importance": 0.7904,
-      "importance_score": 0.7904,
+      "score": 0.7882,
+      "importance": 0.7882,
+      "importance_score": 0.7882,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9879,
+        "recency": 0.9753,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1386,15 +1324,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7904,
-      "importance": 0.7904,
-      "importance_score": 0.7904,
+      "score": 0.7882,
+      "importance": 0.7882,
+      "importance_score": 0.7882,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9879,
+        "recency": 0.9753,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1467,15 +1405,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7876,
-      "importance": 0.7876,
-      "importance_score": 0.7876,
+      "score": 0.7853,
+      "importance": 0.7853,
+      "importance_score": 0.7853,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9721,
+        "recency": 0.9597,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1638,15 +1576,15 @@
       ],
       "item_count": 7,
       "duplicate_count": 7,
-      "score": 0.6414,
-      "importance": 0.6414,
-      "importance_score": 0.6414,
+      "score": 0.6395,
+      "importance": 0.6395,
+      "importance_score": 0.6395,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8456,
+        "recency": 0.8348,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1717,15 +1655,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7876,
-      "importance": 0.7876,
-      "importance_score": 0.7876,
+      "score": 0.7853,
+      "importance": 0.7853,
+      "importance_score": 0.7853,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9721,
+        "recency": 0.9597,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1742,6 +1680,84 @@
         "url": "https://www.aibase.com/news/30419",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_966ff312c3d3",
+      "title": "曾经的在线书商亚马逊正在销毁善本书籍来训练人工智能模型 / Amazon, once an online bookseller, is destroying rare books to train AI models",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
+      "primary_url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "846b0663801ceaeeba96afe7775721d1e81e2b8e",
+          "title": "曾经的在线书商亚马逊正在销毁善本书籍来训练人工智能模型 / Amazon, once an online bookseller, is destroying rare books to train AI models",
+          "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-17T16:38:44Z"
+        },
+        {
+          "id": "1c138b79f233ab1079997c5ec2f6ed94d65025ac",
+          "title": "以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能 / Amazon, which started off selling books, is destroying rare texts to train AI",
+          "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-17T16:38:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "846b0663801ceaeeba96afe7775721d1e81e2b8e",
+          "title": "曾经的在线书商亚马逊正在销毁善本书籍来训练人工智能模型 / Amazon, once an online bookseller, is destroying rare books to train AI models",
+          "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-17T16:38:44Z"
+        },
+        {
+          "id": "1c138b79f233ab1079997c5ec2f6ed94d65025ac",
+          "title": "以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能 / Amazon, which started off selling books, is destroying rare texts to train AI",
+          "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-17T16:38:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6184,
+      "importance": 0.6184,
+      "importance_score": 0.6184,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.8315,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-17T16:38:44Z",
+      "latest_at": "2026-08-17T16:38:44Z",
+      "primary_item": {
+        "id": "846b0663801ceaeeba96afe7775721d1e81e2b8e",
+        "title": "曾经的在线书商亚马逊正在销毁善本书籍来训练人工智能模型 / Amazon, once an online bookseller, is destroying rare books to train AI models",
+        "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
       }
     }
   ]
