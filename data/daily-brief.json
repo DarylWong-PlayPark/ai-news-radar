@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-08-18T10:37:52.407918Z",
+  "generated_at": "2026-08-18T11:22:19.750286Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_d80040e4a9ed",
+      "title": "推出面向青少年的 ChatGPT：专为学习而打造，以保护为后盾 / Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "url": "https://openai.com/index/introducing-chatgpt-for-teens",
+      "primary_url": "https://openai.com/index/introducing-chatgpt-for-teens",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4a5e9d08a810f419234d4e51f6e769846223e45c",
+          "title": "推出面向青少年的 ChatGPT：专为学习而打造，以保护为后盾 / Introducing ChatGPT for Teens: Built for learning, backed by protections",
+          "url": "https://openai.com/index/introducing-chatgpt-for-teens",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T11:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "4a5e9d08a810f419234d4e51f6e769846223e45c",
+          "title": "推出面向青少年的 ChatGPT：专为学习而打造，以保护为后盾 / Introducing ChatGPT for Teens: Built for learning, backed by protections",
+          "url": "https://openai.com/index/introducing-chatgpt-for-teens",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T11:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.859,
+      "importance": 0.859,
+      "importance_score": 0.859,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9946,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T11:00:00Z",
+      "latest_at": "2026-08-18T11:00:00Z",
+      "primary_item": {
+        "id": "4a5e9d08a810f419234d4e51f6e769846223e45c",
+        "title": "推出面向青少年的 ChatGPT：专为学习而打造，以保护为后盾 / Introducing ChatGPT for Teens: Built for learning, backed by protections",
+        "url": "https://openai.com/index/introducing-chatgpt-for-teens",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_39d537a07acb",
       "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
@@ -95,15 +157,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8401,
-      "importance": 0.8401,
-      "importance_score": 0.8401,
+      "score": 0.8385,
+      "importance": 0.8385,
+      "importance_score": 0.8385,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8361,
+        "recency": 0.8272,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -157,15 +219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8252,
-      "importance": 0.8252,
-      "importance_score": 0.8252,
+      "score": 0.8237,
+      "importance": 0.8237,
+      "importance_score": 0.8237,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8069,
+        "recency": 0.7983,
         "story_heat": 0.0
       },
       "category": "official",
@@ -181,6 +243,68 @@
         "title": "相同的集群，利用率增加了 33 个点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
         "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9765648ad527",
+      "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "primary_url": "https://openai.com/index/partnering-with-codeai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
+          "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
+          "url": "https://openai.com/index/partnering-with-codeai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T11:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
+          "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
+          "url": "https://openai.com/index/partnering-with-codeai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T11:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.851,
+      "importance": 0.851,
+      "importance_score": 0.851,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9946,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T11:00:00Z",
+      "latest_at": "2026-08-18T11:00:00Z",
+      "primary_item": {
+        "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
+        "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
+        "url": "https://openai.com/index/partnering-with-codeai",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -256,15 +380,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8123,
-      "importance": 0.8123,
-      "importance_score": 0.8123,
+      "score": 0.8104,
+      "importance": 0.8104,
+      "importance_score": 0.8104,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9704,
+        "recency": 0.9601,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -318,15 +442,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8015,
-      "importance": 0.8015,
-      "importance_score": 0.8015,
+      "score": 0.8001,
+      "importance": 0.8001,
+      "importance_score": 0.8001,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7641,
+        "recency": 0.756,
         "story_heat": 0.0
       },
       "category": "official",
@@ -494,15 +618,15 @@
       ],
       "item_count": 7,
       "duplicate_count": 7,
-      "score": 0.8277,
-      "importance": 0.8277,
-      "importance_score": 0.8277,
+      "score": 0.8262,
+      "importance": 0.8262,
+      "importance_score": 0.8262,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7953,
+        "recency": 0.7868,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -575,15 +699,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.791,
-      "importance": 0.791,
-      "importance_score": 0.791,
+      "score": 0.7891,
+      "importance": 0.7891,
+      "importance_score": 0.7891,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9909,
+        "recency": 0.9804,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -656,15 +780,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7273,
+        "recency": 0.7196,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -736,15 +860,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7283,
+        "recency": 0.7205,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -797,15 +921,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7416,
+      "importance": 0.7416,
+      "importance_score": 0.7416,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9489,
+        "recency": 0.9388,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -857,15 +981,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
+      "score": 0.7373,
+      "importance": 0.7373,
+      "importance_score": 0.7373,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8573,
+        "recency": 0.8481,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -974,15 +1098,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.7981,
-      "importance": 0.7981,
-      "importance_score": 0.7981,
+      "score": 0.7966,
+      "importance": 0.7966,
+      "importance_score": 0.7966,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7862,
+        "recency": 0.7778,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -998,6 +1122,66 @@
         "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
         "url": "https://www.librarian.net/notoai",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_01003c6680bc",
+      "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "primary_url": "https://openai.com/index/chatgpt-for-teens",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e587cab58fe7972338b9d7a5f94ab2ca6fbf7efa",
+          "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
+          "url": "https://openai.com/index/chatgpt-for-teens",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T11:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "e587cab58fe7972338b9d7a5f94ab2ca6fbf7efa",
+          "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
+          "url": "https://openai.com/index/chatgpt-for-teens",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T11:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7306,
+      "importance": 0.7306,
+      "importance_score": 0.7306,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.6,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9946,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-18T11:00:00Z",
+      "latest_at": "2026-08-18T11:00:00Z",
+      "primary_item": {
+        "id": "e587cab58fe7972338b9d7a5f94ab2ca6fbf7efa",
+        "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
+        "url": "https://openai.com/index/chatgpt-for-teens",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
         "source_name": "AI HOT"
       }
     },
@@ -1036,15 +1220,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7316,
-      "importance": 0.7316,
-      "importance_score": 0.7316,
+      "score": 0.73,
+      "importance": 0.73,
+      "importance_score": 0.73,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.85,
+        "recency": 0.8409,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1115,15 +1299,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7897,
-      "importance": 0.7897,
-      "importance_score": 0.7897,
+      "score": 0.7878,
+      "importance": 0.7878,
+      "importance_score": 0.7878,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9837,
+        "recency": 0.9732,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1140,66 +1324,6 @@
         "url": "https://www.aibase.com/news/30441",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4c21830be395",
-      "title": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
-      "url": "https://www.ithome.com/0/990/812.htm",
-      "primary_url": "https://www.ithome.com/0/990/812.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "857ded46599c92a5d91b8bd44d423dc2c66d49d2",
-          "title": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
-          "url": "https://www.ithome.com/0/990/812.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T12:25:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "857ded46599c92a5d91b8bd44d423dc2c66d49d2",
-          "title": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
-          "url": "https://www.ithome.com/0/990/812.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T12:25:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7212,
-      "importance": 0.7212,
-      "importance_score": 0.7212,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7257,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-17T12:25:27Z",
-      "latest_at": "2026-08-17T12:25:27Z",
-      "primary_item": {
-        "id": "857ded46599c92a5d91b8bd44d423dc2c66d49d2",
-        "title": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
-        "url": "https://www.ithome.com/0/990/812.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1256,15 +1380,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7897,
-      "importance": 0.7897,
-      "importance_score": 0.7897,
+      "score": 0.7878,
+      "importance": 0.7878,
+      "importance_score": 0.7878,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9837,
+        "recency": 0.9732,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1337,15 +1461,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7873,
-      "importance": 0.7873,
-      "importance_score": 0.7873,
+      "score": 0.7854,
+      "importance": 0.7854,
+      "importance_score": 0.7854,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9704,
+        "recency": 0.9601,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1418,15 +1542,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7873,
-      "importance": 0.7873,
-      "importance_score": 0.7873,
+      "score": 0.7854,
+      "importance": 0.7854,
+      "importance_score": 0.7854,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9704,
+        "recency": 0.9601,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1498,15 +1622,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6076,
-      "importance": 0.6076,
-      "importance_score": 0.6076,
+      "score": 0.6061,
+      "importance": 0.6061,
+      "importance_score": 0.6061,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7713,
+        "recency": 0.7631,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1520,166 +1644,6 @@
         "title": "曾经的在线书商亚马逊正在销毁善本书籍来训练人工智能模型 / Amazon, once an online bookseller, is destroying rare books to train AI models",
         "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
         "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_038b70333907",
-      "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
-      "url": "https://www.aibase.com/news/30434",
-      "primary_url": "https://www.aibase.com/news/30434",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f83591abed7de311be34b00e2db89cff34da7523",
-          "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
-          "url": "https://www.aibase.com/news/30434",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T08:33:04.993725Z"
-        },
-        {
-          "id": "79782962e8864b192f2ce5a886b849da8049fcd0",
-          "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成「分水岭」，企业速做 10 件事",
-          "url": "https://www.aibase.com/zh/news/30434",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "f83591abed7de311be34b00e2db89cff34da7523",
-          "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
-          "url": "https://www.aibase.com/news/30434",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T08:33:04.993725Z"
-        },
-        {
-          "id": "79782962e8864b192f2ce5a886b849da8049fcd0",
-          "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成「分水岭」，企业速做 10 件事",
-          "url": "https://www.aibase.com/zh/news/30434",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7873,
-      "importance": 0.7873,
-      "importance_score": 0.7873,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9704,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T08:33:04.993725Z",
-      "latest_at": "2026-08-18T08:33:04.993725Z",
-      "primary_item": {
-        "id": "f83591abed7de311be34b00e2db89cff34da7523",
-        "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
-        "url": "https://www.aibase.com/news/30434",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4f997d6e653c",
-      "title": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / AirTag reveals how Amazon destroys rare books for AI training",
-      "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
-      "primary_url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
-      "source": "The Decoder AI News",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "63e2d32b79587da8f62d11f0db26a7a216b91ec7",
-          "title": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / AirTag reveals how Amazon destroys rare books for AI training",
-          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-17T14:43:04Z"
-        },
-        {
-          "id": "df7ad8dd677c794ee98f871b87fc348ed89665c6",
-          "title": "Apple AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / Apple AirTag reveals how Amazon destroys rare books for AI training",
-          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T17:55:50Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "The Decoder AI News"
-      ],
-      "items": [
-        {
-          "id": "63e2d32b79587da8f62d11f0db26a7a216b91ec7",
-          "title": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / AirTag reveals how Amazon destroys rare books for AI training",
-          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-17T14:43:04Z"
-        },
-        {
-          "id": "df7ad8dd677c794ee98f871b87fc348ed89665c6",
-          "title": "Apple AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / Apple AirTag reveals how Amazon destroys rare books for AI training",
-          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T17:55:50Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6038,
-      "importance": 0.6038,
-      "importance_score": 0.6038,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.7501,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-17T14:43:04Z",
-      "latest_at": "2026-08-17T17:55:50Z",
-      "primary_item": {
-        "id": "63e2d32b79587da8f62d11f0db26a7a216b91ec7",
-        "title": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / AirTag reveals how Amazon destroys rare books for AI training",
-        "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
-        "source": "The Decoder AI News",
         "source_name": "Curated Media"
       }
     }
