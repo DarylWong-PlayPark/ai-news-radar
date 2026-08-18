@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T19:24:45.873012Z",
+  "generated_at": "2026-08-18T19:48:47.965115Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8818,
-      "importance": 0.8818,
-      "importance_score": 0.8818,
+      "score": 0.8808,
+      "importance": 0.8808,
+      "importance_score": 0.8808,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9821,
+        "recency": 0.9764,
         "story_heat": 0.25
       },
       "category": "official",
@@ -139,15 +139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8644,
-      "importance": 0.8644,
-      "importance_score": 0.8644,
+      "score": 0.8635,
+      "importance": 0.8635,
+      "importance_score": 0.8635,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8856,
+        "recency": 0.8805,
         "story_heat": 0.25
       },
       "category": "official",
@@ -239,15 +239,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.874,
-      "importance": 0.874,
-      "importance_score": 0.874,
+      "score": 0.8732,
+      "importance": 0.8732,
+      "importance_score": 0.8732,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7555,
+        "recency": 0.7512,
         "story_heat": 0.5
       },
       "category": "official",
@@ -321,15 +321,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8564,
-      "importance": 0.8564,
-      "importance_score": 0.8564,
+      "score": 0.8555,
+      "importance": 0.8555,
+      "importance_score": 0.8555,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8856,
+        "recency": 0.8805,
         "story_heat": 0.25
       },
       "category": "official",
@@ -403,15 +403,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8555,
-      "importance": 0.8555,
-      "importance_score": 0.8555,
+      "score": 0.8546,
+      "importance": 0.8546,
+      "importance_score": 0.8546,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8359,
+        "recency": 0.8311,
         "story_heat": 0.25
       },
       "category": "official",
@@ -503,15 +503,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7915,
-      "importance": 0.7915,
-      "importance_score": 0.7915,
+      "score": 0.7906,
+      "importance": 0.7906,
+      "importance_score": 0.7906,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8548,
+        "recency": 0.8499,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -584,15 +584,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7722,
-      "importance": 0.7722,
-      "importance_score": 0.7722,
+      "score": 0.7714,
+      "importance": 0.7714,
+      "importance_score": 0.7714,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7365,
+        "recency": 0.7323,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -609,68 +609,6 @@
         "url": "https://cursor.com/changelog/origin-code-hosting",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b597a3d03ee7",
-      "title": "相同的集群，利用率增加了 33 个点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "primary_url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
-          "title": "相同的集群，利用率增加了 33 个点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T19:46:21Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
-          "title": "相同的集群，利用率增加了 33 个点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T19:46:21Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8079,
-      "importance": 0.8079,
-      "importance_score": 0.8079,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7108,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T19:46:21Z",
-      "latest_at": "2026-08-17T19:46:21Z",
-      "primary_item": {
-        "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
-        "title": "相同的集群，利用率增加了 33 个点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-        "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -708,15 +646,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7466,
-      "importance": 0.7466,
-      "importance_score": 0.7466,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9831,
+        "recency": 0.9774,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -768,15 +706,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8314,
-      "importance": 0.8314,
-      "importance_score": 0.8314,
+      "score": 0.8305,
+      "importance": 0.8305,
+      "importance_score": 0.8305,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8856,
+        "recency": 0.8805,
         "story_heat": 0.0
       },
       "category": "official",
@@ -793,6 +731,66 @@
         "url": "https://openai.com/index/partnering-with-codeai",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_73978d10d0d5",
+      "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
+      "url": "https://claude.com/blog/ai-ci-cd-on-call",
+      "primary_url": "https://claude.com/blog/ai-ci-cd-on-call",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fb736f80d9d45402ef56b84bfa18c92744ec4b36",
+          "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
+          "url": "https://claude.com/blog/ai-ci-cd-on-call",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T19:26:08.389000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "fb736f80d9d45402ef56b84bfa18c92744ec4b36",
+          "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
+          "url": "https://claude.com/blog/ai-ci-cd-on-call",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T19:26:08.389000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.63,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9946,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-18T19:26:08.389000Z",
+      "latest_at": "2026-08-18T19:26:08.389000Z",
+      "primary_item": {
+        "id": "fb736f80d9d45402ef56b84bfa18c92744ec4b36",
+        "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
+        "url": "https://claude.com/blog/ai-ci-cd-on-call",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -849,15 +847,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7697,
-      "importance": 0.7697,
-      "importance_score": 0.7697,
+      "score": 0.7688,
+      "importance": 0.7688,
+      "importance_score": 0.7688,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8729,
+        "recency": 0.8679,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -911,15 +909,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7231,
-      "importance": 0.7231,
-      "importance_score": 0.7231,
+      "score": 0.7222,
+      "importance": 0.7222,
+      "importance_score": 0.7222,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8359,
+        "recency": 0.8311,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -933,66 +931,6 @@
         "title": "设计 AI 评测：先求清晰，再谈可视化",
         "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
         "source": "Google AI：DEV 作者专属（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "一个实用的深度思考Prompt：用\"双向钢人论证\"让AI帮你挖出最本质的答案",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685329&idx=1&sn=9471278dc489641c097b228912965ed4",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685329&idx=1&sn=9471278dc489641c097b228912965ed4",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4e8bc7ca3e901e63222da3f6d87a6be1bb0f20b3",
-          "title": "一个实用的深度思考Prompt：用\"双向钢人论证\"让AI帮你挖出最本质的答案",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685329&idx=1&sn=9471278dc489641c097b228912965ed4",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T23:58:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "4e8bc7ca3e901e63222da3f6d87a6be1bb0f20b3",
-          "title": "一个实用的深度思考Prompt：用\"双向钢人论证\"让AI帮你挖出最本质的答案",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685329&idx=1&sn=9471278dc489641c097b228912965ed4",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T23:58:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7205,
-      "importance": 0.7205,
-      "importance_score": 0.7205,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7552,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-17T23:58:00Z",
-      "latest_at": "2026-08-17T23:58:00Z",
-      "primary_item": {
-        "id": "4e8bc7ca3e901e63222da3f6d87a6be1bb0f20b3",
-        "title": "一个实用的深度思考Prompt：用\"双向钢人论证\"让AI帮你挖出最本质的答案",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685329&idx=1&sn=9471278dc489641c097b228912965ed4",
-        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
@@ -1050,15 +988,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7686,
-      "importance": 0.7686,
-      "importance_score": 0.7686,
+      "score": 0.7677,
+      "importance": 0.7677,
+      "importance_score": 0.7677,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8666,
+        "recency": 0.8616,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1131,15 +1069,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7686,
-      "importance": 0.7686,
-      "importance_score": 0.7686,
+      "score": 0.7677,
+      "importance": 0.7677,
+      "importance_score": 0.7677,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8666,
+        "recency": 0.8616,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1283,15 +1221,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.667,
-      "importance": 0.667,
-      "importance_score": 0.667,
+      "score": 0.666,
+      "importance": 0.666,
+      "importance_score": 0.666,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9878,
+        "recency": 0.9821,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1362,15 +1300,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7665,
-      "importance": 0.7665,
-      "importance_score": 0.7665,
+      "score": 0.7656,
+      "importance": 0.7656,
+      "importance_score": 0.7656,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8548,
+        "recency": 0.8499,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1443,15 +1381,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7665,
-      "importance": 0.7665,
-      "importance_score": 0.7665,
+      "score": 0.7656,
+      "importance": 0.7656,
+      "importance_score": 0.7656,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8548,
+        "recency": 0.8499,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1580,15 +1518,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6028,
-      "importance": 0.6028,
-      "importance_score": 0.6028,
+      "score": 0.6018,
+      "importance": 0.6018,
+      "importance_score": 0.6018,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8998,
+        "recency": 0.8946,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1659,15 +1597,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7665,
-      "importance": 0.7665,
-      "importance_score": 0.7665,
+      "score": 0.7656,
+      "importance": 0.7656,
+      "importance_score": 0.7656,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8548,
+        "recency": 0.8499,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1684,6 +1622,104 @@
         "url": "https://www.aibase.com/news/30434",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6ec340ba37b3",
+      "title": "显示 HN：PantheonGPU – GPU 运行状况测试和 AI 工作负载基准测试 / Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
+      "url": "https://news.ycombinator.com/item?id=49350637",
+      "primary_url": "https://news.ycombinator.com/item?id=49350637",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "dfdc71b92cb9b44f71035344abc811065c7d874d",
+          "title": "显示 HN：PantheonGPU – GPU 运行状况测试和 AI 工作负载基准测试 / Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
+          "url": "https://news.ycombinator.com/item?id=49350637",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T19:11:40.225000Z"
+        },
+        {
+          "id": "38b7bf9e5fe3a4f8783a16f2492b8bb6c1e73e90",
+          "title": "Show HN: PantheonGPU – GPU 健康状况测试与 AI 工作负载基准测试",
+          "url": "https://pantheongpu.com",
+          "source": "pantheongpu.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T19:02:25.055000Z"
+        },
+        {
+          "id": "61a827316731ed601f9989ce4e035ef216ab6212",
+          "title": "Show HN: PantheonGPU – GPU 健康状况测试与 AI 工作负载基准测试 / Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
+          "url": "https://pantheongpu.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-18T18:47:51Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "pantheongpu.com"
+      ],
+      "items": [
+        {
+          "id": "dfdc71b92cb9b44f71035344abc811065c7d874d",
+          "title": "显示 HN：PantheonGPU – GPU 运行状况测试和 AI 工作负载基准测试 / Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
+          "url": "https://news.ycombinator.com/item?id=49350637",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T19:11:40.225000Z"
+        },
+        {
+          "id": "38b7bf9e5fe3a4f8783a16f2492b8bb6c1e73e90",
+          "title": "Show HN: PantheonGPU – GPU 健康状况测试与 AI 工作负载基准测试",
+          "url": "https://pantheongpu.com",
+          "source": "pantheongpu.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T19:02:25.055000Z"
+        },
+        {
+          "id": "61a827316731ed601f9989ce4e035ef216ab6212",
+          "title": "Show HN: PantheonGPU – GPU 健康状况测试与 AI 工作负载基准测试 / Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
+          "url": "https://pantheongpu.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-18T18:47:51Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5692,
+      "importance": 0.5692,
+      "importance_score": 0.5692,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9911,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-18T18:47:51Z",
+      "latest_at": "2026-08-18T19:11:40.225000Z",
+      "primary_item": {
+        "id": "dfdc71b92cb9b44f71035344abc811065c7d874d",
+        "title": "显示 HN：PantheonGPU – GPU 运行状况测试和 AI 工作负载基准测试 / Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
+        "url": "https://news.ycombinator.com/item?id=49350637",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
