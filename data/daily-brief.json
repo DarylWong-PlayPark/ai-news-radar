@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T06:41:35.459246Z",
+  "generated_at": "2026-08-19T07:35:47.751040Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8552,
-      "importance": 0.8552,
-      "importance_score": 0.8552,
+      "score": 0.8533,
+      "importance": 0.8533,
+      "importance_score": 0.8533,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8345,
+        "recency": 0.8236,
         "story_heat": 0.25
       },
       "category": "official",
@@ -139,15 +139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.849,
-      "importance": 0.849,
-      "importance_score": 0.849,
+      "score": 0.8471,
+      "importance": 0.8471,
+      "importance_score": 0.8471,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8446,
+        "recency": 0.8337,
         "story_heat": 0.25
       },
       "category": "official",
@@ -202,15 +202,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8344,
-      "importance": 0.8344,
-      "importance_score": 0.8344,
+      "score": 0.8323,
+      "importance": 0.8323,
+      "importance_score": 0.8323,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.902,
+        "recency": 0.8903,
         "story_heat": 0.0
       },
       "category": "official",
@@ -227,6 +227,106 @@
         "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_8b5dc124b21a",
+      "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+      "url": "https://www.aibase.com/news/30467",
+      "primary_url": "https://www.aibase.com/news/30467",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3045b981fb15b7ada3d4cdc0abd0573beabd7d98",
+          "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+          "url": "https://www.aibase.com/news/30467",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T06:41:35.459246Z"
+        },
+        {
+          "id": "331bd1e309563a08795c658927f21c691d2deb5b",
+          "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+          "url": "https://www.aibase.com/zh/news/30467",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "eaf487ccee4011db038e6f40ae6f2d65faf4d2f9",
+          "title": "日本公布 AI 草案，敦促开发者披露训练数据",
+          "url": "https://www.ithome.com/0/991/585.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-19T05:54:55Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "AIbase",
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "3045b981fb15b7ada3d4cdc0abd0573beabd7d98",
+          "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+          "url": "https://www.aibase.com/news/30467",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T06:41:35.459246Z"
+        },
+        {
+          "id": "331bd1e309563a08795c658927f21c691d2deb5b",
+          "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+          "url": "https://www.aibase.com/zh/news/30467",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "eaf487ccee4011db038e6f40ae6f2d65faf4d2f9",
+          "title": "日本公布 AI 草案，敦促开发者披露训练数据",
+          "url": "https://www.ithome.com/0/991/585.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-19T05:54:55Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.987,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T05:54:55Z",
+      "latest_at": "2026-08-19T07:35:47.751040Z",
+      "primary_item": {
+        "id": "3045b981fb15b7ada3d4cdc0abd0573beabd7d98",
+        "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+        "url": "https://www.aibase.com/news/30467",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -283,15 +383,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8404,
-      "importance": 0.8404,
-      "importance_score": 0.8404,
+      "score": 0.8387,
+      "importance": 0.8387,
+      "importance_score": 0.8387,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7525,
+        "recency": 0.7427,
         "story_heat": 0.25
       },
       "category": "official",
@@ -346,15 +446,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8227,
-      "importance": 0.8227,
-      "importance_score": 0.8227,
+      "score": 0.8206,
+      "importance": 0.8206,
+      "importance_score": 0.8206,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8815,
+        "recency": 0.8701,
         "story_heat": 0.0
       },
       "category": "official",
@@ -371,87 +471,6 @@
         "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_8b5dc124b21a",
-      "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
-      "url": "https://www.aibase.com/news/30467",
-      "primary_url": "https://www.aibase.com/news/30467",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3045b981fb15b7ada3d4cdc0abd0573beabd7d98",
-          "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
-          "url": "https://www.aibase.com/news/30467",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T06:41:35.459246Z"
-        },
-        {
-          "id": "eaf487ccee4011db038e6f40ae6f2d65faf4d2f9",
-          "title": "日本公布 AI 草案，敦促开发者披露训练数据",
-          "url": "https://www.ithome.com/0/991/585.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-19T05:54:55Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "IT之家 (ITHome)"
-      ],
-      "items": [
-        {
-          "id": "3045b981fb15b7ada3d4cdc0abd0573beabd7d98",
-          "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
-          "url": "https://www.aibase.com/news/30467",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T06:41:35.459246Z"
-        },
-        {
-          "id": "eaf487ccee4011db038e6f40ae6f2d65faf4d2f9",
-          "title": "日本公布 AI 草案，敦促开发者披露训练数据",
-          "url": "https://www.ithome.com/0/991/585.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-19T05:54:55Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T05:54:55Z",
-      "latest_at": "2026-08-19T06:41:35.459246Z",
-      "primary_item": {
-        "id": "3045b981fb15b7ada3d4cdc0abd0573beabd7d98",
-        "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
-        "url": "https://www.aibase.com/news/30467",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -489,15 +508,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8388,
-      "importance": 0.8388,
-      "importance_score": 0.8388,
+      "score": 0.8367,
+      "importance": 0.8367,
+      "importance_score": 0.8367,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.882,
+        "recency": 0.8706,
         "story_heat": 0.0
       },
       "category": "official",
@@ -570,15 +589,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7761,
-      "importance": 0.7761,
-      "importance_score": 0.7761,
+      "score": 0.774,
+      "importance": 0.774,
+      "importance_score": 0.774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8748,
+        "recency": 0.8635,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -632,15 +651,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7745,
-      "importance": 0.7745,
-      "importance_score": 0.7745,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9218,
+        "recency": 0.9099,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -712,15 +731,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
+      "score": 0.7828,
+      "importance": 0.7828,
+      "importance_score": 0.7828,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.958,
+        "recency": 0.9456,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -774,21 +793,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8878,
+        "recency": 0.8763,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-18T22:27:16.191000Z",
       "latest_at": "2026-08-18T22:27:16.191000Z",
@@ -801,68 +819,148 @@
       }
     },
     {
-      "story_id": "story_7d7eacff40aa",
-      "title": "Asana 借助 OpenAI Codex 两周完成五年工程工作量 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "url": "https://openai.com/index/asana",
-      "primary_url": "https://openai.com/index/asana",
+      "story_id": "story_2a7697ec0027",
+      "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
+      "url": "https://x.com/claudeai/status/2089806039088517356",
+      "primary_url": "https://x.com/claudeai/status/2089806039088517356",
+      "source": "X：Claude (@claudeai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5833776bd035dfd9b5170fda745039e872c9c85f",
+          "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
+          "url": "https://x.com/claudeai/status/2089806039088517356",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T20:06:01Z"
+        },
+        {
+          "id": "226c19bb28a594a92b38d236cc7f3e2b35775fbe",
+          "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理 / Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thread, and it drafts and sends the response. You control when it needs your approval. Connect Gmail or Google Drive from...",
+          "url": "https://x.com/claudeai/status/2089806039088517356",
+          "source": "Follow Builders · X · Claude",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-18T20:06:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Claude",
+        "X：Claude (@claudeai)"
+      ],
+      "items": [
+        {
+          "id": "5833776bd035dfd9b5170fda745039e872c9c85f",
+          "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
+          "url": "https://x.com/claudeai/status/2089806039088517356",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T20:06:01Z"
+        },
+        {
+          "id": "226c19bb28a594a92b38d236cc7f3e2b35775fbe",
+          "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理 / Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thread, and it drafts and sends the response. You control when it needs your approval. Connect Gmail or Google Drive from...",
+          "url": "https://x.com/claudeai/status/2089806039088517356",
+          "source": "Follow Builders · X · Claude",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-18T20:06:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.847,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-18T20:06:01Z",
+      "latest_at": "2026-08-18T20:06:01Z",
+      "primary_item": {
+        "id": "5833776bd035dfd9b5170fda745039e872c9c85f",
+        "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
+        "url": "https://x.com/claudeai/status/2089806039088517356",
+        "source": "X：Claude (@claudeai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_68c52c81310f",
+      "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "primary_url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
-          "title": "Asana 借助 OpenAI Codex 两周完成五年工程工作量 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "url": "https://openai.com/index/asana",
+          "id": "cdd10bf9920f60b5be7322fa5b0eaa62e04932f0",
+          "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T07:00:00Z"
+          "published_at": "2026-08-18T11:00:00Z"
         },
         {
-          "id": "0192f261de576a53158267b5c833e9d7503b86e1",
-          "title": "Asana 借助 OpenAI Codex 两周完成五年工程工作量",
-          "url": "https://openai.com/index/asana",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "e01e83f5cdde3eff139d1f4a294426e48ca69e7d",
+          "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T11:00:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "OpenAI News",
-        "Readhub · AI"
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       ],
       "items": [
         {
-          "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
-          "title": "Asana 借助 OpenAI Codex 两周完成五年工程工作量 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "url": "https://openai.com/index/asana",
+          "id": "cdd10bf9920f60b5be7322fa5b0eaa62e04932f0",
+          "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T07:00:00Z"
+          "published_at": "2026-08-18T11:00:00Z"
         },
         {
-          "id": "0192f261de576a53158267b5c833e9d7503b86e1",
-          "title": "Asana 借助 OpenAI Codex 两周完成五年工程工作量",
-          "url": "https://openai.com/index/asana",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "e01e83f5cdde3eff139d1f4a294426e48ca69e7d",
+          "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T11:00:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8328,
-      "importance": 0.8328,
-      "importance_score": 0.8328,
+      "score": 0.8307,
+      "importance": 0.8307,
+      "importance_score": 0.8307,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7102,
+        "ai_relevance": 0.91,
+        "recency": 0.7427,
         "story_heat": 0.25
       },
       "category": "official",
@@ -872,12 +970,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T07:00:00Z",
-      "latest_at": "2026-08-18T17:23:53.290552Z",
+      "earliest_at": "2026-08-18T11:00:00Z",
+      "latest_at": "2026-08-18T11:00:00Z",
       "primary_item": {
-        "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
-        "title": "Asana 借助 OpenAI Codex 两周完成五年工程工作量 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
-        "url": "https://openai.com/index/asana",
+        "id": "cdd10bf9920f60b5be7322fa5b0eaa62e04932f0",
+        "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
+        "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
@@ -936,15 +1034,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7823,
-      "importance": 0.7823,
-      "importance_score": 0.7823,
+      "score": 0.7801,
+      "importance": 0.7801,
+      "importance_score": 0.7801,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.943,
+        "recency": 0.9307,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -961,208 +1059,6 @@
         "url": "https://www.aibase.com/news/30453",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2a7697ec0027",
-      "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
-      "url": "https://x.com/claudeai/status/2089806039088517356",
-      "primary_url": "https://x.com/claudeai/status/2089806039088517356",
-      "source": "X：Claude (@claudeai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5833776bd035dfd9b5170fda745039e872c9c85f",
-          "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
-          "url": "https://x.com/claudeai/status/2089806039088517356",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T20:06:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude (@claudeai)"
-      ],
-      "items": [
-        {
-          "id": "5833776bd035dfd9b5170fda745039e872c9c85f",
-          "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
-          "url": "https://x.com/claudeai/status/2089806039088517356",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T20:06:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7211,
-      "importance": 0.7211,
-      "importance_score": 0.7211,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8582,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-18T20:06:01Z",
-      "latest_at": "2026-08-18T20:06:01Z",
-      "primary_item": {
-        "id": "5833776bd035dfd9b5170fda745039e872c9c85f",
-        "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
-        "url": "https://x.com/claudeai/status/2089806039088517356",
-        "source": "X：Claude (@claudeai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_511de79f959c",
-      "title": "OpenAI 暂停前沿模型 RL 训练以强化安全",
-      "url": "https://x.com/OpenAI/status/2089777845187031262",
-      "primary_url": "https://x.com/OpenAI/status/2089777845187031262",
-      "source": "X：OpenAI (@OpenAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ff5640c6a44c591ee1838f1032228ff8b7a9f20c",
-          "title": "OpenAI 暂停前沿模型 RL 训练以强化安全",
-          "url": "https://x.com/OpenAI/status/2089777845187031262",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T18:13:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI (@OpenAI)"
-      ],
-      "items": [
-        {
-          "id": "ff5640c6a44c591ee1838f1032228ff8b7a9f20c",
-          "title": "OpenAI 暂停前沿模型 RL 训练以强化安全",
-          "url": "https://x.com/OpenAI/status/2089777845187031262",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T18:13:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.72,
-      "importance": 0.72,
-      "importance_score": 0.72,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8353,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-18T18:13:59Z",
-      "latest_at": "2026-08-18T18:13:59Z",
-      "primary_item": {
-        "id": "ff5640c6a44c591ee1838f1032228ff8b7a9f20c",
-        "title": "OpenAI 暂停前沿模型 RL 训练以强化安全",
-        "url": "https://x.com/OpenAI/status/2089777845187031262",
-        "source": "X：OpenAI (@OpenAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_68c52c81310f",
-      "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "primary_url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "cdd10bf9920f60b5be7322fa5b0eaa62e04932f0",
-          "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
-          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T11:00:00Z"
-        },
-        {
-          "id": "e01e83f5cdde3eff139d1f4a294426e48ca69e7d",
-          "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
-          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T11:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "cdd10bf9920f60b5be7322fa5b0eaa62e04932f0",
-          "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
-          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T11:00:00Z"
-        },
-        {
-          "id": "e01e83f5cdde3eff139d1f4a294426e48ca69e7d",
-          "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
-          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T11:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7525,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T11:00:00Z",
-      "latest_at": "2026-08-18T11:00:00Z",
-      "primary_item": {
-        "id": "cdd10bf9920f60b5be7322fa5b0eaa62e04932f0",
-        "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
-        "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1219,15 +1115,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7823,
-      "importance": 0.7823,
-      "importance_score": 0.7823,
+      "score": 0.7801,
+      "importance": 0.7801,
+      "importance_score": 0.7801,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.943,
+        "recency": 0.9307,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1244,6 +1140,68 @@
         "url": "https://www.aibase.com/news/30457",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_9765648ad527",
+      "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "primary_url": "https://openai.com/index/partnering-with-codeai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
+          "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
+          "url": "https://openai.com/index/partnering-with-codeai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T11:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
+          "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
+          "url": "https://openai.com/index/partnering-with-codeai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T11:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8057,
+      "importance": 0.8057,
+      "importance_score": 0.8057,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7427,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T11:00:00Z",
+      "latest_at": "2026-08-18T11:00:00Z",
+      "primary_item": {
+        "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
+        "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
+        "url": "https://openai.com/index/partnering-with-codeai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1300,15 +1258,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7823,
-      "importance": 0.7823,
-      "importance_score": 0.7823,
+      "score": 0.7801,
+      "importance": 0.7801,
+      "importance_score": 0.7801,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.943,
+        "recency": 0.9307,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1325,68 +1283,6 @@
         "url": "https://www.aibase.com/news/30454",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_9765648ad527",
-      "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
-      "url": "https://openai.com/index/partnering-with-codeai",
-      "primary_url": "https://openai.com/index/partnering-with-codeai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
-          "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
-          "url": "https://openai.com/index/partnering-with-codeai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T11:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
-          "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
-          "url": "https://openai.com/index/partnering-with-codeai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T11:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8074,
-      "importance": 0.8074,
-      "importance_score": 0.8074,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7525,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T11:00:00Z",
-      "latest_at": "2026-08-18T11:00:00Z",
-      "primary_item": {
-        "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
-        "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
-        "url": "https://openai.com/index/partnering-with-codeai",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1514,15 +1410,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6403,
-      "importance": 0.6403,
-      "importance_score": 0.6403,
+      "score": 0.6383,
+      "importance": 0.6383,
+      "importance_score": 0.6383,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8393,
+        "recency": 0.8284,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1537,6 +1433,166 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-08-18",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_520828a29e15",
+      "title": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
+      "url": "https://www.aibase.com/news/30448",
+      "primary_url": "https://www.aibase.com/news/30448",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8e49aed8642811812396ef532bf25f60826de2f8",
+          "title": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
+          "url": "https://www.aibase.com/news/30448",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T02:37:34.782587Z"
+        },
+        {
+          "id": "284326f99c164ea79b09d821ad468773e69d9644",
+          "title": "消息称 xAI 多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
+          "url": "https://www.aibase.com/zh/news/30448",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "8e49aed8642811812396ef532bf25f60826de2f8",
+          "title": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
+          "url": "https://www.aibase.com/news/30448",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T02:37:34.782587Z"
+        },
+        {
+          "id": "284326f99c164ea79b09d821ad468773e69d9644",
+          "title": "消息称 xAI 多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
+          "url": "https://www.aibase.com/zh/news/30448",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7801,
+      "importance": 0.7801,
+      "importance_score": 0.7801,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9307,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T02:37:34.782587Z",
+      "latest_at": "2026-08-19T02:37:34.782587Z",
+      "primary_item": {
+        "id": "8e49aed8642811812396ef532bf25f60826de2f8",
+        "title": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
+        "url": "https://www.aibase.com/news/30448",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "Rich Sutton 和 Khurram Javed：人工智能模型为何停止学习以及如何重新开始 / Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again",
+      "url": "https://www.youtube.com/watch?v=xH7U7w9Qzlo",
+      "primary_url": "https://www.youtube.com/watch?v=xH7U7w9Qzlo",
+      "source": "Follow Builders · Podcast · Training Data",
+      "source_name": "Follow Builders",
+      "sources": [
+        {
+          "id": "65bd8f4ce6844fedfd66b3a77cff95ff144cee76",
+          "title": "Rich Sutton 和 Khurram Javed：人工智能模型为何停止学习以及如何重新开始 / Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again",
+          "url": "https://www.youtube.com/watch?v=xH7U7w9Qzlo",
+          "source": "Follow Builders · Podcast · Training Data",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-18T09:00:00Z"
+        },
+        {
+          "id": "0ec554339ff5470e106a03ce366aec815f1ce79a",
+          "title": "Defcon 上最酷的反监视工具 [视频] / The coolest anti-surveillance tools at Defcon [video]",
+          "url": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-18T14:49:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · Podcast · Training Data",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "65bd8f4ce6844fedfd66b3a77cff95ff144cee76",
+          "title": "Rich Sutton 和 Khurram Javed：人工智能模型为何停止学习以及如何重新开始 / Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again",
+          "url": "https://www.youtube.com/watch?v=xH7U7w9Qzlo",
+          "source": "Follow Builders · Podcast · Training Data",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-18T09:00:00Z"
+        },
+        {
+          "id": "0ec554339ff5470e106a03ce366aec815f1ce79a",
+          "title": "Defcon 上最酷的反监视工具 [视频] / The coolest anti-surveillance tools at Defcon [video]",
+          "url": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-18T14:49:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6116,
+      "importance": 0.6116,
+      "importance_score": 0.6116,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5544,
+        "source_tier": 0.62,
+        "ai_relevance": 0.77,
+        "recency": 0.7216,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-18T09:00:00Z",
+      "latest_at": "2026-08-18T14:49:19Z",
+      "primary_item": {
+        "id": "65bd8f4ce6844fedfd66b3a77cff95ff144cee76",
+        "title": "Rich Sutton 和 Khurram Javed：人工智能模型为何停止学习以及如何重新开始 / Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again",
+        "url": "https://www.youtube.com/watch?v=xH7U7w9Qzlo",
+        "source": "Follow Builders · Podcast · Training Data",
+        "source_name": "Follow Builders"
       }
     }
   ]
