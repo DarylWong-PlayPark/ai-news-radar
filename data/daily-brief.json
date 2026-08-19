@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T05:55:58.006550Z",
+  "generated_at": "2026-08-19T06:41:35.459246Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8569,
-      "importance": 0.8569,
-      "importance_score": 0.8569,
+      "score": 0.8552,
+      "importance": 0.8552,
+      "importance_score": 0.8552,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8437,
+        "recency": 0.8345,
         "story_heat": 0.25
       },
       "category": "official",
@@ -139,15 +139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8507,
-      "importance": 0.8507,
-      "importance_score": 0.8507,
+      "score": 0.849,
+      "importance": 0.849,
+      "importance_score": 0.849,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.854,
+        "recency": 0.8446,
         "story_heat": 0.25
       },
       "category": "official",
@@ -202,15 +202,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8362,
-      "importance": 0.8362,
-      "importance_score": 0.8362,
+      "score": 0.8344,
+      "importance": 0.8344,
+      "importance_score": 0.8344,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.912,
+        "recency": 0.902,
         "story_heat": 0.0
       },
       "category": "official",
@@ -283,15 +283,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8419,
-      "importance": 0.8419,
-      "importance_score": 0.8419,
+      "score": 0.8404,
+      "importance": 0.8404,
+      "importance_score": 0.8404,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7608,
+        "recency": 0.7525,
         "story_heat": 0.25
       },
       "category": "official",
@@ -346,15 +346,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8244,
-      "importance": 0.8244,
-      "importance_score": 0.8244,
+      "score": 0.8227,
+      "importance": 0.8227,
+      "importance_score": 0.8227,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8912,
+        "recency": 0.8815,
         "story_heat": 0.0
       },
       "category": "official",
@@ -374,68 +374,68 @@
       }
     },
     {
-      "story_id": "story_ad47e7159014",
-      "title": "微软 Copilot 爆漏洞：恶意链接绕过确认，自动窃取邮件与凭据",
-      "url": "https://www.aibase.com/news/30460",
-      "primary_url": "https://www.aibase.com/news/30460",
+      "story_id": "story_8b5dc124b21a",
+      "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+      "url": "https://www.aibase.com/news/30467",
+      "primary_url": "https://www.aibase.com/news/30467",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e842250b4693909dbb071b41a91156a770cee6b0",
-          "title": "微软 Copilot 爆漏洞：恶意链接绕过确认，自动窃取邮件与凭据",
-          "url": "https://www.aibase.com/news/30460",
+          "id": "3045b981fb15b7ada3d4cdc0abd0573beabd7d98",
+          "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+          "url": "https://www.aibase.com/news/30467",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T03:43:11.194511Z"
+          "published_at": "2026-08-19T06:41:35.459246Z"
         },
         {
-          "id": "40c99308ec81377572f8e680d5d6f03e6bf10901",
-          "title": "微软 Copilot 曝安全漏洞：恶意链接可绕过确认，自动窃取邮件与凭据",
-          "url": "https://www.aibase.com/zh/news/30460",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "eaf487ccee4011db038e6f40ae6f2d65faf4d2f9",
+          "title": "日本公布 AI 草案，敦促开发者披露训练数据",
+          "url": "https://www.ithome.com/0/991/585.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-19T05:54:55Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "AIbase",
-        "Readhub · AI"
+        "IT之家 (ITHome)"
       ],
       "items": [
         {
-          "id": "e842250b4693909dbb071b41a91156a770cee6b0",
-          "title": "微软 Copilot 爆漏洞：恶意链接绕过确认，自动窃取邮件与凭据",
-          "url": "https://www.aibase.com/news/30460",
+          "id": "3045b981fb15b7ada3d4cdc0abd0573beabd7d98",
+          "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+          "url": "https://www.aibase.com/news/30467",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T03:43:11.194511Z"
+          "published_at": "2026-08-19T06:41:35.459246Z"
         },
         {
-          "id": "40c99308ec81377572f8e680d5d6f03e6bf10901",
-          "title": "微软 Copilot 曝安全漏洞：恶意链接可绕过确认，自动窃取邮件与凭据",
-          "url": "https://www.aibase.com/zh/news/30460",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "eaf487ccee4011db038e6f40ae6f2d65faf4d2f9",
+          "title": "日本公布 AI 草案，敦促开发者披露训练数据",
+          "url": "https://www.ithome.com/0/991/585.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-19T05:54:55Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7869,
-      "importance": 0.7869,
-      "importance_score": 0.7869,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9685,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -444,12 +444,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-19T03:43:11.194511Z",
-      "latest_at": "2026-08-19T03:43:11.194511Z",
+      "earliest_at": "2026-08-19T05:54:55Z",
+      "latest_at": "2026-08-19T06:41:35.459246Z",
       "primary_item": {
-        "id": "e842250b4693909dbb071b41a91156a770cee6b0",
-        "title": "微软 Copilot 爆漏洞：恶意链接绕过确认，自动窃取邮件与凭据",
-        "url": "https://www.aibase.com/news/30460",
+        "id": "3045b981fb15b7ada3d4cdc0abd0573beabd7d98",
+        "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+        "url": "https://www.aibase.com/news/30467",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -489,15 +489,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8405,
-      "importance": 0.8405,
-      "importance_score": 0.8405,
+      "score": 0.8388,
+      "importance": 0.8388,
+      "importance_score": 0.8388,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8918,
+        "recency": 0.882,
         "story_heat": 0.0
       },
       "category": "official",
@@ -570,15 +570,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7778,
-      "importance": 0.7778,
-      "importance_score": 0.7778,
+      "score": 0.7761,
+      "importance": 0.7761,
+      "importance_score": 0.7761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8845,
+        "recency": 0.8748,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -632,15 +632,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7764,
-      "importance": 0.7764,
-      "importance_score": 0.7764,
+      "score": 0.7745,
+      "importance": 0.7745,
+      "importance_score": 0.7745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.932,
+        "recency": 0.9218,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -659,26 +659,26 @@
       }
     },
     {
-      "story_id": "story_66182ade32cb",
-      "title": "Cursor推出Origin代码托管平台，正式进军GitHub核心领域",
-      "url": "https://www.aibase.com/news/30453",
-      "primary_url": "https://www.aibase.com/news/30453",
+      "story_id": "story_ad47e7159014",
+      "title": "微软 Copilot 爆漏洞：恶意链接绕过确认，自动窃取邮件与凭据",
+      "url": "https://www.aibase.com/news/30460",
+      "primary_url": "https://www.aibase.com/news/30460",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1192dc813e4e3334e0107489b613314a590a215c",
-          "title": "Cursor推出Origin代码托管平台，正式进军GitHub核心领域",
-          "url": "https://www.aibase.com/news/30453",
+          "id": "e842250b4693909dbb071b41a91156a770cee6b0",
+          "title": "微软 Copilot 爆漏洞：恶意链接绕过确认，自动窃取邮件与凭据",
+          "url": "https://www.aibase.com/news/30460",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T02:37:34.782587Z"
+          "published_at": "2026-08-19T03:43:11.194511Z"
         },
         {
-          "id": "82f23227a97f97382458dba35ad0923a22ffb2c2",
-          "title": "Cursor 推出 Origin 代码托管平台，正式进军 GitHub 核心领域",
-          "url": "https://www.aibase.com/zh/news/30453",
+          "id": "40c99308ec81377572f8e680d5d6f03e6bf10901",
+          "title": "微软 Copilot 曝安全漏洞：恶意链接可绕过确认，自动窃取邮件与凭据",
+          "url": "https://www.aibase.com/zh/news/30460",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -692,18 +692,18 @@
       ],
       "items": [
         {
-          "id": "1192dc813e4e3334e0107489b613314a590a215c",
-          "title": "Cursor推出Origin代码托管平台，正式进军GitHub核心领域",
-          "url": "https://www.aibase.com/news/30453",
+          "id": "e842250b4693909dbb071b41a91156a770cee6b0",
+          "title": "微软 Copilot 爆漏洞：恶意链接绕过确认，自动窃取邮件与凭据",
+          "url": "https://www.aibase.com/news/30460",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T02:37:34.782587Z"
+          "published_at": "2026-08-19T03:43:11.194511Z"
         },
         {
-          "id": "82f23227a97f97382458dba35ad0923a22ffb2c2",
-          "title": "Cursor 推出 Origin 代码托管平台，正式进军 GitHub 核心领域",
-          "url": "https://www.aibase.com/zh/news/30453",
+          "id": "40c99308ec81377572f8e680d5d6f03e6bf10901",
+          "title": "微软 Copilot 曝安全漏洞：恶意链接可绕过确认，自动窃取邮件与凭据",
+          "url": "https://www.aibase.com/zh/news/30460",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -712,15 +712,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7842,
-      "importance": 0.7842,
-      "importance_score": 0.7842,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9534,
+        "recency": 0.958,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -729,12 +729,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-19T02:37:34.782587Z",
-      "latest_at": "2026-08-19T02:37:34.782587Z",
+      "earliest_at": "2026-08-19T03:43:11.194511Z",
+      "latest_at": "2026-08-19T03:43:11.194511Z",
       "primary_item": {
-        "id": "1192dc813e4e3334e0107489b613314a590a215c",
-        "title": "Cursor推出Origin代码托管平台，正式进军GitHub核心领域",
-        "url": "https://www.aibase.com/news/30453",
+        "id": "e842250b4693909dbb071b41a91156a770cee6b0",
+        "title": "微软 Copilot 爆漏洞：恶意链接绕过确认，自动窃取邮件与凭据",
+        "url": "https://www.aibase.com/news/30460",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -774,15 +774,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7522,
-      "importance": 0.7522,
-      "importance_score": 0.7522,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8976,
+        "recency": 0.8878,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -854,15 +854,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8343,
-      "importance": 0.8343,
-      "importance_score": 0.8343,
+      "score": 0.8328,
+      "importance": 0.8328,
+      "importance_score": 0.8328,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7181,
+        "recency": 0.7102,
         "story_heat": 0.25
       },
       "category": "official",
@@ -883,26 +883,26 @@
       }
     },
     {
-      "story_id": "story_f4125ec43c6b",
-      "title": "OpenAI 二季度营收 67 亿美元，18% 增速远不及 Anthropic 反超",
-      "url": "https://www.aibase.com/news/30457",
-      "primary_url": "https://www.aibase.com/news/30457",
+      "story_id": "story_66182ade32cb",
+      "title": "Cursor推出Origin代码托管平台，正式进军GitHub核心领域",
+      "url": "https://www.aibase.com/news/30453",
+      "primary_url": "https://www.aibase.com/news/30453",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b99dbf8818f55ac9e1ccdf7467919514efe446e9",
-          "title": "OpenAI 二季度营收 67 亿美元，18% 增速远不及 Anthropic 反超",
-          "url": "https://www.aibase.com/news/30457",
+          "id": "1192dc813e4e3334e0107489b613314a590a215c",
+          "title": "Cursor推出Origin代码托管平台，正式进军GitHub核心领域",
+          "url": "https://www.aibase.com/news/30453",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-19T02:37:34.782587Z"
         },
         {
-          "id": "9a17c4b25bddb2765ce194aa66d5a6df9e49fb96",
-          "title": "OpenAI 二季度营收 67 亿美元，增速不及 Anthropic 反超",
-          "url": "https://www.aibase.com/zh/news/30457",
+          "id": "82f23227a97f97382458dba35ad0923a22ffb2c2",
+          "title": "Cursor 推出 Origin 代码托管平台，正式进军 GitHub 核心领域",
+          "url": "https://www.aibase.com/zh/news/30453",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -916,18 +916,18 @@
       ],
       "items": [
         {
-          "id": "b99dbf8818f55ac9e1ccdf7467919514efe446e9",
-          "title": "OpenAI 二季度营收 67 亿美元，18% 增速远不及 Anthropic 反超",
-          "url": "https://www.aibase.com/news/30457",
+          "id": "1192dc813e4e3334e0107489b613314a590a215c",
+          "title": "Cursor推出Origin代码托管平台，正式进军GitHub核心领域",
+          "url": "https://www.aibase.com/news/30453",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-19T02:37:34.782587Z"
         },
         {
-          "id": "9a17c4b25bddb2765ce194aa66d5a6df9e49fb96",
-          "title": "OpenAI 二季度营收 67 亿美元，增速不及 Anthropic 反超",
-          "url": "https://www.aibase.com/zh/news/30457",
+          "id": "82f23227a97f97382458dba35ad0923a22ffb2c2",
+          "title": "Cursor 推出 Origin 代码托管平台，正式进军 GitHub 核心领域",
+          "url": "https://www.aibase.com/zh/news/30453",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -936,15 +936,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7842,
-      "importance": 0.7842,
-      "importance_score": 0.7842,
+      "score": 0.7823,
+      "importance": 0.7823,
+      "importance_score": 0.7823,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9534,
+        "recency": 0.943,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -954,11 +954,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-08-19T02:37:34.782587Z",
-      "latest_at": "2026-08-19T03:43:11.194511Z",
+      "latest_at": "2026-08-19T02:37:34.782587Z",
       "primary_item": {
-        "id": "b99dbf8818f55ac9e1ccdf7467919514efe446e9",
-        "title": "OpenAI 二季度营收 67 亿美元，18% 增速远不及 Anthropic 反超",
-        "url": "https://www.aibase.com/news/30457",
+        "id": "1192dc813e4e3334e0107489b613314a590a215c",
+        "title": "Cursor推出Origin代码托管平台，正式进军GitHub核心领域",
+        "url": "https://www.aibase.com/news/30453",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -998,15 +998,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7228,
-      "importance": 0.7228,
-      "importance_score": 0.7228,
+      "score": 0.7211,
+      "importance": 0.7211,
+      "importance_score": 0.7211,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8676,
+        "recency": 0.8582,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1058,15 +1058,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7216,
-      "importance": 0.7216,
-      "importance_score": 0.7216,
+      "score": 0.72,
+      "importance": 0.72,
+      "importance_score": 0.72,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8446,
+        "recency": 0.8353,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1137,15 +1137,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8339,
-      "importance": 0.8339,
-      "importance_score": 0.8339,
+      "score": 0.8324,
+      "importance": 0.8324,
+      "importance_score": 0.8324,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7608,
+        "recency": 0.7525,
         "story_heat": 0.25
       },
       "category": "official",
@@ -1163,6 +1163,87 @@
         "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f4125ec43c6b",
+      "title": "OpenAI 二季度营收 67 亿美元，18% 增速远不及 Anthropic 反超",
+      "url": "https://www.aibase.com/news/30457",
+      "primary_url": "https://www.aibase.com/news/30457",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b99dbf8818f55ac9e1ccdf7467919514efe446e9",
+          "title": "OpenAI 二季度营收 67 亿美元，18% 增速远不及 Anthropic 反超",
+          "url": "https://www.aibase.com/news/30457",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T02:37:34.782587Z"
+        },
+        {
+          "id": "9a17c4b25bddb2765ce194aa66d5a6df9e49fb96",
+          "title": "OpenAI 二季度营收 67 亿美元，增速不及 Anthropic 反超",
+          "url": "https://www.aibase.com/zh/news/30457",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "b99dbf8818f55ac9e1ccdf7467919514efe446e9",
+          "title": "OpenAI 二季度营收 67 亿美元，18% 增速远不及 Anthropic 反超",
+          "url": "https://www.aibase.com/news/30457",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T02:37:34.782587Z"
+        },
+        {
+          "id": "9a17c4b25bddb2765ce194aa66d5a6df9e49fb96",
+          "title": "OpenAI 二季度营收 67 亿美元，增速不及 Anthropic 反超",
+          "url": "https://www.aibase.com/zh/news/30457",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7823,
+      "importance": 0.7823,
+      "importance_score": 0.7823,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.943,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T02:37:34.782587Z",
+      "latest_at": "2026-08-19T03:43:11.194511Z",
+      "primary_item": {
+        "id": "b99dbf8818f55ac9e1ccdf7467919514efe446e9",
+        "title": "OpenAI 二季度营收 67 亿美元，18% 增速远不及 Anthropic 反超",
+        "url": "https://www.aibase.com/news/30457",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1219,15 +1300,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7842,
-      "importance": 0.7842,
-      "importance_score": 0.7842,
+      "score": 0.7823,
+      "importance": 0.7823,
+      "importance_score": 0.7823,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9534,
+        "recency": 0.943,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1242,87 +1323,6 @@
         "id": "2aca00108b4c4780dca06ab949209b7a85d79346",
         "title": "智谱 GLM-5.3 API 重磅上线：AA指数斩获 60 分并列开源第一，权重将于下周五开源",
         "url": "https://www.aibase.com/news/30454",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_520828a29e15",
-      "title": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
-      "url": "https://www.aibase.com/news/30448",
-      "primary_url": "https://www.aibase.com/news/30448",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8e49aed8642811812396ef532bf25f60826de2f8",
-          "title": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
-          "url": "https://www.aibase.com/news/30448",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T02:37:34.782587Z"
-        },
-        {
-          "id": "284326f99c164ea79b09d821ad468773e69d9644",
-          "title": "消息称 xAI 多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
-          "url": "https://www.aibase.com/zh/news/30448",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "8e49aed8642811812396ef532bf25f60826de2f8",
-          "title": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
-          "url": "https://www.aibase.com/news/30448",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T02:37:34.782587Z"
-        },
-        {
-          "id": "284326f99c164ea79b09d821ad468773e69d9644",
-          "title": "消息称 xAI 多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
-          "url": "https://www.aibase.com/zh/news/30448",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7842,
-      "importance": 0.7842,
-      "importance_score": 0.7842,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9534,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T02:37:34.782587Z",
-      "latest_at": "2026-08-19T02:37:34.782587Z",
-      "primary_item": {
-        "id": "8e49aed8642811812396ef532bf25f60826de2f8",
-        "title": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
-        "url": "https://www.aibase.com/news/30448",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1362,15 +1362,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8089,
-      "importance": 0.8089,
-      "importance_score": 0.8089,
+      "score": 0.8074,
+      "importance": 0.8074,
+      "importance_score": 0.8074,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7608,
+        "recency": 0.7525,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1514,15 +1514,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6419,
-      "importance": 0.6419,
-      "importance_score": 0.6419,
+      "score": 0.6403,
+      "importance": 0.6403,
+      "importance_score": 0.6403,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8486,
+        "recency": 0.8393,
         "story_heat": 1.0
       },
       "category": "multi_source",
