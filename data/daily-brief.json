@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-20T17:00:43.196059Z",
+  "generated_at": "2026-08-20T17:56:00.530246Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_c7cdb6722fd8",
-      "title": "使用 LFM2.5-DSpark 将推理速度提高 3.2 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
       "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
       "primary_url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
       "source": "Hugging Face Blog",
@@ -13,53 +13,92 @@
       "sources": [
         {
           "id": "8a28e486c5c80d8b81f7ef6434b41bc0d3758f07",
-          "title": "使用 LFM2.5-DSpark 将推理速度提高 3.2 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
+          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
           "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-08-20T16:52:57Z"
+        },
+        {
+          "id": "0c6f1fc6bfff8ea3774ad3b6ffcb23a7430ec3ab",
+          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T16:52:57Z"
+        },
+        {
+          "id": "0ada2ec63296334c4ebabce43e4fe8b9a8d82036",
+          "title": "LFM2.5-DSpark 实现最高 3.2 倍推理加速",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）",
+        "Readhub · AI"
       ],
       "items": [
         {
           "id": "8a28e486c5c80d8b81f7ef6434b41bc0d3758f07",
-          "title": "使用 LFM2.5-DSpark 将推理速度提高 3.2 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
+          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
           "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-08-20T16:52:57Z"
+        },
+        {
+          "id": "0c6f1fc6bfff8ea3774ad3b6ffcb23a7430ec3ab",
+          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T16:52:57Z"
+        },
+        {
+          "id": "0ada2ec63296334c4ebabce43e4fe8b9a8d82036",
+          "title": "LFM2.5-DSpark 实现最高 3.2 倍推理加速",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8597,
-      "importance": 0.8597,
-      "importance_score": 0.8597,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.9073,
+      "importance": 0.9073,
+      "importance_score": 0.9073,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9981,
-        "story_heat": 0.0
+        "recency": 0.9849,
+        "story_heat": 0.5
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-08-20T16:52:57Z",
-      "latest_at": "2026-08-20T16:52:57Z",
+      "latest_at": "2026-08-20T17:56:00.530246Z",
       "primary_item": {
         "id": "8a28e486c5c80d8b81f7ef6434b41bc0d3758f07",
-        "title": "使用 LFM2.5-DSpark 将推理速度提高 3.2 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
+        "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
         "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
@@ -100,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8395,
-      "importance": 0.8395,
-      "importance_score": 0.8395,
+      "score": 0.8371,
+      "importance": 0.8371,
+      "importance_score": 0.8371,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9748,
+        "recency": 0.9619,
         "story_heat": 0.0
       },
       "category": "official",
@@ -124,6 +163,68 @@
         "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
         "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
         "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "Codex 和 ChatGPT 更新 / Codex and ChatGPT updates",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "848b61992c147b8bfa1de6ee297eb16eca68debc",
+          "title": "Codex 和 ChatGPT 更新 / Codex and ChatGPT updates",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "848b61992c147b8bfa1de6ee297eb16eca68debc",
+          "title": "Codex 和 ChatGPT 更新 / Codex and ChatGPT updates",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8289,
+      "importance": 0.8289,
+      "importance_score": 0.8289,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7718,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T00:00:00Z",
+      "latest_at": "2026-08-20T00:00:00Z",
+      "primary_item": {
+        "id": "848b61992c147b8bfa1de6ee297eb16eca68debc",
+        "title": "Codex 和 ChatGPT 更新 / Codex and ChatGPT updates",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -181,15 +282,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.828,
-      "importance": 0.828,
-      "importance_score": 0.828,
+      "score": 0.8263,
+      "importance": 0.8263,
+      "importance_score": 0.8263,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7277,
+        "recency": 0.7181,
         "story_heat": 0.25
       },
       "category": "official",
@@ -244,15 +345,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8376,
-      "importance": 0.8376,
-      "importance_score": 0.8376,
+      "score": 0.8353,
+      "importance": 0.8353,
+      "importance_score": 0.8353,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9642,
+        "recency": 0.9515,
         "story_heat": 0.0
       },
       "category": "official",
@@ -268,68 +369,6 @@
         "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
         "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_bf6c17b1a987",
-      "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
-          "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T17:50:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
-          "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T17:50:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8008,
-      "importance": 0.8008,
-      "importance_score": 0.8008,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7156,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T17:50:23Z",
-      "latest_at": "2026-08-19T17:50:23Z",
-      "primary_item": {
-        "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
-        "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       }
     },
@@ -368,15 +407,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.795,
-      "importance": 0.795,
-      "importance_score": 0.795,
+      "score": 0.7933,
+      "importance": 0.7933,
+      "importance_score": 0.7933,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7277,
+        "recency": 0.7181,
         "story_heat": 0.0
       },
       "category": "official",
@@ -430,15 +469,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8208,
-      "importance": 0.8208,
-      "importance_score": 0.8208,
+      "score": 0.8189,
+      "importance": 0.8189,
+      "importance_score": 0.8189,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7822,
+        "recency": 0.7718,
         "story_heat": 0.0
       },
       "category": "official",
@@ -492,15 +531,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8375,
-      "importance": 0.8375,
-      "importance_score": 0.8375,
+      "score": 0.8352,
+      "importance": 0.8352,
+      "importance_score": 0.8352,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9641,
+        "recency": 0.9513,
         "story_heat": 0.0
       },
       "category": "official",
@@ -573,15 +612,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7698,
-      "importance": 0.7698,
-      "importance_score": 0.7698,
+      "score": 0.7677,
+      "importance": 0.7677,
+      "importance_score": 0.7677,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8734,
+        "recency": 0.8618,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -635,21 +674,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7501,
-      "importance": 0.7501,
-      "importance_score": 0.7501,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.986,
+        "recency": 0.973,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-20T16:02:07.300000Z",
       "latest_at": "2026-08-20T16:02:07.300000Z",
@@ -696,15 +734,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
+      "score": 0.7476,
+      "importance": 0.7476,
+      "importance_score": 0.7476,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9006,
+        "recency": 0.8887,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -775,15 +813,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
+      "score": 0.747,
+      "importance": 0.747,
+      "importance_score": 0.747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7567,
+        "recency": 0.7467,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -836,15 +874,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.744,
-      "importance": 0.744,
-      "importance_score": 0.744,
+      "score": 0.7416,
+      "importance": 0.7416,
+      "importance_score": 0.7416,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9855,
+        "recency": 0.9725,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -915,15 +953,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.768,
-      "importance": 0.768,
-      "importance_score": 0.768,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8635,
+        "recency": 0.8521,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -977,15 +1015,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7376,
-      "importance": 0.7376,
-      "importance_score": 0.7376,
+      "score": 0.7353,
+      "importance": 0.7353,
+      "importance_score": 0.7353,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9498,
+        "recency": 0.9373,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1037,15 +1075,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7991,
-      "importance": 0.7991,
-      "importance_score": 0.7991,
+      "score": 0.7973,
+      "importance": 0.7973,
+      "importance_score": 0.7973,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7507,
+        "recency": 0.7408,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1118,15 +1156,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.768,
-      "importance": 0.768,
-      "importance_score": 0.768,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8635,
+        "recency": 0.8521,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1180,15 +1218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.726,
-      "importance": 0.726,
-      "importance_score": 0.726,
+      "score": 0.7241,
+      "importance": 0.7241,
+      "importance_score": 0.7241,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7855,
+        "recency": 0.7751,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1259,15 +1297,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
+      "score": 0.764,
+      "importance": 0.764,
+      "importance_score": 0.764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8524,
+        "recency": 0.8412,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1288,13 +1326,22 @@
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "全球AI创造力发展报告【AI+教育专项】梳理了全球AI+教育从政策驱动、技术突破到应用涌现的十年变化，还有中小学、高校、终身学习、教育产品和人机共生等具体场景。",
+      "title": "Dalton Caldwell 和 Michael Seibel 都做过消费互联网公司，也在 Y Combinator 看过上千个创业项目。这次两人讨论了一个更难的问题：今天的消费级 AI 创业者，去哪里找值得做很多年的点子？一起来看看他们的见解！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "source": "社区更新 · 2026-08-20",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "4ac060e6c41fe2d358d8d3923ccd8cf28e8e9f2b",
+          "title": "Dalton Caldwell 和 Michael Seibel 都做过消费互联网公司，也在 Y Combinator 看过上千个创业项目。这次两人讨论了一个更难的问题：今天的消费级 AI 创业者，去哪里找值得做很多年的点子？一起来看看他们的见解！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-20T17:56:00.530246Z"
+        },
+        {
           "id": "3cc6b4a6a66e224fcf0fd032804f9bcf1288e26d",
           "title": "全球AI创造力发展报告【AI+教育专项】梳理了全球AI+教育从政策驱动、技术突破到应用涌现的十年变化，还有中小学、高校、终身学习、教育产品和人机共生等具体场景。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -1320,33 +1367,23 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-08-20T17:00:43.196059Z"
-        },
-        {
-          "id": "563fcbb9ea54e42e43347084d1b49c97c1c5a157",
-          "title": "如果只看本地推理 ， Ollama 、 LM Studio 和 llama.cpp都是比较成熟的方案。它们可以帮助你下载、管理和运行开源模型。但如果后面要基于自己的数据做 LoRA 或 QLoRA 微调，单纯的推理工具就不够了，还需要训练、数据处理和模型导出能力。Unsloth这套开源工具就给出了一体化的解决方案！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-19T17:49:47.448783Z"
-        },
-        {
-          "id": "aa01be9b895164288a8587a62390fbef8f97cefb",
-          "title": "拥有二十年游戏行业经验的猫叔，结合自身实战的判断力与AI的体系化知识，开源了一个五十多万字的RPG设计宝典。内容覆盖从立项到上线完整环节，还有问题急救附录与AI辅助生产的落地方案。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-19T17:23:47.026832Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 4,
       "source_names": [
-        "社区更新 · 2026-08-19",
         "社区更新 · 2026-08-20"
       ],
       "items": [
         {
+          "id": "4ac060e6c41fe2d358d8d3923ccd8cf28e8e9f2b",
+          "title": "Dalton Caldwell 和 Michael Seibel 都做过消费互联网公司，也在 Y Combinator 看过上千个创业项目。这次两人讨论了一个更难的问题：今天的消费级 AI 创业者，去哪里找值得做很多年的点子？一起来看看他们的见解！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-20T17:56:00.530246Z"
+        },
+        {
           "id": "3cc6b4a6a66e224fcf0fd032804f9bcf1288e26d",
           "title": "全球AI创造力发展报告【AI+教育专项】梳理了全球AI+教育从政策驱动、技术突破到应用涌现的十年变化，还有中小学、高校、终身学习、教育产品和人机共生等具体场景。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -1372,48 +1409,30 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-08-20T17:00:43.196059Z"
-        },
-        {
-          "id": "563fcbb9ea54e42e43347084d1b49c97c1c5a157",
-          "title": "如果只看本地推理 ， Ollama 、 LM Studio 和 llama.cpp都是比较成熟的方案。它们可以帮助你下载、管理和运行开源模型。但如果后面要基于自己的数据做 LoRA 或 QLoRA 微调，单纯的推理工具就不够了，还需要训练、数据处理和模型导出能力。Unsloth这套开源工具就给出了一体化的解决方案！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-19T17:49:47.448783Z"
-        },
-        {
-          "id": "aa01be9b895164288a8587a62390fbef8f97cefb",
-          "title": "拥有二十年游戏行业经验的猫叔，结合自身实战的判断力与AI的体系化知识，开源了一个五十多万字的RPG设计宝典。内容覆盖从立项到上线完整环节，还有问题急救附录与AI辅助生产的落地方案。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-19T17:23:47.026832Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6442,
+      "importance": 0.6442,
+      "importance_score": 0.6442,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
         "recency": 1.0,
-        "story_heat": 1.0
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-19T17:23:47.026832Z",
-      "latest_at": "2026-08-20T17:00:43.196059Z",
+      "earliest_at": "2026-08-20T17:00:43.196059Z",
+      "latest_at": "2026-08-20T17:56:00.530246Z",
       "primary_item": {
-        "id": "3cc6b4a6a66e224fcf0fd032804f9bcf1288e26d",
-        "title": "全球AI创造力发展报告【AI+教育专项】梳理了全球AI+教育从政策驱动、技术突破到应用涌现的十年变化，还有中小学、高校、终身学习、教育产品和人机共生等具体场景。",
+        "id": "4ac060e6c41fe2d358d8d3923ccd8cf28e8e9f2b",
+        "title": "Dalton Caldwell 和 Michael Seibel 都做过消费互联网公司，也在 Y Combinator 看过上千个创业项目。这次两人讨论了一个更难的问题：今天的消费级 AI 创业者，去哪里找值得做很多年的点子？一起来看看他们的见解！",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-08-20",
         "source_name": "WaytoAGI"
