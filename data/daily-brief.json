@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T18:25:12.214878Z",
+  "generated_at": "2026-08-22T18:57:43.561743Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.754,
-      "importance": 0.754,
-      "importance_score": 0.754,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9413,
+        "recency": 0.9339,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -143,36 +143,9 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-08-21T19:23:43.869134Z"
-        },
-        {
-          "id": "627c9da08e2f17fc904804535021a46a70d348ac",
-          "title": "全新的多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp 上线 DeepSeek API 平台！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-21",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-21T18:34:01.144623Z"
-        },
-        {
-          "id": "b5bcc2f851554cb1e356a422475e9e8a11224d6d",
-          "title": "卡兹克筛选了12个实战提示词，覆盖提问、高效学习、难题拆解、理性决策、自我洞察五大场景，包含苏格拉底问诊、双层学习解释、横纵分析、专家会诊、双向钢人论证、天赋挖掘、人生设计等模板。能够帮你辨别信息幻觉，推演多元方案，完成深度的自我梳理，快速拉高日常和工作里的AI协作质量。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-21",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-21T18:34:01.144623Z"
-        },
-        {
-          "id": "058daeb286ae7a3f38842e508f5cc22997643794",
-          "title": "这份AI硬件上市合规指南拆解了国内、欧盟、美国三大主流市场的准入规则，覆盖无线、电池安全、数据隐私、AI监管等各类风险点。结合硬件功能、销售地域给出判定逻辑，搭配真实产品案例、研发各阶段时间线、申请材料清单与高频踩坑误区。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-21",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-21T18:34:01.144623Z"
         }
       ],
-      "source_count": 11,
+      "source_count": 8,
       "source_names": [
         "社区更新 · 2026-08-21",
         "社区更新 · 2026-08-22"
@@ -249,53 +222,26 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-08-21T19:23:43.869134Z"
-        },
-        {
-          "id": "627c9da08e2f17fc904804535021a46a70d348ac",
-          "title": "全新的多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp 上线 DeepSeek API 平台！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-21",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-21T18:34:01.144623Z"
-        },
-        {
-          "id": "b5bcc2f851554cb1e356a422475e9e8a11224d6d",
-          "title": "卡兹克筛选了12个实战提示词，覆盖提问、高效学习、难题拆解、理性决策、自我洞察五大场景，包含苏格拉底问诊、双层学习解释、横纵分析、专家会诊、双向钢人论证、天赋挖掘、人生设计等模板。能够帮你辨别信息幻觉，推演多元方案，完成深度的自我梳理，快速拉高日常和工作里的AI协作质量。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-21",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-21T18:34:01.144623Z"
-        },
-        {
-          "id": "058daeb286ae7a3f38842e508f5cc22997643794",
-          "title": "这份AI硬件上市合规指南拆解了国内、欧盟、美国三大主流市场的准入规则，覆盖无线、电池安全、数据隐私、AI监管等各类风险点。结合硬件功能、销售地域给出判定逻辑，搭配真实产品案例、研发各阶段时间线、申请材料清单与高频踩坑误区。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-21",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-21T18:34:01.144623Z"
         }
       ],
-      "item_count": 11,
-      "duplicate_count": 11,
-      "score": 0.6722,
-      "importance": 0.6722,
-      "importance_score": 0.6722,
+      "item_count": 8,
+      "duplicate_count": 8,
+      "score": 0.6708,
+      "importance": 0.6708,
+      "importance_score": 0.6708,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.9703,
+        "recency": 0.9628,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-21T18:34:01.144623Z",
+      "earliest_at": "2026-08-21T19:23:43.869134Z",
       "latest_at": "2026-08-22T17:17:44.211394Z",
       "primary_item": {
         "id": "b4766bbc4a2b546b075b2734f0993fcecc18f84d",
@@ -359,15 +305,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.571,
-      "importance": 0.571,
-      "importance_score": 0.571,
+      "score": 0.5698,
+      "importance": 0.5698,
+      "importance_score": 0.5698,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8739,
+        "recency": 0.8671,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -411,17 +357,18 @@
           "published_at": "2026-08-22T13:31:34Z"
         },
         {
-          "id": "2c1e9731c14806fd8df67cf5fe114b79125c2987",
+          "id": "9e684754ff065321bb00f0fbac4c424271f909be",
           "title": "新的MCP路线图 / The New MCP Roadmap",
           "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-22T13:31:34Z"
         }
       ],
       "source_count": 3,
       "source_names": [
+        "Hacker News",
         "Hacker News (黑客新闻)",
         "blog.modelcontextprotocol.io"
       ],
@@ -445,26 +392,26 @@
           "published_at": "2026-08-22T13:31:34Z"
         },
         {
-          "id": "2c1e9731c14806fd8df67cf5fe114b79125c2987",
+          "id": "9e684754ff065321bb00f0fbac4c424271f909be",
           "title": "新的MCP路线图 / The New MCP Roadmap",
           "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-22T13:31:34Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5675,
-      "importance": 0.5675,
-      "importance_score": 0.5675,
+      "score": 0.5662,
+      "importance": 0.5662,
+      "importance_score": 0.5662,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9819,
+        "recency": 0.9743,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -554,15 +501,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5602,
-      "importance": 0.5602,
-      "importance_score": 0.5602,
+      "score": 0.5589,
+      "importance": 0.5589,
+      "importance_score": 0.5589,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9411,
+        "recency": 0.9338,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -632,15 +579,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "score": 0.5438,
+      "importance": 0.5438,
+      "importance_score": 0.5438,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9967,
+        "recency": 0.9889,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -710,15 +657,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5429,
-      "importance": 0.5429,
-      "importance_score": 0.5429,
+      "score": 0.5415,
+      "importance": 0.5415,
+      "importance_score": 0.5415,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9839,
+        "recency": 0.9762,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -788,15 +735,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5422,
-      "importance": 0.5422,
-      "importance_score": 0.5422,
+      "score": 0.5409,
+      "importance": 0.5409,
+      "importance_score": 0.5409,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9802,
+        "recency": 0.9726,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -867,15 +814,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5405,
-      "importance": 0.5405,
-      "importance_score": 0.5405,
+      "score": 0.5392,
+      "importance": 0.5392,
+      "importance_score": 0.5392,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9707,
+        "recency": 0.9631,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -946,15 +893,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5382,
-      "importance": 0.5382,
-      "importance_score": 0.5382,
+      "score": 0.5368,
+      "importance": 0.5368,
+      "importance_score": 0.5368,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9577,
+        "recency": 0.9503,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1025,15 +972,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5334,
-      "importance": 0.5334,
-      "importance_score": 0.5334,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9312,
+        "recency": 0.9239,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1104,15 +1051,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5317,
-      "importance": 0.5317,
-      "importance_score": 0.5317,
+      "score": 0.5305,
+      "importance": 0.5305,
+      "importance_score": 0.5305,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9219,
+        "recency": 0.9147,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1182,15 +1129,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5262,
-      "importance": 0.5262,
-      "importance_score": 0.5262,
+      "score": 0.5249,
+      "importance": 0.5249,
+      "importance_score": 0.5249,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8911,
+        "recency": 0.8842,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1225,18 +1172,18 @@
           "published_at": "2026-08-22T17:18:19.187000Z"
         },
         {
-          "id": "00cfeb92a44fb91620deb3d7f679e17afae6e96f",
+          "id": "41337639170e8377fa3ca0c7fc5d554d61e9b0d8",
           "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
           "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-22T16:23:09Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1250,26 +1197,26 @@
           "published_at": "2026-08-22T17:18:19.187000Z"
         },
         {
-          "id": "00cfeb92a44fb91620deb3d7f679e17afae6e96f",
+          "id": "41337639170e8377fa3ca0c7fc5d554d61e9b0d8",
           "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
           "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-22T16:23:09Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5429,
-      "importance": 0.5429,
-      "importance_score": 0.5429,
+      "score": 0.5415,
+      "importance": 0.5415,
+      "importance_score": 0.5415,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.984,
+        "recency": 0.9764,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1340,15 +1287,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5061,
-      "importance": 0.5061,
-      "importance_score": 0.5061,
+      "score": 0.505,
+      "importance": 0.505,
+      "importance_score": 0.505,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7793,
+        "recency": 0.7733,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1419,15 +1366,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5334,
-      "importance": 0.5334,
-      "importance_score": 0.5334,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9312,
+        "recency": 0.9239,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1442,85 +1389,6 @@
         "url": "https://github.com/openai/codex",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_61f4070b9f50",
-      "title": "人工智能提高了家庭作业分数，但考试分数却下降了 / AI Boosted Homework Scores, Then Exam Scores Dropped",
-      "url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
-      "primary_url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
-      "source": "Slashdot (科技资讯)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "0a503d78a1f670736d143f3794421b1c33d04f61",
-          "title": "人工智能提高了家庭作业分数，但考试分数却下降了 / AI Boosted Homework Scores, Then Exam Scores Dropped",
-          "url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
-          "source": "Slashdot (科技资讯)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-21T20:00:00Z"
-        },
-        {
-          "id": "db4894f377385d87a3519bb6ace4cd2ab62b8a0e",
-          "title": "人工智能提高了家庭作业成绩，但考试成绩却下降了：研究 / AI boosted homework scores, then exam scores dropped: study",
-          "url": "https://news.ycombinator.com/item?id=49357530",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T18:34:34.632000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Slashdot (科技资讯)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0a503d78a1f670736d143f3794421b1c33d04f61",
-          "title": "人工智能提高了家庭作业分数，但考试分数却下降了 / AI Boosted Homework Scores, Then Exam Scores Dropped",
-          "url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
-          "source": "Slashdot (科技资讯)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-21T20:00:00Z"
-        },
-        {
-          "id": "db4894f377385d87a3519bb6ace4cd2ab62b8a0e",
-          "title": "人工智能提高了家庭作业成绩，但考试成绩却下降了：研究 / AI boosted homework scores, then exam scores dropped: study",
-          "url": "https://news.ycombinator.com/item?id=49357530",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T18:34:34.632000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.496,
-      "importance": 0.496,
-      "importance_score": 0.496,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7234,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-21T18:34:34.632000Z",
-      "latest_at": "2026-08-21T20:00:00Z",
-      "primary_item": {
-        "id": "0a503d78a1f670736d143f3794421b1c33d04f61",
-        "title": "人工智能提高了家庭作业分数，但考试分数却下降了 / AI Boosted Homework Scores, Then Exam Scores Dropped",
-        "url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
-        "source": "Slashdot (科技资讯)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -1576,15 +1444,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5248,
-      "importance": 0.5248,
-      "importance_score": 0.5248,
+      "score": 0.5236,
+      "importance": 0.5236,
+      "importance_score": 0.5236,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8834,
+        "recency": 0.8765,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1599,85 +1467,6 @@
         "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_a228a626d5b4",
-      "title": "战争不是神，人工智能也不是",
-      "url": "https://ryelang.org/blog/posts/war-is-not-god-neither-is-ai",
-      "primary_url": "https://ryelang.org/blog/posts/war-is-not-god-neither-is-ai",
-      "source": "ryelang.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "0a3fb736d90b1ad27c14229b5ba7c4533f0b089e",
-          "title": "战争不是神，人工智能也不是",
-          "url": "https://ryelang.org/blog/posts/war-is-not-god-neither-is-ai",
-          "source": "ryelang.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T18:45:26.754000Z"
-        },
-        {
-          "id": "59bf6b92f224fbd272aa9ffdf7f5446b475f9a99",
-          "title": "战争不是神，人工智能也不是 / War is not god, neither is AI",
-          "url": "https://ryelang.org/blog/posts/war-is-not-god-neither-is-ai",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-21T18:32:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "ryelang.org"
-      ],
-      "items": [
-        {
-          "id": "0a3fb736d90b1ad27c14229b5ba7c4533f0b089e",
-          "title": "战争不是神，人工智能也不是",
-          "url": "https://ryelang.org/blog/posts/war-is-not-god-neither-is-ai",
-          "source": "ryelang.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T18:45:26.754000Z"
-        },
-        {
-          "id": "59bf6b92f224fbd272aa9ffdf7f5446b475f9a99",
-          "title": "战争不是神，人工智能也不是 / War is not god, neither is AI",
-          "url": "https://ryelang.org/blog/posts/war-is-not-god-neither-is-ai",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-21T18:32:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4937,
-      "importance": 0.4937,
-      "importance_score": 0.4937,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7106,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-21T18:32:43Z",
-      "latest_at": "2026-08-21T18:45:26.754000Z",
-      "primary_item": {
-        "id": "0a3fb736d90b1ad27c14229b5ba7c4533f0b089e",
-        "title": "战争不是神，人工智能也不是",
-        "url": "https://ryelang.org/blog/posts/war-is-not-god-neither-is-ai",
-        "source": "ryelang.org",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1734,15 +1523,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5195,
-      "importance": 0.5195,
-      "importance_score": 0.5195,
+      "score": 0.5183,
+      "importance": 0.5183,
+      "importance_score": 0.5183,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.854,
+        "recency": 0.8473,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1757,6 +1546,164 @@
         "url": "https://news.pedaily.cn/202608/567987.shtml",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_9c241fb43bc9",
+      "title": "人类学 / 克劳德代码 / anthropics / claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "primary_url": "https://github.com/anthropics/claude-code",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "1c1ee53338a039a48abe9824358713d558495ed1",
+          "title": "人类学 / 克劳德代码 / anthropics / claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2e072617880966c376984c0063b46b286f706f04",
+          "title": "人类学 / 克劳德代码 / anthropics /      claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T13:09:39.410000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "1c1ee53338a039a48abe9824358713d558495ed1",
+          "title": "人类学 / 克劳德代码 / anthropics / claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2e072617880966c376984c0063b46b286f706f04",
+          "title": "人类学 / 克劳德代码 / anthropics /      claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T13:09:39.410000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9239,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T13:09:39.410000Z",
+      "latest_at": "2026-08-22T13:28:50.126238Z",
+      "primary_item": {
+        "id": "1c1ee53338a039a48abe9824358713d558495ed1",
+        "title": "人类学 / 克劳德代码 / anthropics / claude-code",
+        "url": "https://github.com/anthropics/claude-code",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_7bdcf8563e0c",
+      "title": "优步如何利用人工智能向你收取更高费用",
+      "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
+      "primary_url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b6f13e51fbc49f61a1eeb032c7c46de4215b1f97",
+          "title": "优步如何利用人工智能向你收取更高费用",
+          "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T20:53:21.744000Z"
+        },
+        {
+          "id": "155a17bb46e6ca75c7f5810d7c71e16569f3e770",
+          "title": "优步如何利用人工智能向你收取更高费用 / How Uber uses AI to charge you more",
+          "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T20:37:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "b6f13e51fbc49f61a1eeb032c7c46de4215b1f97",
+          "title": "优步如何利用人工智能向你收取更高费用",
+          "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T20:53:21.744000Z"
+        },
+        {
+          "id": "155a17bb46e6ca75c7f5810d7c71e16569f3e770",
+          "title": "优步如何利用人工智能向你收取更高费用 / How Uber uses AI to charge you more",
+          "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T20:37:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4967,
+      "importance": 0.4967,
+      "importance_score": 0.4967,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7271,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-21T20:37:42Z",
+      "latest_at": "2026-08-21T20:53:21.744000Z",
+      "primary_item": {
+        "id": "b6f13e51fbc49f61a1eeb032c7c46de4215b1f97",
+        "title": "优步如何利用人工智能向你收取更高费用",
+        "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     }
   ]
