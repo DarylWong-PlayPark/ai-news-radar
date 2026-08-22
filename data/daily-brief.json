@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T18:57:43.561743Z",
+  "generated_at": "2026-08-22T19:25:10.578988Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9339,
+        "recency": 0.9278,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -116,38 +116,10 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-08-22T16:20:05.529226Z"
-        },
-        {
-          "id": "b41335a574750c69c7b3aeeff5061f02d13a9d50",
-          "title": "Linkloud 在东京沙龙的这场对话涵盖了五个层层递进的问题：过去一年 AI 真正跨过了什么门槛、日本企业的态度如何转变、中国开源模型的接受度、PoC 到规模化落地之间的鸿沟在哪里、企业最终在为什么买单？一起来看看具体都输出了哪些见解！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-21",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-21T19:23:43.869134Z"
-        },
-        {
-          "id": "a560e6630b5d43f0541aa4b06dcdf9c9e216766c",
-          "title": "吴恩达梳理出一个搭建生产级AI应用的核心能力框架。从大模型底层原理、数据上下文供给、智能体系统设计，到评估驱动开发、线上运维、机器学习基础都给出了完整指引。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-21",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-21T19:23:43.869134Z"
-        },
-        {
-          "id": "5c1d891e3d4748a3a319b78997f1bfd774e310b5",
-          "title": "臧师傅的PPT Skill上线了演讲者视图，无需插件，按下P键即可开启双窗口模式。AI自动生成每页口述备注，把大纲要点、案例、转场单独留存，不会污染演示页面。除此之外，还自带计时与排练统计，可以快速定位超时页面。同时还具备屏幕同步校验、黑屏冻结、激光笔标记等功能，可以有效规避线下分享的临场失误。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-21",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-21T19:23:43.869134Z"
         }
       ],
-      "source_count": 8,
+      "source_count": 5,
       "source_names": [
-        "社区更新 · 2026-08-21",
         "社区更新 · 2026-08-22"
       ],
       "items": [
@@ -195,53 +167,26 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-08-22T16:20:05.529226Z"
-        },
-        {
-          "id": "b41335a574750c69c7b3aeeff5061f02d13a9d50",
-          "title": "Linkloud 在东京沙龙的这场对话涵盖了五个层层递进的问题：过去一年 AI 真正跨过了什么门槛、日本企业的态度如何转变、中国开源模型的接受度、PoC 到规模化落地之间的鸿沟在哪里、企业最终在为什么买单？一起来看看具体都输出了哪些见解！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-21",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-21T19:23:43.869134Z"
-        },
-        {
-          "id": "a560e6630b5d43f0541aa4b06dcdf9c9e216766c",
-          "title": "吴恩达梳理出一个搭建生产级AI应用的核心能力框架。从大模型底层原理、数据上下文供给、智能体系统设计，到评估驱动开发、线上运维、机器学习基础都给出了完整指引。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-21",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-21T19:23:43.869134Z"
-        },
-        {
-          "id": "5c1d891e3d4748a3a319b78997f1bfd774e310b5",
-          "title": "臧师傅的PPT Skill上线了演讲者视图，无需插件，按下P键即可开启双窗口模式。AI自动生成每页口述备注，把大纲要点、案例、转场单独留存，不会污染演示页面。除此之外，还自带计时与排练统计，可以快速定位超时页面。同时还具备屏幕同步校验、黑屏冻结、激光笔标记等功能，可以有效规避线下分享的临场失误。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-21",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-21T19:23:43.869134Z"
         }
       ],
-      "item_count": 8,
-      "duplicate_count": 8,
-      "score": 0.6708,
-      "importance": 0.6708,
-      "importance_score": 0.6708,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6697,
+      "importance": 0.6697,
+      "importance_score": 0.6697,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.9628,
+        "recency": 0.9564,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-21T19:23:43.869134Z",
+      "earliest_at": "2026-08-22T16:20:05.529226Z",
       "latest_at": "2026-08-22T17:17:44.211394Z",
       "primary_item": {
         "id": "b4766bbc4a2b546b075b2734f0993fcecc18f84d",
@@ -305,15 +250,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5698,
-      "importance": 0.5698,
-      "importance_score": 0.5698,
+      "score": 0.5688,
+      "importance": 0.5688,
+      "importance_score": 0.5688,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8671,
+        "recency": 0.8613,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -403,15 +348,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5662,
-      "importance": 0.5662,
-      "importance_score": 0.5662,
+      "score": 0.565,
+      "importance": 0.565,
+      "importance_score": 0.565,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9743,
+        "recency": 0.9678,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -501,15 +446,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5589,
-      "importance": 0.5589,
-      "importance_score": 0.5589,
+      "score": 0.5578,
+      "importance": 0.5578,
+      "importance_score": 0.5578,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9338,
+        "recency": 0.9276,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -527,79 +472,80 @@
       }
     },
     {
-      "story_id": "story_99c051212fc4",
-      "title": "新 MCP 路线图 / New MCP Roadmap",
-      "url": "https://news.ycombinator.com/item?id=49399591",
-      "primary_url": "https://news.ycombinator.com/item?id=49399591",
+      "story_id": "story_b8c0ed27bcb3",
+      "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+      "url": "https://news.ycombinator.com/item?id=49399642",
+      "primary_url": "https://news.ycombinator.com/item?id=49399642",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "0e2f077268aed88fb421f88ae4403517bd3b6e31",
-          "title": "新 MCP 路线图 / New MCP Roadmap",
-          "url": "https://news.ycombinator.com/item?id=49399591",
+          "id": "7ae963cdfe7665e0ab25518a8804682b1d4ead67",
+          "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "url": "https://news.ycombinator.com/item?id=49399642",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-22T18:11:16.383000Z"
+          "published_at": "2026-08-22T19:05:40.131000Z"
         },
         {
-          "id": "126ccb3ea5663b832f20fec048de1ac591d03ec8",
-          "title": "新 MCP 路线图 / The New MCP Roadmap",
-          "url": "https://news.ycombinator.com/item?id=49399591",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T14:18:29.026000Z"
+          "id": "ef1ac03c09bb8eff067942d548cd947f445b2980",
+          "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T13:39:07Z"
         }
       ],
       "source_count": 2,
       "source_names": [
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "0e2f077268aed88fb421f88ae4403517bd3b6e31",
-          "title": "新 MCP 路线图 / New MCP Roadmap",
-          "url": "https://news.ycombinator.com/item?id=49399591",
+          "id": "7ae963cdfe7665e0ab25518a8804682b1d4ead67",
+          "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "url": "https://news.ycombinator.com/item?id=49399642",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-22T18:11:16.383000Z"
+          "published_at": "2026-08-22T19:05:40.131000Z"
         },
         {
-          "id": "126ccb3ea5663b832f20fec048de1ac591d03ec8",
-          "title": "新 MCP 路线图 / The New MCP Roadmap",
-          "url": "https://news.ycombinator.com/item?id=49399591",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T14:18:29.026000Z"
+          "id": "ef1ac03c09bb8eff067942d548cd947f445b2980",
+          "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T13:39:07Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5438,
-      "importance": 0.5438,
-      "importance_score": 0.5438,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9889,
+        "recency": 0.9953,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-22T14:18:29.026000Z",
-      "latest_at": "2026-08-22T18:11:16.383000Z",
+      "earliest_at": "2026-08-22T13:39:07Z",
+      "latest_at": "2026-08-22T19:05:40.131000Z",
       "primary_item": {
-        "id": "0e2f077268aed88fb421f88ae4403517bd3b6e31",
-        "title": "新 MCP 路线图 / New MCP Roadmap",
-        "url": "https://news.ycombinator.com/item?id=49399591",
+        "id": "7ae963cdfe7665e0ab25518a8804682b1d4ead67",
+        "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+        "url": "https://news.ycombinator.com/item?id=49399642",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -657,15 +603,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5415,
-      "importance": 0.5415,
-      "importance_score": 0.5415,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9762,
+        "recency": 0.9698,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -735,15 +681,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5409,
-      "importance": 0.5409,
-      "importance_score": 0.5409,
+      "score": 0.5397,
+      "importance": 0.5397,
+      "importance_score": 0.5397,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9726,
+        "recency": 0.9662,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -814,15 +760,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5392,
-      "importance": 0.5392,
-      "importance_score": 0.5392,
+      "score": 0.538,
+      "importance": 0.538,
+      "importance_score": 0.538,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9631,
+        "recency": 0.9568,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -893,15 +839,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5368,
-      "importance": 0.5368,
-      "importance_score": 0.5368,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9503,
+        "recency": 0.944,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -972,15 +918,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5321,
-      "importance": 0.5321,
-      "importance_score": 0.5321,
+      "score": 0.531,
+      "importance": 0.531,
+      "importance_score": 0.531,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9239,
+        "recency": 0.9178,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1051,15 +997,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5305,
-      "importance": 0.5305,
-      "importance_score": 0.5305,
+      "score": 0.5294,
+      "importance": 0.5294,
+      "importance_score": 0.5294,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9147,
+        "recency": 0.9087,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1129,15 +1075,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5249,
-      "importance": 0.5249,
-      "importance_score": 0.5249,
+      "score": 0.5239,
+      "importance": 0.5239,
+      "importance_score": 0.5239,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8842,
+        "recency": 0.8783,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1155,80 +1101,79 @@
       }
     },
     {
-      "story_id": "story_45f68b1865d1",
-      "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-      "url": "https://news.ycombinator.com/item?id=49401229",
-      "primary_url": "https://news.ycombinator.com/item?id=49401229",
+      "story_id": "story_99c051212fc4",
+      "title": "新 MCP 路线图 / New MCP Roadmap",
+      "url": "https://news.ycombinator.com/item?id=49399591",
+      "primary_url": "https://news.ycombinator.com/item?id=49399591",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
-          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-          "url": "https://news.ycombinator.com/item?id=49401229",
+          "id": "0e2f077268aed88fb421f88ae4403517bd3b6e31",
+          "title": "新 MCP 路线图 / New MCP Roadmap",
+          "url": "https://news.ycombinator.com/item?id=49399591",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-22T17:18:19.187000Z"
+          "published_at": "2026-08-22T18:11:16.383000Z"
         },
         {
-          "id": "41337639170e8377fa3ca0c7fc5d554d61e9b0d8",
-          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-          "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T16:23:09Z"
+          "id": "126ccb3ea5663b832f20fec048de1ac591d03ec8",
+          "title": "新 MCP 路线图 / The New MCP Roadmap",
+          "url": "https://news.ycombinator.com/item?id=49399591",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T14:18:29.026000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
-          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-          "url": "https://news.ycombinator.com/item?id=49401229",
+          "id": "0e2f077268aed88fb421f88ae4403517bd3b6e31",
+          "title": "新 MCP 路线图 / New MCP Roadmap",
+          "url": "https://news.ycombinator.com/item?id=49399591",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-22T17:18:19.187000Z"
+          "published_at": "2026-08-22T18:11:16.383000Z"
         },
         {
-          "id": "41337639170e8377fa3ca0c7fc5d554d61e9b0d8",
-          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-          "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T16:23:09Z"
+          "id": "126ccb3ea5663b832f20fec048de1ac591d03ec8",
+          "title": "新 MCP 路线图 / The New MCP Roadmap",
+          "url": "https://news.ycombinator.com/item?id=49399591",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T14:18:29.026000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5415,
-      "importance": 0.5415,
-      "importance_score": 0.5415,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9764,
+        "recency": 0.9824,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-22T16:23:09Z",
-      "latest_at": "2026-08-22T17:18:19.187000Z",
+      "earliest_at": "2026-08-22T14:18:29.026000Z",
+      "latest_at": "2026-08-22T18:11:16.383000Z",
       "primary_item": {
-        "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
-        "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-        "url": "https://news.ycombinator.com/item?id=49401229",
+        "id": "0e2f077268aed88fb421f88ae4403517bd3b6e31",
+        "title": "新 MCP 路线图 / New MCP Roadmap",
+        "url": "https://news.ycombinator.com/item?id=49399591",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1287,15 +1232,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.505,
-      "importance": 0.505,
-      "importance_score": 0.505,
+      "score": 0.5041,
+      "importance": 0.5041,
+      "importance_score": 0.5041,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7733,
+        "recency": 0.7682,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1366,15 +1311,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5321,
-      "importance": 0.5321,
-      "importance_score": 0.5321,
+      "score": 0.531,
+      "importance": 0.531,
+      "importance_score": 0.531,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9239,
+        "recency": 0.9178,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1444,15 +1389,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5236,
-      "importance": 0.5236,
-      "importance_score": 0.5236,
+      "score": 0.5225,
+      "importance": 0.5225,
+      "importance_score": 0.5225,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8765,
+        "recency": 0.8707,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1523,15 +1468,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5183,
-      "importance": 0.5183,
-      "importance_score": 0.5183,
+      "score": 0.5173,
+      "importance": 0.5173,
+      "importance_score": 0.5173,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8473,
+        "recency": 0.8417,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1546,6 +1491,85 @@
         "url": "https://news.pedaily.cn/202608/567987.shtml",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_45f68b1865d1",
+      "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+      "url": "https://news.ycombinator.com/item?id=49401229",
+      "primary_url": "https://news.ycombinator.com/item?id=49401229",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
+          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+          "url": "https://news.ycombinator.com/item?id=49401229",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T17:18:19.187000Z"
+        },
+        {
+          "id": "41337639170e8377fa3ca0c7fc5d554d61e9b0d8",
+          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+          "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-22T16:23:09Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
+          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+          "url": "https://news.ycombinator.com/item?id=49401229",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T17:18:19.187000Z"
+        },
+        {
+          "id": "41337639170e8377fa3ca0c7fc5d554d61e9b0d8",
+          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+          "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-22T16:23:09Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9699,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T16:23:09Z",
+      "latest_at": "2026-08-22T17:18:19.187000Z",
+      "primary_item": {
+        "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
+        "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+        "url": "https://news.ycombinator.com/item?id=49401229",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1602,15 +1626,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5321,
-      "importance": 0.5321,
-      "importance_score": 0.5321,
+      "score": 0.531,
+      "importance": 0.531,
+      "importance_score": 0.531,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9239,
+        "recency": 0.9178,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1625,85 +1649,6 @@
         "url": "https://github.com/anthropics/claude-code",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_7bdcf8563e0c",
-      "title": "优步如何利用人工智能向你收取更高费用",
-      "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
-      "primary_url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b6f13e51fbc49f61a1eeb032c7c46de4215b1f97",
-          "title": "优步如何利用人工智能向你收取更高费用",
-          "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T20:53:21.744000Z"
-        },
-        {
-          "id": "155a17bb46e6ca75c7f5810d7c71e16569f3e770",
-          "title": "优步如何利用人工智能向你收取更高费用 / How Uber uses AI to charge you more",
-          "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-21T20:37:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "b6f13e51fbc49f61a1eeb032c7c46de4215b1f97",
-          "title": "优步如何利用人工智能向你收取更高费用",
-          "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T20:53:21.744000Z"
-        },
-        {
-          "id": "155a17bb46e6ca75c7f5810d7c71e16569f3e770",
-          "title": "优步如何利用人工智能向你收取更高费用 / How Uber uses AI to charge you more",
-          "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-21T20:37:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4967,
-      "importance": 0.4967,
-      "importance_score": 0.4967,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7271,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-21T20:37:42Z",
-      "latest_at": "2026-08-21T20:53:21.744000Z",
-      "primary_item": {
-        "id": "b6f13e51fbc49f61a1eeb032c7c46de4215b1f97",
-        "title": "优步如何利用人工智能向你收取更高费用",
-        "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
