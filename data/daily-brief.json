@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T12:34:01.899487Z",
+  "generated_at": "2026-08-23T13:30:02.921842Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7447,
+      "importance": 0.7447,
+      "importance_score": 0.7447,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8845,
+        "recency": 0.8726,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -98,15 +98,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7427,
-      "importance": 0.7427,
-      "importance_score": 0.7427,
+      "score": 0.7406,
+      "importance": 0.7406,
+      "importance_score": 0.7406,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8449,
+        "recency": 0.8335,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -230,15 +230,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6319,
-      "importance": 0.6319,
-      "importance_score": 0.6319,
+      "score": 0.6301,
+      "importance": 0.6301,
+      "importance_score": 0.6301,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.7466,
+        "recency": 0.7366,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -335,6 +335,85 @@
       }
     },
     {
+      "story_id": "story_6f7310105200",
+      "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。",
+      "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
+      "primary_url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f73172ea7aa3069754f2187d4ebaf10cb4c60408",
+          "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。",
+          "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T12:37:23.718000Z"
+        },
+        {
+          "id": "d06a604967901d0064f9d28c567f9223cd8fb92c",
+          "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。 / I created a viral AI watermark remover. I wasn't ready for all the attention.",
+          "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T11:32:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "f73172ea7aa3069754f2187d4ebaf10cb4c60408",
+          "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。",
+          "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T12:37:23.718000Z"
+        },
+        {
+          "id": "d06a604967901d0064f9d28c567f9223cd8fb92c",
+          "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。 / I created a viral AI watermark remover. I wasn't ready for all the attention.",
+          "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T11:32:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5435,
+      "importance": 0.5435,
+      "importance_score": 0.5435,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9874,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T11:32:01Z",
+      "latest_at": "2026-08-23T12:37:23.718000Z",
+      "primary_item": {
+        "id": "f73172ea7aa3069754f2187d4ebaf10cb4c60408",
+        "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。",
+        "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
       "story_id": "story_8351ddcedbab",
       "title": "阿里巴巴推出100亿美元香港配售计划，以筹集人工智能领域投资资金",
       "url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23",
@@ -387,15 +466,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5439,
-      "importance": 0.5439,
-      "importance_score": 0.5439,
+      "score": 0.5415,
+      "importance": 0.5415,
+      "importance_score": 0.5415,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9893,
+        "recency": 0.976,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -466,15 +545,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5426,
-      "importance": 0.5426,
-      "importance_score": 0.5426,
+      "score": 0.5402,
+      "importance": 0.5402,
+      "importance_score": 0.5402,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9821,
+        "recency": 0.9689,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -545,15 +624,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5413,
-      "importance": 0.5413,
-      "importance_score": 0.5413,
+      "score": 0.539,
+      "importance": 0.539,
+      "importance_score": 0.539,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9752,
+        "recency": 0.9621,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -624,15 +703,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5398,
-      "importance": 0.5398,
-      "importance_score": 0.5398,
+      "score": 0.5375,
+      "importance": 0.5375,
+      "importance_score": 0.5375,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9668,
+        "recency": 0.9538,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -722,15 +801,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5377,
-      "importance": 0.5377,
-      "importance_score": 0.5377,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8161,
+        "recency": 0.8051,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -745,6 +824,85 @@
         "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
         "source": "forum.level1techs.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_75a73f0d5f53",
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "primary_url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "source": "HN Algolia · AI 24h",
+      "source_name": "Hacker News",
+      "sources": [
+        {
+          "id": "9bc9ed060f7e0217af16e1a6feff16ee75eed9f0",
+          "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+          "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-23T09:21:44Z"
+        },
+        {
+          "id": "b03a8dddde42de3628c4e8c28589984e09141c58",
+          "title": "随着更便宜的工具日益兴盛，Anthropic 最优秀的人工智能模型却难以吸引用户",
+          "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T08:53:13.741000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "www.ft.com"
+      ],
+      "items": [
+        {
+          "id": "9bc9ed060f7e0217af16e1a6feff16ee75eed9f0",
+          "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+          "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-23T09:21:44Z"
+        },
+        {
+          "id": "b03a8dddde42de3628c4e8c28589984e09141c58",
+          "title": "随着更便宜的工具日益兴盛，Anthropic 最优秀的人工智能模型却难以吸引用户",
+          "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T08:53:13.741000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5354,
+      "importance": 0.5354,
+      "importance_score": 0.5354,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.942,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T08:53:13.741000Z",
+      "latest_at": "2026-08-23T09:21:44Z",
+      "primary_item": {
+        "id": "9bc9ed060f7e0217af16e1a6feff16ee75eed9f0",
+        "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+        "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+        "source": "HN Algolia · AI 24h",
+        "source_name": "Hacker News"
       }
     },
     {
@@ -800,15 +958,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5339,
-      "importance": 0.5339,
-      "importance_score": 0.5339,
+      "score": 0.5316,
+      "importance": 0.5316,
+      "importance_score": 0.5316,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9338,
+        "recency": 0.9213,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -898,15 +1056,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5268,
-      "importance": 0.5268,
-      "importance_score": 0.5268,
+      "score": 0.525,
+      "importance": 0.525,
+      "importance_score": 0.525,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7555,
+        "recency": 0.7454,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -976,15 +1134,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5238,
-      "importance": 0.5238,
-      "importance_score": 0.5238,
+      "score": 0.5217,
+      "importance": 0.5217,
+      "importance_score": 0.5217,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8778,
+        "recency": 0.866,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1074,15 +1232,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5222,
-      "importance": 0.5222,
-      "importance_score": 0.5222,
+      "score": 0.5205,
+      "importance": 0.5205,
+      "importance_score": 0.5205,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7302,
+        "recency": 0.7204,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1153,15 +1311,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5185,
-      "importance": 0.5185,
-      "importance_score": 0.5185,
+      "score": 0.5164,
+      "importance": 0.5164,
+      "importance_score": 0.5164,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8482,
+        "recency": 0.8369,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1232,15 +1390,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5426,
-      "importance": 0.5426,
-      "importance_score": 0.5426,
+      "score": 0.5402,
+      "importance": 0.5402,
+      "importance_score": 0.5402,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9821,
+        "recency": 0.9689,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1255,85 +1413,6 @@
         "url": "https://github.com/anthropics/claude-plugins-community",
         "source": "github",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_543f347056f8",
-      "title": "微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对",
-      "url": "https://www.ithome.com/0/993/242.htm",
-      "primary_url": "https://www.ithome.com/0/993/242.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "6ec5d1fe7f53c7dca3608f47369432d88ffc224c",
-          "title": "微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对",
-          "url": "https://www.ithome.com/0/993/242.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "6059f6bed02a5480252d42ea6f7b3482256bd991",
-          "title": "微软英国超大规模 AI 数据中心项目遇阻，遭 4 万居民联署反对",
-          "url": "https://www.ithome.com/0/993/242.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T09:49:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "6ec5d1fe7f53c7dca3608f47369432d88ffc224c",
-          "title": "微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对",
-          "url": "https://www.ithome.com/0/993/242.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "6059f6bed02a5480252d42ea6f7b3482256bd991",
-          "title": "微软英国超大规模 AI 数据中心项目遇阻，遭 4 万居民联署反对",
-          "url": "https://www.ithome.com/0/993/242.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T09:49:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5401,
-      "importance": 0.5401,
-      "importance_score": 0.5401,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9684,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T09:49:59Z",
-      "latest_at": "2026-08-23T10:20:34.619895Z",
-      "primary_item": {
-        "id": "6ec5d1fe7f53c7dca3608f47369432d88ffc224c",
-        "title": "微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对",
-        "url": "https://www.ithome.com/0/993/242.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1390,15 +1469,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5099,
-      "importance": 0.5099,
-      "importance_score": 0.5099,
+      "score": 0.508,
+      "importance": 0.508,
+      "importance_score": 0.508,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8005,
+        "recency": 0.7898,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1416,82 +1495,82 @@
       }
     },
     {
-      "story_id": "story_18837430aeb7",
-      "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
-      "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
-      "primary_url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
+      "story_id": "story_543f347056f8",
+      "title": "微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对",
+      "url": "https://www.ithome.com/0/993/242.htm",
+      "primary_url": "https://www.ithome.com/0/993/242.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "e80361b3dc4bfd2b38ceea461b389b9f1f15aaef",
-          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
-          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T20:53:16.928000Z"
+          "id": "6ec5d1fe7f53c7dca3608f47369432d88ffc224c",
+          "title": "微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对",
+          "url": "https://www.ithome.com/0/993/242.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "00e7c9b8c5c6db7ded59d314068e5c7f631c33de",
-          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。 / A mysterious free AI model is impressing developers. And nobody knows who made it.",
-          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-22T20:46:35Z"
+          "id": "6059f6bed02a5480252d42ea6f7b3482256bd991",
+          "title": "微软英国超大规模 AI 数据中心项目遇阻，遭 4 万居民联署反对",
+          "url": "https://www.ithome.com/0/993/242.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T09:49:59Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "e80361b3dc4bfd2b38ceea461b389b9f1f15aaef",
-          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
-          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T20:53:16.928000Z"
+          "id": "6ec5d1fe7f53c7dca3608f47369432d88ffc224c",
+          "title": "微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对",
+          "url": "https://www.ithome.com/0/993/242.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "00e7c9b8c5c6db7ded59d314068e5c7f631c33de",
-          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。 / A mysterious free AI model is impressing developers. And nobody knows who made it.",
-          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-22T20:46:35Z"
+          "id": "6059f6bed02a5480252d42ea6f7b3482256bd991",
+          "title": "微软英国超大规模 AI 数据中心项目遇阻，遭 4 万居民联署反对",
+          "url": "https://www.ithome.com/0/993/242.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T09:49:59Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5093,
-      "importance": 0.5093,
-      "importance_score": 0.5093,
+      "score": 0.5378,
+      "importance": 0.5378,
+      "importance_score": 0.5378,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7974,
+        "recency": 0.9554,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-22T20:46:35Z",
-      "latest_at": "2026-08-22T20:53:16.928000Z",
+      "earliest_at": "2026-08-23T09:49:59Z",
+      "latest_at": "2026-08-23T10:20:34.619895Z",
       "primary_item": {
-        "id": "e80361b3dc4bfd2b38ceea461b389b9f1f15aaef",
-        "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
-        "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
+        "id": "6ec5d1fe7f53c7dca3608f47369432d88ffc224c",
+        "title": "微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对",
+        "url": "https://www.ithome.com/0/993/242.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1547,15 +1626,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5016,
-      "importance": 0.5016,
-      "importance_score": 0.5016,
+      "score": 0.4997,
+      "importance": 0.4997,
+      "importance_score": 0.4997,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7542,
+        "recency": 0.7441,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1570,85 +1649,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News (世界新闻)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_3e284d11e91a",
-      "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
-      "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-      "primary_url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ab7ee90307777c1e4b896dcf9684832675e2c9e9",
-          "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
-          "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T16:21:29.526000Z"
-        },
-        {
-          "id": "d507c13caf2ff7b53ccbd6b054dc1f7798034692",
-          "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误 / Linus Torvalds uses AI to debug an Intel GPU driver bug",
-          "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T16:04:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "ab7ee90307777c1e4b896dcf9684832675e2c9e9",
-          "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
-          "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T16:21:29.526000Z"
-        },
-        {
-          "id": "d507c13caf2ff7b53ccbd6b054dc1f7798034692",
-          "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误 / Linus Torvalds uses AI to debug an Intel GPU driver bug",
-          "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T16:04:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5002,
-      "importance": 0.5002,
-      "importance_score": 0.5002,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7469,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T16:04:51Z",
-      "latest_at": "2026-08-22T16:21:29.526000Z",
-      "primary_item": {
-        "id": "ab7ee90307777c1e4b896dcf9684832675e2c9e9",
-        "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
-        "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-        "source": "github.com",
-        "source_name": "Buzzing"
       }
     }
   ]
