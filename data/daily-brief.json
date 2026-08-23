@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T16:20:52.405079Z",
+  "generated_at": "2026-08-23T16:50:31.449823Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9698,
+        "recency": 0.9629,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -99,15 +99,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7383,
-      "importance": 0.7383,
-      "importance_score": 0.7383,
+      "score": 0.7373,
+      "importance": 0.7373,
+      "importance_score": 0.7373,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8375,
+        "recency": 0.8315,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -159,15 +159,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8,
+        "recency": 0.7943,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -355,15 +355,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5948,
-      "importance": 0.5948,
-      "importance_score": 0.5948,
+      "score": 0.5935,
+      "importance": 0.5935,
+      "importance_score": 0.5935,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9945,
+        "recency": 0.9874,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -378,84 +378,6 @@
         "url": "https://news.ycombinator.com/item?id=49409073",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "Agent会反思、会写 Skill、会改Harness，好像越来越强。但经验到底有没有被写进长期生效的Prompt、Memory、Tool、Workflow、Harness 或模型参数？有没有在没见过的任务上变好？有没有通过回归、安全、成本和可恢复性检查？这篇文章拆解了Agent自进化的边界和一些未解问题。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-08-22",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "37cf08814f9151cd91ae4edc43fad037a18ed7ea",
-          "title": "Agent会反思、会写 Skill、会改Harness，好像越来越强。但经验到底有没有被写进长期生效的Prompt、Memory、Tool、Workflow、Harness 或模型参数？有没有在没见过的任务上变好？有没有通过回归、安全、成本和可恢复性检查？这篇文章拆解了Agent自进化的边界和一些未解问题。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-22",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-22T17:17:44.211394Z"
-        },
-        {
-          "id": "eae88615205c673acc4aa1c4800307d0ab8b3138",
-          "title": "这篇对话把Anthropic的产品方法论讲得很透：前沿模型需要Claude Code这样的产品载体，模型能力也要靠持续评测才能被发现、验证和转成用户价值。里面最值得产品经理和AI创业者看的，是“评测就是新的PRD”这条线：把用户的一句“不好用”，拆成可复现、可衡量的任务。想做AI产品，这篇文章不容错过！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-22",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-22T16:48:50.931135Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "社区更新 · 2026-08-22"
-      ],
-      "items": [
-        {
-          "id": "37cf08814f9151cd91ae4edc43fad037a18ed7ea",
-          "title": "Agent会反思、会写 Skill、会改Harness，好像越来越强。但经验到底有没有被写进长期生效的Prompt、Memory、Tool、Workflow、Harness 或模型参数？有没有在没见过的任务上变好？有没有通过回归、安全、成本和可恢复性检查？这篇文章拆解了Agent自进化的边界和一些未解问题。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-22",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-22T17:17:44.211394Z"
-        },
-        {
-          "id": "eae88615205c673acc4aa1c4800307d0ab8b3138",
-          "title": "这篇对话把Anthropic的产品方法论讲得很透：前沿模型需要Claude Code这样的产品载体，模型能力也要靠持续评测才能被发现、验证和转成用户价值。里面最值得产品经理和AI创业者看的，是“评测就是新的PRD”这条线：把用户的一句“不好用”，拆成可复现、可衡量的任务。想做AI产品，这篇文章不容错过！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-22",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-22T16:48:50.931135Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.7169,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T16:48:50.931135Z",
-      "latest_at": "2026-08-22T17:17:44.211394Z",
-      "primary_item": {
-        "id": "37cf08814f9151cd91ae4edc43fad037a18ed7ea",
-        "title": "Agent会反思、会写 Skill、会改Harness，好像越来越强。但经验到底有没有被写进长期生效的Prompt、Memory、Tool、Workflow、Harness 或模型参数？有没有在没见过的任务上变好？有没有通过回归、安全、成本和可恢复性检查？这篇文章拆解了Agent自进化的边界和一些未解问题。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-08-22",
-        "source_name": "WaytoAGI"
       }
     },
     {
@@ -512,15 +434,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
+      "score": 0.5419,
+      "importance": 0.5419,
+      "importance_score": 0.5419,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9852,
+        "recency": 0.9782,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -591,15 +513,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5364,
-      "importance": 0.5364,
-      "importance_score": 0.5364,
+      "score": 0.5352,
+      "importance": 0.5352,
+      "importance_score": 0.5352,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9476,
+        "recency": 0.9409,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -669,15 +591,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5344,
-      "importance": 0.5344,
-      "importance_score": 0.5344,
+      "score": 0.5332,
+      "importance": 0.5332,
+      "importance_score": 0.5332,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9367,
+        "recency": 0.9301,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -748,15 +670,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5332,
-      "importance": 0.5332,
-      "importance_score": 0.5332,
+      "score": 0.532,
+      "importance": 0.532,
+      "importance_score": 0.532,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9299,
+        "recency": 0.9233,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -827,15 +749,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5306,
-      "importance": 0.5306,
-      "importance_score": 0.5306,
+      "score": 0.5294,
+      "importance": 0.5294,
+      "importance_score": 0.5294,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9154,
+        "recency": 0.9089,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -925,15 +847,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5299,
-      "importance": 0.5299,
-      "importance_score": 0.5299,
+      "score": 0.5289,
+      "importance": 0.5289,
+      "importance_score": 0.5289,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7727,
+        "recency": 0.7672,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1004,15 +926,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5285,
-      "importance": 0.5285,
-      "importance_score": 0.5285,
+      "score": 0.5274,
+      "importance": 0.5274,
+      "importance_score": 0.5274,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.904,
+        "recency": 0.8976,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1082,15 +1004,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.525,
-      "importance": 0.525,
-      "importance_score": 0.525,
+      "score": 0.5238,
+      "importance": 0.5238,
+      "importance_score": 0.5238,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8842,
+        "recency": 0.8779,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1160,15 +1082,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5154,
-      "importance": 0.5154,
-      "importance_score": 0.5154,
+      "score": 0.5143,
+      "importance": 0.5143,
+      "importance_score": 0.5143,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8311,
+        "recency": 0.8252,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1239,15 +1161,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5407,
-      "importance": 0.5407,
-      "importance_score": 0.5407,
+      "score": 0.5395,
+      "importance": 0.5395,
+      "importance_score": 0.5395,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9717,
+        "recency": 0.9647,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1318,15 +1240,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5104,
-      "importance": 0.5104,
-      "importance_score": 0.5104,
+      "score": 0.5093,
+      "importance": 0.5093,
+      "importance_score": 0.5093,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8032,
+        "recency": 0.7974,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1397,15 +1319,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5332,
-      "importance": 0.5332,
-      "importance_score": 0.5332,
+      "score": 0.532,
+      "importance": 0.532,
+      "importance_score": 0.532,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9299,
+        "recency": 0.9233,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1476,15 +1398,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5022,
-      "importance": 0.5022,
-      "importance_score": 0.5022,
+      "score": 0.5013,
+      "importance": 0.5013,
+      "importance_score": 0.5013,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7579,
+        "recency": 0.7526,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1555,15 +1477,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5332,
-      "importance": 0.5332,
-      "importance_score": 0.5332,
+      "score": 0.532,
+      "importance": 0.532,
+      "importance_score": 0.532,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9299,
+        "recency": 0.9233,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1578,6 +1500,85 @@
         "url": "https://github.com/freestylefly/awesome-gpt-image-2",
         "source": "github",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_61266559dfa6",
+      "title": "橡鹿机器人全球首发三款烹饪机器人产品",
+      "url": "https://www.ithome.com/0/993/248.htm",
+      "primary_url": "https://www.ithome.com/0/993/248.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "dd50a095b0bb8385e5e07946436c05d8d6f6028d",
+          "title": "橡鹿机器人全球首发三款烹饪机器人产品",
+          "url": "https://www.ithome.com/0/993/248.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "efcdc7453daee5ba3b83c7eb305ca79abd3eed7b",
+          "title": "AI 机器人进厨房：橡鹿机器人全球首发三款烹饪机器人产品",
+          "url": "https://www.ithome.com/0/993/248.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T10:01:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "dd50a095b0bb8385e5e07946436c05d8d6f6028d",
+          "title": "橡鹿机器人全球首发三款烹饪机器人产品",
+          "url": "https://www.ithome.com/0/993/248.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "efcdc7453daee5ba3b83c7eb305ca79abd3eed7b",
+          "title": "AI 机器人进厨房：橡鹿机器人全球首发三款烹饪机器人产品",
+          "url": "https://www.ithome.com/0/993/248.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T10:01:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5308,
+      "importance": 0.5308,
+      "importance_score": 0.5308,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9168,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T10:01:14Z",
+      "latest_at": "2026-08-23T10:49:30.947540Z",
+      "primary_item": {
+        "id": "dd50a095b0bb8385e5e07946436c05d8d6f6028d",
+        "title": "橡鹿机器人全球首发三款烹饪机器人产品",
+        "url": "https://www.ithome.com/0/993/248.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
