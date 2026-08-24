@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T01:06:20.577465Z",
+  "generated_at": "2026-08-24T02:44:10.932667Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8631,
-      "importance": 0.8631,
-      "importance_score": 0.8631,
+      "score": 0.859,
+      "importance": 0.859,
+      "importance_score": 0.859,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9842,
+        "recency": 0.9613,
         "story_heat": 0.0
       },
       "category": "official",
@@ -66,62 +66,163 @@
       }
     },
     {
-      "story_id": "story_c2f6f6b65d61",
-      "title": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
-      "url": "https://www.aibase.com/news/30539",
-      "primary_url": "https://www.aibase.com/news/30539",
+      "story_id": "story_279d0430cc6b",
+      "title": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
+      "url": "https://www.aibase.com/news/30552",
+      "primary_url": "https://www.aibase.com/news/30552",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6f5117de7586692b00038832a5809756e3c62404",
-          "title": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
-          "url": "https://www.aibase.com/news/30539",
+          "id": "f9000a5b562c5bc5dd374ddcc7a7230b0c97d06c",
+          "title": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
+          "url": "https://www.aibase.com/news/30552",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T01:06:20.577465Z"
+          "published_at": "2026-08-24T02:44:10.932667Z"
+        },
+        {
+          "id": "3ea9d76cf0ac88cd4986d26c6ab91704d9142a60",
+          "title": "Anthropic 旗舰模型遇冷，企业支出仅 11% 流向 Fable5",
+          "url": "https://www.aibase.com/zh/news/30552",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "6f5117de7586692b00038832a5809756e3c62404",
-          "title": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
-          "url": "https://www.aibase.com/news/30539",
+          "id": "f9000a5b562c5bc5dd374ddcc7a7230b0c97d06c",
+          "title": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
+          "url": "https://www.aibase.com/news/30552",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T01:06:20.577465Z"
+          "published_at": "2026-08-24T02:44:10.932667Z"
+        },
+        {
+          "id": "3ea9d76cf0ac88cd4986d26c6ab91704d9142a60",
+          "title": "Anthropic 旗舰模型遇冷，企业支出仅 11% 流向 Fable5",
+          "url": "https://www.aibase.com/zh/news/30552",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.0
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-24T01:06:20.577465Z",
-      "latest_at": "2026-08-24T01:06:20.577465Z",
+      "earliest_at": "2026-08-24T02:44:10.932667Z",
+      "latest_at": "2026-08-24T02:44:10.932667Z",
       "primary_item": {
-        "id": "6f5117de7586692b00038832a5809756e3c62404",
-        "title": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
-        "url": "https://www.aibase.com/news/30539",
+        "id": "f9000a5b562c5bc5dd374ddcc7a7230b0c97d06c",
+        "title": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
+        "url": "https://www.aibase.com/news/30552",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_4733c9acdbb2",
+      "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+      "url": "https://www.aibase.com/news/30548",
+      "primary_url": "https://www.aibase.com/news/30548",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6f9fe733a028dd23ff22e56dfbbf719553c59087",
+          "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+          "url": "https://www.aibase.com/news/30548",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:44:10.932667Z"
+        },
+        {
+          "id": "b51c2955be9a76be6b69c879607f339933defe67",
+          "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+          "url": "https://www.aibase.com/zh/news/30548",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "6f9fe733a028dd23ff22e56dfbbf719553c59087",
+          "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+          "url": "https://www.aibase.com/news/30548",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:44:10.932667Z"
+        },
+        {
+          "id": "b51c2955be9a76be6b69c879607f339933defe67",
+          "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+          "url": "https://www.aibase.com/zh/news/30548",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T02:44:10.932667Z",
+      "latest_at": "2026-08-24T02:44:10.932667Z",
+      "primary_item": {
+        "id": "6f9fe733a028dd23ff22e56dfbbf719553c59087",
+        "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+        "url": "https://www.aibase.com/news/30548",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -161,15 +262,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7384,
-      "importance": 0.7384,
-      "importance_score": 0.7384,
+      "score": 0.7348,
+      "importance": 0.7348,
+      "importance_score": 0.7348,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8546,
+        "recency": 0.8347,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -187,244 +288,244 @@
       }
     },
     {
-      "story_id": "story_51421005a3dd",
-      "title": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
-      "url": "https://www.aibase.com/news/30545",
-      "primary_url": "https://www.aibase.com/news/30545",
+      "story_id": "story_cbc225b5aefc",
+      "title": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+      "url": "https://www.aibase.com/news/30549",
+      "primary_url": "https://www.aibase.com/news/30549",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "194fcdd9cc966568eb4ddb49d2c2613a13a58fc5",
-          "title": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
-          "url": "https://www.aibase.com/news/30545",
+          "id": "37a0f9f3376cf7eb60e112c74fd8a8023af3c949",
+          "title": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+          "url": "https://www.aibase.com/news/30549",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T01:06:20.577465Z"
+          "published_at": "2026-08-24T02:44:10.932667Z"
+        },
+        {
+          "id": "c91a9cc43f7149acdb8f424a64e275510a3a9793",
+          "title": "匿名模型 Ox Alpha 登顶 OpenRouter，累计调用量超 4 万亿 Token",
+          "url": "https://www.aibase.com/zh/news/30549",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "194fcdd9cc966568eb4ddb49d2c2613a13a58fc5",
-          "title": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
-          "url": "https://www.aibase.com/news/30545",
+          "id": "37a0f9f3376cf7eb60e112c74fd8a8023af3c949",
+          "title": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+          "url": "https://www.aibase.com/news/30549",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T01:06:20.577465Z"
+          "published_at": "2026-08-24T02:44:10.932667Z"
+        },
+        {
+          "id": "c91a9cc43f7149acdb8f424a64e275510a3a9793",
+          "title": "匿名模型 Ox Alpha 登顶 OpenRouter，累计调用量超 4 万亿 Token",
+          "url": "https://www.aibase.com/zh/news/30549",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.0
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-24T01:06:20.577465Z",
-      "latest_at": "2026-08-24T01:06:20.577465Z",
+      "earliest_at": "2026-08-24T02:44:10.932667Z",
+      "latest_at": "2026-08-24T02:44:10.932667Z",
       "primary_item": {
-        "id": "194fcdd9cc966568eb4ddb49d2c2613a13a58fc5",
-        "title": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
-        "url": "https://www.aibase.com/news/30545",
+        "id": "37a0f9f3376cf7eb60e112c74fd8a8023af3c949",
+        "title": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+        "url": "https://www.aibase.com/news/30549",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_c3477d4b1486",
-      "title": "何夕2077 AI 深度信号周报 (2026 W34) | 算力基建金融化与安全治理退潮",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-23-hexi-2077-ai-weekly-2026-w34",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-23-hexi-2077-ai-weekly-2026-w34",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "85009006fffe3911d67a638c58319557b700e017",
-          "title": "何夕2077 AI 深度信号周报 (2026 W34) | 算力基建金融化与安全治理退潮",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-23-hexi-2077-ai-weekly-2026-w34",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-23T04:03:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Daily Digest"
-      ],
-      "items": [
-        {
-          "id": "85009006fffe3911d67a638c58319557b700e017",
-          "title": "何夕2077 AI 深度信号周报 (2026 W34) | 算力基建金融化与安全治理退潮",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-23-hexi-2077-ai-weekly-2026-w34",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-23T04:03:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7204,
-      "importance": 0.7204,
-      "importance_score": 0.7204,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.738,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-23T04:03:52Z",
-      "latest_at": "2026-08-23T04:03:52Z",
-      "primary_item": {
-        "id": "85009006fffe3911d67a638c58319557b700e017",
-        "title": "何夕2077 AI 深度信号周报 (2026 W34) | 算力基建金融化与安全治理退潮",
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-23-hexi-2077-ai-weekly-2026-w34",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
-      }
-    },
-    {
-      "story_id": "story_16b1975c5cf9",
-      "title": "Keep 2026半年报出炉，自研大模型加速商业化落地",
-      "url": "https://www.aibase.com/news/30538",
-      "primary_url": "https://www.aibase.com/news/30538",
+      "story_id": "story_95bd0bd5b705",
+      "title": "端侧AI大洗牌：vivo蓝心登顶手机大模型榜首，3B小参数跑分逼近云端巨头",
+      "url": "https://www.aibase.com/news/30551",
+      "primary_url": "https://www.aibase.com/news/30551",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "25ebdd00c6e6eaebfcb7c3a3017237a29a9d4b1f",
-          "title": "Keep 2026半年报出炉，自研大模型加速商业化落地",
-          "url": "https://www.aibase.com/news/30538",
+          "id": "953b1e03df563d378ad735a75980e42305674c69",
+          "title": "端侧AI大洗牌：vivo蓝心登顶手机大模型榜首，3B小参数跑分逼近云端巨头",
+          "url": "https://www.aibase.com/news/30551",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T01:06:20.577465Z"
+          "published_at": "2026-08-24T02:44:10.932667Z"
+        },
+        {
+          "id": "a29e3eecfe2494c0aa3d9ad0360b2b935f897f16",
+          "title": "端侧 AI 大洗牌：vivo 蓝心登顶手机大模型榜首，3B 小参数跑分逼近云端巨头",
+          "url": "https://www.aibase.com/zh/news/30551",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "25ebdd00c6e6eaebfcb7c3a3017237a29a9d4b1f",
-          "title": "Keep 2026半年报出炉，自研大模型加速商业化落地",
-          "url": "https://www.aibase.com/news/30538",
+          "id": "953b1e03df563d378ad735a75980e42305674c69",
+          "title": "端侧AI大洗牌：vivo蓝心登顶手机大模型榜首，3B小参数跑分逼近云端巨头",
+          "url": "https://www.aibase.com/news/30551",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T01:06:20.577465Z"
+          "published_at": "2026-08-24T02:44:10.932667Z"
+        },
+        {
+          "id": "a29e3eecfe2494c0aa3d9ad0360b2b935f897f16",
+          "title": "端侧 AI 大洗牌：vivo 蓝心登顶手机大模型榜首，3B 小参数跑分逼近云端巨头",
+          "url": "https://www.aibase.com/zh/news/30551",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.0
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-24T01:06:20.577465Z",
-      "latest_at": "2026-08-24T01:06:20.577465Z",
+      "earliest_at": "2026-08-24T02:44:10.932667Z",
+      "latest_at": "2026-08-24T02:44:10.932667Z",
       "primary_item": {
-        "id": "25ebdd00c6e6eaebfcb7c3a3017237a29a9d4b1f",
-        "title": "Keep 2026半年报出炉，自研大模型加速商业化落地",
-        "url": "https://www.aibase.com/news/30538",
+        "id": "953b1e03df563d378ad735a75980e42305674c69",
+        "title": "端侧AI大洗牌：vivo蓝心登顶手机大模型榜首，3B小参数跑分逼近云端巨头",
+        "url": "https://www.aibase.com/news/30551",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_3370a42495b2",
-      "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
-      "url": "https://www.aibase.com/news/30540",
-      "primary_url": "https://www.aibase.com/news/30540",
+      "story_id": "story_1a84e035a21e",
+      "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+      "url": "https://www.aibase.com/news/30546",
+      "primary_url": "https://www.aibase.com/news/30546",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "05e686728899509aea3901a42cdf92aae6ea91ad",
-          "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
-          "url": "https://www.aibase.com/news/30540",
+          "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
+          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "url": "https://www.aibase.com/news/30546",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T01:06:20.577465Z"
+          "published_at": "2026-08-24T02:44:10.932667Z"
+        },
+        {
+          "id": "3e4bc54c043cd14a3c0e99e0ccbd3aeb4b785f2b",
+          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "url": "https://www.aibase.com/zh/news/30546",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "05e686728899509aea3901a42cdf92aae6ea91ad",
-          "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
-          "url": "https://www.aibase.com/news/30540",
+          "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
+          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "url": "https://www.aibase.com/news/30546",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T01:06:20.577465Z"
+          "published_at": "2026-08-24T02:44:10.932667Z"
+        },
+        {
+          "id": "3e4bc54c043cd14a3c0e99e0ccbd3aeb4b785f2b",
+          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "url": "https://www.aibase.com/zh/news/30546",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.0
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-24T01:06:20.577465Z",
-      "latest_at": "2026-08-24T01:06:20.577465Z",
+      "earliest_at": "2026-08-24T02:44:10.932667Z",
+      "latest_at": "2026-08-24T02:44:10.932667Z",
       "primary_item": {
-        "id": "05e686728899509aea3901a42cdf92aae6ea91ad",
-        "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
-        "url": "https://www.aibase.com/news/30540",
+        "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
+        "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+        "url": "https://www.aibase.com/news/30546",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -536,15 +637,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6526,
-      "importance": 0.6526,
-      "importance_score": 0.6526,
+      "score": 0.6488,
+      "importance": 0.6488,
+      "importance_score": 0.6488,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9079,
+        "recency": 0.8867,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -562,62 +663,82 @@
       }
     },
     {
-      "story_id": "story_60ac8d370598",
-      "title": "告别“虚火”！OpenAI紧急出手：Codex明天重置额度并修复用量Bug",
-      "url": "https://www.aibase.com/news/30544",
-      "primary_url": "https://www.aibase.com/news/30544",
+      "story_id": "story_3370a42495b2",
+      "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+      "url": "https://www.aibase.com/news/30540",
+      "primary_url": "https://www.aibase.com/news/30540",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8eced93507c9dd366399b8452f1c357f1cb2d0ad",
-          "title": "告别“虚火”！OpenAI紧急出手：Codex明天重置额度并修复用量Bug",
-          "url": "https://www.aibase.com/news/30544",
+          "id": "05e686728899509aea3901a42cdf92aae6ea91ad",
+          "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+          "url": "https://www.aibase.com/news/30540",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-24T01:06:20.577465Z"
+        },
+        {
+          "id": "0bc698a2f277b97ac648380600510034a9a88088",
+          "title": "专为青少年打造却遭专家「泼冷水」：OpenAI 青少年版 ChatGPT 安全机制引争议",
+          "url": "https://www.aibase.com/zh/news/30540",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "8eced93507c9dd366399b8452f1c357f1cb2d0ad",
-          "title": "告别“虚火”！OpenAI紧急出手：Codex明天重置额度并修复用量Bug",
-          "url": "https://www.aibase.com/news/30544",
+          "id": "05e686728899509aea3901a42cdf92aae6ea91ad",
+          "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+          "url": "https://www.aibase.com/news/30540",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-24T01:06:20.577465Z"
+        },
+        {
+          "id": "0bc698a2f277b97ac648380600510034a9a88088",
+          "title": "专为青少年打造却遭专家「泼冷水」：OpenAI 青少年版 ChatGPT 安全机制引争议",
+          "url": "https://www.aibase.com/zh/news/30540",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7884,
+      "importance": 0.7884,
+      "importance_score": 0.7884,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.9767,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-08-24T01:06:20.577465Z",
-      "latest_at": "2026-08-24T01:06:20.577465Z",
+      "latest_at": "2026-08-24T02:44:10.932667Z",
       "primary_item": {
-        "id": "8eced93507c9dd366399b8452f1c357f1cb2d0ad",
-        "title": "告别“虚火”！OpenAI紧急出手：Codex明天重置额度并修复用量Bug",
-        "url": "https://www.aibase.com/news/30544",
+        "id": "05e686728899509aea3901a42cdf92aae6ea91ad",
+        "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+        "url": "https://www.aibase.com/news/30540",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -695,15 +816,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6236,
-      "importance": 0.6236,
-      "importance_score": 0.6236,
+      "score": 0.6197,
+      "importance": 0.6197,
+      "importance_score": 0.6197,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9345,
+        "recency": 0.9128,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -736,11 +857,21 @@
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-24T01:06:20.577465Z"
+        },
+        {
+          "id": "f02adedacfa2cf0b758086081dcc668fa299c5af",
+          "title": "哈佛商学院引入 AI 虚拟导师，699 美元创业训练营上线",
+          "url": "https://www.aibase.com/zh/news/30541",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
@@ -751,28 +882,38 @@
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-24T01:06:20.577465Z"
+        },
+        {
+          "id": "f02adedacfa2cf0b758086081dcc668fa299c5af",
+          "title": "哈佛商学院引入 AI 虚拟导师，699 美元创业训练营上线",
+          "url": "https://www.aibase.com/zh/news/30541",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7884,
+      "importance": 0.7884,
+      "importance_score": 0.7884,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.9767,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-08-24T01:06:20.577465Z",
-      "latest_at": "2026-08-24T01:06:20.577465Z",
+      "latest_at": "2026-08-24T02:44:10.932667Z",
       "primary_item": {
         "id": "efd7019ed330dc5ba0a3965ffd4f41fc259e9961",
         "title": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
@@ -835,15 +976,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.603,
-      "importance": 0.603,
-      "importance_score": 0.603,
+      "score": 0.5992,
+      "importance": 0.5992,
+      "importance_score": 0.5992,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.5,
         "ai_relevance": 0.74,
-        "recency": 0.8895,
+        "recency": 0.8688,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -858,67 +999,6 @@
         "url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO",
         "source": "InfoQ CN",
         "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_2eadfe0686d9",
-      "title": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
-      "url": "https://www.aibase.com/news/30543",
-      "primary_url": "https://www.aibase.com/news/30543",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b7460c8d564a41bfa18ae8b38e3fb0417b316d09",
-          "title": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
-          "url": "https://www.aibase.com/news/30543",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T01:06:20.577465Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b7460c8d564a41bfa18ae8b38e3fb0417b316d09",
-          "title": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
-          "url": "https://www.aibase.com/news/30543",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T01:06:20.577465Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T01:06:20.577465Z",
-      "latest_at": "2026-08-24T01:06:20.577465Z",
-      "primary_item": {
-        "id": "b7460c8d564a41bfa18ae8b38e3fb0417b316d09",
-        "title": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
-        "url": "https://www.aibase.com/news/30543",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1013,15 +1093,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5735,
-      "importance": 0.5735,
-      "importance_score": 0.5735,
+      "score": 0.5699,
+      "importance": 0.5699,
+      "importance_score": 0.5699,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8764,
+        "recency": 0.856,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1039,21 +1119,21 @@
       }
     },
     {
-      "story_id": "story_8540a8e49a7b",
-      "title": "得州州长阿博特：AI 数据中心遭反对，是行业\"自掘坟墓\"",
-      "url": "https://www.aibase.com/news/30542",
-      "primary_url": "https://www.aibase.com/news/30542",
+      "story_id": "story_5c0e80471009",
+      "title": "IPO 前商业模式遭质疑：Anthropic 最强模型遇冷，中国实惠模型受青睐",
+      "url": "https://www.aibase.com/news/30554",
+      "primary_url": "https://www.aibase.com/news/30554",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "72dd2497657a2a8ec2b272dc1fc7fa963c9a4fcc",
-          "title": "得州州长阿博特：AI 数据中心遭反对，是行业\"自掘坟墓\"",
-          "url": "https://www.aibase.com/news/30542",
+          "id": "a28a03248cf724e4a9448b841310aba79609be86",
+          "title": "IPO 前商业模式遭质疑：Anthropic 最强模型遇冷，中国实惠模型受青睐",
+          "url": "https://www.aibase.com/news/30554",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T01:06:20.577465Z"
+          "published_at": "2026-08-24T02:44:10.932667Z"
         }
       ],
       "source_count": 1,
@@ -1062,13 +1142,13 @@
       ],
       "items": [
         {
-          "id": "72dd2497657a2a8ec2b272dc1fc7fa963c9a4fcc",
-          "title": "得州州长阿博特：AI 数据中心遭反对，是行业\"自掘坟墓\"",
-          "url": "https://www.aibase.com/news/30542",
+          "id": "a28a03248cf724e4a9448b841310aba79609be86",
+          "title": "IPO 前商业模式遭质疑：Anthropic 最强模型遇冷，中国实惠模型受青睐",
+          "url": "https://www.aibase.com/news/30554",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T01:06:20.577465Z"
+          "published_at": "2026-08-24T02:44:10.932667Z"
         }
       ],
       "item_count": 1,
@@ -1089,12 +1169,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-24T01:06:20.577465Z",
-      "latest_at": "2026-08-24T01:06:20.577465Z",
+      "earliest_at": "2026-08-24T02:44:10.932667Z",
+      "latest_at": "2026-08-24T02:44:10.932667Z",
       "primary_item": {
-        "id": "72dd2497657a2a8ec2b272dc1fc7fa963c9a4fcc",
-        "title": "得州州长阿博特：AI 数据中心遭反对，是行业\"自掘坟墓\"",
-        "url": "https://www.aibase.com/news/30542",
+        "id": "a28a03248cf724e4a9448b841310aba79609be86",
+        "title": "IPO 前商业模式遭质疑：Anthropic 最强模型遇冷，中国实惠模型受青睐",
+        "url": "https://www.aibase.com/news/30554",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1152,15 +1232,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5439,
-      "importance": 0.5439,
-      "importance_score": 0.5439,
+      "score": 0.5397,
+      "importance": 0.5397,
+      "importance_score": 0.5397,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9892,
+        "recency": 0.9662,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1231,15 +1311,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5378,
-      "importance": 0.5378,
-      "importance_score": 0.5378,
+      "score": 0.5338,
+      "importance": 0.5338,
+      "importance_score": 0.5338,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9555,
+        "recency": 0.9333,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1254,6 +1334,67 @@
         "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_0306830ec32d",
+      "title": "Twitch 遭千名主播集体起诉：亚马逊默认用直播内容\"喂\"AI，退出还不具追溯力",
+      "url": "https://www.aibase.com/news/30558",
+      "primary_url": "https://www.aibase.com/news/30558",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "57e2cc3d002218cd87f25db85146a04e65b16caf",
+          "title": "Twitch 遭千名主播集体起诉：亚马逊默认用直播内容\"喂\"AI，退出还不具追溯力",
+          "url": "https://www.aibase.com/news/30558",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:44:10.932667Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "57e2cc3d002218cd87f25db85146a04e65b16caf",
+          "title": "Twitch 遭千名主播集体起诉：亚马逊默认用直播内容\"喂\"AI，退出还不具追溯力",
+          "url": "https://www.aibase.com/news/30558",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:44:10.932667Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T02:44:10.932667Z",
+      "latest_at": "2026-08-24T02:44:10.932667Z",
+      "primary_item": {
+        "id": "57e2cc3d002218cd87f25db85146a04e65b16caf",
+        "title": "Twitch 遭千名主播集体起诉：亚马逊默认用直播内容\"喂\"AI，退出还不具追溯力",
+        "url": "https://www.aibase.com/news/30558",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1310,15 +1451,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5313,
-      "importance": 0.5313,
-      "importance_score": 0.5313,
+      "score": 0.5274,
+      "importance": 0.5274,
+      "importance_score": 0.5274,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9194,
+        "recency": 0.898,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1389,15 +1530,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5275,
-      "importance": 0.5275,
-      "importance_score": 0.5275,
+      "score": 0.5237,
+      "importance": 0.5237,
+      "importance_score": 0.5237,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8984,
+        "recency": 0.8775,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1468,15 +1609,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5221,
-      "importance": 0.5221,
-      "importance_score": 0.5221,
+      "score": 0.5184,
+      "importance": 0.5184,
+      "importance_score": 0.5184,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8682,
+        "recency": 0.848,
         "story_heat": 0.25
       },
       "category": "watch",
