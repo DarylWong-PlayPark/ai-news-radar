@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T20:22:55.165873Z",
+  "generated_at": "2026-08-29T22:42:45.287985Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8201,
-      "importance": 0.8201,
-      "importance_score": 0.8201,
+      "score": 0.8157,
+      "importance": 0.8157,
+      "importance_score": 0.8157,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.745,
+        "recency": 0.7204,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,68 +62,6 @@
         "title": "Codex CLI 0.151.0",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_362e2edecbfb",
-      "title": "GitHub Copilot in Visual Studio — August update",
-      "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
-      "primary_url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "08c629be590a72ce351fda9be6ffef7e3de27b6f",
-          "title": "GitHub Copilot in Visual Studio — August update",
-          "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-28T20:24:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "08c629be590a72ce351fda9be6ffef7e3de27b6f",
-          "title": "GitHub Copilot in Visual Studio — August update",
-          "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-28T20:24:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7993,
-      "importance": 0.7993,
-      "importance_score": 0.7993,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7073,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T20:24:20Z",
-      "latest_at": "2026-08-28T20:24:20Z",
-      "primary_item": {
-        "id": "08c629be590a72ce351fda9be6ffef7e3de27b6f",
-        "title": "GitHub Copilot in Visual Studio — August update",
-        "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -162,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.7401,
+      "importance": 0.7401,
+      "importance_score": 0.7401,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8244,
+        "recency": 0.7971,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -241,15 +179,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7646,
+        "recency": 0.7393,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -302,15 +240,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7308,
-      "importance": 0.7308,
-      "importance_score": 0.7308,
+      "score": 0.726,
+      "importance": 0.726,
+      "importance_score": 0.726,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7953,
+        "recency": 0.769,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -362,15 +300,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7431,
-      "importance": 0.7431,
-      "importance_score": 0.7431,
+      "score": 0.7382,
+      "importance": 0.7382,
+      "importance_score": 0.7382,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8307,
+        "recency": 0.8032,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -495,15 +433,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6619,
-      "importance": 0.6619,
-      "importance_score": 0.6619,
+      "score": 0.6562,
+      "importance": 0.6562,
+      "importance_score": 0.6562,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9594,
+        "recency": 0.9277,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -612,15 +550,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.583,
-      "importance": 0.583,
-      "importance_score": 0.583,
+      "score": 0.5775,
+      "importance": 0.5775,
+      "importance_score": 0.5775,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9289,
+        "recency": 0.8981,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -639,12 +577,21 @@
     },
     {
       "story_id": "story_6472bbcb1287",
-      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-      "url": "https://news.ycombinator.com/item?id=49491568",
-      "primary_url": "https://news.ycombinator.com/item?id=49491568",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "primary_url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "source": "newsletter.eng-leadership.com",
+      "source_name": "Buzzing",
       "sources": [
+        {
+          "id": "db3d240bdd1ca809e562ed15de2fbb3a4a4cc952",
+          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "source": "newsletter.eng-leadership.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T20:20:15.528000Z"
+        },
         {
           "id": "892454d82b2918f8700f64eee688c8dd8757356e",
           "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
@@ -656,12 +603,180 @@
         },
         {
           "id": "71248308b9890f003edd940349595f79c695985d",
-          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能) / Good Culture Is the Biggest Productivity Hack, Not AI",
           "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
           "published_at": "2026-08-29T17:19:47Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "newsletter.eng-leadership.com"
+      ],
+      "items": [
+        {
+          "id": "db3d240bdd1ca809e562ed15de2fbb3a4a4cc952",
+          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "source": "newsletter.eng-leadership.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T20:20:15.528000Z"
+        },
+        {
+          "id": "892454d82b2918f8700f64eee688c8dd8757356e",
+          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "url": "https://news.ycombinator.com/item?id=49491568",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T20:06:44.081000Z"
+        },
+        {
+          "id": "71248308b9890f003edd940349595f79c695985d",
+          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能) / Good Culture Is the Biggest Productivity Hack, Not AI",
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T17:19:47Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5647,
+      "importance": 0.5647,
+      "importance_score": 0.5647,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9663,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T17:19:47Z",
+      "latest_at": "2026-08-29T20:20:15.528000Z",
+      "primary_item": {
+        "id": "db3d240bdd1ca809e562ed15de2fbb3a4a4cc952",
+        "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+        "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+        "source": "newsletter.eng-leadership.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_73be14de88e6",
+      "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制",
+      "url": "https://github.com/todotge/canonical-basis",
+      "primary_url": "https://github.com/todotge/canonical-basis",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b95d6628369ed6cabde344594c534bf36f77a990",
+          "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制",
+          "url": "https://github.com/todotge/canonical-basis",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T20:20:15.547000Z"
+        },
+        {
+          "id": "bc8897185dc88e1ac83639dee8d810dfd5d8e775",
+          "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制 / Canonical-basis realignment for Transformer LLMs: every hidden axis becomes independently measurable and controllable",
+          "url": "https://github.com/todotge/canonical-basis",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T20:16:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "b95d6628369ed6cabde344594c534bf36f77a990",
+          "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制",
+          "url": "https://github.com/todotge/canonical-basis",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T20:20:15.547000Z"
+        },
+        {
+          "id": "bc8897185dc88e1ac83639dee8d810dfd5d8e775",
+          "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制 / Canonical-basis realignment for Transformer LLMs: every hidden axis becomes independently measurable and controllable",
+          "url": "https://github.com/todotge/canonical-basis",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T20:16:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5397,
+      "importance": 0.5397,
+      "importance_score": 0.5397,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9663,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T20:16:54Z",
+      "latest_at": "2026-08-29T20:20:15.547000Z",
+      "primary_item": {
+        "id": "b95d6628369ed6cabde344594c534bf36f77a990",
+        "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制",
+        "url": "https://github.com/todotge/canonical-basis",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_ce496cd82092",
+      "title": "Warp builds self-improving agents on Claude",
+      "url": "https://news.ycombinator.com/item?id=49492432",
+      "primary_url": "https://news.ycombinator.com/item?id=49492432",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "82c97a5ab1a096d3f2e3fd0091d02a15760d4563",
+          "title": "Warp builds self-improving agents on Claude",
+          "url": "https://news.ycombinator.com/item?id=49492432",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T20:06:44.081000Z"
+        },
+        {
+          "id": "c862d0cb60525518f6c826f9f2f31429b71ce174",
+          "title": "Warp builds self-improving agents on Claude",
+          "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T19:09:33Z"
         }
       ],
       "source_count": 2,
@@ -671,47 +786,47 @@
       ],
       "items": [
         {
-          "id": "892454d82b2918f8700f64eee688c8dd8757356e",
-          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-          "url": "https://news.ycombinator.com/item?id=49491568",
+          "id": "82c97a5ab1a096d3f2e3fd0091d02a15760d4563",
+          "title": "Warp builds self-improving agents on Claude",
+          "url": "https://news.ycombinator.com/item?id=49492432",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-29T20:06:44.081000Z"
         },
         {
-          "id": "71248308b9890f003edd940349595f79c695985d",
-          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "id": "c862d0cb60525518f6c826f9f2f31429b71ce174",
+          "title": "Warp builds self-improving agents on Claude",
+          "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-29T17:19:47Z"
+          "published_at": "2026-08-29T19:09:33Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
+      "score": 0.5392,
+      "importance": 0.5392,
+      "importance_score": 0.5392,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9961,
+        "recency": 0.9631,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T17:19:47Z",
+      "earliest_at": "2026-08-29T19:09:33Z",
       "latest_at": "2026-08-29T20:06:44.081000Z",
       "primary_item": {
-        "id": "892454d82b2918f8700f64eee688c8dd8757356e",
-        "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-        "url": "https://news.ycombinator.com/item?id=49491568",
+        "id": "82c97a5ab1a096d3f2e3fd0091d02a15760d4563",
+        "title": "Warp builds self-improving agents on Claude",
+        "url": "https://news.ycombinator.com/item?id=49492432",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -770,15 +885,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5443,
-      "importance": 0.5443,
-      "importance_score": 0.5443,
+      "score": 0.5384,
+      "importance": 0.5384,
+      "importance_score": 0.5384,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9917,
+        "recency": 0.9589,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -868,15 +983,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5386,
-      "importance": 0.5386,
-      "importance_score": 0.5386,
+      "score": 0.5337,
+      "importance": 0.5337,
+      "importance_score": 0.5337,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8212,
+        "recency": 0.794,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -947,15 +1062,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5298,
-      "importance": 0.5298,
-      "importance_score": 0.5298,
+      "score": 0.5244,
+      "importance": 0.5244,
+      "importance_score": 0.5244,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.911,
+        "recency": 0.8809,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -970,85 +1085,6 @@
         "url": "https://www.huxiu.com/article/4887054.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_0110e72feee3",
-      "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
-      "url": "https://github.com/stemdeckapp/stemdeck",
-      "primary_url": "https://github.com/stemdeckapp/stemdeck",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3282088eb06c0135b4b127f8e64362ac234defcb",
-          "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
-          "url": "https://github.com/stemdeckapp/stemdeck",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T10:12:23.295000Z"
-        },
-        {
-          "id": "6ab9dca88b865873defdfbacbbc470d4a8f438c5",
-          "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器 / StemDeck, a free, open-source and local AI stem separator",
-          "url": "https://github.com/stemdeckapp/stemdeck",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T01:24:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "3282088eb06c0135b4b127f8e64362ac234defcb",
-          "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
-          "url": "https://github.com/stemdeckapp/stemdeck",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T10:12:23.295000Z"
-        },
-        {
-          "id": "6ab9dca88b865873defdfbacbbc470d4a8f438c5",
-          "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器 / StemDeck, a free, open-source and local AI stem separator",
-          "url": "https://github.com/stemdeckapp/stemdeck",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T01:24:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5212,
-      "importance": 0.5212,
-      "importance_score": 0.5212,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8633,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T01:24:13Z",
-      "latest_at": "2026-08-29T10:12:23.295000Z",
-      "primary_item": {
-        "id": "3282088eb06c0135b4b127f8e64362ac234defcb",
-        "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
-        "url": "https://github.com/stemdeckapp/stemdeck",
-        "source": "github.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1105,15 +1141,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5165,
-      "importance": 0.5165,
-      "importance_score": 0.5165,
+      "score": 0.5115,
+      "importance": 0.5115,
+      "importance_score": 0.5115,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8371,
+        "recency": 0.8094,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1183,15 +1219,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5156,
-      "importance": 0.5156,
-      "importance_score": 0.5156,
+      "score": 0.5106,
+      "importance": 0.5106,
+      "importance_score": 0.5106,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.832,
+        "recency": 0.8044,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1206,85 +1242,6 @@
         "url": "https://www.inventati.org/who/manifesto",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_ce496cd82092",
-      "title": "Warp builds self-improving agents on Claude",
-      "url": "https://news.ycombinator.com/item?id=49492432",
-      "primary_url": "https://news.ycombinator.com/item?id=49492432",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "82c97a5ab1a096d3f2e3fd0091d02a15760d4563",
-          "title": "Warp builds self-improving agents on Claude",
-          "url": "https://news.ycombinator.com/item?id=49492432",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T20:06:44.081000Z"
-        },
-        {
-          "id": "c862d0cb60525518f6c826f9f2f31429b71ce174",
-          "title": "Warp builds self-improving agents on Claude",
-          "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T19:09:33Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "82c97a5ab1a096d3f2e3fd0091d02a15760d4563",
-          "title": "Warp builds self-improving agents on Claude",
-          "url": "https://news.ycombinator.com/item?id=49492432",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T20:06:44.081000Z"
-        },
-        {
-          "id": "c862d0cb60525518f6c826f9f2f31429b71ce174",
-          "title": "Warp builds self-improving agents on Claude",
-          "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T19:09:33Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9961,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T19:09:33Z",
-      "latest_at": "2026-08-29T20:06:44.081000Z",
-      "primary_item": {
-        "id": "82c97a5ab1a096d3f2e3fd0091d02a15760d4563",
-        "title": "Warp builds self-improving agents on Claude",
-        "url": "https://news.ycombinator.com/item?id=49492432",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1341,15 +1298,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5125,
-      "importance": 0.5125,
-      "importance_score": 0.5125,
+      "score": 0.5076,
+      "importance": 0.5076,
+      "importance_score": 0.5076,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8149,
+        "recency": 0.7879,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1363,6 +1320,85 @@
         "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
         "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
         "source": "arbustoemchamas.substack.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_723b7b0828b8",
+      "title": "Show HN: 一款AI工具，可让Codex和Claude的图结构相互通信",
+      "url": "https://github.com/rysh-ai/rysh-cli-code",
+      "primary_url": "https://github.com/rysh-ai/rysh-cli-code",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "562977a415171a9c3d0cd9fafac2e35ce425b2da",
+          "title": "Show HN: 一款AI工具，可让Codex和Claude的图结构相互通信",
+          "url": "https://github.com/rysh-ai/rysh-cli-code",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T18:44:16.882000Z"
+        },
+        {
+          "id": "7db57bef7c0663016c0046bf2708ca2e3bc708b2",
+          "title": "Show HN: 一款AI工具，可让Codex和Claude的图结构相互通信 / Show HN: AI Harness that lets a graph of Codex and Claude intercommunicate",
+          "url": "https://github.com/rysh-ai/rysh-cli-code",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-29T18:34:03Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "562977a415171a9c3d0cd9fafac2e35ce425b2da",
+          "title": "Show HN: 一款AI工具，可让Codex和Claude的图结构相互通信",
+          "url": "https://github.com/rysh-ai/rysh-cli-code",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T18:44:16.882000Z"
+        },
+        {
+          "id": "7db57bef7c0663016c0046bf2708ca2e3bc708b2",
+          "title": "Show HN: 一款AI工具，可让Codex和Claude的图结构相互通信 / Show HN: AI Harness that lets a graph of Codex and Claude intercommunicate",
+          "url": "https://github.com/rysh-ai/rysh-cli-code",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-29T18:34:03Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5358,
+      "importance": 0.5358,
+      "importance_score": 0.5358,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9442,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T18:34:03Z",
+      "latest_at": "2026-08-29T18:44:16.882000Z",
+      "primary_item": {
+        "id": "562977a415171a9c3d0cd9fafac2e35ce425b2da",
+        "title": "Show HN: 一款AI工具，可让Codex和Claude的图结构相互通信",
+        "url": "https://github.com/rysh-ai/rysh-cli-code",
+        "source": "github.com",
         "source_name": "Buzzing"
       }
     },
@@ -1420,15 +1456,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5078,
-      "importance": 0.5078,
-      "importance_score": 0.5078,
+      "score": 0.5031,
+      "importance": 0.5031,
+      "importance_score": 0.5031,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7888,
+        "recency": 0.7627,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1463,18 +1499,18 @@
           "published_at": "2026-08-29T03:16:20.612000Z"
         },
         {
-          "id": "0018dc991022e6b1db6860f42552c3e9931199b0",
+          "id": "b34fdb3d7e7fef53933ea8761c7c4705834c246d",
           "title": "关于Cursor被SpaceX收购后的决定 / Our decision on Cursor following its acquisition by SpaceX",
           "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-29T01:47:53Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "openai.com"
       ],
       "items": [
@@ -1488,26 +1524,26 @@
           "published_at": "2026-08-29T03:16:20.612000Z"
         },
         {
-          "id": "0018dc991022e6b1db6860f42552c3e9931199b0",
+          "id": "b34fdb3d7e7fef53933ea8761c7c4705834c246d",
           "title": "关于Cursor被SpaceX收购后的决定 / Our decision on Cursor following its acquisition by SpaceX",
           "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-29T01:47:53Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5064,
-      "importance": 0.5064,
-      "importance_score": 0.5064,
+      "score": 0.5017,
+      "importance": 0.5017,
+      "importance_score": 0.5017,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7811,
+        "recency": 0.7552,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1578,15 +1614,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5059,
-      "importance": 0.5059,
-      "importance_score": 0.5059,
+      "score": 0.5012,
+      "importance": 0.5012,
+      "importance_score": 0.5012,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7781,
+        "recency": 0.7523,
         "story_heat": 0.25
       },
       "category": "watch",
