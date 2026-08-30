@@ -1,68 +1,66 @@
 {
-  "generated_at": "2026-08-29T22:42:45.287985Z",
+  "generated_at": "2026-08-30T01:01:28.212712Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_91992ed9f82d",
-      "title": "Codex CLI 0.151.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_dab2710a3e78",
+      "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
+      "url": "https://www.dwarkesh.com/p/openai-huggingface",
+      "primary_url": "https://www.dwarkesh.com/p/openai-huggingface",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "f98e6d3f28314f72c32272040c8ebf3ac854f556",
-          "title": "Codex CLI 0.151.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-29T00:00:00Z"
+          "id": "013f4b8574ae634dbbbd8920f79f60fc1a6e19fa",
+          "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
+          "url": "https://www.dwarkesh.com/p/openai-huggingface",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-29T22:47:53Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "Dwarkesh Patel：Podcast & Blog（RSS）"
       ],
       "items": [
         {
-          "id": "f98e6d3f28314f72c32272040c8ebf3ac854f556",
-          "title": "Codex CLI 0.151.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-29T00:00:00Z"
+          "id": "013f4b8574ae634dbbbd8920f79f60fc1a6e19fa",
+          "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
+          "url": "https://www.dwarkesh.com/p/openai-huggingface",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-29T22:47:53Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8157,
-      "importance": 0.8157,
-      "importance_score": 0.8157,
-      "importance_label": "官方更新",
+      "score": 0.7409,
+      "importance": 0.7409,
+      "importance_score": 0.7409,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7204,
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9684,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-29T00:00:00Z",
-      "latest_at": "2026-08-29T00:00:00Z",
+      "earliest_at": "2026-08-29T22:47:53Z",
+      "latest_at": "2026-08-29T22:47:53Z",
       "primary_item": {
-        "id": "f98e6d3f28314f72c32272040c8ebf3ac854f556",
-        "title": "Codex CLI 0.151.0",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
+        "id": "013f4b8574ae634dbbbd8920f79f60fc1a6e19fa",
+        "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
+        "url": "https://www.dwarkesh.com/p/openai-huggingface",
+        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -100,15 +98,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7971,
+        "recency": 0.7709,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -179,15 +177,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7367,
-      "importance": 0.7367,
-      "importance_score": 0.7367,
+      "score": 0.7323,
+      "importance": 0.7323,
+      "importance_score": 0.7323,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7393,
+        "recency": 0.715,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -240,15 +238,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.726,
-      "importance": 0.726,
-      "importance_score": 0.726,
+      "score": 0.7215,
+      "importance": 0.7215,
+      "importance_score": 0.7215,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.769,
+        "recency": 0.7437,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -300,15 +298,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
+      "score": 0.7334,
+      "importance": 0.7334,
+      "importance_score": 0.7334,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8032,
+        "recency": 0.7768,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -433,15 +431,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6562,
-      "importance": 0.6562,
-      "importance_score": 0.6562,
+      "score": 0.6507,
+      "importance": 0.6507,
+      "importance_score": 0.6507,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9277,
+        "recency": 0.8972,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -476,12 +474,12 @@
           "published_at": "2026-08-29T15:16:20.593000Z"
         },
         {
-          "id": "2a5b872c692789f050919e55f7152de4f368099b",
+          "id": "486b8281df8fa07b769d1afaaf8ff1209a8f86c3",
           "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
           "url": "https://lwn.net/Articles/1091231",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-29T14:02:10Z"
         },
         {
@@ -505,7 +503,7 @@
       ],
       "source_count": 4,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "Lobsters (技术社区)",
         "lwn.net",
         "www.phoronix.com"
@@ -521,12 +519,12 @@
           "published_at": "2026-08-29T15:16:20.593000Z"
         },
         {
-          "id": "2a5b872c692789f050919e55f7152de4f368099b",
+          "id": "486b8281df8fa07b769d1afaaf8ff1209a8f86c3",
           "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
           "url": "https://lwn.net/Articles/1091231",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-29T14:02:10Z"
         },
         {
@@ -550,15 +548,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5775,
-      "importance": 0.5775,
-      "importance_score": 0.5775,
+      "score": 0.5722,
+      "importance": 0.5722,
+      "importance_score": 0.5722,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8981,
+        "recency": 0.8686,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -648,15 +646,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5647,
-      "importance": 0.5647,
-      "importance_score": 0.5647,
+      "score": 0.559,
+      "importance": 0.559,
+      "importance_score": 0.559,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9663,
+        "recency": 0.9346,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -671,6 +669,163 @@
         "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
         "source": "newsletter.eng-leadership.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_0783c1760033",
+      "title": "苹果 CarPlay 已接入 4 个第三方 AI 应用，Siri AI 将于 iOS 27 上线",
+      "url": "https://www.ithome.com/0/996/057.htm",
+      "primary_url": "https://www.ithome.com/0/996/057.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "7e9c0a82b4fdb6be474f83ff2f66fdf211faa4ab",
+          "title": "苹果 CarPlay 已接入 4 个第三方 AI 应用，Siri AI 将于 iOS 27 上线",
+          "url": "https://www.ithome.com/0/996/057.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "29ed47a3ec9826d96fdd67e6efc6929b240e864b",
+          "title": "iOS 27 版 Siri AI 上线前，苹果 CarPlay 已接入 4 个第三方 AI 应用",
+          "url": "https://www.ithome.com/0/996/057.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T23:11:16Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "7e9c0a82b4fdb6be474f83ff2f66fdf211faa4ab",
+          "title": "苹果 CarPlay 已接入 4 个第三方 AI 应用，Siri AI 将于 iOS 27 上线",
+          "url": "https://www.ithome.com/0/996/057.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "29ed47a3ec9826d96fdd67e6efc6929b240e864b",
+          "title": "iOS 27 版 Siri AI 上线前，苹果 CarPlay 已接入 4 个第三方 AI 应用",
+          "url": "https://www.ithome.com/0/996/057.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T23:11:16Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T23:11:16Z",
+      "latest_at": "2026-08-30T01:01:28.212712Z",
+      "primary_item": {
+        "id": "7e9c0a82b4fdb6be474f83ff2f66fdf211faa4ab",
+        "title": "苹果 CarPlay 已接入 4 个第三方 AI 应用，Siri AI 将于 iOS 27 上线",
+        "url": "https://www.ithome.com/0/996/057.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_e84aada0235c",
+      "title": "$44M Solar-Powered EV Production Deal Struck",
+      "url": "https://frequal.com/aptera/ProductionDealAug2026.html",
+      "primary_url": "https://frequal.com/aptera/ProductionDealAug2026.html",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "8d14555dec3103429fcbda23a0e4b9def0bcb3ac",
+          "title": "$44M Solar-Powered EV Production Deal Struck",
+          "url": "https://frequal.com/aptera/ProductionDealAug2026.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T21:37:07Z"
+        },
+        {
+          "id": "8740aa8ab367bd7b2a62980bfc5760de3d538829",
+          "title": "Aptera announces a $44M to design and build a solar electric vehicle",
+          "url": "https://frequal.com/aptera/ProductionDealAug2026.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T21:37:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "8d14555dec3103429fcbda23a0e4b9def0bcb3ac",
+          "title": "$44M Solar-Powered EV Production Deal Struck",
+          "url": "https://frequal.com/aptera/ProductionDealAug2026.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T21:37:07Z"
+        },
+        {
+          "id": "8740aa8ab367bd7b2a62980bfc5760de3d538829",
+          "title": "Aptera announces a $44M to design and build a solar electric vehicle",
+          "url": "https://frequal.com/aptera/ProductionDealAug2026.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T21:37:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5372,
+      "importance": 0.5372,
+      "importance_score": 0.5372,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.952,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T21:37:07Z",
+      "latest_at": "2026-08-29T21:37:07Z",
+      "primary_item": {
+        "id": "8d14555dec3103429fcbda23a0e4b9def0bcb3ac",
+        "title": "$44M Solar-Powered EV Production Deal Struck",
+        "url": "https://frequal.com/aptera/ProductionDealAug2026.html",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -727,15 +882,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5397,
-      "importance": 0.5397,
-      "importance_score": 0.5397,
+      "score": 0.534,
+      "importance": 0.534,
+      "importance_score": 0.534,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9663,
+        "recency": 0.9346,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -806,15 +961,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5392,
-      "importance": 0.5392,
-      "importance_score": 0.5392,
+      "score": 0.5335,
+      "importance": 0.5335,
+      "importance_score": 0.5335,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9631,
+        "recency": 0.9315,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -885,15 +1040,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5384,
-      "importance": 0.5384,
-      "importance_score": 0.5384,
+      "score": 0.5327,
+      "importance": 0.5327,
+      "importance_score": 0.5327,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9589,
+        "recency": 0.9274,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -911,178 +1066,80 @@
       }
     },
     {
-      "story_id": "story_6f0715608976",
-      "title": "我不小心把LLM内存变成了程序分析",
-      "url": "https://pwning.systems/posts/llm-memory-program-analysis",
-      "primary_url": "https://pwning.systems/posts/llm-memory-program-analysis",
-      "source": "pwning.systems",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f53cc7718c916a82ba7d2a5ffe22cee80d301975",
-          "title": "我不小心把LLM内存变成了程序分析",
-          "url": "https://pwning.systems/posts/llm-memory-program-analysis",
-          "source": "pwning.systems",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T06:44:16.846000Z"
-        },
-        {
-          "id": "36d6f35c8e5d0357dc5d24415a7121610c8f8d41",
-          "title": "I accidentally turned LLM memory into program analysis",
-          "url": "https://news.ycombinator.com/item?id=49485416",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T01:04:16.296000Z"
-        },
-        {
-          "id": "4b3dc26fa9059c335845e86833449b3453c388b4",
-          "title": "我不小心把LLM内存变成了程序分析 / I accidentally turned LLM memory into program analysis",
-          "url": "https://pwning.systems/posts/llm-memory-program-analysis",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-28T23:27:45Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "pwning.systems"
-      ],
-      "items": [
-        {
-          "id": "f53cc7718c916a82ba7d2a5ffe22cee80d301975",
-          "title": "我不小心把LLM内存变成了程序分析",
-          "url": "https://pwning.systems/posts/llm-memory-program-analysis",
-          "source": "pwning.systems",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T06:44:16.846000Z"
-        },
-        {
-          "id": "36d6f35c8e5d0357dc5d24415a7121610c8f8d41",
-          "title": "I accidentally turned LLM memory into program analysis",
-          "url": "https://news.ycombinator.com/item?id=49485416",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T01:04:16.296000Z"
-        },
-        {
-          "id": "4b3dc26fa9059c335845e86833449b3453c388b4",
-          "title": "我不小心把LLM内存变成了程序分析 / I accidentally turned LLM memory into program analysis",
-          "url": "https://pwning.systems/posts/llm-memory-program-analysis",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-28T23:27:45Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5337,
-      "importance": 0.5337,
-      "importance_score": 0.5337,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.794,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-28T23:27:45Z",
-      "latest_at": "2026-08-29T06:44:16.846000Z",
-      "primary_item": {
-        "id": "f53cc7718c916a82ba7d2a5ffe22cee80d301975",
-        "title": "我不小心把LLM内存变成了程序分析",
-        "url": "https://pwning.systems/posts/llm-memory-program-analysis",
-        "source": "pwning.systems",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_dbef34f02ce8",
-      "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
-      "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4887054.html?f=rss",
+      "story_id": "story_eb0bc1242835",
+      "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
+      "url": "https://www.ithome.com/0/996/053.htm",
+      "primary_url": "https://www.ithome.com/0/996/053.htm",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "fc7a981c43f25bb4a824d29fb906c1f9a93a943d",
-          "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
-          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
+          "id": "c4153d6748c3f85c9d9fdb210346216f43040790",
+          "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
+          "url": "https://www.ithome.com/0/996/053.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "3e0310552370f7ea7400a6428f3efea2ed56881e",
-          "title": "谁在给 AI 付账单：八大科技巨头的万亿投注版图",
-          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "ea6a6dd02bbe41541ea126afa51e10ed9c0de43a",
+          "title": "苹果首款 AI 眼镜有望 2027 年亮相：首代无显示屏，瞄准语音与视觉识别",
+          "url": "https://www.ithome.com/0/996/053.htm",
+          "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-29T13:17:26Z"
+          "published_at": "2026-08-29T22:44:37Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "fc7a981c43f25bb4a824d29fb906c1f9a93a943d",
-          "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
-          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
+          "id": "c4153d6748c3f85c9d9fdb210346216f43040790",
+          "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
+          "url": "https://www.ithome.com/0/996/053.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "3e0310552370f7ea7400a6428f3efea2ed56881e",
-          "title": "谁在给 AI 付账单：八大科技巨头的万亿投注版图",
-          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "ea6a6dd02bbe41541ea126afa51e10ed9c0de43a",
+          "title": "苹果首款 AI 眼镜有望 2027 年亮相：首代无显示屏，瞄准语音与视觉识别",
+          "url": "https://www.ithome.com/0/996/053.htm",
+          "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-29T13:17:26Z"
+          "published_at": "2026-08-29T22:44:37Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5244,
-      "importance": 0.5244,
-      "importance_score": 0.5244,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8809,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T13:17:26Z",
-      "latest_at": "2026-08-29T13:55:45.675243Z",
+      "earliest_at": "2026-08-29T22:44:37Z",
+      "latest_at": "2026-08-30T01:01:28.212712Z",
       "primary_item": {
-        "id": "fc7a981c43f25bb4a824d29fb906c1f9a93a943d",
-        "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
-        "url": "https://www.huxiu.com/article/4887054.html?f=rss",
+        "id": "c4153d6748c3f85c9d9fdb210346216f43040790",
+        "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
+        "url": "https://www.ithome.com/0/996/053.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -1141,15 +1198,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5115,
-      "importance": 0.5115,
-      "importance_score": 0.5115,
+      "score": 0.5067,
+      "importance": 0.5067,
+      "importance_score": 0.5067,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8094,
+        "recency": 0.7828,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1164,84 +1221,6 @@
         "url": "https://itsuki.app",
         "source": "itsuki.app",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_356cb5adee51",
-      "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
-      "url": "https://www.inventati.org/who/manifesto",
-      "primary_url": "https://www.inventati.org/who/manifesto",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "bec95a20ddb8a04d00e9af7d3ab95f9f1d5d1c69",
-          "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
-          "url": "https://www.inventati.org/who/manifesto",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T07:38:31Z"
-        },
-        {
-          "id": "1b4538a74c8cc494e3074f226f077d120748ebca",
-          "title": "Manifesto – who we are and what do we want (2002)",
-          "url": "https://www.inventati.org/who/manifesto",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T07:38:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "bec95a20ddb8a04d00e9af7d3ab95f9f1d5d1c69",
-          "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
-          "url": "https://www.inventati.org/who/manifesto",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T07:38:31Z"
-        },
-        {
-          "id": "1b4538a74c8cc494e3074f226f077d120748ebca",
-          "title": "Manifesto – who we are and what do we want (2002)",
-          "url": "https://www.inventati.org/who/manifesto",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T07:38:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5106,
-      "importance": 0.5106,
-      "importance_score": 0.5106,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8044,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T07:38:31Z",
-      "latest_at": "2026-08-29T07:38:31Z",
-      "primary_item": {
-        "id": "bec95a20ddb8a04d00e9af7d3ab95f9f1d5d1c69",
-        "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
-        "url": "https://www.inventati.org/who/manifesto",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1298,15 +1277,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5076,
-      "importance": 0.5076,
-      "importance_score": 0.5076,
+      "score": 0.503,
+      "importance": 0.503,
+      "importance_score": 0.503,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7879,
+        "recency": 0.762,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1321,6 +1300,84 @@
         "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
         "source": "arbustoemchamas.substack.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_dc0363ce3679",
+      "title": "腾讯发布并开源了 Tencent Hy4 Preview / Hy4 preview",
+      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
+      "primary_url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "b096e66246435ff13e0333f093a2328ca5fba132",
+          "title": "腾讯发布并开源了 Tencent Hy4 Preview / Hy4 preview",
+          "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T19:33:23Z"
+        },
+        {
+          "id": "4148ce2fd2d6dd8d6cf3c582d9fd2f8621fb0e84",
+          "title": "腾讯发布并开源了 Tencent Hy4 Preview / Tencent Releases and Open-Sources Tencent Hy4 Preview",
+          "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T19:33:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "b096e66246435ff13e0333f093a2328ca5fba132",
+          "title": "腾讯发布并开源了 Tencent Hy4 Preview / Hy4 preview",
+          "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T19:33:23Z"
+        },
+        {
+          "id": "4148ce2fd2d6dd8d6cf3c582d9fd2f8621fb0e84",
+          "title": "腾讯发布并开源了 Tencent Hy4 Preview / Tencent Releases and Open-Sources Tencent Hy4 Preview",
+          "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T19:33:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9241,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T19:33:23Z",
+      "latest_at": "2026-08-29T19:33:23Z",
+      "primary_item": {
+        "id": "b096e66246435ff13e0333f093a2328ca5fba132",
+        "title": "腾讯发布并开源了 Tencent Hy4 Preview / Hy4 preview",
+        "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1377,15 +1434,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5358,
-      "importance": 0.5358,
-      "importance_score": 0.5358,
+      "score": 0.5302,
+      "importance": 0.5302,
+      "importance_score": 0.5302,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9442,
+        "recency": 0.9132,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1456,15 +1513,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5031,
-      "importance": 0.5031,
-      "importance_score": 0.5031,
+      "score": 0.4986,
+      "importance": 0.4986,
+      "importance_score": 0.4986,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7627,
+        "recency": 0.7377,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1535,15 +1592,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5017,
-      "importance": 0.5017,
-      "importance_score": 0.5017,
+      "score": 0.4973,
+      "importance": 0.4973,
+      "importance_score": 0.4973,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7552,
+        "recency": 0.7304,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1557,85 +1614,6 @@
         "title": "关于Cursor被SpaceX收购后的决定",
         "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
         "source": "openai.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_10e81be27811",
-      "title": "Debian 对 LLM 的使用既不支持也不禁止",
-      "url": "https://www.debian.org/vote/2026/vote_002",
-      "primary_url": "https://www.debian.org/vote/2026/vote_002",
-      "source": "www.debian.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d854c22c80979d30d93b9e95404eb79277d8845b",
-          "title": "Debian 对 LLM 的使用既不支持也不禁止",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T03:00:24.283000Z"
-        },
-        {
-          "id": "3fb5387ae972b438063492761d49c646f619d3ae",
-          "title": "Debian 对 LLM 的使用既不支持也不禁止 / LLM usage in Debian neither endorsed nor prohibited",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T01:40:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "www.debian.org"
-      ],
-      "items": [
-        {
-          "id": "d854c22c80979d30d93b9e95404eb79277d8845b",
-          "title": "Debian 对 LLM 的使用既不支持也不禁止",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T03:00:24.283000Z"
-        },
-        {
-          "id": "3fb5387ae972b438063492761d49c646f619d3ae",
-          "title": "Debian 对 LLM 的使用既不支持也不禁止 / LLM usage in Debian neither endorsed nor prohibited",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T01:40:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5012,
-      "importance": 0.5012,
-      "importance_score": 0.5012,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7523,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T01:40:59Z",
-      "latest_at": "2026-08-29T03:00:24.283000Z",
-      "primary_item": {
-        "id": "d854c22c80979d30d93b9e95404eb79277d8845b",
-        "title": "Debian 对 LLM 的使用既不支持也不禁止",
-        "url": "https://www.debian.org/vote/2026/vote_002",
-        "source": "www.debian.org",
         "source_name": "Buzzing"
       }
     }
