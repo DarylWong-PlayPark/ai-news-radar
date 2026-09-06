@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T19:23:35.645136Z",
+  "generated_at": "2026-09-06T21:32:21.485956Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8769,
-      "importance": 0.8769,
-      "importance_score": 0.8769,
+      "score": 0.8722,
+      "importance": 0.8722,
+      "importance_score": 0.8722,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8606,
+        "recency": 0.8344,
         "story_heat": 0.5
       },
       "category": "official",
@@ -158,15 +158,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8497,
-      "importance": 0.8497,
-      "importance_score": 0.8497,
+      "score": 0.845,
+      "importance": 0.845,
+      "importance_score": 0.845,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8483,
+        "recency": 0.8224,
         "story_heat": 0.25
       },
       "category": "official",
@@ -221,15 +221,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.792,
-      "importance": 0.792,
-      "importance_score": 0.792,
+      "score": 0.7866,
+      "importance": 0.7866,
+      "importance_score": 0.7866,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9856,
+        "recency": 0.9555,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -301,15 +301,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7776,
-      "importance": 0.7776,
-      "importance_score": 0.7776,
+      "score": 0.773,
+      "importance": 0.773,
+      "importance_score": 0.773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8334,
+        "recency": 0.8079,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -325,66 +325,6 @@
         "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
         "url": "https://www.ithome.com/0/998/927.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e46c6749700e",
-      "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
-      "url": "https://x.com/testingcatalog/status/2096350628054176240",
-      "primary_url": "https://x.com/testingcatalog/status/2096350628054176240",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "39063cb094fc0954bba38154036ab86e9dc2220a",
-          "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
-          "url": "https://x.com/testingcatalog/status/2096350628054176240",
-          "source": "X：Testing Catalog (@testingcatalog)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T21:31:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Testing Catalog (@testingcatalog)"
-      ],
-      "items": [
-        {
-          "id": "39063cb094fc0954bba38154036ab86e9dc2220a",
-          "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
-          "url": "https://x.com/testingcatalog/status/2096350628054176240",
-          "source": "X：Testing Catalog (@testingcatalog)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T21:31:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7309,
-      "importance": 0.7309,
-      "importance_score": 0.7309,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7293,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-05T21:31:52Z",
-      "latest_at": "2026-09-05T21:31:52Z",
-      "primary_item": {
-        "id": "39063cb094fc0954bba38154036ab86e9dc2220a",
-        "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
-        "url": "https://x.com/testingcatalog/status/2096350628054176240",
-        "source": "X：Testing Catalog (@testingcatalog)",
         "source_name": "AI HOT"
       }
     },
@@ -513,15 +453,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "score": 0.6637,
+      "importance": 0.6637,
+      "importance_score": 0.6637,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9695,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -611,15 +551,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5627,
-      "importance": 0.5627,
-      "importance_score": 0.5627,
+      "score": 0.5575,
+      "importance": 0.5575,
+      "importance_score": 0.5575,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.955,
+        "recency": 0.9258,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -637,30 +577,267 @@
       }
     },
     {
-      "story_id": "story_f2769b9ac609",
-      "title": "人工智能代理总能找到钻空子的办法。以下是一些最离谱的例子。",
-      "url": "https://www.businessinsider.com/ai-agents-rogue-strategies-cheating-lying-german-wiki-openai-anthropic-2026-9",
-      "primary_url": "https://www.businessinsider.com/ai-agents-rogue-strategies-cheating-lying-german-wiki-openai-anthropic-2026-9",
+      "story_id": "story_fd3208099b40",
+      "title": "How we monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "primary_url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "413c9317217041fa663f33a43e44569aa925f114",
+          "title": "How we monitor internal coding agents for misalignment",
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d58f06c32b97b48cc942f7a5009f9b278fab7e26",
+          "title": "OpenAI: We monitor internal coding agents for misalignment",
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T16:37:55Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "413c9317217041fa663f33a43e44569aa925f114",
+          "title": "How we monitor internal coding agents for misalignment",
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d58f06c32b97b48cc942f7a5009f9b278fab7e26",
+          "title": "OpenAI: We monitor internal coding agents for misalignment",
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T16:37:55Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T16:37:55Z",
+      "latest_at": "2026-09-06T21:32:21.485956Z",
+      "primary_item": {
+        "id": "413c9317217041fa663f33a43e44569aa925f114",
+        "title": "How we monitor internal coding agents for misalignment",
+        "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_4c3db02cd360",
+      "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
+      "url": "https://news.ycombinator.com/item?id=49590351",
+      "primary_url": "https://news.ycombinator.com/item?id=49590351",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "981b25471cad3607d245874568e3518e83f40fac",
+          "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
+          "url": "https://news.ycombinator.com/item?id=49590351",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T21:16:34.856000Z"
+        },
+        {
+          "id": "4f220ec7b59d404b5811927bfb782f55f21ebc9d",
+          "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
+          "url": "https://github.com/mmeyerlein/meclaw",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T20:07:16Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "981b25471cad3607d245874568e3518e83f40fac",
+          "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
+          "url": "https://news.ycombinator.com/item?id=49590351",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T21:16:34.856000Z"
+        },
+        {
+          "id": "4f220ec7b59d404b5811927bfb782f55f21ebc9d",
+          "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
+          "url": "https://github.com/mmeyerlein/meclaw",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T20:07:16Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9962,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T20:07:16Z",
+      "latest_at": "2026-09-06T21:16:34.856000Z",
+      "primary_item": {
+        "id": "981b25471cad3607d245874568e3518e83f40fac",
+        "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
+        "url": "https://news.ycombinator.com/item?id=49590351",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_7cd9cbd432cc",
+      "title": "前沿实验室是否将人工智能的安全与保障混为一谈了？",
+      "url": "https://martinalderson.com/posts/ai-safety-vs-security",
+      "primary_url": "https://martinalderson.com/posts/ai-safety-vs-security",
+      "source": "martinalderson.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "11d94f220c2a5d97c09e418a4658707a038a4aef",
+          "title": "前沿实验室是否将人工智能的安全与保障混为一谈了？",
+          "url": "https://martinalderson.com/posts/ai-safety-vs-security",
+          "source": "martinalderson.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T20:56:00.786000Z"
+        },
+        {
+          "id": "0127c548143e9efada078a90ab47f8b24fd155b8",
+          "title": "前沿实验室是否将人工智能的安全与保障混为一谈了？ / Have the frontier labs mixed up AI safety and security?",
+          "url": "https://martinalderson.com/posts/ai-safety-vs-security",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T20:47:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "martinalderson.com"
+      ],
+      "items": [
+        {
+          "id": "11d94f220c2a5d97c09e418a4658707a038a4aef",
+          "title": "前沿实验室是否将人工智能的安全与保障混为一谈了？",
+          "url": "https://martinalderson.com/posts/ai-safety-vs-security",
+          "source": "martinalderson.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T20:56:00.786000Z"
+        },
+        {
+          "id": "0127c548143e9efada078a90ab47f8b24fd155b8",
+          "title": "前沿实验室是否将人工智能的安全与保障混为一谈了？ / Have the frontier labs mixed up AI safety and security?",
+          "url": "https://martinalderson.com/posts/ai-safety-vs-security",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T20:47:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5442,
+      "importance": 0.5442,
+      "importance_score": 0.5442,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9913,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T20:47:52Z",
+      "latest_at": "2026-09-06T20:56:00.786000Z",
+      "primary_item": {
+        "id": "11d94f220c2a5d97c09e418a4658707a038a4aef",
+        "title": "前沿实验室是否将人工智能的安全与保障混为一谈了？",
+        "url": "https://martinalderson.com/posts/ai-safety-vs-security",
+        "source": "martinalderson.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_258125f8f472",
+      "title": "OpenAI首席科学家表示，人工智能实验室可能需要放慢脚步：“没有人做好应对后果的准备”",
+      "url": "https://www.businessinsider.com/openai-chief-scientist-ai-risks-slowdown-rogue-agents-consequences-safety-2026-9",
+      "primary_url": "https://www.businessinsider.com/openai-chief-scientist-ai-risks-slowdown-rogue-agents-consequences-safety-2026-9",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "3eab50b1fb974c108b072876b8b676fd1ddd60cc",
-          "title": "人工智能代理总能找到钻空子的办法。以下是一些最离谱的例子。",
-          "url": "https://www.businessinsider.com/ai-agents-rogue-strategies-cheating-lying-german-wiki-openai-anthropic-2026-9",
+          "id": "bde9e1230ce4ec7d9b769ba037fdf1e129683b08",
+          "title": "OpenAI首席科学家表示，人工智能实验室可能需要放慢脚步：“没有人做好应对后果的准备”",
+          "url": "https://www.businessinsider.com/openai-chief-scientist-ai-risks-slowdown-rogue-agents-consequences-safety-2026-9",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-06T17:30:50.842000Z"
+          "published_at": "2026-09-06T19:51:53.152000Z"
         },
         {
-          "id": "75d0ddc47e7e05a7db91b65c1ec7ce4908aed738",
-          "title": "人工智能代理总能找到钻空子的办法。以下是一些最离谱的例子。 / AI agents keep finding ways to bend the rules. Here are some of the wildest.",
-          "url": "https://www.businessinsider.com/ai-agents-rogue-strategies-cheating-lying-german-wiki-openai-anthropic-2026-9",
+          "id": "a736d65ad0abfb3632e17e44fa2588d3372a6572",
+          "title": "OpenAI首席科学家表示，人工智能实验室可能需要放慢脚步：“没有人做好应对后果的准备” / OpenAI's chief scientist says AI labs may need to slow down: 'No one is prepared for the consequences'",
+          "url": "https://www.businessinsider.com/openai-chief-scientist-ai-risks-slowdown-rogue-agents-consequences-safety-2026-9",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-06T17:05:25Z"
+          "published_at": "2026-09-06T19:26:04Z"
         }
       ],
       "source_count": 2,
@@ -670,128 +847,127 @@
       ],
       "items": [
         {
-          "id": "3eab50b1fb974c108b072876b8b676fd1ddd60cc",
-          "title": "人工智能代理总能找到钻空子的办法。以下是一些最离谱的例子。",
-          "url": "https://www.businessinsider.com/ai-agents-rogue-strategies-cheating-lying-german-wiki-openai-anthropic-2026-9",
+          "id": "bde9e1230ce4ec7d9b769ba037fdf1e129683b08",
+          "title": "OpenAI首席科学家表示，人工智能实验室可能需要放慢脚步：“没有人做好应对后果的准备”",
+          "url": "https://www.businessinsider.com/openai-chief-scientist-ai-risks-slowdown-rogue-agents-consequences-safety-2026-9",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-06T17:30:50.842000Z"
+          "published_at": "2026-09-06T19:51:53.152000Z"
         },
         {
-          "id": "75d0ddc47e7e05a7db91b65c1ec7ce4908aed738",
-          "title": "人工智能代理总能找到钻空子的办法。以下是一些最离谱的例子。 / AI agents keep finding ways to bend the rules. Here are some of the wildest.",
-          "url": "https://www.businessinsider.com/ai-agents-rogue-strategies-cheating-lying-german-wiki-openai-anthropic-2026-9",
+          "id": "a736d65ad0abfb3632e17e44fa2588d3372a6572",
+          "title": "OpenAI首席科学家表示，人工智能实验室可能需要放慢脚步：“没有人做好应对后果的准备” / OpenAI's chief scientist says AI labs may need to slow down: 'No one is prepared for the consequences'",
+          "url": "https://www.businessinsider.com/openai-chief-scientist-ai-risks-slowdown-rogue-agents-consequences-safety-2026-9",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-06T17:05:25Z"
+          "published_at": "2026-09-06T19:26:04Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.541,
-      "importance": 0.541,
-      "importance_score": 0.541,
+      "score": 0.5415,
+      "importance": 0.5415,
+      "importance_score": 0.5415,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9732,
+        "recency": 0.9761,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-06T17:05:25Z",
-      "latest_at": "2026-09-06T17:30:50.842000Z",
+      "earliest_at": "2026-09-06T19:26:04Z",
+      "latest_at": "2026-09-06T19:51:53.152000Z",
       "primary_item": {
-        "id": "3eab50b1fb974c108b072876b8b676fd1ddd60cc",
-        "title": "人工智能代理总能找到钻空子的办法。以下是一些最离谱的例子。",
-        "url": "https://www.businessinsider.com/ai-agents-rogue-strategies-cheating-lying-german-wiki-openai-anthropic-2026-9",
+        "id": "bde9e1230ce4ec7d9b769ba037fdf1e129683b08",
+        "title": "OpenAI首席科学家表示，人工智能实验室可能需要放慢脚步：“没有人做好应对后果的准备”",
+        "url": "https://www.businessinsider.com/openai-chief-scientist-ai-risks-slowdown-rogue-agents-consequences-safety-2026-9",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_00143ffe2cbd",
-      "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能",
-      "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
-      "primary_url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_e752bff20023",
+      "title": "根据法律建议，尼特项目将继续推进 / Nitter and XCancel resume service after legal advice",
+      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "primary_url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "e58dbb57a567b35015def7aa2c8093185e4b8e87",
-          "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能",
-          "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "585e1b4eec3a0254c8ad3fe76a617681f16d6a58",
+          "title": "根据法律建议，尼特项目将继续推进 / Nitter and XCancel resume service after legal advice",
+          "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T17:49:47Z"
         },
         {
-          "id": "1609471a0c3c4e42099ed11bd509604107717edf",
-          "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能 / Flock's AI search tool for police officers has been reverse engineered — here's what it shows",
-          "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T12:30:00Z"
+          "id": "2860d6c89dc9bc01929f1bfe824c9887a98d3b52",
+          "title": "根据法律建议，尼特项目将继续推进 / Nitter is unarchived and will continue",
+          "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T17:49:47Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "TechRadar"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "e58dbb57a567b35015def7aa2c8093185e4b8e87",
-          "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能",
-          "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "585e1b4eec3a0254c8ad3fe76a617681f16d6a58",
+          "title": "根据法律建议，尼特项目将继续推进 / Nitter and XCancel resume service after legal advice",
+          "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T17:49:47Z"
         },
         {
-          "id": "1609471a0c3c4e42099ed11bd509604107717edf",
-          "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能 / Flock's AI search tool for police officers has been reverse engineered — here's what it shows",
-          "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T12:30:00Z"
+          "id": "2860d6c89dc9bc01929f1bfe824c9887a98d3b52",
+          "title": "根据法律建议，尼特项目将继续推进 / Nitter is unarchived and will continue",
+          "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T17:49:47Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5403,
-      "importance": 0.5403,
-      "importance_score": 0.5403,
+      "score": 0.5364,
+      "importance": 0.5364,
+      "importance_score": 0.5364,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9693,
+        "recency": 0.9478,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-06T12:30:00Z",
-      "latest_at": "2026-09-06T17:14:04.736223Z",
+      "earliest_at": "2026-09-06T17:49:47Z",
+      "latest_at": "2026-09-06T17:49:47Z",
       "primary_item": {
-        "id": "e58dbb57a567b35015def7aa2c8093185e4b8e87",
-        "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能",
-        "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "585e1b4eec3a0254c8ad3fe76a617681f16d6a58",
+        "title": "根据法律建议，尼特项目将继续推进 / Nitter and XCancel resume service after legal advice",
+        "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -848,15 +1024,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5403,
-      "importance": 0.5403,
-      "importance_score": 0.5403,
+      "score": 0.535,
+      "importance": 0.535,
+      "importance_score": 0.535,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9693,
+        "recency": 0.9397,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -871,104 +1047,6 @@
         "url": "https://github.com/openai/skills",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_ae0c2e3335c6",
-      "title": "GPT-6 Astra on robot arms",
-      "url": "https://news.ycombinator.com/item?id=49582582",
-      "primary_url": "https://news.ycombinator.com/item?id=49582582",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "e93639ebc18b9cd558d329fdd7c5e416f58243d2",
-          "title": "GPT-6 Astra on robot arms",
-          "url": "https://news.ycombinator.com/item?id=49582582",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-06T05:54:52.340000Z"
-        },
-        {
-          "id": "d0e7e847b7d3b7da65b636c6c56ab4ed835bd76b",
-          "title": "安装在机械臂上的GPT-6 Astra",
-          "url": "https://openai.robocurve.org/gpt-6-astra",
-          "source": "openai.robocurve.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T04:56:10.649000Z"
-        },
-        {
-          "id": "11c242abc23cebdcce3261b11e77fba0139ddbb4",
-          "title": "安装在机械臂上的GPT-6 Astra / GPT-6 Astra on robot arms",
-          "url": "https://openai.robocurve.org/gpt-6-astra",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T01:52:45Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "openai.robocurve.org"
-      ],
-      "items": [
-        {
-          "id": "e93639ebc18b9cd558d329fdd7c5e416f58243d2",
-          "title": "GPT-6 Astra on robot arms",
-          "url": "https://news.ycombinator.com/item?id=49582582",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-06T05:54:52.340000Z"
-        },
-        {
-          "id": "d0e7e847b7d3b7da65b636c6c56ab4ed835bd76b",
-          "title": "安装在机械臂上的GPT-6 Astra",
-          "url": "https://openai.robocurve.org/gpt-6-astra",
-          "source": "openai.robocurve.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T04:56:10.649000Z"
-        },
-        {
-          "id": "11c242abc23cebdcce3261b11e77fba0139ddbb4",
-          "title": "安装在机械臂上的GPT-6 Astra / GPT-6 Astra on robot arms",
-          "url": "https://openai.robocurve.org/gpt-6-astra",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T01:52:45Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.539,
-      "importance": 0.539,
-      "importance_score": 0.539,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8231,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T01:52:45Z",
-      "latest_at": "2026-09-06T05:54:52.340000Z",
-      "primary_item": {
-        "id": "e93639ebc18b9cd558d329fdd7c5e416f58243d2",
-        "title": "GPT-6 Astra on robot arms",
-        "url": "https://news.ycombinator.com/item?id=49582582",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1025,15 +1103,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.539,
-      "importance": 0.539,
-      "importance_score": 0.539,
+      "score": 0.5337,
+      "importance": 0.5337,
+      "importance_score": 0.5337,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9621,
+        "recency": 0.9328,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1104,15 +1182,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5358,
-      "importance": 0.5358,
-      "importance_score": 0.5358,
+      "score": 0.5306,
+      "importance": 0.5306,
+      "importance_score": 0.5306,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9445,
+        "recency": 0.9157,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1147,18 +1225,18 @@
           "published_at": "2026-09-06T14:22:15.057000Z"
         },
         {
-          "id": "13b8eae4cc6359941073f2142dff6e8ccd6ecc22",
+          "id": "e6a117139ac9a62ac1e51219b4f29fc25f582df3",
           "title": "人工智能、工具与转型 / AI, Tools and Transformation",
           "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-06T02:12:46Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "www.ben-evans.com"
       ],
       "items": [
@@ -1172,26 +1250,26 @@
           "published_at": "2026-09-06T14:22:15.057000Z"
         },
         {
-          "id": "13b8eae4cc6359941073f2142dff6e8ccd6ecc22",
+          "id": "e6a117139ac9a62ac1e51219b4f29fc25f582df3",
           "title": "人工智能、工具与转型 / AI, Tools and Transformation",
           "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-06T02:12:46Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5332,
-      "importance": 0.5332,
-      "importance_score": 0.5332,
+      "score": 0.5281,
+      "importance": 0.5281,
+      "importance_score": 0.5281,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.93,
+        "recency": 0.9017,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1262,15 +1340,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5257,
-      "importance": 0.5257,
-      "importance_score": 0.5257,
+      "score": 0.5209,
+      "importance": 0.5209,
+      "importance_score": 0.5209,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8886,
+        "recency": 0.8615,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1341,15 +1419,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5257,
-      "importance": 0.5257,
-      "importance_score": 0.5257,
+      "score": 0.5209,
+      "importance": 0.5209,
+      "importance_score": 0.5209,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8886,
+        "recency": 0.8615,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1364,103 +1442,6 @@
         "url": "https://www.36kr.com/p/3971524976849160",
         "source": "36氪 · 24小时热榜",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_b6a75cdb30da",
-      "title": "大型语言模型作为认知病毒",
-      "url": "https://arxiv.org/abs/2609.03344",
-      "primary_url": "https://arxiv.org/abs/2609.03344",
-      "source": "arxiv.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ee960bc39612b0f42d0123d94fccbb52085cb023",
-          "title": "大型语言模型作为认知病毒",
-          "url": "https://arxiv.org/abs/2609.03344",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T22:19:59.980000Z"
-        },
-        {
-          "id": "14d5f3d25a90a052a62873de13da4b3d36db8db5",
-          "title": "大语言模型作为认知病毒",
-          "url": "https://arxiv.org/abs/2609.03344",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T22:19:59.965000Z"
-        },
-        {
-          "id": "99c4961efc5cdd3dafa4e1dd11aff6b0b36c2ea1",
-          "title": "大语言模型作为认知病毒 / LLMs as a Cognitive Virus",
-          "url": "https://arxiv.org/abs/2609.03344",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T20:02:35Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "arxiv.org"
-      ],
-      "items": [
-        {
-          "id": "ee960bc39612b0f42d0123d94fccbb52085cb023",
-          "title": "大型语言模型作为认知病毒",
-          "url": "https://arxiv.org/abs/2609.03344",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T22:19:59.980000Z"
-        },
-        {
-          "id": "14d5f3d25a90a052a62873de13da4b3d36db8db5",
-          "title": "大语言模型作为认知病毒",
-          "url": "https://arxiv.org/abs/2609.03344",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T22:19:59.965000Z"
-        },
-        {
-          "id": "99c4961efc5cdd3dafa4e1dd11aff6b0b36c2ea1",
-          "title": "大语言模型作为认知病毒 / LLMs as a Cognitive Virus",
-          "url": "https://arxiv.org/abs/2609.03344",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T20:02:35Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5236,
-      "importance": 0.5236,
-      "importance_score": 0.5236,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7378,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-05T20:02:35Z",
-      "latest_at": "2026-09-05T22:19:59.980000Z",
-      "primary_item": {
-        "id": "ee960bc39612b0f42d0123d94fccbb52085cb023",
-        "title": "大型语言模型作为认知病毒",
-        "url": "https://arxiv.org/abs/2609.03344",
-        "source": "arxiv.org",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1517,15 +1498,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5181,
-      "importance": 0.5181,
-      "importance_score": 0.5181,
+      "score": 0.5134,
+      "importance": 0.5134,
+      "importance_score": 0.5134,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.846,
+        "recency": 0.8202,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1543,161 +1524,161 @@
       }
     },
     {
-      "story_id": "story_d23e2982639a",
-      "title": "微软重塑 Win11 AI 战略：「无计量智能」将让更多 AI 在 PC 本地运行",
-      "url": "https://www.ithome.com/0/999/014.htm",
-      "primary_url": "https://www.ithome.com/0/999/014.htm",
+      "story_id": "story_f2769b9ac609",
+      "title": "人工智能代理总能找到钻空子的办法。以下是一些最离谱的例子。",
+      "url": "https://www.businessinsider.com/ai-agents-rogue-strategies-cheating-lying-german-wiki-openai-anthropic-2026-9",
+      "primary_url": "https://www.businessinsider.com/ai-agents-rogue-strategies-cheating-lying-german-wiki-openai-anthropic-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3eab50b1fb974c108b072876b8b676fd1ddd60cc",
+          "title": "人工智能代理总能找到钻空子的办法。以下是一些最离谱的例子。",
+          "url": "https://www.businessinsider.com/ai-agents-rogue-strategies-cheating-lying-german-wiki-openai-anthropic-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T17:30:50.842000Z"
+        },
+        {
+          "id": "75d0ddc47e7e05a7db91b65c1ec7ce4908aed738",
+          "title": "人工智能代理总能找到钻空子的办法。以下是一些最离谱的例子。 / AI agents keep finding ways to bend the rules. Here are some of the wildest.",
+          "url": "https://www.businessinsider.com/ai-agents-rogue-strategies-cheating-lying-german-wiki-openai-anthropic-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T17:05:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "3eab50b1fb974c108b072876b8b676fd1ddd60cc",
+          "title": "人工智能代理总能找到钻空子的办法。以下是一些最离谱的例子。",
+          "url": "https://www.businessinsider.com/ai-agents-rogue-strategies-cheating-lying-german-wiki-openai-anthropic-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T17:30:50.842000Z"
+        },
+        {
+          "id": "75d0ddc47e7e05a7db91b65c1ec7ce4908aed738",
+          "title": "人工智能代理总能找到钻空子的办法。以下是一些最离谱的例子。 / AI agents keep finding ways to bend the rules. Here are some of the wildest.",
+          "url": "https://www.businessinsider.com/ai-agents-rogue-strategies-cheating-lying-german-wiki-openai-anthropic-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T17:05:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5356,
+      "importance": 0.5356,
+      "importance_score": 0.5356,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9435,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T17:05:25Z",
+      "latest_at": "2026-09-06T17:30:50.842000Z",
+      "primary_item": {
+        "id": "3eab50b1fb974c108b072876b8b676fd1ddd60cc",
+        "title": "人工智能代理总能找到钻空子的办法。以下是一些最离谱的例子。",
+        "url": "https://www.businessinsider.com/ai-agents-rogue-strategies-cheating-lying-german-wiki-openai-anthropic-2026-9",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_00143ffe2cbd",
+      "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能",
+      "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
+      "primary_url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "8b5e55a886e85d4ac3b3f39bc04ccdc1c40c06e0",
-          "title": "微软重塑 Win11 AI 战略：「无计量智能」将让更多 AI 在 PC 本地运行",
-          "url": "https://www.ithome.com/0/999/014.htm",
+          "id": "e58dbb57a567b35015def7aa2c8093185e4b8e87",
+          "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能",
+          "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "caa20886270988499beb1538247d5da585229a41",
-          "title": "微软重塑 Win11 AI 战略：“无计量智能”将让更多 AI 在 PC 本地运行",
-          "url": "https://www.ithome.com/0/999/014.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T10:51:36Z"
+          "id": "1609471a0c3c4e42099ed11bd509604107717edf",
+          "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能 / Flock's AI search tool for police officers has been reverse engineered — here's what it shows",
+          "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T12:30:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
+        "Readhub · AI",
+        "TechRadar"
       ],
       "items": [
         {
-          "id": "8b5e55a886e85d4ac3b3f39bc04ccdc1c40c06e0",
-          "title": "微软重塑 Win11 AI 战略：「无计量智能」将让更多 AI 在 PC 本地运行",
-          "url": "https://www.ithome.com/0/999/014.htm",
+          "id": "e58dbb57a567b35015def7aa2c8093185e4b8e87",
+          "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能",
+          "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "caa20886270988499beb1538247d5da585229a41",
-          "title": "微软重塑 Win11 AI 战略：“无计量智能”将让更多 AI 在 PC 本地运行",
-          "url": "https://www.ithome.com/0/999/014.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T10:51:36Z"
+          "id": "1609471a0c3c4e42099ed11bd509604107717edf",
+          "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能 / Flock's AI search tool for police officers has been reverse engineered — here's what it shows",
+          "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T12:30:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5257,
-      "importance": 0.5257,
-      "importance_score": 0.5257,
+      "score": 0.535,
+      "importance": 0.535,
+      "importance_score": 0.535,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8886,
+        "recency": 0.9397,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-06T10:51:36Z",
-      "latest_at": "2026-09-06T11:12:43.202539Z",
+      "earliest_at": "2026-09-06T12:30:00Z",
+      "latest_at": "2026-09-06T17:14:04.736223Z",
       "primary_item": {
-        "id": "8b5e55a886e85d4ac3b3f39bc04ccdc1c40c06e0",
-        "title": "微软重塑 Win11 AI 战略：「无计量智能」将让更多 AI 在 PC 本地运行",
-        "url": "https://www.ithome.com/0/999/014.htm",
+        "id": "e58dbb57a567b35015def7aa2c8093185e4b8e87",
+        "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能",
+        "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_f31be0c625cb",
-      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-      "url": "https://news.ycombinator.com/item?id=49581240",
-      "primary_url": "https://news.ycombinator.com/item?id=49581240",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "de508dd54fc875df82a902a31b0d7038e329a518",
-          "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-          "url": "https://news.ycombinator.com/item?id=49581240",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-06T00:56:47.539000Z"
-        },
-        {
-          "id": "7e41b1d11b7f65fe40fe9912fa6520bbe59c2d8f",
-          "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-          "url": "https://github.com/okf-memory/okf-agent-memory",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T22:15:52Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "de508dd54fc875df82a902a31b0d7038e329a518",
-          "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-          "url": "https://news.ycombinator.com/item?id=49581240",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-06T00:56:47.539000Z"
-        },
-        {
-          "id": "7e41b1d11b7f65fe40fe9912fa6520bbe59c2d8f",
-          "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-          "url": "https://github.com/okf-memory/okf-agent-memory",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T22:15:52Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5037,
-      "importance": 0.5037,
-      "importance_score": 0.5037,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7661,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-05T22:15:52Z",
-      "latest_at": "2026-09-06T00:56:47.539000Z",
-      "primary_item": {
-        "id": "de508dd54fc875df82a902a31b0d7038e329a518",
-        "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-        "url": "https://news.ycombinator.com/item?id=49581240",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
