@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T08:47:58.454529Z",
+  "generated_at": "2026-09-08T13:18:58.896312Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8688,
-      "importance": 0.8688,
-      "importance_score": 0.8688,
+      "score": 0.8577,
+      "importance": 0.8577,
+      "importance_score": 0.8577,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9791,
+        "recency": 0.9172,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -120,6 +120,68 @@
         "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_aaada63e998e",
+      "title": "The Work Now Within Reach",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "primary_url": "https://openai.com/index/the-work-now-within-reach",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0c225103d8bbdb274acb89884cf1925952614089",
+          "title": "The Work Now Within Reach",
+          "url": "https://openai.com/index/the-work-now-within-reach",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "0c225103d8bbdb274acb89884cf1925952614089",
+          "title": "The Work Now Within Reach",
+          "url": "https://openai.com/index/the-work-now-within-reach",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8512,
+      "importance": 0.8512,
+      "importance_score": 0.8512,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9954,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T13:00:00Z",
+      "latest_at": "2026-09-08T13:00:00Z",
+      "primary_item": {
+        "id": "0c225103d8bbdb274acb89884cf1925952614089",
+        "title": "The Work Now Within Reach",
+        "url": "https://openai.com/index/the-work-now-within-reach",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -214,15 +276,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8354,
-      "importance": 0.8354,
-      "importance_score": 0.8354,
+      "score": 0.8245,
+      "importance": 0.8245,
+      "importance_score": 0.8245,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.96,
+        "recency": 0.8994,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -295,15 +357,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7812,
+      "importance": 0.7812,
+      "importance_score": 0.7812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9369,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -376,15 +438,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7704,
-      "importance": 0.7704,
-      "importance_score": 0.7704,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.81,
+        "recency": 0.7589,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -438,21 +500,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
+      "score": 0.7487,
+      "importance": 0.7487,
+      "importance_score": 0.7487,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8844,
+        "recency": 0.8285,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-08T00:17:23Z",
       "latest_at": "2026-09-08T00:17:23Z",
@@ -518,15 +579,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7805,
-      "importance": 0.7805,
-      "importance_score": 0.7805,
+      "score": 0.7699,
+      "importance": 0.7699,
+      "importance_score": 0.7699,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.933,
+        "recency": 0.8741,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -599,15 +660,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7805,
-      "importance": 0.7805,
-      "importance_score": 0.7805,
+      "score": 0.7699,
+      "importance": 0.7699,
+      "importance_score": 0.7699,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.933,
+        "recency": 0.8741,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -680,15 +741,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7805,
-      "importance": 0.7805,
-      "importance_score": 0.7805,
+      "score": 0.7699,
+      "importance": 0.7699,
+      "importance_score": 0.7699,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.933,
+        "recency": 0.8741,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -761,15 +822,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7805,
-      "importance": 0.7805,
-      "importance_score": 0.7805,
+      "score": 0.7699,
+      "importance": 0.7699,
+      "importance_score": 0.7699,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.933,
+        "recency": 0.8741,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -842,15 +903,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7805,
-      "importance": 0.7805,
-      "importance_score": 0.7805,
+      "score": 0.7699,
+      "importance": 0.7699,
+      "importance_score": 0.7699,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.933,
+        "recency": 0.8741,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -958,15 +1019,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6097,
-      "importance": 0.6097,
-      "importance_score": 0.6097,
+      "score": 0.6006,
+      "importance": 0.6006,
+      "importance_score": 0.6006,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8086,
+        "recency": 0.7576,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -981,6 +1042,261 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-09-07",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_fe3179d00c3d",
+      "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
+      "url": "https://www.aibase.com/news/30911",
+      "primary_url": "https://www.aibase.com/news/30911",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "fca343610ea50224e783418e5186b3f2329bff06",
+          "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
+          "url": "https://www.aibase.com/news/30911",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T13:18:58.896312Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "fca343610ea50224e783418e5186b3f2329bff06",
+          "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
+          "url": "https://www.aibase.com/news/30911",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T13:18:58.896312Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T13:18:58.896312Z",
+      "latest_at": "2026-09-08T13:18:58.896312Z",
+      "primary_item": {
+        "id": "fca343610ea50224e783418e5186b3f2329bff06",
+        "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
+        "url": "https://www.aibase.com/news/30911",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "Show HN: 用于 Google Play 应用提交的 AI 代理 [视频]",
+      "url": "https://www.youtube.com/watch?v=tSSPdkp0QVI",
+      "primary_url": "https://www.youtube.com/watch?v=tSSPdkp0QVI",
+      "source": "www.youtube.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1891759774adb9ebafc6a855668f4a04d04248c2",
+          "title": "Show HN: 用于 Google Play 应用提交的 AI 代理 [视频]",
+          "url": "https://www.youtube.com/watch?v=tSSPdkp0QVI",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T12:04:49.614000Z"
+        },
+        {
+          "id": "669e2cb0550a158c0acba9b2597218843997bbd8",
+          "title": "提示在 6 个月内就会消失。吴恩达，斯坦福大学[视频] / Prompting Is Dead in 6 Months. Andrew Ng, Stanford [video]",
+          "url": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-08T02:53:51Z"
+        },
+        {
+          "id": "e078b438e5b60831561f859f25279a793fbe55c8",
+          "title": "2026 年 9 月 Emacs 聚会回顾 [视频] / September 2026 Emacs meetup recap [video]",
+          "url": "https://www.youtube.com/watch?v=RatVp4YLwiM",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-08T00:40:45Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.youtube.com"
+      ],
+      "items": [
+        {
+          "id": "1891759774adb9ebafc6a855668f4a04d04248c2",
+          "title": "Show HN: 用于 Google Play 应用提交的 AI 代理 [视频]",
+          "url": "https://www.youtube.com/watch?v=tSSPdkp0QVI",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T12:04:49.614000Z"
+        },
+        {
+          "id": "669e2cb0550a158c0acba9b2597218843997bbd8",
+          "title": "提示在 6 个月内就会消失。吴恩达，斯坦福大学[视频] / Prompting Is Dead in 6 Months. Andrew Ng, Stanford [video]",
+          "url": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-08T02:53:51Z"
+        },
+        {
+          "id": "e078b438e5b60831561f859f25279a793fbe55c8",
+          "title": "2026 年 9 月 Emacs 聚会回顾 [视频] / September 2026 Emacs meetup recap [video]",
+          "url": "https://www.youtube.com/watch?v=RatVp4YLwiM",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-08T00:40:45Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5676,
+      "importance": 0.5676,
+      "importance_score": 0.5676,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9823,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-08T00:40:45Z",
+      "latest_at": "2026-09-08T12:04:49.614000Z",
+      "primary_item": {
+        "id": "1891759774adb9ebafc6a855668f4a04d04248c2",
+        "title": "Show HN: 用于 Google Play 应用提交的 AI 代理 [视频]",
+        "url": "https://www.youtube.com/watch?v=tSSPdkp0QVI",
+        "source": "www.youtube.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_7dca434f16ba",
+      "title": "我已经对一份证书颁发机构（CA）的RSA密钥进行了因式分解……这份证书颁发机构可追溯至90年代",
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "primary_url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "source": "mcpherrin.ca",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "101411cdb72941ad71eba2c98f802aee1cfde80c",
+          "title": "我已经对一份证书颁发机构（CA）的RSA密钥进行了因式分解……这份证书颁发机构可追溯至90年代",
+          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+          "source": "mcpherrin.ca",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T04:11:44.229000Z"
+        },
+        {
+          "id": "ddcf367323ae23486eadd57d59dc6db09a037139",
+          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
+          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+          "source": "mcpherrin.ca",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T02:51:51.808000Z"
+        },
+        {
+          "id": "f45666775f0a948fe3f9adfb43e1628d7ddd2bff",
+          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。 / I've factored the RSA keys of a Certificate Authority from the 90s",
+          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-08T01:16:59Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "mcpherrin.ca"
+      ],
+      "items": [
+        {
+          "id": "101411cdb72941ad71eba2c98f802aee1cfde80c",
+          "title": "我已经对一份证书颁发机构（CA）的RSA密钥进行了因式分解……这份证书颁发机构可追溯至90年代",
+          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+          "source": "mcpherrin.ca",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T04:11:44.229000Z"
+        },
+        {
+          "id": "ddcf367323ae23486eadd57d59dc6db09a037139",
+          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
+          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+          "source": "mcpherrin.ca",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T02:51:51.808000Z"
+        },
+        {
+          "id": "f45666775f0a948fe3f9adfb43e1628d7ddd2bff",
+          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。 / I've factored the RSA keys of a Certificate Authority from the 90s",
+          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-08T01:16:59Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5486,
+      "importance": 0.5486,
+      "importance_score": 0.5486,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8766,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-08T01:16:59Z",
+      "latest_at": "2026-09-08T04:11:44.229000Z",
+      "primary_item": {
+        "id": "101411cdb72941ad71eba2c98f802aee1cfde80c",
+        "title": "我已经对一份证书颁发机构（CA）的RSA密钥进行了因式分解……这份证书颁发机构可追溯至90年代",
+        "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+        "source": "mcpherrin.ca",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1018,15 +1334,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7562,
+      "importance": 0.7562,
+      "importance_score": 0.7562,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9369,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1045,180 +1361,82 @@
       }
     },
     {
-      "story_id": "story_7dca434f16ba",
-      "title": "我已经对一份证书颁发机构（CA）的RSA密钥进行了因式分解……这份证书颁发机构可追溯至90年代",
-      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-      "primary_url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-      "source": "mcpherrin.ca",
-      "source_name": "Buzzing",
+      "story_id": "story_1936484a24f4",
+      "title": "openai/插件 / openai /      plugins",
+      "url": "https://github.com/openai/plugins",
+      "primary_url": "https://github.com/openai/plugins",
+      "source": "github",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "101411cdb72941ad71eba2c98f802aee1cfde80c",
-          "title": "我已经对一份证书颁发机构（CA）的RSA密钥进行了因式分解……这份证书颁发机构可追溯至90年代",
-          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-          "source": "mcpherrin.ca",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T04:11:44.229000Z"
+          "id": "5c8c9c242defeba8e85fb442d350aa8117ab9b08",
+          "title": "openai/插件 / openai /      plugins",
+          "url": "https://github.com/openai/plugins",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-08T13:19:41.040000Z"
         },
         {
-          "id": "8e1db3ea529bd22bb60eb562b90310bab040a1ef",
-          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。 / I’ve factored the RSA keys of a Certificate Authority…from the 90s",
-          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-08T04:05:34Z"
-        },
-        {
-          "id": "ddcf367323ae23486eadd57d59dc6db09a037139",
-          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-          "source": "mcpherrin.ca",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T02:51:51.808000Z"
-        },
-        {
-          "id": "08da2142657f98da837d7f4e1fb61f9bb6c427e5",
-          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。 / I've factored the RSA keys of a Certificate Authority from the 90s",
-          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-08T01:16:59Z"
+          "id": "fa828145e4bc618a2d5310eed9994469d1be5f06",
+          "title": "openai/插件 / openai / plugins",
+          "url": "https://github.com/openai/plugins",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 4,
+      "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "Lobsters (技术社区)",
-        "mcpherrin.ca"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "101411cdb72941ad71eba2c98f802aee1cfde80c",
-          "title": "我已经对一份证书颁发机构（CA）的RSA密钥进行了因式分解……这份证书颁发机构可追溯至90年代",
-          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-          "source": "mcpherrin.ca",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T04:11:44.229000Z"
+          "id": "5c8c9c242defeba8e85fb442d350aa8117ab9b08",
+          "title": "openai/插件 / openai /      plugins",
+          "url": "https://github.com/openai/plugins",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-08T13:19:41.040000Z"
         },
         {
-          "id": "8e1db3ea529bd22bb60eb562b90310bab040a1ef",
-          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。 / I’ve factored the RSA keys of a Certificate Authority…from the 90s",
-          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-08T04:05:34Z"
-        },
-        {
-          "id": "ddcf367323ae23486eadd57d59dc6db09a037139",
-          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-          "source": "mcpherrin.ca",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T02:51:51.808000Z"
-        },
-        {
-          "id": "08da2142657f98da837d7f4e1fb61f9bb6c427e5",
-          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。 / I've factored the RSA keys of a Certificate Authority from the 90s",
-          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-08T01:16:59Z"
+          "id": "fa828145e4bc618a2d5310eed9994469d1be5f06",
+          "title": "openai/插件 / openai / plugins",
+          "url": "https://github.com/openai/plugins",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5842,
-      "importance": 0.5842,
-      "importance_score": 0.5842,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9357,
-        "story_heat": 0.75
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-08T01:16:59Z",
-      "latest_at": "2026-09-08T04:11:44.229000Z",
+      "earliest_at": "2026-09-08T13:18:58.896312Z",
+      "latest_at": "2026-09-08T13:19:41.040000Z",
       "primary_item": {
-        "id": "101411cdb72941ad71eba2c98f802aee1cfde80c",
-        "title": "我已经对一份证书颁发机构（CA）的RSA密钥进行了因式分解……这份证书颁发机构可追溯至90年代",
-        "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-        "source": "mcpherrin.ca",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_3cdfb928c5d3",
-      "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-      "url": "https://www.aibase.com/news/30905",
-      "primary_url": "https://www.aibase.com/news/30905",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f813c706b0c65860122151300c79e21147e3b6b6",
-          "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-          "url": "https://www.aibase.com/news/30905",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T08:47:58.454529Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f813c706b0c65860122151300c79e21147e3b6b6",
-          "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-          "url": "https://www.aibase.com/news/30905",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T08:47:58.454529Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T08:47:58.454529Z",
-      "latest_at": "2026-09-08T08:47:58.454529Z",
-      "primary_item": {
-        "id": "f813c706b0c65860122151300c79e21147e3b6b6",
-        "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-        "url": "https://www.aibase.com/news/30905",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "5c8c9c242defeba8e85fb442d350aa8117ab9b08",
+        "title": "openai/插件 / openai /      plugins",
+        "url": "https://github.com/openai/plugins",
+        "source": "github",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1294,15 +1512,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5492,
-      "importance": 0.5492,
-      "importance_score": 0.5492,
+      "score": 0.5392,
+      "importance": 0.5392,
+      "importance_score": 0.5392,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8802,
+        "recency": 0.8246,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1320,30 +1538,30 @@
       }
     },
     {
-      "story_id": "story_fd09c21c0777",
-      "title": "Arm首席执行官表示，人工智能有望治愈癌症，但数据中心是瓶颈",
-      "url": "https://www.businessinsider.com/arm-ceo-says-ai-could-cure-cancer-data-centers-bottleneck-2026-9",
-      "primary_url": "https://www.businessinsider.com/arm-ceo-says-ai-could-cure-cancer-data-centers-bottleneck-2026-9",
+      "story_id": "story_0124adb44450",
+      "title": "投资者对推动人工智能热潮的营收主张越来越持怀疑态度。",
+      "url": "https://www.businessinsider.com/why-vcs-are-questioning-ai-companies-big-revenue-claims-2026-9",
+      "primary_url": "https://www.businessinsider.com/why-vcs-are-questioning-ai-companies-big-revenue-claims-2026-9",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "9623010c3d9f00599d55995631e9fb1ad8649dd1",
-          "title": "Arm首席执行官表示，人工智能有望治愈癌症，但数据中心是瓶颈",
-          "url": "https://www.businessinsider.com/arm-ceo-says-ai-could-cure-cancer-data-centers-bottleneck-2026-9",
+          "id": "d103dee57bda1982181544a93aed2a22876cc344",
+          "title": "投资者对推动人工智能热潮的营收主张越来越持怀疑态度。",
+          "url": "https://www.businessinsider.com/why-vcs-are-questioning-ai-companies-big-revenue-claims-2026-9",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-08T08:23:47.557000Z"
+          "published_at": "2026-09-08T09:25:47.650000Z"
         },
         {
-          "id": "daddf5bc20cf5dd50022bedfe71ba7433f712123",
-          "title": "Arm首席执行官表示，人工智能有望治愈癌症，但数据中心是瓶颈 / Arm's CEO says AI could cure cancer, but data centers are creating a bottleneck",
-          "url": "https://www.businessinsider.com/arm-ceo-says-ai-could-cure-cancer-data-centers-bottleneck-2026-9",
+          "id": "d3e851657dae28a7e9b7c8be50e8951cf8521736",
+          "title": "投资者对推动人工智能热潮的营收主张越来越持怀疑态度。 / 'There's no accountability;' AI startups keep claiming huge revenue. VCs say the math is getting 'murky.'",
+          "url": "https://www.businessinsider.com/why-vcs-are-questioning-ai-companies-big-revenue-claims-2026-9",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-08T06:47:18Z"
+          "published_at": "2026-09-08T09:00:03Z"
         }
       ],
       "source_count": 2,
@@ -1353,383 +1571,128 @@
       ],
       "items": [
         {
-          "id": "9623010c3d9f00599d55995631e9fb1ad8649dd1",
-          "title": "Arm首席执行官表示，人工智能有望治愈癌症，但数据中心是瓶颈",
-          "url": "https://www.businessinsider.com/arm-ceo-says-ai-could-cure-cancer-data-centers-bottleneck-2026-9",
+          "id": "d103dee57bda1982181544a93aed2a22876cc344",
+          "title": "投资者对推动人工智能热潮的营收主张越来越持怀疑态度。",
+          "url": "https://www.businessinsider.com/why-vcs-are-questioning-ai-companies-big-revenue-claims-2026-9",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-08T08:23:47.557000Z"
+          "published_at": "2026-09-08T09:25:47.650000Z"
         },
         {
-          "id": "daddf5bc20cf5dd50022bedfe71ba7433f712123",
-          "title": "Arm首席执行官表示，人工智能有望治愈癌症，但数据中心是瓶颈 / Arm's CEO says AI could cure cancer, but data centers are creating a bottleneck",
-          "url": "https://www.businessinsider.com/arm-ceo-says-ai-could-cure-cancer-data-centers-bottleneck-2026-9",
+          "id": "d3e851657dae28a7e9b7c8be50e8951cf8521736",
+          "title": "投资者对推动人工智能热潮的营收主张越来越持怀疑态度。 / 'There's no accountability;' AI startups keep claiming huge revenue. VCs say the math is getting 'murky.'",
+          "url": "https://www.businessinsider.com/why-vcs-are-questioning-ai-companies-big-revenue-claims-2026-9",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-08T06:47:18Z"
+          "published_at": "2026-09-08T09:00:03Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5448,
-      "importance": 0.5448,
-      "importance_score": 0.5448,
+      "score": 0.536,
+      "importance": 0.536,
+      "importance_score": 0.536,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9942,
+        "recency": 0.9454,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-08T06:47:18Z",
-      "latest_at": "2026-09-08T08:23:47.557000Z",
+      "earliest_at": "2026-09-08T09:00:03Z",
+      "latest_at": "2026-09-08T09:25:47.650000Z",
       "primary_item": {
-        "id": "9623010c3d9f00599d55995631e9fb1ad8649dd1",
-        "title": "Arm首席执行官表示，人工智能有望治愈癌症，但数据中心是瓶颈",
-        "url": "https://www.businessinsider.com/arm-ceo-says-ai-could-cure-cancer-data-centers-bottleneck-2026-9",
+        "id": "d103dee57bda1982181544a93aed2a22876cc344",
+        "title": "投资者对推动人工智能热潮的营收主张越来越持怀疑态度。",
+        "url": "https://www.businessinsider.com/why-vcs-are-questioning-ai-companies-big-revenue-claims-2026-9",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_48bba5baa06d",
-      "title": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元",
-      "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
-      "primary_url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
-      "source": "www.bottlenecklabs.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "dba2a5967d198610c1be8b3bc7bac55a115b97a9",
-          "title": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元",
-          "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
-          "source": "www.bottlenecklabs.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T06:33:02.028000Z"
-        },
-        {
-          "id": "639b0a274e579aa8fbcd697bbe5c515cbd93e974",
-          "title": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元 / AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
-          "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T18:24:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.bottlenecklabs.com"
-      ],
-      "items": [
-        {
-          "id": "dba2a5967d198610c1be8b3bc7bac55a115b97a9",
-          "title": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元",
-          "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
-          "source": "www.bottlenecklabs.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T06:33:02.028000Z"
-        },
-        {
-          "id": "639b0a274e579aa8fbcd697bbe5c515cbd93e974",
-          "title": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元 / AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
-          "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T18:24:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.54,
-      "importance": 0.54,
-      "importance_score": 0.54,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.968,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T18:24:32Z",
-      "latest_at": "2026-09-08T06:33:02.028000Z",
-      "primary_item": {
-        "id": "dba2a5967d198610c1be8b3bc7bac55a115b97a9",
-        "title": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元",
-        "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
-        "source": "www.bottlenecklabs.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_8fb31a39b25a",
-      "title": "基于AMD GPU的vLLM中的推测性解码",
-      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-      "primary_url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-      "source": "vllm.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "0896a888caca86c87227f711221bfe4a5d303f25",
-          "title": "基于AMD GPU的vLLM中的推测性解码",
-          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-          "source": "vllm.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T17:40:59.747000Z"
-        },
-        {
-          "id": "9c8dfd1eabbaa76fbe9e080cae267c253cea8725",
-          "title": "AMD GPU 上 vLLM 的推测解码 / Speculative Decoding in vLLM on AMD GPUs",
-          "url": "https://news.ycombinator.com/item?id=49596054",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T12:42:50.715000Z"
-        },
-        {
-          "id": "31abec00b18480aac0fff7497598b071ea6d8cf8",
-          "title": "基于AMD GPU的vLLM中的推测性解码 / Speculative Decoding in vLLM on AMD GPUs",
-          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T09:26:41Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "vllm.ai"
-      ],
-      "items": [
-        {
-          "id": "0896a888caca86c87227f711221bfe4a5d303f25",
-          "title": "基于AMD GPU的vLLM中的推测性解码",
-          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-          "source": "vllm.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T17:40:59.747000Z"
-        },
-        {
-          "id": "9c8dfd1eabbaa76fbe9e080cae267c253cea8725",
-          "title": "AMD GPU 上 vLLM 的推测解码 / Speculative Decoding in vLLM on AMD GPUs",
-          "url": "https://news.ycombinator.com/item?id=49596054",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T12:42:50.715000Z"
-        },
-        {
-          "id": "31abec00b18480aac0fff7497598b071ea6d8cf8",
-          "title": "基于AMD GPU的vLLM中的推测性解码 / Speculative Decoding in vLLM on AMD GPUs",
-          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T09:26:41Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5355,
-      "importance": 0.5355,
-      "importance_score": 0.5355,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8039,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T09:26:41Z",
-      "latest_at": "2026-09-07T17:40:59.747000Z",
-      "primary_item": {
-        "id": "0896a888caca86c87227f711221bfe4a5d303f25",
-        "title": "基于AMD GPU的vLLM中的推测性解码",
-        "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-        "source": "vllm.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "title": "提示在 6 个月内就会消失。吴恩达，斯坦福大学[视频] / Prompting Is Dead in 6 Months. Andrew Ng, Stanford [video]",
-      "url": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
-      "primary_url": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
-      "source": "Hacker News (黑客新闻)",
+      "story_id": "story_ef587e79e402",
+      "title": "[分享发现] OrcaTerm 发布新版：加入命令预测、AI 纠错与任务状态通知",
+      "url": "https://www.v2ex.com/t/1240456",
+      "primary_url": "https://www.v2ex.com/t/1240456",
+      "source": "V2EX (创意工作者社区)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "24cb9eeed3a8c18afdd22042019e13fb58c47375",
-          "title": "提示在 6 个月内就会消失。吴恩达，斯坦福大学[视频] / Prompting Is Dead in 6 Months. Andrew Ng, Stanford [video]",
-          "url": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
-          "source": "Hacker News (黑客新闻)",
+          "id": "f2c31a40274f494de7641848e6b8c4471f84c16f",
+          "title": "[分享发现] OrcaTerm 发布新版：加入命令预测、AI 纠错与任务状态通知",
+          "url": "https://www.v2ex.com/t/1240456",
+          "source": "V2EX (创意工作者社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-08T02:53:51Z"
+          "published_at": "2026-09-08T09:20:08Z"
         },
         {
-          "id": "e078b438e5b60831561f859f25279a793fbe55c8",
-          "title": "2026 年 9 月 Emacs 聚会回顾 [视频] / September 2026 Emacs meetup recap [video]",
-          "url": "https://www.youtube.com/watch?v=RatVp4YLwiM",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-08T00:40:45Z"
+          "id": "cdbbb6dfd9582a6f651ccf0c8f30ae58b969b6a5",
+          "title": "OrcaTerm 发布新版：加入命令预测、AI 纠错与任务状态通知",
+          "url": "https://www.oschina.net/news/502379",
+          "source": "开源中国 · 热门资讯",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热"
+        "V2EX (创意工作者社区)",
+        "开源中国 · 热门资讯"
       ],
       "items": [
         {
-          "id": "24cb9eeed3a8c18afdd22042019e13fb58c47375",
-          "title": "提示在 6 个月内就会消失。吴恩达，斯坦福大学[视频] / Prompting Is Dead in 6 Months. Andrew Ng, Stanford [video]",
-          "url": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
-          "source": "Hacker News (黑客新闻)",
+          "id": "f2c31a40274f494de7641848e6b8c4471f84c16f",
+          "title": "[分享发现] OrcaTerm 发布新版：加入命令预测、AI 纠错与任务状态通知",
+          "url": "https://www.v2ex.com/t/1240456",
+          "source": "V2EX (创意工作者社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-08T02:53:51Z"
+          "published_at": "2026-09-08T09:20:08Z"
         },
         {
-          "id": "e078b438e5b60831561f859f25279a793fbe55c8",
-          "title": "2026 年 9 月 Emacs 聚会回顾 [视频] / September 2026 Emacs meetup recap [video]",
-          "url": "https://www.youtube.com/watch?v=RatVp4YLwiM",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-08T00:40:45Z"
+          "id": "cdbbb6dfd9582a6f651ccf0c8f30ae58b969b6a5",
+          "title": "OrcaTerm 发布新版：加入命令预测、AI 纠错与任务状态通知",
+          "url": "https://www.oschina.net/news/502379",
+          "source": "开源中国 · 热门资讯",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5311,
-      "importance": 0.5311,
-      "importance_score": 0.5311,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9183,
+        "recency": 0.9441,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-08T00:40:45Z",
-      "latest_at": "2026-09-08T02:53:51Z",
+      "earliest_at": "2026-09-08T08:47:58.454529Z",
+      "latest_at": "2026-09-08T09:20:08Z",
       "primary_item": {
-        "id": "24cb9eeed3a8c18afdd22042019e13fb58c47375",
-        "title": "提示在 6 个月内就会消失。吴恩达，斯坦福大学[视频] / Prompting Is Dead in 6 Months. Andrew Ng, Stanford [video]",
-        "url": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
-        "source": "Hacker News (黑客新闻)",
+        "id": "f2c31a40274f494de7641848e6b8c4471f84c16f",
+        "title": "[分享发现] OrcaTerm 发布新版：加入命令预测、AI 纠错与任务状态通知",
+        "url": "https://www.v2ex.com/t/1240456",
+        "source": "V2EX (创意工作者社区)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_3d09a3114733",
-      "title": "字节跳动加入AI精英行列，竞相完善世界模型",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-07/bytedance-founder-joins-ai-elite-in-race-to-perfect-world-models",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-09-07/bytedance-founder-joins-ai-elite-in-race-to-perfect-world-models",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7c5a410717b2c17cd7c9abf81ce7bd6183ab4b6c",
-          "title": "字节跳动加入AI精英行列，竞相完善世界模型",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-07/bytedance-founder-joins-ai-elite-in-race-to-perfect-world-models",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T01:47:45.167000Z"
-        },
-        {
-          "id": "8daf05124aa68fd314bc138e1f92350b542ec0b1",
-          "title": "字节跳动创始人加入人工智能精英行列，共同竞逐完善世界模型",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-07/bytedance-founder-joins-ai-elite-in-race-to-perfect-world-models",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T12:40:50.527000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "7c5a410717b2c17cd7c9abf81ce7bd6183ab4b6c",
-          "title": "字节跳动加入AI精英行列，竞相完善世界模型",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-07/bytedance-founder-joins-ai-elite-in-race-to-perfect-world-models",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T01:47:45.167000Z"
-        },
-        {
-          "id": "8daf05124aa68fd314bc138e1f92350b542ec0b1",
-          "title": "字节跳动创始人加入人工智能精英行列，共同竞逐完善世界模型",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-07/bytedance-founder-joins-ai-elite-in-race-to-perfect-world-models",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T12:40:50.527000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5285,
-      "importance": 0.5285,
-      "importance_score": 0.5285,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9038,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T12:40:50.527000Z",
-      "latest_at": "2026-09-08T01:47:45.167000Z",
-      "primary_item": {
-        "id": "7c5a410717b2c17cd7c9abf81ce7bd6183ab4b6c",
-        "title": "字节跳动加入AI精英行列，竞相完善世界模型",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-07/bytedance-founder-joins-ai-elite-in-race-to-perfect-world-models",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
       }
     }
   ]
