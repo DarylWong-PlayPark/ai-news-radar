@@ -1,29 +1,267 @@
 {
-  "generated_at": "2026-09-08T03:59:40.512066Z",
+  "generated_at": "2026-09-08T08:47:58.454529Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_6aff23f6ac5c",
-      "title": "Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹",
-      "url": "https://www.aibase.com/news/30898",
-      "primary_url": "https://www.aibase.com/news/30898",
+      "story_id": "story_6d05cbe635d4",
+      "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
+      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "primary_url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ab134c36a54fea581c80987fa5900787b6c80ef1",
+          "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
+          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T07:20:02.739000Z"
+        },
+        {
+          "id": "639547c5fc1f628ec8abf934114ed368bbfc0175",
+          "title": "关于受迫三维欧拉方程有限时间爆发现象的声明，以及OpenAI的行为",
+          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+          "source": "cims.nyu.edu",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T08:23:46.610000Z"
+        },
+        {
+          "id": "0867d943437cf9a5e6c76f8c4fa848f034552b6d",
+          "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过 / Statement on finite-time blowup for forced 3D Euler, and OpenAI's conduct",
+          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-08T08:14:40Z"
+        },
+        {
+          "id": "f70db481dd26494940be8fb91f2bd9140238aac7",
+          "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过 / Navier-Stokes – Tristan Buckmaster [pdf]",
+          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-08T05:42:28Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Lobsters (技术社区)",
+        "cims.nyu.edu"
+      ],
+      "items": [
+        {
+          "id": "ab134c36a54fea581c80987fa5900787b6c80ef1",
+          "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
+          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T07:20:02.739000Z"
+        },
+        {
+          "id": "639547c5fc1f628ec8abf934114ed368bbfc0175",
+          "title": "关于受迫三维欧拉方程有限时间爆发现象的声明，以及OpenAI的行为",
+          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+          "source": "cims.nyu.edu",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T08:23:46.610000Z"
+        },
+        {
+          "id": "0867d943437cf9a5e6c76f8c4fa848f034552b6d",
+          "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过 / Statement on finite-time blowup for forced 3D Euler, and OpenAI's conduct",
+          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-08T08:14:40Z"
+        },
+        {
+          "id": "f70db481dd26494940be8fb91f2bd9140238aac7",
+          "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过 / Navier-Stokes – Tristan Buckmaster [pdf]",
+          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-08T05:42:28Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8688,
+      "importance": 0.8688,
+      "importance_score": 0.8688,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9791,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T05:42:28Z",
+      "latest_at": "2026-09-08T08:23:46.610000Z",
+      "primary_item": {
+        "id": "ab134c36a54fea581c80987fa5900787b6c80ef1",
+        "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
+        "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_55085dd14800",
+      "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+      "primary_url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+      "source": "Mistral AI：News（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f8b48d2f2bbcd06f7f26f01950712a2702b75663",
+          "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
+          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+          "source": "Mistral AI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T05:58:27.839000Z"
+        },
+        {
+          "id": "c29c64c5acf58ef412fc779d4311fea3d8c8b34f",
+          "title": "Mistral 筹集 30 亿欧元，力图将主权、无权重限制的人工智能打造为技术前沿",
+          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+          "source": "mistral.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T06:48:43.523000Z"
+        },
+        {
+          "id": "f334cccbcaea5049296537c60a694c156e76b8aa",
+          "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元 / Mistral raises €3B",
+          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-08T05:06:23Z"
+        },
+        {
+          "id": "8e190181b6c1c5d04ece2e4e2a266e969ad1d7b7",
+          "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元 / Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T05:06:23Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "Mistral AI：News（网页）",
+        "mistral.ai"
+      ],
+      "items": [
+        {
+          "id": "f8b48d2f2bbcd06f7f26f01950712a2702b75663",
+          "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
+          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+          "source": "Mistral AI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T05:58:27.839000Z"
+        },
+        {
+          "id": "c29c64c5acf58ef412fc779d4311fea3d8c8b34f",
+          "title": "Mistral 筹集 30 亿欧元，力图将主权、无权重限制的人工智能打造为技术前沿",
+          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+          "source": "mistral.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T06:48:43.523000Z"
+        },
+        {
+          "id": "f334cccbcaea5049296537c60a694c156e76b8aa",
+          "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元 / Mistral raises €3B",
+          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-08T05:06:23Z"
+        },
+        {
+          "id": "8e190181b6c1c5d04ece2e4e2a266e969ad1d7b7",
+          "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元 / Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T05:06:23Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8354,
+      "importance": 0.8354,
+      "importance_score": 0.8354,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.96,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T05:06:23Z",
+      "latest_at": "2026-09-08T06:48:43.523000Z",
+      "primary_item": {
+        "id": "f8b48d2f2bbcd06f7f26f01950712a2702b75663",
+        "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
+        "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+        "source": "Mistral AI：News（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fb3d8f3a2541",
+      "title": "DeepSeek招募150名资深工程师 重点加码Agent工程化与DSec基建",
+      "url": "https://www.aibase.com/news/30904",
+      "primary_url": "https://www.aibase.com/news/30904",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4f8849a372d52679e3e2ddf2eec71ddca12e6e43",
-          "title": "Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹",
-          "url": "https://www.aibase.com/news/30898",
+          "id": "dc832ff9a37af0980f7c26ba41b71593ca695b6a",
+          "title": "DeepSeek招募150名资深工程师 重点加码Agent工程化与DSec基建",
+          "url": "https://www.aibase.com/news/30904",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-08T03:59:40.512066Z"
+          "published_at": "2026-09-08T08:47:58.454529Z"
         },
         {
-          "id": "c3494f0c92872342d83cded9a5afef83f78bfdc0",
-          "title": "Anthropic 放弃收购 AI 初创公司 Decart，60 亿美元交易告吹",
-          "url": "https://www.aibase.com/zh/news/30898",
+          "id": "50b86ea4059a906401454206d39fc8bacb62eb11",
+          "title": "DeepSeek 招募 150 名资深工程师，重点加码 Agent 工程化与 DSec 基建",
+          "url": "https://www.aibase.com/zh/news/30904",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -37,18 +275,18 @@
       ],
       "items": [
         {
-          "id": "4f8849a372d52679e3e2ddf2eec71ddca12e6e43",
-          "title": "Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹",
-          "url": "https://www.aibase.com/news/30898",
+          "id": "dc832ff9a37af0980f7c26ba41b71593ca695b6a",
+          "title": "DeepSeek招募150名资深工程师 重点加码Agent工程化与DSec基建",
+          "url": "https://www.aibase.com/news/30904",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-08T03:59:40.512066Z"
+          "published_at": "2026-09-08T08:47:58.454529Z"
         },
         {
-          "id": "c3494f0c92872342d83cded9a5afef83f78bfdc0",
-          "title": "Anthropic 放弃收购 AI 初创公司 Decart，60 亿美元交易告吹",
-          "url": "https://www.aibase.com/zh/news/30898",
+          "id": "50b86ea4059a906401454206d39fc8bacb62eb11",
+          "title": "DeepSeek 招募 150 名资深工程师，重点加码 Agent 工程化与 DSec 基建",
+          "url": "https://www.aibase.com/zh/news/30904",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -74,12 +312,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T03:59:40.512066Z",
-      "latest_at": "2026-09-08T03:59:40.512066Z",
+      "earliest_at": "2026-09-08T08:47:58.454529Z",
+      "latest_at": "2026-09-08T08:47:58.454529Z",
       "primary_item": {
-        "id": "4f8849a372d52679e3e2ddf2eec71ddca12e6e43",
-        "title": "Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹",
-        "url": "https://www.aibase.com/news/30898",
+        "id": "dc832ff9a37af0980f7c26ba41b71593ca695b6a",
+        "title": "DeepSeek招募150名资深工程师 重点加码Agent工程化与DSec基建",
+        "url": "https://www.aibase.com/news/30904",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -138,15 +376,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7809,
-      "importance": 0.7809,
-      "importance_score": 0.7809,
+      "score": 0.7704,
+      "importance": 0.7704,
+      "importance_score": 0.7704,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8683,
+        "recency": 0.81,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -200,15 +438,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7702,
-      "importance": 0.7702,
-      "importance_score": 0.7702,
+      "score": 0.7588,
+      "importance": 0.7588,
+      "importance_score": 0.7588,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9479,
+        "recency": 0.8844,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -224,6 +462,87 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
         "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6aff23f6ac5c",
+      "title": "Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹",
+      "url": "https://www.aibase.com/news/30898",
+      "primary_url": "https://www.aibase.com/news/30898",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4f8849a372d52679e3e2ddf2eec71ddca12e6e43",
+          "title": "Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹",
+          "url": "https://www.aibase.com/news/30898",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T03:59:40.512066Z"
+        },
+        {
+          "id": "c3494f0c92872342d83cded9a5afef83f78bfdc0",
+          "title": "Anthropic 放弃收购 AI 初创公司 Decart，60 亿美元交易告吹",
+          "url": "https://www.aibase.com/zh/news/30898",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "4f8849a372d52679e3e2ddf2eec71ddca12e6e43",
+          "title": "Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹",
+          "url": "https://www.aibase.com/news/30898",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T03:59:40.512066Z"
+        },
+        {
+          "id": "c3494f0c92872342d83cded9a5afef83f78bfdc0",
+          "title": "Anthropic 放弃收购 AI 初创公司 Decart，60 亿美元交易告吹",
+          "url": "https://www.aibase.com/zh/news/30898",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7805,
+      "importance": 0.7805,
+      "importance_score": 0.7805,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.933,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T03:59:40.512066Z",
+      "latest_at": "2026-09-08T03:59:40.512066Z",
+      "primary_item": {
+        "id": "4f8849a372d52679e3e2ddf2eec71ddca12e6e43",
+        "title": "Anthropic 放弃收购 AI 初创公司 Decart，这桩 60 亿美元交易最终告吹",
+        "url": "https://www.aibase.com/news/30898",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -280,15 +599,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7805,
+      "importance": 0.7805,
+      "importance_score": 0.7805,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.933,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -305,67 +624,6 @@
         "url": "https://www.aibase.com/news/30891",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f4b0267f1dc7",
-      "title": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
-      "url": "https://www.ithome.com/0/999/313.htm",
-      "primary_url": "https://www.ithome.com/0/999/313.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4d11d314dce69e120ff8a3cf61d89d398dd9240b",
-          "title": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
-          "url": "https://www.ithome.com/0/999/313.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-07T07:46:08Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "4d11d314dce69e120ff8a3cf61d89d398dd9240b",
-          "title": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
-          "url": "https://www.ithome.com/0/999/313.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-07T07:46:08Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.761,
-      "importance": 0.761,
-      "importance_score": 0.761,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7467,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-07T07:46:08Z",
-      "latest_at": "2026-09-07T07:46:08Z",
-      "primary_item": {
-        "id": "4d11d314dce69e120ff8a3cf61d89d398dd9240b",
-        "title": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
-        "url": "https://www.ithome.com/0/999/313.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -422,15 +680,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7805,
+      "importance": 0.7805,
+      "importance_score": 0.7805,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.933,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -503,15 +761,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7805,
+      "importance": 0.7805,
+      "importance_score": 0.7805,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.933,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -584,15 +842,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7805,
+      "importance": 0.7805,
+      "importance_score": 0.7805,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.933,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -700,15 +958,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6202,
-      "importance": 0.6202,
-      "importance_score": 0.6202,
+      "score": 0.6097,
+      "importance": 0.6097,
+      "importance_score": 0.6097,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8667,
+        "recency": 0.8086,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -726,21 +984,21 @@
       }
     },
     {
-      "story_id": "story_47ee76b38cb3",
-      "title": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-      "url": "https://www.aibase.com/news/30889",
-      "primary_url": "https://www.aibase.com/news/30889",
+      "story_id": "story_96ac2e7248ef",
+      "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+      "url": "https://www.aibase.com/news/30908",
+      "primary_url": "https://www.aibase.com/news/30908",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c305e8b256f5fe2b9bed331d2d673760b20a34de",
-          "title": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-          "url": "https://www.aibase.com/news/30889",
+          "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
+          "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+          "url": "https://www.aibase.com/news/30908",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-08T03:59:40.512066Z"
+          "published_at": "2026-09-08T08:47:58.454529Z"
         }
       ],
       "source_count": 1,
@@ -749,13 +1007,13 @@
       ],
       "items": [
         {
-          "id": "c305e8b256f5fe2b9bed331d2d673760b20a34de",
-          "title": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-          "url": "https://www.aibase.com/news/30889",
+          "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
+          "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+          "url": "https://www.aibase.com/news/30908",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-08T03:59:40.512066Z"
+          "published_at": "2026-09-08T08:47:58.454529Z"
         }
       ],
       "item_count": 1,
@@ -776,32 +1034,148 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T03:59:40.512066Z",
-      "latest_at": "2026-09-08T03:59:40.512066Z",
+      "earliest_at": "2026-09-08T08:47:58.454529Z",
+      "latest_at": "2026-09-08T08:47:58.454529Z",
       "primary_item": {
-        "id": "c305e8b256f5fe2b9bed331d2d673760b20a34de",
-        "title": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-        "url": "https://www.aibase.com/news/30889",
+        "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
+        "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+        "url": "https://www.aibase.com/news/30908",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_e147e3b4c260",
-      "title": "AI彻底击碎“人机验证”：GPT-6 Astra零失误通关48个游戏关卡",
-      "url": "https://www.aibase.com/news/30887",
-      "primary_url": "https://www.aibase.com/news/30887",
+      "story_id": "story_7dca434f16ba",
+      "title": "我已经对一份证书颁发机构（CA）的RSA密钥进行了因式分解……这份证书颁发机构可追溯至90年代",
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "primary_url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "source": "mcpherrin.ca",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "101411cdb72941ad71eba2c98f802aee1cfde80c",
+          "title": "我已经对一份证书颁发机构（CA）的RSA密钥进行了因式分解……这份证书颁发机构可追溯至90年代",
+          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+          "source": "mcpherrin.ca",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T04:11:44.229000Z"
+        },
+        {
+          "id": "8e1db3ea529bd22bb60eb562b90310bab040a1ef",
+          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。 / I’ve factored the RSA keys of a Certificate Authority…from the 90s",
+          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-08T04:05:34Z"
+        },
+        {
+          "id": "ddcf367323ae23486eadd57d59dc6db09a037139",
+          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
+          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+          "source": "mcpherrin.ca",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T02:51:51.808000Z"
+        },
+        {
+          "id": "08da2142657f98da837d7f4e1fb61f9bb6c427e5",
+          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。 / I've factored the RSA keys of a Certificate Authority from the 90s",
+          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T01:16:59Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Lobsters (技术社区)",
+        "mcpherrin.ca"
+      ],
+      "items": [
+        {
+          "id": "101411cdb72941ad71eba2c98f802aee1cfde80c",
+          "title": "我已经对一份证书颁发机构（CA）的RSA密钥进行了因式分解……这份证书颁发机构可追溯至90年代",
+          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+          "source": "mcpherrin.ca",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T04:11:44.229000Z"
+        },
+        {
+          "id": "8e1db3ea529bd22bb60eb562b90310bab040a1ef",
+          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。 / I’ve factored the RSA keys of a Certificate Authority…from the 90s",
+          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-08T04:05:34Z"
+        },
+        {
+          "id": "ddcf367323ae23486eadd57d59dc6db09a037139",
+          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
+          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+          "source": "mcpherrin.ca",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T02:51:51.808000Z"
+        },
+        {
+          "id": "08da2142657f98da837d7f4e1fb61f9bb6c427e5",
+          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。 / I've factored the RSA keys of a Certificate Authority from the 90s",
+          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T01:16:59Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5842,
+      "importance": 0.5842,
+      "importance_score": 0.5842,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9357,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-08T01:16:59Z",
+      "latest_at": "2026-09-08T04:11:44.229000Z",
+      "primary_item": {
+        "id": "101411cdb72941ad71eba2c98f802aee1cfde80c",
+        "title": "我已经对一份证书颁发机构（CA）的RSA密钥进行了因式分解……这份证书颁发机构可追溯至90年代",
+        "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+        "source": "mcpherrin.ca",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_3cdfb928c5d3",
+      "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+      "url": "https://www.aibase.com/news/30905",
+      "primary_url": "https://www.aibase.com/news/30905",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "503d621bbccc8384a07a1452dc59b29e4720e17b",
-          "title": "AI彻底击碎“人机验证”：GPT-6 Astra零失误通关48个游戏关卡",
-          "url": "https://www.aibase.com/news/30887",
+          "id": "f813c706b0c65860122151300c79e21147e3b6b6",
+          "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+          "url": "https://www.aibase.com/news/30905",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-08T03:59:40.512066Z"
+          "published_at": "2026-09-08T08:47:58.454529Z"
         }
       ],
       "source_count": 1,
@@ -810,13 +1184,13 @@
       ],
       "items": [
         {
-          "id": "503d621bbccc8384a07a1452dc59b29e4720e17b",
-          "title": "AI彻底击碎“人机验证”：GPT-6 Astra零失误通关48个游戏关卡",
-          "url": "https://www.aibase.com/news/30887",
+          "id": "f813c706b0c65860122151300c79e21147e3b6b6",
+          "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+          "url": "https://www.aibase.com/news/30905",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-08T03:59:40.512066Z"
+          "published_at": "2026-09-08T08:47:58.454529Z"
         }
       ],
       "item_count": 1,
@@ -837,75 +1211,270 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T03:59:40.512066Z",
-      "latest_at": "2026-09-08T03:59:40.512066Z",
+      "earliest_at": "2026-09-08T08:47:58.454529Z",
+      "latest_at": "2026-09-08T08:47:58.454529Z",
       "primary_item": {
-        "id": "503d621bbccc8384a07a1452dc59b29e4720e17b",
-        "title": "AI彻底击碎“人机验证”：GPT-6 Astra零失误通关48个游戏关卡",
-        "url": "https://www.aibase.com/news/30887",
+        "id": "f813c706b0c65860122151300c79e21147e3b6b6",
+        "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+        "url": "https://www.aibase.com/news/30905",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_1ef5a8b0ee06",
-      "title": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
-      "url": "https://www.aibase.com/news/30897",
-      "primary_url": "https://www.aibase.com/news/30897",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_af5a9540264b",
+      "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展",
+      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "source": "www.bbc.co.uk",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "5befd144b4fb3cdfcc3a95c10a12d36c7661d23f",
-          "title": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
-          "url": "https://www.aibase.com/news/30897",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T03:59:40.512066Z"
+          "id": "71c1de7086564e9d2cce2fc491db2737d07260f6",
+          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展",
+          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T23:57:48.244000Z"
+        },
+        {
+          "id": "bb6843d6b4c746ca5fb1430d1879f271c903fa0d",
+          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展 / AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T23:05:12Z"
+        },
+        {
+          "id": "d0ff29d34fc249f6f8350859ad93f125543860ba",
+          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展 / AI will cure cancer in our lifetime, claims boss of UK chip giant",
+          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-07T23:05:12Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AIbase"
+        "BBC News",
+        "BBC News (世界新闻)",
+        "www.bbc.co.uk"
       ],
       "items": [
         {
-          "id": "5befd144b4fb3cdfcc3a95c10a12d36c7661d23f",
-          "title": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
-          "url": "https://www.aibase.com/news/30897",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T03:59:40.512066Z"
+          "id": "71c1de7086564e9d2cce2fc491db2737d07260f6",
+          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展",
+          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T23:57:48.244000Z"
+        },
+        {
+          "id": "bb6843d6b4c746ca5fb1430d1879f271c903fa0d",
+          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展 / AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T23:05:12Z"
+        },
+        {
+          "id": "d0ff29d34fc249f6f8350859ad93f125543860ba",
+          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展 / AI will cure cancer in our lifetime, claims boss of UK chip giant",
+          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-07T23:05:12Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5492,
+      "importance": 0.5492,
+      "importance_score": 0.5492,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8802,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-08T03:59:40.512066Z",
-      "latest_at": "2026-09-08T03:59:40.512066Z",
+      "earliest_at": "2026-09-07T23:05:12Z",
+      "latest_at": "2026-09-07T23:57:48.244000Z",
       "primary_item": {
-        "id": "5befd144b4fb3cdfcc3a95c10a12d36c7661d23f",
-        "title": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
-        "url": "https://www.aibase.com/news/30897",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "71c1de7086564e9d2cce2fc491db2737d07260f6",
+        "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展",
+        "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+        "source": "www.bbc.co.uk",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_fd09c21c0777",
+      "title": "Arm首席执行官表示，人工智能有望治愈癌症，但数据中心是瓶颈",
+      "url": "https://www.businessinsider.com/arm-ceo-says-ai-could-cure-cancer-data-centers-bottleneck-2026-9",
+      "primary_url": "https://www.businessinsider.com/arm-ceo-says-ai-could-cure-cancer-data-centers-bottleneck-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9623010c3d9f00599d55995631e9fb1ad8649dd1",
+          "title": "Arm首席执行官表示，人工智能有望治愈癌症，但数据中心是瓶颈",
+          "url": "https://www.businessinsider.com/arm-ceo-says-ai-could-cure-cancer-data-centers-bottleneck-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T08:23:47.557000Z"
+        },
+        {
+          "id": "daddf5bc20cf5dd50022bedfe71ba7433f712123",
+          "title": "Arm首席执行官表示，人工智能有望治愈癌症，但数据中心是瓶颈 / Arm's CEO says AI could cure cancer, but data centers are creating a bottleneck",
+          "url": "https://www.businessinsider.com/arm-ceo-says-ai-could-cure-cancer-data-centers-bottleneck-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T06:47:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "9623010c3d9f00599d55995631e9fb1ad8649dd1",
+          "title": "Arm首席执行官表示，人工智能有望治愈癌症，但数据中心是瓶颈",
+          "url": "https://www.businessinsider.com/arm-ceo-says-ai-could-cure-cancer-data-centers-bottleneck-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T08:23:47.557000Z"
+        },
+        {
+          "id": "daddf5bc20cf5dd50022bedfe71ba7433f712123",
+          "title": "Arm首席执行官表示，人工智能有望治愈癌症，但数据中心是瓶颈 / Arm's CEO says AI could cure cancer, but data centers are creating a bottleneck",
+          "url": "https://www.businessinsider.com/arm-ceo-says-ai-could-cure-cancer-data-centers-bottleneck-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T06:47:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5448,
+      "importance": 0.5448,
+      "importance_score": 0.5448,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9942,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-08T06:47:18Z",
+      "latest_at": "2026-09-08T08:23:47.557000Z",
+      "primary_item": {
+        "id": "9623010c3d9f00599d55995631e9fb1ad8649dd1",
+        "title": "Arm首席执行官表示，人工智能有望治愈癌症，但数据中心是瓶颈",
+        "url": "https://www.businessinsider.com/arm-ceo-says-ai-could-cure-cancer-data-centers-bottleneck-2026-9",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_48bba5baa06d",
+      "title": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元",
+      "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+      "primary_url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+      "source": "www.bottlenecklabs.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "dba2a5967d198610c1be8b3bc7bac55a115b97a9",
+          "title": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元",
+          "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+          "source": "www.bottlenecklabs.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T06:33:02.028000Z"
+        },
+        {
+          "id": "639b0a274e579aa8fbcd697bbe5c515cbd93e974",
+          "title": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元 / AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+          "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T18:24:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.bottlenecklabs.com"
+      ],
+      "items": [
+        {
+          "id": "dba2a5967d198610c1be8b3bc7bac55a115b97a9",
+          "title": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元",
+          "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+          "source": "www.bottlenecklabs.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T06:33:02.028000Z"
+        },
+        {
+          "id": "639b0a274e579aa8fbcd697bbe5c515cbd93e974",
+          "title": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元 / AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+          "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T18:24:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.968,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T18:24:32Z",
+      "latest_at": "2026-09-08T06:33:02.028000Z",
+      "primary_item": {
+        "id": "dba2a5967d198610c1be8b3bc7bac55a115b97a9",
+        "title": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元",
+        "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+        "source": "www.bottlenecklabs.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -981,15 +1550,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5459,
-      "importance": 0.5459,
-      "importance_score": 0.5459,
+      "score": 0.5355,
+      "importance": 0.5355,
+      "importance_score": 0.5355,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8617,
+        "recency": 0.8039,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1060,15 +1629,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.543,
-      "importance": 0.543,
-      "importance_score": 0.543,
+      "score": 0.5311,
+      "importance": 0.5311,
+      "importance_score": 0.5311,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9843,
+        "recency": 0.9183,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1083,85 +1652,6 @@
         "url": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_7dca434f16ba",
-      "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-      "primary_url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-      "source": "mcpherrin.ca",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ddcf367323ae23486eadd57d59dc6db09a037139",
-          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-          "source": "mcpherrin.ca",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T02:51:51.808000Z"
-        },
-        {
-          "id": "08da2142657f98da837d7f4e1fb61f9bb6c427e5",
-          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。 / I've factored the RSA keys of a Certificate Authority from the 90s",
-          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-08T01:16:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "mcpherrin.ca"
-      ],
-      "items": [
-        {
-          "id": "ddcf367323ae23486eadd57d59dc6db09a037139",
-          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-          "source": "mcpherrin.ca",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T02:51:51.808000Z"
-        },
-        {
-          "id": "08da2142657f98da837d7f4e1fb61f9bb6c427e5",
-          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。 / I've factored the RSA keys of a Certificate Authority from the 90s",
-          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-08T01:16:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5429,
-      "importance": 0.5429,
-      "importance_score": 0.5429,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9838,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-08T01:16:59Z",
-      "latest_at": "2026-09-08T02:51:51.808000Z",
-      "primary_item": {
-        "id": "ddcf367323ae23486eadd57d59dc6db09a037139",
-        "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-        "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-        "source": "mcpherrin.ca",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1217,15 +1707,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5402,
-      "importance": 0.5402,
-      "importance_score": 0.5402,
+      "score": 0.5285,
+      "importance": 0.5285,
+      "importance_score": 0.5285,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9687,
+        "recency": 0.9038,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1240,323 +1730,6 @@
         "url": "https://www.bloomberg.com/news/articles/2026-09-07/bytedance-founder-joins-ai-elite-in-race-to-perfect-world-models",
         "source": "www.bloomberg.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b955b0a7b48a",
-      "title": "Intel报告：工作场所机器人即将达到“关键临界点”，人机协作或成常态",
-      "url": "https://www.techradar.com/pro/robot-co-workers-could-soon-be-a-common-sight-as-intel-report-claims-workplace-robotics-are-approaching-a-critical-threshold",
-      "primary_url": "https://www.techradar.com/pro/robot-co-workers-could-soon-be-a-common-sight-as-intel-report-claims-workplace-robotics-are-approaching-a-critical-threshold",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "957976db4049d26a771faf292673d589cffe4010",
-          "title": "Intel报告：工作场所机器人即将达到“关键临界点”，人机协作或成常态",
-          "url": "https://www.techradar.com/pro/robot-co-workers-could-soon-be-a-common-sight-as-intel-report-claims-workplace-robotics-are-approaching-a-critical-threshold",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4bca2e6b8494ff509d68b14259bcae96e7a3b330",
-          "title": "Intel报告：工作场所机器人即将达到“关键临界点”，人机协作或成常态 / Robot co-workers could soon be a common sight, as Intel report claims workplace robotics are approaching a 'critical threshold'",
-          "url": "https://www.techradar.com/pro/robot-co-workers-could-soon-be-a-common-sight-as-intel-report-claims-workplace-robotics-are-approaching-a-critical-threshold",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T23:20:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "TechRadar"
-      ],
-      "items": [
-        {
-          "id": "957976db4049d26a771faf292673d589cffe4010",
-          "title": "Intel报告：工作场所机器人即将达到“关键临界点”，人机协作或成常态",
-          "url": "https://www.techradar.com/pro/robot-co-workers-could-soon-be-a-common-sight-as-intel-report-claims-workplace-robotics-are-approaching-a-critical-threshold",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4bca2e6b8494ff509d68b14259bcae96e7a3b330",
-          "title": "Intel报告：工作场所机器人即将达到“关键临界点”，人机协作或成常态 / Robot co-workers could soon be a common sight, as Intel report claims workplace robotics are approaching a 'critical threshold'",
-          "url": "https://www.techradar.com/pro/robot-co-workers-could-soon-be-a-common-sight-as-intel-report-claims-workplace-robotics-are-approaching-a-critical-threshold",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T23:20:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5356,
-      "importance": 0.5356,
-      "importance_score": 0.5356,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9436,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T23:20:00Z",
-      "latest_at": "2026-09-07T23:58:15.177494Z",
-      "primary_item": {
-        "id": "957976db4049d26a771faf292673d589cffe4010",
-        "title": "Intel报告：工作场所机器人即将达到“关键临界点”，人机协作或成常态",
-        "url": "https://www.techradar.com/pro/robot-co-workers-could-soon-be-a-common-sight-as-intel-report-claims-workplace-robotics-are-approaching-a-critical-threshold",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_af5a9540264b",
-      "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展",
-      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "source": "www.bbc.co.uk",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "71c1de7086564e9d2cce2fc491db2737d07260f6",
-          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展",
-          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T23:57:48.244000Z"
-        },
-        {
-          "id": "bb6843d6b4c746ca5fb1430d1879f271c903fa0d",
-          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展 / AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
-          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T23:05:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "71c1de7086564e9d2cce2fc491db2737d07260f6",
-          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展",
-          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T23:57:48.244000Z"
-        },
-        {
-          "id": "bb6843d6b4c746ca5fb1430d1879f271c903fa0d",
-          "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展 / AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
-          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T23:05:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5356,
-      "importance": 0.5356,
-      "importance_score": 0.5356,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9434,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T23:05:12Z",
-      "latest_at": "2026-09-07T23:57:48.244000Z",
-      "primary_item": {
-        "id": "71c1de7086564e9d2cce2fc491db2737d07260f6",
-        "title": "英国最大科技公司首席执行官表示，芯片短缺阻碍了人工智能癌症治疗的发展",
-        "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-        "source": "www.bbc.co.uk",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7a53f4b3fa8e",
-      "title": "AI新经济如何抵达每个人?2026外滩大会发布“AI科技人文十问”",
-      "url": "https://www.aibase.com/news/30899",
-      "primary_url": "https://www.aibase.com/news/30899",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "69554104ae377d90ca7f5b2450aa7a30b21bbf30",
-          "title": "AI新经济如何抵达每个人?2026外滩大会发布“AI科技人文十问”",
-          "url": "https://www.aibase.com/news/30899",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T03:59:40.512066Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "69554104ae377d90ca7f5b2450aa7a30b21bbf30",
-          "title": "AI新经济如何抵达每个人?2026外滩大会发布“AI科技人文十问”",
-          "url": "https://www.aibase.com/news/30899",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T03:59:40.512066Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T03:59:40.512066Z",
-      "latest_at": "2026-09-08T03:59:40.512066Z",
-      "primary_item": {
-        "id": "69554104ae377d90ca7f5b2450aa7a30b21bbf30",
-        "title": "AI新经济如何抵达每个人?2026外滩大会发布“AI科技人文十问”",
-        "url": "https://www.aibase.com/news/30899",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d02abe3b70f4",
-      "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-      "url": "https://news.ycombinator.com/item?id=49594008",
-      "primary_url": "https://news.ycombinator.com/item?id=49594008",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "cfc850214623432cc591ce60e20d33942d84b081",
-          "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-          "url": "https://news.ycombinator.com/item?id=49594008",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T06:01:00.231000Z"
-        },
-        {
-          "id": "60942f04ac501b837dd14413d96acc1b32460f94",
-          "title": "Show HN: Engrim——一款适用于 AI 命令行界面的通用、本地优先的 SQLite 内存引擎",
-          "url": "https://github.com/timgordontg/engrim",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T05:02:53.123000Z"
-        },
-        {
-          "id": "90bf08e0b6af0ee998f77478da0daa4cd0af0c5e",
-          "title": "Show HN: Engrim——一款适用于 AI 命令行界面的通用、本地优先的 SQLite 内存引擎 / Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-          "url": "https://github.com/timgordontg/engrim",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T04:49:36Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "cfc850214623432cc591ce60e20d33942d84b081",
-          "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-          "url": "https://news.ycombinator.com/item?id=49594008",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T06:01:00.231000Z"
-        },
-        {
-          "id": "60942f04ac501b837dd14413d96acc1b32460f94",
-          "title": "Show HN: Engrim——一款适用于 AI 命令行界面的通用、本地优先的 SQLite 内存引擎",
-          "url": "https://github.com/timgordontg/engrim",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T05:02:53.123000Z"
-        },
-        {
-          "id": "90bf08e0b6af0ee998f77478da0daa4cd0af0c5e",
-          "title": "Show HN: Engrim——一款适用于 AI 命令行界面的通用、本地优先的 SQLite 内存引擎 / Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-          "url": "https://github.com/timgordontg/engrim",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T04:49:36Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5219,
-      "importance": 0.5219,
-      "importance_score": 0.5219,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7281,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T04:49:36Z",
-      "latest_at": "2026-09-07T06:01:00.231000Z",
-      "primary_item": {
-        "id": "cfc850214623432cc591ce60e20d33942d84b081",
-        "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-        "url": "https://news.ycombinator.com/item?id=49594008",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
