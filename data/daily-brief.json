@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T11:04:01.591824Z",
+  "generated_at": "2026-09-13T14:58:01.935959Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -138,15 +138,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
+      "score": 0.78,
+      "importance": 0.78,
+      "importance_score": 0.78,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7662,
+        "recency": 0.7242,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -200,15 +200,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7727,
-      "importance": 0.7727,
-      "importance_score": 0.7727,
+      "score": 0.7636,
+      "importance": 0.7636,
+      "importance_score": 0.7636,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9286,
+        "recency": 0.8777,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -280,22 +280,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7563,
-      "importance": 0.7563,
-      "importance_score": 0.7563,
+      "score": 0.7488,
+      "importance": 0.7488,
+      "importance_score": 0.7488,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.765,
+        "recency": 0.7231,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-12T16:30:45Z",
       "latest_at": "2026-09-12T16:30:45Z",
@@ -361,22 +360,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.754,
-      "importance": 0.754,
-      "importance_score": 0.754,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8019,
+        "recency": 0.758,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-12T19:46:58Z",
       "latest_at": "2026-09-12T19:46:58Z",
@@ -423,21 +421,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7514,
-      "importance": 0.7514,
-      "importance_score": 0.7514,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7766,
+        "recency": 0.734,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-12T17:33:23Z",
       "latest_at": "2026-09-12T17:33:23Z",
@@ -446,66 +443,6 @@
         "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
         "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
         "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f19c7789726e",
-      "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
-      "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
-      "primary_url": "https://x.com/PeterMcCrory/status/2098868931071226252",
-      "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fc265156e1361beb3a5e3d57c63b75562d60c0d6",
-          "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
-          "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
-          "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T20:18:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）"
-      ],
-      "items": [
-        {
-          "id": "fc265156e1361beb3a5e3d57c63b75562d60c0d6",
-          "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
-          "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
-          "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T20:18:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7271,
-      "importance": 0.7271,
-      "importance_score": 0.7271,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8081,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-12T20:18:42Z",
-      "latest_at": "2026-09-12T20:18:42Z",
-      "primary_item": {
-        "id": "fc265156e1361beb3a5e3d57c63b75562d60c0d6",
-        "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
-        "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
-        "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
         "source_name": "AI HOT"
       }
     },
@@ -544,15 +481,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7334,
-      "importance": 0.7334,
-      "importance_score": 0.7334,
+      "score": 0.7251,
+      "importance": 0.7251,
+      "importance_score": 0.7251,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8434,
+        "recency": 0.7972,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -676,15 +613,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6606,
-      "importance": 0.6606,
-      "importance_score": 0.6606,
+      "score": 0.6526,
+      "importance": 0.6526,
+      "importance_score": 0.6526,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.54,
         "ai_relevance": 0.71,
-        "recency": 0.8135,
+        "recency": 0.769,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -755,15 +692,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6267,
-      "importance": 0.6267,
-      "importance_score": 0.6267,
+      "score": 0.6188,
+      "importance": 0.6188,
+      "importance_score": 0.6188,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.8082,
+        "recency": 0.7639,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -834,15 +771,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6252,
-      "importance": 0.6252,
-      "importance_score": 0.6252,
+      "score": 0.6173,
+      "importance": 0.6173,
+      "importance_score": 0.6173,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.7996,
+        "recency": 0.7558,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -857,6 +794,104 @@
         "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier",
         "source": "TechCrunch AI",
         "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_701d87d89551",
+      "title": "关于人工智能的惊人内部警告在硅谷部分人士中未引起重视",
+      "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+      "source": "www.bbc.co.uk",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "99cc1d251859e4c90254f7a9df31eb3a707fa00c",
+          "title": "关于人工智能的惊人内部警告在硅谷部分人士中未引起重视",
+          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T14:36:22.392000Z"
+        },
+        {
+          "id": "f1a0e7ce169720625236281a2425d3f3018ea14b",
+          "title": "关于人工智能的惊人内部警告在硅谷部分人士中未引起重视 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T09:05:10Z"
+        },
+        {
+          "id": "92298ac9ef2fc3c5afbe757f37c0fc31f3713000",
+          "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T08:07:36Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "BBC News (世界新闻)",
+        "Hacker News",
+        "www.bbc.co.uk"
+      ],
+      "items": [
+        {
+          "id": "99cc1d251859e4c90254f7a9df31eb3a707fa00c",
+          "title": "关于人工智能的惊人内部警告在硅谷部分人士中未引起重视",
+          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T14:36:22.392000Z"
+        },
+        {
+          "id": "f1a0e7ce169720625236281a2425d3f3018ea14b",
+          "title": "关于人工智能的惊人内部警告在硅谷部分人士中未引起重视 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T09:05:10Z"
+        },
+        {
+          "id": "92298ac9ef2fc3c5afbe757f37c0fc31f3713000",
+          "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T08:07:36Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5699,
+      "importance": 0.5699,
+      "importance_score": 0.5699,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9948,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T08:07:36Z",
+      "latest_at": "2026-09-13T14:36:22.392000Z",
+      "primary_item": {
+        "id": "99cc1d251859e4c90254f7a9df31eb3a707fa00c",
+        "title": "关于人工智能的惊人内部警告在硅谷部分人士中未引起重视",
+        "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+        "source": "www.bbc.co.uk",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -931,15 +966,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.555,
-      "importance": 0.555,
-      "importance_score": 0.555,
+      "score": 0.546,
+      "importance": 0.546,
+      "importance_score": 0.546,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.912,
+        "recency": 0.862,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -954,6 +989,85 @@
         "url": "https://www.youtube.com/watch?v=Q9EZkVx-pws",
         "source": "www.youtube.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_fca275d6d6bc",
+      "title": "“全华班”打造的AI程序员，估值480亿美元",
+      "url": "https://www.36kr.com/p/3981230650522630",
+      "primary_url": "https://www.36kr.com/p/3981230650522630",
+      "source": "36氪 · 24小时热榜",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "f65bf55a86f774b76d837701da21c334e6b0ada0",
+          "title": "“全华班”打造的AI程序员，估值480亿美元",
+          "url": "https://www.36kr.com/p/3981230650522630",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f38c68ddc9d5745b81a0a0de9bb7946333caf916",
+          "title": "全华班打造的 AI 程序员，估值 480 亿美元",
+          "url": "https://www.36kr.com/p/3981230650522630",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 · 24小时热榜",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "f65bf55a86f774b76d837701da21c334e6b0ada0",
+          "title": "“全华班”打造的AI程序员，估值480亿美元",
+          "url": "https://www.36kr.com/p/3981230650522630",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f38c68ddc9d5745b81a0a0de9bb7946333caf916",
+          "title": "全华班打造的 AI 程序员，估值 480 亿美元",
+          "url": "https://www.36kr.com/p/3981230650522630",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T05:38:37.671127Z",
+      "latest_at": "2026-09-13T14:58:01.935959Z",
+      "primary_item": {
+        "id": "f65bf55a86f774b76d837701da21c334e6b0ada0",
+        "title": "“全华班”打造的AI程序员，估值480亿美元",
+        "url": "https://www.36kr.com/p/3981230650522630",
+        "source": "36氪 · 24小时热榜",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1028,15 +1142,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5489,
-      "importance": 0.5489,
-      "importance_score": 0.5489,
+      "score": 0.5402,
+      "importance": 0.5402,
+      "importance_score": 0.5402,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8783,
+        "recency": 0.8302,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1107,15 +1221,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5359,
+      "importance": 0.5359,
+      "importance_score": 0.5359,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9452,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1186,15 +1300,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5359,
+      "importance": 0.5359,
+      "importance_score": 0.5359,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9452,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1265,15 +1379,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5416,
-      "importance": 0.5416,
-      "importance_score": 0.5416,
+      "score": 0.5319,
+      "importance": 0.5319,
+      "importance_score": 0.5319,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9764,
+        "recency": 0.9229,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1288,85 +1402,6 @@
         "url": "https://www.businessinsider.com/meta-ai-data-center-louisiana-housing-market-home-rentals-2026-9",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_701d87d89551",
-      "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-      "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "92298ac9ef2fc3c5afbe757f37c0fc31f3713000",
-          "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T08:07:36Z"
-        },
-        {
-          "id": "7a169d441a67991a51904134e1a940d1e441d651",
-          "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-12T17:28:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News",
-        "Hacker News"
-      ],
-      "items": [
-        {
-          "id": "92298ac9ef2fc3c5afbe757f37c0fc31f3713000",
-          "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T08:07:36Z"
-        },
-        {
-          "id": "7a169d441a67991a51904134e1a940d1e441d651",
-          "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-12T17:28:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5383,
-      "importance": 0.5383,
-      "importance_score": 0.5383,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9584,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T17:28:53Z",
-      "latest_at": "2026-09-13T08:07:36Z",
-      "primary_item": {
-        "id": "92298ac9ef2fc3c5afbe757f37c0fc31f3713000",
-        "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-        "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
       }
     },
     {
@@ -1423,15 +1458,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5362,
-      "importance": 0.5362,
-      "importance_score": 0.5362,
+      "score": 0.5269,
+      "importance": 0.5269,
+      "importance_score": 0.5269,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9469,
+        "recency": 0.895,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1502,15 +1537,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5222,
-      "importance": 0.5222,
-      "importance_score": 0.5222,
+      "score": 0.5136,
+      "importance": 0.5136,
+      "importance_score": 0.5136,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8686,
+        "recency": 0.8211,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1528,82 +1563,82 @@
       }
     },
     {
-      "story_id": "story_872f6ccc38a0",
-      "title": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
-      "primary_url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
-      "source": "tedium.co",
-      "source_name": "Buzzing",
+      "story_id": "story_b409dc7b8493",
+      "title": "Shubhamsaboo /      awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "primary_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "source": "github",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "6a8048012db1b19c0c1149810968e9f51c194bbb",
-          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
-          "source": "tedium.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T00:29:40.068000Z"
+          "id": "6153eeafb6d34ceb564138764eae9b11425555a7",
+          "title": "Shubhamsaboo /      awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-12T20:47:05.332000Z"
         },
         {
-          "id": "dc3a1c88b5597941096fd87acd653abc05d4967e",
-          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局 / The worst spam emails: iLands AI agent hustle",
-          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T11:13:38Z"
+          "id": "647202ea62c1a029dd5459b2bd6f6d557dd393d6",
+          "title": "Shubhamsaboo / awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "tedium.co"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "6a8048012db1b19c0c1149810968e9f51c194bbb",
-          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
-          "source": "tedium.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T00:29:40.068000Z"
+          "id": "6153eeafb6d34ceb564138764eae9b11425555a7",
+          "title": "Shubhamsaboo /      awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-12T20:47:05.332000Z"
         },
         {
-          "id": "dc3a1c88b5597941096fd87acd653abc05d4967e",
-          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局 / The worst spam emails: iLands AI agent hustle",
-          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T11:13:38Z"
+          "id": "647202ea62c1a029dd5459b2bd6f6d557dd393d6",
+          "title": "Shubhamsaboo / awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5203,
-      "importance": 0.5203,
-      "importance_score": 0.5203,
+      "score": 0.5042,
+      "importance": 0.5042,
+      "importance_score": 0.5042,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8584,
+        "recency": 0.7691,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-12T11:13:38Z",
-      "latest_at": "2026-09-13T00:29:40.068000Z",
+      "earliest_at": "2026-09-12T20:46:26.218267Z",
+      "latest_at": "2026-09-12T20:47:05.332000Z",
       "primary_item": {
-        "id": "6a8048012db1b19c0c1149810968e9f51c194bbb",
-        "title": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-        "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
-        "source": "tedium.co",
-        "source_name": "Buzzing"
+        "id": "6153eeafb6d34ceb564138764eae9b11425555a7",
+        "title": "Shubhamsaboo /      awesome-llm-apps",
+        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+        "source": "github",
+        "source_name": "NewsNow"
       }
     }
   ]
