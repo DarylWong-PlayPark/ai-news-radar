@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T11:54:30.850185Z",
+  "generated_at": "2026-09-16T16:05:55.930548Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -114,15 +114,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.9092,
-      "importance": 0.9092,
-      "importance_score": 0.9092,
+      "score": 0.9011,
+      "importance": 0.9011,
+      "importance_score": 0.9011,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7621,
+        "recency": 0.7174,
         "story_heat": 1.0
       },
       "category": "official",
@@ -143,69 +143,88 @@
       }
     },
     {
-      "story_id": "story_98c36a850624",
-      "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言 / AI for everyone in every language",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-      "source": "Google AI Blog",
+      "story_id": "story_52752974efc0",
+      "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "primary_url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "14060c2571c717161b27bfaa69b30841c601742d",
-          "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言 / AI for everyone in every language",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-          "source": "Google AI Blog",
+          "id": "1e1aa16f656edc3f5d9d467b70353312655c1c5a",
+          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-15T16:00:00Z"
+          "published_at": "2026-09-16T13:00:00Z"
         },
         {
-          "id": "cb25acf576fbb99883abea0569b755d3b8ae5fc8",
-          "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-          "source": "Google Blog：AI（RSS）",
+          "id": "56d701c8ff45e67a3e15d6da12ea18be874c754f",
+          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-15T16:00:00Z"
+          "published_at": "2026-09-16T13:00:00Z"
+        },
+        {
+          "id": "f8008f4078dcfae8553880f8d47c537c4f1159f1",
+          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / OpenAI Expands ChatGPT Ads with Sponsored Agents",
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T13:51:15Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "Google AI Blog",
-        "Google Blog：AI（RSS）"
+        "Hacker News",
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       ],
       "items": [
         {
-          "id": "14060c2571c717161b27bfaa69b30841c601742d",
-          "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言 / AI for everyone in every language",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-          "source": "Google AI Blog",
+          "id": "1e1aa16f656edc3f5d9d467b70353312655c1c5a",
+          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-15T16:00:00Z"
+          "published_at": "2026-09-16T13:00:00Z"
         },
         {
-          "id": "cb25acf576fbb99883abea0569b755d3b8ae5fc8",
-          "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-          "source": "Google Blog：AI（RSS）",
+          "id": "56d701c8ff45e67a3e15d6da12ea18be874c754f",
+          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-15T16:00:00Z"
+          "published_at": "2026-09-16T13:00:00Z"
+        },
+        {
+          "id": "f8008f4078dcfae8553880f8d47c537c4f1159f1",
+          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / OpenAI Expands ChatGPT Ads with Sponsored Agents",
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T13:51:15Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.824,
-      "importance": 0.824,
-      "importance_score": 0.824,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8941,
+      "importance": 0.8941,
+      "importance_score": 0.8941,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7501,
-        "story_heat": 0.25
+        "ai_relevance": 0.91,
+        "recency": 0.9562,
+        "story_heat": 0.5
       },
       "category": "official",
       "reasons": [
@@ -214,94 +233,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T16:00:00Z",
-      "latest_at": "2026-09-15T16:00:00Z",
+      "earliest_at": "2026-09-16T13:00:00Z",
+      "latest_at": "2026-09-16T13:51:15Z",
       "primary_item": {
-        "id": "14060c2571c717161b27bfaa69b30841c601742d",
-        "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言 / AI for everyone in every language",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-        "source": "Google AI Blog",
+        "id": "1e1aa16f656edc3f5d9d467b70353312655c1c5a",
+        "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
+        "url": "https://openai.com/index/reimagining-advertising-with-ai",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_16a7b27ed0ae",
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5483b40883b9a65644edb078c2fa278d0495f0d0",
-          "title": "Your Agent Aced the Task. Will It Do It Again?",
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T16:00:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "5483b40883b9a65644edb078c2fa278d0495f0d0",
-          "title": "Your Agent Aced the Task. Will It Do It Again?",
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T16:00:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.815,
-      "importance": 0.815,
-      "importance_score": 0.815,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7503,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T16:00:44Z",
-      "latest_at": "2026-09-15T16:00:44Z",
-      "primary_item": {
-        "id": "5483b40883b9a65644edb078c2fa278d0495f0d0",
-        "title": "Your Agent Aced the Task. Will It Do It Again?",
-        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e594f69ef387",
-      "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
-      "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
-      "primary_url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
+      "story_id": "story_892303a4f464",
+      "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+      "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+      "primary_url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
-          "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
-          "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
+          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
+          "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-15T19:07:47Z"
+          "published_at": "2026-09-16T13:26:06Z"
         }
       ],
       "source_count": 1,
@@ -310,26 +267,26 @@
       ],
       "items": [
         {
-          "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
-          "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
-          "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
+          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
+          "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-15T19:07:47Z"
+          "published_at": "2026-09-16T13:26:06Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8133,
-      "importance": 0.8133,
-      "importance_score": 0.8133,
+      "score": 0.8372,
+      "importance": 0.8372,
+      "importance_score": 0.8372,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7848,
+        "ai_relevance": 0.87,
+        "recency": 0.9623,
         "story_heat": 0.0
       },
       "category": "official",
@@ -338,13 +295,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T19:07:47Z",
-      "latest_at": "2026-09-15T19:07:47Z",
+      "earliest_at": "2026-09-16T13:26:06Z",
+      "latest_at": "2026-09-16T13:26:06Z",
       "primary_item": {
-        "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
-        "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
-        "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
+        "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
+        "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+        "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
         "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_027811ca1632",
+      "title": "Helping older adults use AI in everyday life",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "primary_url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
+          "title": "Helping older adults use AI in everyday life",
+          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
+          "title": "Helping older adults use AI in everyday life",
+          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8517,
+      "importance": 0.8517,
+      "importance_score": 0.8517,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9986,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T16:00:00Z",
+      "latest_at": "2026-09-16T16:00:00Z",
+      "primary_item": {
+        "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
+        "title": "Helping older adults use AI in everyday life",
+        "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -402,15 +421,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.782,
+      "importance": 0.782,
+      "importance_score": 0.782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9413,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -427,6 +446,190 @@
         "url": "https://www.aibase.com/news/31102",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e594f69ef387",
+      "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
+      "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
+      "primary_url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
+          "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
+          "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T19:07:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
+          "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
+          "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T19:07:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.805,
+      "importance": 0.805,
+      "importance_score": 0.805,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7387,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T19:07:47Z",
+      "latest_at": "2026-09-15T19:07:47Z",
+      "primary_item": {
+        "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
+        "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
+        "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9930cd9b8250",
+      "title": "何夕2077 AI 深度信号周报 2026 W37",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
+          "title": "何夕2077 AI 深度信号周报 2026 W37",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-09-16T13:29:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
+          "title": "何夕2077 AI 深度信号周报 2026 W37",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-09-16T13:29:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.761,
+      "importance": 0.761,
+      "importance_score": 0.761,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9631,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T13:29:54Z",
+      "latest_at": "2026-09-16T13:29:54Z",
+      "primary_item": {
+        "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
+        "title": "何夕2077 AI 深度信号周报 2026 W37",
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_b70dd0029148",
+      "title": "微软 AI CEO 警告\"模型福利\"论调",
+      "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
+      "primary_url": "https://x.com/mustafasuleyman/status/2100223594534150428",
+      "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ee0df0c50e1a12243249f0d75af2ac6271c4ecd6",
+          "title": "微软 AI CEO 警告\"模型福利\"论调",
+          "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
+          "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T14:01:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)"
+      ],
+      "items": [
+        {
+          "id": "ee0df0c50e1a12243249f0d75af2ac6271c4ecd6",
+          "title": "微软 AI CEO 警告\"模型福利\"论调",
+          "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
+          "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T14:01:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9705,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T14:01:39Z",
+      "latest_at": "2026-09-16T14:01:39Z",
+      "primary_item": {
+        "id": "ee0df0c50e1a12243249f0d75af2ac6271c4ecd6",
+        "title": "微软 AI CEO 警告\"模型福利\"论调",
+        "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
+        "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -464,15 +667,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8061,
-      "importance": 0.8061,
-      "importance_score": 0.8061,
+      "score": 0.7977,
+      "importance": 0.7977,
+      "importance_score": 0.7977,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7894,
+        "recency": 0.7431,
         "story_heat": 0.0
       },
       "category": "official",
@@ -488,252 +691,6 @@
         "title": "强制执行 GitHub 高级安全配置 / Enforce GitHub Advanced Security configurations",
         "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_149a852934bd",
-      "title": "AI for Societal Impact",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "26a5630cff9e8872abc22ccb03614f08acadea77",
-          "title": "AI for Societal Impact",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "26a5630cff9e8872abc22ccb03614f08acadea77",
-          "title": "AI for Societal Impact",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.799,
-      "importance": 0.799,
-      "importance_score": 0.799,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7501,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T16:00:00Z",
-      "latest_at": "2026-09-15T16:00:00Z",
-      "primary_item": {
-        "id": "26a5630cff9e8872abc22ccb03614f08acadea77",
-        "title": "AI for Societal Impact",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_557dcb769a02",
-      "title": "Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂",
-      "url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
-      "primary_url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
-      "source": "Pragmatic Engineer（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bb2dfd35f811088f61cab4cc13781e1d9d916f4c",
-          "title": "Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂",
-          "url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
-          "source": "Pragmatic Engineer（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T15:41:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Pragmatic Engineer（RSS）"
-      ],
-      "items": [
-        {
-          "id": "bb2dfd35f811088f61cab4cc13781e1d9d916f4c",
-          "title": "Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂",
-          "url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
-          "source": "Pragmatic Engineer（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T15:41:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7468,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-15T15:41:25Z",
-      "latest_at": "2026-09-15T15:41:25Z",
-      "primary_item": {
-        "id": "bb2dfd35f811088f61cab4cc13781e1d9d916f4c",
-        "title": "Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂",
-        "url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
-        "source": "Pragmatic Engineer（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_10a67c97a758",
-      "title": "SHA-1 in HTTPS on GitHub sunset",
-      "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
-      "primary_url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
-          "title": "SHA-1 in HTTPS on GitHub sunset",
-          "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T16:47:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
-          "title": "SHA-1 in HTTPS on GitHub sunset",
-          "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T16:47:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7587,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T16:47:20Z",
-      "latest_at": "2026-09-15T16:47:20Z",
-      "primary_item": {
-        "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
-        "title": "SHA-1 in HTTPS on GitHub sunset",
-        "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_2db68954a435",
-      "title": "Building AI to accelerate science and improve lives",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "194233bcfcbcf571f6d454a1f5626a1ab2e4f175",
-          "title": "Building AI to accelerate science and improve lives",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "194233bcfcbcf571f6d454a1f5626a1ab2e4f175",
-          "title": "Building AI to accelerate science and improve lives",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.799,
-      "importance": 0.799,
-      "importance_score": 0.799,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7501,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T16:00:00Z",
-      "latest_at": "2026-09-15T16:00:00Z",
-      "primary_item": {
-        "id": "194233bcfcbcf571f6d454a1f5626a1ab2e4f175",
-        "title": "Building AI to accelerate science and improve lives",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
-        "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -772,15 +729,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9413,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -799,63 +756,65 @@
       }
     },
     {
-      "story_id": "story_b25ec880834a",
-      "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶",
-      "url": "https://x.com/arena/status/2099971741993050236",
-      "primary_url": "https://x.com/arena/status/2099971741993050236",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
+      "story_id": "story_10a67c97a758",
+      "title": "SHA-1 in HTTPS on GitHub sunset",
+      "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+      "primary_url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "cdacdea8981dc2f68d230ebade00762b5ac59ed4",
-          "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶",
-          "url": "https://x.com/arena/status/2099971741993050236",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T21:20:53Z"
+          "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
+          "title": "SHA-1 in HTTPS on GitHub sunset",
+          "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T16:47:20Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Arena (@arena)"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "cdacdea8981dc2f68d230ebade00762b5ac59ed4",
-          "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶",
-          "url": "https://x.com/arena/status/2099971741993050236",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T21:20:53Z"
+          "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
+          "title": "SHA-1 in HTTPS on GitHub sunset",
+          "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T16:47:20Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7215,
-      "importance": 0.7215,
-      "importance_score": 0.7215,
-      "importance_label": "行业动态",
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8104,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7142,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-15T21:20:53Z",
-      "latest_at": "2026-09-15T21:20:53Z",
+      "earliest_at": "2026-09-15T16:47:20Z",
+      "latest_at": "2026-09-15T16:47:20Z",
       "primary_item": {
-        "id": "cdacdea8981dc2f68d230ebade00762b5ac59ed4",
-        "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶",
-        "url": "https://x.com/arena/status/2099971741993050236",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
+        "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
+        "title": "SHA-1 in HTTPS on GitHub sunset",
+        "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -893,15 +852,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9413,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -917,68 +876,6 @@
         "url": "https://www.aibase.com/news/31099",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_63b04c12395d",
-      "title": "New insights from Google’s AI & Economy ATLAS",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a97b3965566648f19879b1c3c4d97705526ac9da",
-          "title": "New insights from Google’s AI & Economy ATLAS",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "a97b3965566648f19879b1c3c4d97705526ac9da",
-          "title": "New insights from Google’s AI & Economy ATLAS",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7933,
-      "importance": 0.7933,
-      "importance_score": 0.7933,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7183,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T13:00:00Z",
-      "latest_at": "2026-09-15T13:00:00Z",
-      "primary_item": {
-        "id": "a97b3965566648f19879b1c3c4d97705526ac9da",
-        "title": "New insights from Google’s AI & Economy ATLAS",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1016,15 +913,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9413,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1149,15 +1046,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "score": 0.6586,
+      "importance": 0.6586,
+      "importance_score": 0.6586,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9413,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1209,15 +1106,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9413,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1270,15 +1167,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9413,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1331,15 +1228,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9413,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1358,100 +1255,296 @@
       }
     },
     {
-      "story_id": "story_7b4c6fdab96f",
-      "title": "通过永不言弃，学习在强化学习中解决大型语言模型面临的难题",
-      "url": "https://mnoukhov.github.io/posts/ngu",
-      "primary_url": "https://mnoukhov.github.io/posts/ngu",
-      "source": "mnoukhov.github.io",
+      "story_id": "story_e47937a64c99",
+      "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
+      "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
+      "primary_url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
+      "source": "frvr.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "c473491526f488456350be060e69d6f10b35df94",
-          "title": "通过永不言弃，学习在强化学习中解决大型语言模型面临的难题",
-          "url": "https://mnoukhov.github.io/posts/ngu",
-          "source": "mnoukhov.github.io",
+          "id": "27a790a93cf09f27184a7cb7cb028ca80e3918a3",
+          "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
+          "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
+          "source": "frvr.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-16T11:24:28.187000Z"
+          "published_at": "2026-09-16T15:19:20.606000Z"
         },
         {
-          "id": "bc3c4005890b1de03cea70907ad37453b265cbde",
-          "title": "通过永不言弃，学习在强化学习中解决大型语言模型面临的难题 / Learning to solve hard problems in RL for LLMs by never giving up",
-          "url": "https://mnoukhov.github.io/posts/ngu",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-15T19:07:38Z"
+          "id": "a055410cbd0092d0d8c4930d1a2261db386e08a8",
+          "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂” / PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+          "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T14:30:36Z"
         },
         {
-          "id": "99bbe5c25f1cef12f0f470bd67e69da56199a62e",
-          "title": "法学硕士学习如何解决强化学习中的难题，永不放弃 / Learning to solve hard problems in RL for LLMs by never giving up",
-          "url": "https://news.ycombinator.com/item?id=49717280",
+          "id": "73df57ac7d54fca53c3683227f68731bd958f449",
+          "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+          "url": "https://news.ycombinator.com/item?id=49727627",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-15T19:07:38Z"
+          "published_at": "2026-09-16T14:30:36Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "mnoukhov.github.io"
+        "Hacker News",
+        "frvr.com",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "c473491526f488456350be060e69d6f10b35df94",
-          "title": "通过永不言弃，学习在强化学习中解决大型语言模型面临的难题",
-          "url": "https://mnoukhov.github.io/posts/ngu",
-          "source": "mnoukhov.github.io",
+          "id": "27a790a93cf09f27184a7cb7cb028ca80e3918a3",
+          "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
+          "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
+          "source": "frvr.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-16T11:24:28.187000Z"
+          "published_at": "2026-09-16T15:19:20.606000Z"
         },
         {
-          "id": "bc3c4005890b1de03cea70907ad37453b265cbde",
-          "title": "通过永不言弃，学习在强化学习中解决大型语言模型面临的难题 / Learning to solve hard problems in RL for LLMs by never giving up",
-          "url": "https://mnoukhov.github.io/posts/ngu",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-15T19:07:38Z"
+          "id": "a055410cbd0092d0d8c4930d1a2261db386e08a8",
+          "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂” / PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+          "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T14:30:36Z"
         },
         {
-          "id": "99bbe5c25f1cef12f0f470bd67e69da56199a62e",
-          "title": "法学硕士学习如何解决强化学习中的难题，永不放弃 / Learning to solve hard problems in RL for LLMs by never giving up",
-          "url": "https://news.ycombinator.com/item?id=49717280",
+          "id": "73df57ac7d54fca53c3683227f68731bd958f449",
+          "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+          "url": "https://news.ycombinator.com/item?id=49727627",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-15T19:07:38Z"
+          "published_at": "2026-09-16T14:30:36Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5695,
-      "importance": 0.5695,
-      "importance_score": 0.5695,
+      "score": 0.5688,
+      "importance": 0.5688,
+      "importance_score": 0.5688,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9928,
+        "recency": 0.9888,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-15T19:07:38Z",
-      "latest_at": "2026-09-16T11:24:28.187000Z",
+      "earliest_at": "2026-09-16T14:30:36Z",
+      "latest_at": "2026-09-16T15:19:20.606000Z",
       "primary_item": {
-        "id": "c473491526f488456350be060e69d6f10b35df94",
-        "title": "通过永不言弃，学习在强化学习中解决大型语言模型面临的难题",
-        "url": "https://mnoukhov.github.io/posts/ngu",
-        "source": "mnoukhov.github.io",
+        "id": "27a790a93cf09f27184a7cb7cb028ca80e3918a3",
+        "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
+        "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
+        "source": "frvr.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5a5abb9570dc",
+      "title": "Show HN: 免费 WhatsApp MCP（含 UI）——让您的 AI 代理能够访问 WhatsApp",
+      "url": "https://news.ycombinator.com/item?id=49728159",
+      "primary_url": "https://news.ycombinator.com/item?id=49728159",
+      "source": "news.ycombinator.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "34e0d0b8f5573e0c49773f1903bd9e5b34298607",
+          "title": "Show HN: 免费 WhatsApp MCP（含 UI）——让您的 AI 代理能够访问 WhatsApp",
+          "url": "https://news.ycombinator.com/item?id=49728159",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-16T15:19:20.610000Z"
+        },
+        {
+          "id": "37f97cfa4720711d3e7b87a56d80518f2f1ca5fd",
+          "title": "Show HN: 免费 WhatsApp MCP（含 UI）——让您的 AI 代理能够访问 WhatsApp / Show HN: Free WhatsApp MCP (+UI) – Give Your AI Agents Access to WhatsApp",
+          "url": "https://news.ycombinator.com/item?id=49728159",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T15:04:08Z"
+        },
+        {
+          "id": "adf2a8f64d9d111f70d367306d090dcdd19c59d0",
+          "title": "Show HN: 免费 WhatsApp MCP（含 UI）——让您的 AI 代理能够访问 WhatsApp / Show HN: Give your AI agents access to WhatsApp",
+          "url": "https://news.ycombinator.com/item?id=49728159",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-16T15:04:08Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "news.ycombinator.com"
+      ],
+      "items": [
+        {
+          "id": "34e0d0b8f5573e0c49773f1903bd9e5b34298607",
+          "title": "Show HN: 免费 WhatsApp MCP（含 UI）——让您的 AI 代理能够访问 WhatsApp",
+          "url": "https://news.ycombinator.com/item?id=49728159",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-16T15:19:20.610000Z"
+        },
+        {
+          "id": "37f97cfa4720711d3e7b87a56d80518f2f1ca5fd",
+          "title": "Show HN: 免费 WhatsApp MCP（含 UI）——让您的 AI 代理能够访问 WhatsApp / Show HN: Free WhatsApp MCP (+UI) – Give Your AI Agents Access to WhatsApp",
+          "url": "https://news.ycombinator.com/item?id=49728159",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T15:04:08Z"
+        },
+        {
+          "id": "adf2a8f64d9d111f70d367306d090dcdd19c59d0",
+          "title": "Show HN: 免费 WhatsApp MCP（含 UI）——让您的 AI 代理能够访问 WhatsApp / Show HN: Give your AI agents access to WhatsApp",
+          "url": "https://news.ycombinator.com/item?id=49728159",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-16T15:04:08Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5688,
+      "importance": 0.5688,
+      "importance_score": 0.5688,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9888,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-16T15:04:08Z",
+      "latest_at": "2026-09-16T15:19:20.610000Z",
+      "primary_item": {
+        "id": "34e0d0b8f5573e0c49773f1903bd9e5b34298607",
+        "title": "Show HN: 免费 WhatsApp MCP（含 UI）——让您的 AI 代理能够访问 WhatsApp",
+        "url": "https://news.ycombinator.com/item?id=49728159",
+        "source": "news.ycombinator.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_59db4bf11ea9",
+      "title": "在大语言模型时代学习编程",
+      "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+      "primary_url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+      "source": "blog.ploeh.dk",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "48d73e687736e4c451de7dd10a20ab46bab4a2e2",
+          "title": "在大语言模型时代学习编程",
+          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+          "source": "blog.ploeh.dk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-16T12:57:28.012000Z"
+        },
+        {
+          "id": "d415ffe6ac8db10d6bcce3967f3711877c3c04a7",
+          "title": "在大语言模型时代学习编程 / Learning Programming in an Age of LLMs",
+          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T09:12:34Z"
+        },
+        {
+          "id": "977c903b86124a6d7ed5f70eea4b5af0f4c6e6b5",
+          "title": "在法学硕士时代学习编程 / Learning Programming in an Age of LLMs",
+          "url": "https://news.ycombinator.com/item?id=49723873",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-16T09:12:34Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "blog.ploeh.dk",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "48d73e687736e4c451de7dd10a20ab46bab4a2e2",
+          "title": "在大语言模型时代学习编程",
+          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+          "source": "blog.ploeh.dk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-16T12:57:28.012000Z"
+        },
+        {
+          "id": "d415ffe6ac8db10d6bcce3967f3711877c3c04a7",
+          "title": "在大语言模型时代学习编程 / Learning Programming in an Age of LLMs",
+          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T09:12:34Z"
+        },
+        {
+          "id": "977c903b86124a6d7ed5f70eea4b5af0f4c6e6b5",
+          "title": "在法学硕士时代学习编程 / Learning Programming in an Age of LLMs",
+          "url": "https://news.ycombinator.com/item?id=49723873",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-16T09:12:34Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5628,
+      "importance": 0.5628,
+      "importance_score": 0.5628,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9557,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-16T09:12:34Z",
+      "latest_at": "2026-09-16T12:57:28.012000Z",
+      "primary_item": {
+        "id": "48d73e687736e4c451de7dd10a20ab46bab4a2e2",
+        "title": "在大语言模型时代学习编程",
+        "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+        "source": "blog.ploeh.dk",
         "source_name": "Buzzing"
       }
     }
