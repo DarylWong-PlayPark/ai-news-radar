@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-21T23:48:35.446440Z",
+  "generated_at": "2026-09-22T03:15:21.338331Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_a7ca59844a94",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "title": "数学与人工智能顾问小组 / Advisory Group on Mathematics and Artificial Intelligence",
       "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
       "primary_url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
       "source": "OpenAI News",
@@ -13,7 +13,7 @@
       "sources": [
         {
           "id": "bdf469aa53f96d483730507ef5d3ca8cc1c622c0",
-          "title": "Advisory Group on Mathematics and Artificial Intelligence",
+          "title": "数学与人工智能顾问小组 / Advisory Group on Mathematics and Artificial Intelligence",
           "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
@@ -22,7 +22,7 @@
         },
         {
           "id": "30f630630151045c2204c0ce550da30b2ce3cc56",
-          "title": "Advisory Group on Mathematics and Artificial Intelligence",
+          "title": "数学与人工智能顾问小组 / Advisory Group on Mathematics and Artificial Intelligence",
           "url": "https://news.ycombinator.com/item?id=49790389",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -38,7 +38,7 @@
       "items": [
         {
           "id": "bdf469aa53f96d483730507ef5d3ca8cc1c622c0",
-          "title": "Advisory Group on Mathematics and Artificial Intelligence",
+          "title": "数学与人工智能顾问小组 / Advisory Group on Mathematics and Artificial Intelligence",
           "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
@@ -47,7 +47,7 @@
         },
         {
           "id": "30f630630151045c2204c0ce550da30b2ce3cc56",
-          "title": "Advisory Group on Mathematics and Artificial Intelligence",
+          "title": "数学与人工智能顾问小组 / Advisory Group on Mathematics and Artificial Intelligence",
           "url": "https://news.ycombinator.com/item?id=49790389",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8488,
-      "importance": 0.8488,
-      "importance_score": 0.8488,
+      "score": 0.8414,
+      "importance": 0.8414,
+      "importance_score": 0.8414,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8432,
+        "recency": 0.8023,
         "story_heat": 0.25
       },
       "category": "official",
@@ -79,9 +79,71 @@
       "latest_at": "2026-09-21T17:27:49Z",
       "primary_item": {
         "id": "bdf469aa53f96d483730507ef5d3ca8cc1c622c0",
-        "title": "Advisory Group on Mathematics and Artificial Intelligence",
+        "title": "数学与人工智能顾问小组 / Advisory Group on Mathematics and Artificial Intelligence",
         "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f34404644702",
+      "title": "刷新的存储库拉取请求页面现已可用 / Refreshed repository pull requests page generally available",
+      "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1d7449a96d5b3fac40aea1fe9334626568c41059",
+          "title": "刷新的存储库拉取请求页面现已可用 / Refreshed repository pull requests page generally available",
+          "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T01:25:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1d7449a96d5b3fac40aea1fe9334626568c41059",
+          "title": "刷新的存储库拉取请求页面现已可用 / Refreshed repository pull requests page generally available",
+          "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T01:25:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8393,
+      "importance": 0.8393,
+      "importance_score": 0.8393,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.974,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T01:25:53Z",
+      "latest_at": "2026-09-22T01:25:53Z",
+      "primary_item": {
+        "id": "1d7449a96d5b3fac40aea1fe9334626568c41059",
+        "title": "刷新的存储库拉取请求页面现已可用 / Refreshed repository pull requests page generally available",
+        "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -120,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8436,
-      "importance": 0.8436,
-      "importance_score": 0.8436,
+      "score": 0.8361,
+      "importance": 0.8361,
+      "importance_score": 0.8361,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8647,
+        "recency": 0.8227,
         "story_heat": 0.0
       },
       "category": "official",
@@ -148,75 +210,22 @@
       }
     },
     {
-      "story_id": "story_bdad4d18a972",
-      "title": "GitHub Enterprise adds credential inventory exports",
-      "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
-      "primary_url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
-          "title": "GitHub Enterprise adds credential inventory exports",
-          "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-21T21:13:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
-          "title": "GitHub Enterprise adds credential inventory exports",
-          "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-21T21:13:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8374,
-      "importance": 0.8374,
-      "importance_score": 0.8374,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9633,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T21:13:18Z",
-      "latest_at": "2026-09-21T21:13:18Z",
-      "primary_item": {
-        "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
-        "title": "GitHub Enterprise adds credential inventory exports",
-        "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
       "story_id": "story_6cbde97d8260",
-      "title": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247484969&idx=1&sn=76c4757b26a2b646e1b690bf78c386d8",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247484969&idx=1&sn=76c4757b26a2b646e1b690bf78c386d8",
-      "source": "公众号：小米 MiMo",
+      "title": "卡兹克实测对比 Grok 4.7 与小米 MiMo V2.6：后者成不可能三角版本答案",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686569&idx=1&sn=f716d3dd70259240800a67b9fabd53fd",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686569&idx=1&sn=f716d3dd70259240800a67b9fabd53fd",
+      "source": "公众号：数字生命卡兹克",
       "source_name": "AI HOT",
       "sources": [
+        {
+          "id": "3cd8fb2e9d00a81707071bd998749330ce15ee84",
+          "title": "卡兹克实测对比 Grok 4.7 与小米 MiMo V2.6：后者成不可能三角版本答案",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686569&idx=1&sn=f716d3dd70259240800a67b9fabd53fd",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T02:02:03Z"
+        },
         {
           "id": "e590b247dcf693937e18ae0bb12026ce21c5395d",
           "title": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
@@ -234,15 +243,6 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-09-21T07:54:32Z"
-        },
-        {
-          "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
-          "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T01:52:57Z"
         }
       ],
       "source_count": 3,
@@ -253,6 +253,15 @@
       ],
       "items": [
         {
+          "id": "3cd8fb2e9d00a81707071bd998749330ce15ee84",
+          "title": "卡兹克实测对比 Grok 4.7 与小米 MiMo V2.6：后者成不可能三角版本答案",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686569&idx=1&sn=f716d3dd70259240800a67b9fabd53fd",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T02:02:03Z"
+        },
+        {
           "id": "e590b247dcf693937e18ae0bb12026ce21c5395d",
           "title": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
           "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247484969&idx=1&sn=76c4757b26a2b646e1b690bf78c386d8",
@@ -269,28 +278,19 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-09-21T07:54:32Z"
-        },
-        {
-          "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
-          "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T01:52:57Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8147,
-      "importance": 0.8147,
-      "importance_score": 0.8147,
+      "score": 0.8145,
+      "importance": 0.8145,
+      "importance_score": 0.8145,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.74,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9508,
+        "recency": 0.9825,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -299,13 +299,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T01:52:57Z",
-      "latest_at": "2026-09-21T20:18:52Z",
+      "earliest_at": "2026-09-21T07:54:32Z",
+      "latest_at": "2026-09-22T02:02:03Z",
       "primary_item": {
-        "id": "e590b247dcf693937e18ae0bb12026ce21c5395d",
-        "title": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247484969&idx=1&sn=76c4757b26a2b646e1b690bf78c386d8",
-        "source": "公众号：小米 MiMo",
+        "id": "3cd8fb2e9d00a81707071bd998749330ce15ee84",
+        "title": "卡兹克实测对比 Grok 4.7 与小米 MiMo V2.6：后者成不可能三角版本答案",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686569&idx=1&sn=f716d3dd70259240800a67b9fabd53fd",
+        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
@@ -363,15 +363,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8382,
-      "importance": 0.8382,
-      "importance_score": 0.8382,
+      "score": 0.8314,
+      "importance": 0.8314,
+      "importance_score": 0.8314,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7845,
+        "recency": 0.7464,
         "story_heat": 0.25
       },
       "category": "official",
@@ -392,21 +392,21 @@
       }
     },
     {
-      "story_id": "story_2761dd45b97c",
-      "title": "Grok 4.7 现已在 GitHub Copilot 中提供 / Grok 4.7 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+      "story_id": "story_bdad4d18a972",
+      "title": "GitHub Enterprise 添加凭证库存导出 / GitHub Enterprise adds credential inventory exports",
+      "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+      "primary_url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e32a2ae445e870d2c4e40b4cf02c3ec07327390d",
-          "title": "Grok 4.7 现已在 GitHub Copilot 中提供 / Grok 4.7 is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+          "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
+          "title": "GitHub Enterprise 添加凭证库存导出 / GitHub Enterprise adds credential inventory exports",
+          "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-21T14:54:12Z"
+          "published_at": "2026-09-21T21:13:18Z"
         }
       ],
       "source_count": 1,
@@ -415,26 +415,26 @@
       ],
       "items": [
         {
-          "id": "e32a2ae445e870d2c4e40b4cf02c3ec07327390d",
-          "title": "Grok 4.7 现已在 GitHub Copilot 中提供 / Grok 4.7 is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+          "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
+          "title": "GitHub Enterprise 添加凭证库存导出 / GitHub Enterprise adds credential inventory exports",
+          "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-21T14:54:12Z"
+          "published_at": "2026-09-21T21:13:18Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8303,
-      "importance": 0.8303,
-      "importance_score": 0.8303,
+      "score": 0.829,
+      "importance": 0.829,
+      "importance_score": 0.829,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8793,
+        "ai_relevance": 0.87,
+        "recency": 0.9166,
         "story_heat": 0.0
       },
       "category": "official",
@@ -443,14 +443,95 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T14:54:12Z",
-      "latest_at": "2026-09-21T14:54:12Z",
+      "earliest_at": "2026-09-21T21:13:18Z",
+      "latest_at": "2026-09-21T21:13:18Z",
       "primary_item": {
-        "id": "e32a2ae445e870d2c4e40b4cf02c3ec07327390d",
-        "title": "Grok 4.7 现已在 GitHub Copilot 中提供 / Grok 4.7 is now available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+        "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
+        "title": "GitHub Enterprise 添加凭证库存导出 / GitHub Enterprise adds credential inventory exports",
+        "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2ce178f1d6c8",
+      "title": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
+      "url": "https://www.aibase.com/news/31259",
+      "primary_url": "https://www.aibase.com/news/31259",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b836a750e675855d3d5e7ccfee0a3b3d079ffb68",
+          "title": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
+          "url": "https://www.aibase.com/news/31259",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-22T03:15:21.338331Z"
+        },
+        {
+          "id": "3a31ac825edde1055f6819e69561e3d902233965",
+          "title": "2026 上半年全球 AI 眼镜出货量同比大增 263%，“无屏幕”产品占主流",
+          "url": "https://www.ithome.com/1/005/498.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-21T23:23:06Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "IT之家 (ITHome)"
+      ],
+      "items": [
+        {
+          "id": "b836a750e675855d3d5e7ccfee0a3b3d079ffb68",
+          "title": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
+          "url": "https://www.aibase.com/news/31259",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-22T03:15:21.338331Z"
+        },
+        {
+          "id": "3a31ac825edde1055f6819e69561e3d902233965",
+          "title": "2026 上半年全球 AI 眼镜出货量同比大增 263%，“无屏幕”产品占主流",
+          "url": "https://www.ithome.com/1/005/498.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-21T23:23:06Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T23:23:06Z",
+      "latest_at": "2026-09-22T03:15:21.338331Z",
+      "primary_item": {
+        "id": "b836a750e675855d3d5e7ccfee0a3b3d079ffb68",
+        "title": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
+        "url": "https://www.aibase.com/news/31259",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -507,15 +588,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7821,
-      "importance": 0.7821,
-      "importance_score": 0.7821,
+      "score": 0.7748,
+      "importance": 0.7748,
+      "importance_score": 0.7748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8418,
+        "recency": 0.8009,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -532,68 +613,6 @@
         "url": "https://www.ithome.com/1/005/418.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_eb792e0fc342",
-      "title": "tokenizers v1：编码、解码和缩放，测量 / tokenizers v1: encode, decode and scaling, measured",
-      "url": "https://huggingface.co/blog/tokenizers-v1",
-      "primary_url": "https://huggingface.co/blog/tokenizers-v1",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "cfb47301ffa7e8e7d82c00a559d4ad4da9096611",
-          "title": "tokenizers v1：编码、解码和缩放，测量 / tokenizers v1: encode, decode and scaling, measured",
-          "url": "https://huggingface.co/blog/tokenizers-v1",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-21T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "cfb47301ffa7e8e7d82c00a559d4ad4da9096611",
-          "title": "tokenizers v1：编码、解码和缩放，测量 / tokenizers v1: encode, decode and scaling, measured",
-          "url": "https://huggingface.co/blog/tokenizers-v1",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-21T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8076,
-      "importance": 0.8076,
-      "importance_score": 0.8076,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7091,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T00:00:00Z",
-      "latest_at": "2026-09-21T00:00:00Z",
-      "primary_item": {
-        "id": "cfb47301ffa7e8e7d82c00a559d4ad4da9096611",
-        "title": "tokenizers v1：编码、解码和缩放，测量 / tokenizers v1: encode, decode and scaling, measured",
-        "url": "https://huggingface.co/blog/tokenizers-v1",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -650,15 +669,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
+      "score": 0.7682,
+      "importance": 0.7682,
+      "importance_score": 0.7682,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9611,
+        "recency": 0.9145,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -712,15 +731,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7764,
-      "importance": 0.7764,
-      "importance_score": 0.7764,
+      "score": 0.7681,
+      "importance": 0.7681,
+      "importance_score": 0.7681,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9491,
+        "recency": 0.903,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -740,7 +759,7 @@
     },
     {
       "story_id": "story_d37f5b2c5927",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "title": "Higgsfield AI 在 GPT-6 Astra 的一天内发布了新的视频功能 / Higgsfield AI ships new video features in a day with GPT-6 Astra",
       "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
       "primary_url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
       "source": "OpenAI News",
@@ -748,7 +767,7 @@
       "sources": [
         {
           "id": "cb39a97323a5474833919c8f3993382f5f8dcf9a",
-          "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+          "title": "Higgsfield AI 在 GPT-6 Astra 的一天内发布了新的视频功能 / Higgsfield AI ships new video features in a day with GPT-6 Astra",
           "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
@@ -763,7 +782,7 @@
       "items": [
         {
           "id": "cb39a97323a5474833919c8f3993382f5f8dcf9a",
-          "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+          "title": "Higgsfield AI 在 GPT-6 Astra 的一天内发布了新的视频功能 / Higgsfield AI ships new video features in a day with GPT-6 Astra",
           "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
@@ -773,15 +792,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8318,
-      "importance": 0.8318,
-      "importance_score": 0.8318,
+      "score": 0.8244,
+      "importance": 0.8244,
+      "importance_score": 0.8244,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8432,
+        "recency": 0.8023,
         "story_heat": 0.0
       },
       "category": "official",
@@ -794,10 +813,153 @@
       "latest_at": "2026-09-21T12:00:00Z",
       "primary_item": {
         "id": "cb39a97323a5474833919c8f3993382f5f8dcf9a",
-        "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+        "title": "Higgsfield AI 在 GPT-6 Astra 的一天内发布了新的视频功能 / Higgsfield AI ships new video features in a day with GPT-6 Astra",
         "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2761dd45b97c",
+      "title": "Grok 4.7 现已在 GitHub Copilot 中提供 / Grok 4.7 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e32a2ae445e870d2c4e40b4cf02c3ec07327390d",
+          "title": "Grok 4.7 现已在 GitHub Copilot 中提供 / Grok 4.7 is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T14:54:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e32a2ae445e870d2c4e40b4cf02c3ec07327390d",
+          "title": "Grok 4.7 现已在 GitHub Copilot 中提供 / Grok 4.7 is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T14:54:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8226,
+      "importance": 0.8226,
+      "importance_score": 0.8226,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8366,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T14:54:12Z",
+      "latest_at": "2026-09-21T14:54:12Z",
+      "primary_item": {
+        "id": "e32a2ae445e870d2c4e40b4cf02c3ec07327390d",
+        "title": "Grok 4.7 现已在 GitHub Copilot 中提供 / Grok 4.7 is now available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5501bccd4367",
+      "title": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
+      "url": "https://www.aibase.com/news/31252",
+      "primary_url": "https://www.aibase.com/news/31252",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "400eba6a1854b2a671ccc05e104955aac3d3f88b",
+          "title": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
+          "url": "https://www.aibase.com/news/31252",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-22T03:15:21.338331Z"
+        },
+        {
+          "id": "bc8b682e82071794066296c42f2f5d560e496744",
+          "title": "3.99 万元起，宇树科技推出 22 自由度 Dex5-S 灵巧手",
+          "url": "https://www.aibase.com/zh/news/31252",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "400eba6a1854b2a671ccc05e104955aac3d3f88b",
+          "title": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
+          "url": "https://www.aibase.com/news/31252",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-22T03:15:21.338331Z"
+        },
+        {
+          "id": "bc8b682e82071794066296c42f2f5d560e496744",
+          "title": "3.99 万元起，宇树科技推出 22 自由度 Dex5-S 灵巧手",
+          "url": "https://www.aibase.com/zh/news/31252",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T03:15:21.338331Z",
+      "latest_at": "2026-09-22T03:15:21.338331Z",
+      "primary_item": {
+        "id": "400eba6a1854b2a671ccc05e104955aac3d3f88b",
+        "title": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
+        "url": "https://www.aibase.com/news/31252",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -835,15 +997,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7547,
+      "importance": 0.7547,
+      "importance_score": 0.7547,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9582,
+        "recency": 0.9117,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -859,87 +1021,6 @@
         "url": "https://x.com/XiaomiMiMo/status/2102138559952290106",
         "source": "X：小米 MiMo (@XiaomiMiMo)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8fca2699b05a",
-      "title": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
-      "url": "https://www.aibase.com/news/31241",
-      "primary_url": "https://www.aibase.com/news/31241",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1659a096004845fb17ae234e2b186092ad808ecc",
-          "title": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
-          "url": "https://www.aibase.com/news/31241",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T10:57:22.632832Z"
-        },
-        {
-          "id": "7c4ed2e4edfd8edfa41e79cb3d520bfe1c6bec02",
-          "title": "Anthropic 与字节扎堆 AI 制药，下一个 Coding 风口卡在了数据这道坎上",
-          "url": "https://www.aibase.com/zh/news/31241",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "1659a096004845fb17ae234e2b186092ad808ecc",
-          "title": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
-          "url": "https://www.aibase.com/news/31241",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T10:57:22.632832Z"
-        },
-        {
-          "id": "7c4ed2e4edfd8edfa41e79cb3d520bfe1c6bec02",
-          "title": "Anthropic 与字节扎堆 AI 制药，下一个 Coding 风口卡在了数据这道坎上",
-          "url": "https://www.aibase.com/zh/news/31241",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8306,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T10:57:22.632832Z",
-      "latest_at": "2026-09-21T10:57:22.632832Z",
-      "primary_item": {
-        "id": "1659a096004845fb17ae234e2b186092ad808ecc",
-        "title": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
-        "url": "https://www.aibase.com/news/31241",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1015,15 +1096,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7603,
-      "importance": 0.7603,
-      "importance_score": 0.7603,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8485,
+        "recency": 0.8073,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1043,82 +1124,62 @@
       }
     },
     {
-      "story_id": "story_81104d8861cf",
-      "title": "xAI 发布 Grok 4.7，主打编码与知识工作",
-      "url": "https://x.ai/news/grok-4-7",
-      "primary_url": "https://x.ai/news/grok-4-7",
-      "source": "xAI：News（网页）",
+      "story_id": "story_d032359e7f55",
+      "title": "Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8",
+      "url": "https://x.com/ArtificialAnlys/status/2102213621963243704",
+      "primary_url": "https://x.com/ArtificialAnlys/status/2102213621963243704",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "cad8e581e48683e85a011f828dc5fcda016dafb0",
-          "title": "xAI 发布 Grok 4.7，主打编码与知识工作",
-          "url": "https://x.ai/news/grok-4-7",
-          "source": "xAI：News（网页）",
+          "id": "280fb36eafee73ab0c22463444a492760ebf4a73",
+          "title": "Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8",
+          "url": "https://x.com/ArtificialAnlys/status/2102213621963243704",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-21T00:00:00Z"
-        },
-        {
-          "id": "e733a7f31fc8eba79de15ecc273c8c0ffb20afa7",
-          "title": "Grok 4.7",
-          "url": "https://x.ai/news/grok-4-7",
-          "source": "x.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-21T19:49:54.380000Z"
+          "published_at": "2026-09-22T01:49:19Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "x.ai",
-        "xAI：News（网页）"
+        "X：Artificial Analysis (@ArtificialAnlys)"
       ],
       "items": [
         {
-          "id": "cad8e581e48683e85a011f828dc5fcda016dafb0",
-          "title": "xAI 发布 Grok 4.7，主打编码与知识工作",
-          "url": "https://x.ai/news/grok-4-7",
-          "source": "xAI：News（网页）",
+          "id": "280fb36eafee73ab0c22463444a492760ebf4a73",
+          "title": "Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8",
+          "url": "https://x.com/ArtificialAnlys/status/2102213621963243704",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-21T00:00:00Z"
-        },
-        {
-          "id": "e733a7f31fc8eba79de15ecc273c8c0ffb20afa7",
-          "title": "Grok 4.7",
-          "url": "https://x.ai/news/grok-4-7",
-          "source": "x.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-21T19:49:54.380000Z"
+          "published_at": "2026-09-22T01:49:19Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7429,
+      "importance": 0.7429,
+      "importance_score": 0.7429,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.73,
+        "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7091,
-        "story_heat": 0.25
+        "recency": 0.9795,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-21T00:00:00Z",
-      "latest_at": "2026-09-21T19:49:54.380000Z",
+      "earliest_at": "2026-09-22T01:49:19Z",
+      "latest_at": "2026-09-22T01:49:19Z",
       "primary_item": {
-        "id": "cad8e581e48683e85a011f828dc5fcda016dafb0",
-        "title": "xAI 发布 Grok 4.7，主打编码与知识工作",
-        "url": "https://x.ai/news/grok-4-7",
-        "source": "xAI：News（网页）",
+        "id": "280fb36eafee73ab0c22463444a492760ebf4a73",
+        "title": "Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8",
+        "url": "https://x.com/ArtificialAnlys/status/2102213621963243704",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
         "source_name": "AI HOT"
       }
     },
@@ -1157,15 +1218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7428,
-      "importance": 0.7428,
-      "importance_score": 0.7428,
+      "score": 0.7344,
+      "importance": 0.7344,
+      "importance_score": 0.7344,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9622,
+        "recency": 0.9155,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1179,66 +1240,6 @@
         "title": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3",
         "url": "https://x.com/arena/status/2102142912943489220",
         "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3ed9fa9162b7",
-      "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
-      "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
-      "primary_url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
-      "source": "Artificial Analysis 完整文章（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6f3c506835fb8b8b31e458bd1655b7e8a7b999d6",
-          "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
-          "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
-          "source": "Artificial Analysis 完整文章（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T19:41:25.079000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Artificial Analysis 完整文章（网页）"
-      ],
-      "items": [
-        {
-          "id": "6f3c506835fb8b8b31e458bd1655b7e8a7b999d6",
-          "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
-          "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
-          "source": "Artificial Analysis 完整文章（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T19:41:25.079000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9422,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-21T19:41:25.079000Z",
-      "latest_at": "2026-09-21T19:41:25.079000Z",
-      "primary_item": {
-        "id": "6f3c506835fb8b8b31e458bd1655b7e8a7b999d6",
-        "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
-        "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
-        "source": "Artificial Analysis 完整文章（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -1277,15 +1278,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.742,
-      "importance": 0.742,
-      "importance_score": 0.742,
+      "score": 0.7341,
+      "importance": 0.7341,
+      "importance_score": 0.7341,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9077,
+        "recency": 0.8637,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1303,26 +1304,86 @@
       }
     },
     {
-      "story_id": "story_0f8570f5c4b6",
-      "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
-      "url": "https://www.aibase.com/news/31234",
-      "primary_url": "https://www.aibase.com/news/31234",
+      "story_id": "story_3ed9fa9162b7",
+      "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
+      "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
+      "primary_url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
+      "source": "Artificial Analysis 完整文章（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6f3c506835fb8b8b31e458bd1655b7e8a7b999d6",
+          "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
+          "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
+          "source": "Artificial Analysis 完整文章（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T19:41:25.079000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Artificial Analysis 完整文章（网页）"
+      ],
+      "items": [
+        {
+          "id": "6f3c506835fb8b8b31e458bd1655b7e8a7b999d6",
+          "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
+          "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
+          "source": "Artificial Analysis 完整文章（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T19:41:25.079000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.734,
+      "importance": 0.734,
+      "importance_score": 0.734,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8965,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T19:41:25.079000Z",
+      "latest_at": "2026-09-21T19:41:25.079000Z",
+      "primary_item": {
+        "id": "6f3c506835fb8b8b31e458bd1655b7e8a7b999d6",
+        "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
+        "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
+        "source": "Artificial Analysis 完整文章（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6c001c5c617d",
+      "title": "OpenAI 成立数学与 AI 顾问组：神秘新模型 24 天攻破 100 多个世界级难题",
+      "url": "https://www.aibase.com/news/31247",
+      "primary_url": "https://www.aibase.com/news/31247",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4905e79a756ec9f225547c1bb9f60b6ec2685b50",
-          "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
-          "url": "https://www.aibase.com/news/31234",
+          "id": "969afb739b769fea77513a0a0b32a3ecdbe2d71b",
+          "title": "OpenAI 成立数学与 AI 顾问组：神秘新模型 24 天攻破 100 多个世界级难题",
+          "url": "https://www.aibase.com/news/31247",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T10:57:22.632832Z"
+          "published_at": "2026-09-22T03:15:21.338331Z"
         },
         {
-          "id": "f857388ab8fd42f08d5a883c4627c4c14def6811",
-          "title": "开发者实锤 OpenAI 广告追踪链条：ChatGPT 账号正悄悄绑定你的全网浏览足迹",
-          "url": "https://www.aibase.com/zh/news/31234",
+          "id": "e6f94ec117a913b119c18ded4d866712f84073d2",
+          "title": "OpenAI 宣布成立数学与 AI 顾问组，神秘新模型 24 天攻破 100+ 世界级难题",
+          "url": "https://www.ithome.com/1/005/500.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1336,18 +1397,18 @@
       ],
       "items": [
         {
-          "id": "4905e79a756ec9f225547c1bb9f60b6ec2685b50",
-          "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
-          "url": "https://www.aibase.com/news/31234",
+          "id": "969afb739b769fea77513a0a0b32a3ecdbe2d71b",
+          "title": "OpenAI 成立数学与 AI 顾问组：神秘新模型 24 天攻破 100 多个世界级难题",
+          "url": "https://www.aibase.com/news/31247",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T10:57:22.632832Z"
+          "published_at": "2026-09-22T03:15:21.338331Z"
         },
         {
-          "id": "f857388ab8fd42f08d5a883c4627c4c14def6811",
-          "title": "开发者实锤 OpenAI 广告追踪链条：ChatGPT 账号正悄悄绑定你的全网浏览足迹",
-          "url": "https://www.aibase.com/zh/news/31234",
+          "id": "e6f94ec117a913b119c18ded4d866712f84073d2",
+          "title": "OpenAI 宣布成立数学与 AI 顾问组，神秘新模型 24 天攻破 100+ 世界级难题",
+          "url": "https://www.ithome.com/1/005/500.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1356,15 +1417,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8306,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1373,74 +1434,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T10:57:22.632832Z",
-      "latest_at": "2026-09-21T10:57:22.632832Z",
+      "earliest_at": "2026-09-21T23:48:35.446440Z",
+      "latest_at": "2026-09-22T03:15:21.338331Z",
       "primary_item": {
-        "id": "4905e79a756ec9f225547c1bb9f60b6ec2685b50",
-        "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
-        "url": "https://www.aibase.com/news/31234",
+        "id": "969afb739b769fea77513a0a0b32a3ecdbe2d71b",
+        "title": "OpenAI 成立数学与 AI 顾问组：神秘新模型 24 天攻破 100 多个世界级难题",
+        "url": "https://www.aibase.com/news/31247",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_9a319be2f748",
-      "title": "Nathan Lambert 撰文分析开源模型的中美实力格局",
-      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-      "primary_url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-      "source": "Nathan Lambert：Interconnects（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0970243675b3ad72219b24cc2309a2a6d4130a38",
-          "title": "Nathan Lambert 撰文分析开源模型的中美实力格局",
-          "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-          "source": "Nathan Lambert：Interconnects（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T11:56:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Nathan Lambert：Interconnects（RSS）"
-      ],
-      "items": [
-        {
-          "id": "0970243675b3ad72219b24cc2309a2a6d4130a38",
-          "title": "Nathan Lambert 撰文分析开源模型的中美实力格局",
-          "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-          "source": "Nathan Lambert：Interconnects（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T11:56:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7303,
-      "importance": 0.7303,
-      "importance_score": 0.7303,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8426,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-21T11:56:56Z",
-      "latest_at": "2026-09-21T11:56:56Z",
-      "primary_item": {
-        "id": "0970243675b3ad72219b24cc2309a2a6d4130a38",
-        "title": "Nathan Lambert 撰文分析开源模型的中美实力格局",
-        "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-        "source": "Nathan Lambert：Interconnects（RSS）",
-        "source_name": "AI HOT"
       }
     }
   ]
