@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T07:19:34.922756Z",
+  "generated_at": "2026-09-23T12:53:32.836541Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.9035,
-      "importance": 0.9035,
-      "importance_score": 0.9035,
+      "score": 0.892,
+      "importance": 0.892,
+      "importance_score": 0.892,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8249,
+        "recency": 0.7612,
         "story_heat": 0.75
       },
       "category": "official",
@@ -119,6 +119,88 @@
         "id": "13b8e33d2d8b92467c37438708400fd03dfa4f80",
         "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 降 50% / Introducing GPT-6 Sol and Luna",
         "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_1d77064cbebb",
+      "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划 / OpenAI extends cyber access to Ukraine for civilian defense",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "primary_url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f3c68e810eb47bffbff9270c36c9e9b851f2b3d7",
+          "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划 / OpenAI extends cyber access to Ukraine for civilian defense",
+          "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T13:00:00Z"
+        },
+        {
+          "id": "dbca899862f8247da4f24bb8b7a8dba05d82db27",
+          "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划",
+          "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T13:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "f3c68e810eb47bffbff9270c36c9e9b851f2b3d7",
+          "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划 / OpenAI extends cyber access to Ukraine for civilian defense",
+          "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T13:00:00Z"
+        },
+        {
+          "id": "dbca899862f8247da4f24bb8b7a8dba05d82db27",
+          "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划",
+          "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T13:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.877,
+      "importance": 0.877,
+      "importance_score": 0.877,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T13:00:00Z",
+      "latest_at": "2026-09-23T13:00:00Z",
+      "primary_item": {
+        "id": "f3c68e810eb47bffbff9270c36c9e9b851f2b3d7",
+        "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划 / OpenAI extends cyber access to Ukraine for civilian defense",
+        "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
@@ -215,15 +297,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8554,
-      "importance": 0.8554,
-      "importance_score": 0.8554,
+      "score": 0.8437,
+      "importance": 0.8437,
+      "importance_score": 0.8437,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8377,
+        "recency": 0.773,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -244,7 +326,7 @@
     },
     {
       "story_id": "story_91992ed9f82d",
-      "title": "Codex CLI 0.156.1",
+      "title": "法典 CLI 0.156.1 / Codex CLI 0.156.1",
       "url": "https://developers.openai.com/codex/changelog",
       "primary_url": "https://developers.openai.com/codex/changelog",
       "source": "OpenAI Codex Changelog",
@@ -252,7 +334,7 @@
       "sources": [
         {
           "id": "1673cf098377ad515b7921904f29c746b731cb0a",
-          "title": "Codex CLI 0.156.1",
+          "title": "法典 CLI 0.156.1 / Codex CLI 0.156.1",
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
@@ -267,7 +349,7 @@
       "items": [
         {
           "id": "1673cf098377ad515b7921904f29c746b731cb0a",
-          "title": "Codex CLI 0.156.1",
+          "title": "法典 CLI 0.156.1 / Codex CLI 0.156.1",
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
@@ -277,15 +359,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8479,
-      "importance": 0.8479,
-      "importance_score": 0.8479,
+      "score": 0.8354,
+      "importance": 0.8354,
+      "importance_score": 0.8354,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8996,
+        "recency": 0.8301,
         "story_heat": 0.0
       },
       "category": "official",
@@ -298,7 +380,7 @@
       "latest_at": "2026-09-23T00:00:00Z",
       "primary_item": {
         "id": "1673cf098377ad515b7921904f29c746b731cb0a",
-        "title": "Codex CLI 0.156.1",
+        "title": "法典 CLI 0.156.1 / Codex CLI 0.156.1",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
@@ -306,7 +388,7 @@
     },
     {
       "story_id": "story_0ad4c8ab9866",
-      "title": "OpenTelemetry in the GitHub Copilot app",
+      "title": "GitHub Copilot 应用程序中的 OpenTelemetry / OpenTelemetry in the GitHub Copilot app",
       "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
       "primary_url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
       "source": "GitHub Changelog",
@@ -314,7 +396,7 @@
       "sources": [
         {
           "id": "ae1c58aa20e4c2df326c547da2de59d09a850f04",
-          "title": "OpenTelemetry in the GitHub Copilot app",
+          "title": "GitHub Copilot 应用程序中的 OpenTelemetry / OpenTelemetry in the GitHub Copilot app",
           "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -329,7 +411,7 @@
       "items": [
         {
           "id": "ae1c58aa20e4c2df326c547da2de59d09a850f04",
-          "title": "OpenTelemetry in the GitHub Copilot app",
+          "title": "GitHub Copilot 应用程序中的 OpenTelemetry / OpenTelemetry in the GitHub Copilot app",
           "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -339,15 +421,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8393,
-      "importance": 0.8393,
-      "importance_score": 0.8393,
+      "score": 0.8264,
+      "importance": 0.8264,
+      "importance_score": 0.8264,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9293,
+        "recency": 0.8575,
         "story_heat": 0.0
       },
       "category": "official",
@@ -360,91 +442,9 @@
       "latest_at": "2026-09-23T02:14:54Z",
       "primary_item": {
         "id": "ae1c58aa20e4c2df326c547da2de59d09a850f04",
-        "title": "OpenTelemetry in the GitHub Copilot app",
+        "title": "GitHub Copilot 应用程序中的 OpenTelemetry / OpenTelemetry in the GitHub Copilot app",
         "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b6b1e4118cdb",
-      "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6",
-      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "primary_url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9c4b7dba4540465b2660049cbcad88b45ffefc48",
-          "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6",
-          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T21:00:00Z"
-        },
-        {
-          "id": "47e13f9a2d796ad96d47835d3913a11e4456725e",
-          "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具",
-          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T21:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "9c4b7dba4540465b2660049cbcad88b45ffefc48",
-          "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6",
-          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T21:00:00Z"
-        },
-        {
-          "id": "47e13f9a2d796ad96d47835d3913a11e4456725e",
-          "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具",
-          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T21:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8681,
-      "importance": 0.8681,
-      "importance_score": 0.8681,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.8615,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T21:00:00Z",
-      "latest_at": "2026-09-22T21:00:00Z",
-      "primary_item": {
-        "id": "9c4b7dba4540465b2660049cbcad88b45ffefc48",
-        "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6",
-        "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -540,15 +540,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8353,
-      "importance": 0.8353,
-      "importance_score": 0.8353,
+      "score": 0.8236,
+      "importance": 0.8236,
+      "importance_score": 0.8236,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.843,
+        "recency": 0.7779,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -640,15 +640,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8257,
-      "importance": 0.8257,
-      "importance_score": 0.8257,
+      "score": 0.8144,
+      "importance": 0.8144,
+      "importance_score": 0.8144,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8118,
+        "recency": 0.7491,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -740,15 +740,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8176,
-      "importance": 0.8176,
-      "importance_score": 0.8176,
+      "score": 0.8037,
+      "importance": 0.8037,
+      "importance_score": 0.8037,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9228,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -765,6 +765,88 @@
         "url": "https://www.aibase.com/news/31302",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b6b1e4118cdb",
+      "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "primary_url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9c4b7dba4540465b2660049cbcad88b45ffefc48",
+          "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6",
+          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T21:00:00Z"
+        },
+        {
+          "id": "47e13f9a2d796ad96d47835d3913a11e4456725e",
+          "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具",
+          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T21:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "9c4b7dba4540465b2660049cbcad88b45ffefc48",
+          "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6",
+          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T21:00:00Z"
+        },
+        {
+          "id": "47e13f9a2d796ad96d47835d3913a11e4456725e",
+          "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具",
+          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T21:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8561,
+      "importance": 0.8561,
+      "importance_score": 0.8561,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.7949,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T21:00:00Z",
+      "latest_at": "2026-09-22T21:00:00Z",
+      "primary_item": {
+        "id": "9c4b7dba4540465b2660049cbcad88b45ffefc48",
+        "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6",
+        "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -802,15 +884,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8353,
-      "importance": 0.8353,
-      "importance_score": 0.8353,
+      "score": 0.8227,
+      "importance": 0.8227,
+      "importance_score": 0.8227,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9071,
+        "recency": 0.837,
         "story_heat": 0.0
       },
       "category": "official",
@@ -883,15 +965,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.801,
-      "importance": 0.801,
-      "importance_score": 0.801,
+      "score": 0.7885,
+      "importance": 0.7885,
+      "importance_score": 0.7885,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8967,
+        "recency": 0.8275,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -964,15 +1046,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7992,
-      "importance": 0.7992,
-      "importance_score": 0.7992,
+      "score": 0.7876,
+      "importance": 0.7876,
+      "importance_score": 0.7876,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8369,
+        "recency": 0.7722,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1026,15 +1108,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7744,
-      "importance": 0.7744,
-      "importance_score": 0.7744,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8213,
+        "recency": 0.7579,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1050,6 +1132,87 @@
         "url": "https://artificialanalysis.ai/articles/claude-opus-5-5",
         "source": "Artificial Analysis 完整文章（网页）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e2a9d5595c9e",
+      "title": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
+      "url": "https://www.aibase.com/news/31314",
+      "primary_url": "https://www.aibase.com/news/31314",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6f8fa966422cbd923179a995ee86389a3281c571",
+          "title": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
+          "url": "https://www.aibase.com/news/31314",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-23T12:53:32.836541Z"
+        },
+        {
+          "id": "bb7cfb0631f9ad50ea1e9154d0164c073e72ef7a",
+          "title": "科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
+          "url": "https://www.aibase.com/zh/news/31314",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "6f8fa966422cbd923179a995ee86389a3281c571",
+          "title": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
+          "url": "https://www.aibase.com/news/31314",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-23T12:53:32.836541Z"
+        },
+        {
+          "id": "bb7cfb0631f9ad50ea1e9154d0164c073e72ef7a",
+          "title": "科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
+          "url": "https://www.aibase.com/zh/news/31314",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T12:53:32.836541Z",
+      "latest_at": "2026-09-23T12:53:32.836541Z",
+      "primary_item": {
+        "id": "6f8fa966422cbd923179a995ee86389a3281c571",
+        "title": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
+        "url": "https://www.aibase.com/news/31314",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1087,15 +1250,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7728,
-      "importance": 0.7728,
-      "importance_score": 0.7728,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8289,
+        "recency": 0.7649,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1115,7 +1278,7 @@
     },
     {
       "story_id": "story_da8711b734f6",
-      "title": "Claude Opus 5.5 is now available in GitHub Copilot",
+      "title": "Claude Opus 5.5 现已在 GitHub Copilot 中提供 / Claude Opus 5.5 is now available in GitHub Copilot",
       "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
       "primary_url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
       "source": "GitHub Changelog",
@@ -1123,7 +1286,7 @@
       "sources": [
         {
           "id": "061f1fc50aeba385d91a82797281fa7d29c40ee6",
-          "title": "Claude Opus 5.5 is now available in GitHub Copilot",
+          "title": "Claude Opus 5.5 现已在 GitHub Copilot 中提供 / Claude Opus 5.5 is now available in GitHub Copilot",
           "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -1138,7 +1301,7 @@
       "items": [
         {
           "id": "061f1fc50aeba385d91a82797281fa7d29c40ee6",
-          "title": "Claude Opus 5.5 is now available in GitHub Copilot",
+          "title": "Claude Opus 5.5 现已在 GitHub Copilot 中提供 / Claude Opus 5.5 is now available in GitHub Copilot",
           "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -1148,15 +1311,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8267,
-      "importance": 0.8267,
-      "importance_score": 0.8267,
+      "score": 0.8154,
+      "importance": 0.8154,
+      "importance_score": 0.8154,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8152,
+        "recency": 0.7522,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1169,7 +1332,7 @@
       "latest_at": "2026-09-22T17:10:23Z",
       "primary_item": {
         "id": "061f1fc50aeba385d91a82797281fa7d29c40ee6",
-        "title": "Claude Opus 5.5 is now available in GitHub Copilot",
+        "title": "Claude Opus 5.5 现已在 GitHub Copilot 中提供 / Claude Opus 5.5 is now available in GitHub Copilot",
         "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
@@ -1210,15 +1373,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.809,
+        "recency": 0.7465,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1234,87 +1397,6 @@
         "url": "https://x.com/mark_k/status/2102437510731219218",
         "source": "@mark_k",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5784825e4c24",
-      "title": "Win11 惊现 AI 恶意软件 ClosedQuorum：入侵后自主决策，专挖最有价值信息",
-      "url": "https://www.aibase.com/news/31297",
-      "primary_url": "https://www.aibase.com/news/31297",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6ad933a53a79ba2140337e170a8260bcf0cd3b38",
-          "title": "Win11 惊现 AI 恶意软件 ClosedQuorum：入侵后自主决策，专挖最有价值信息",
-          "url": "https://www.aibase.com/news/31297",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-23T07:19:34.922756Z"
-        },
-        {
-          "id": "cf9cc6bfc02dae869ecd75406949506918092af6",
-          "title": "Win11 惊现 AI 恶意软件 ClosedQuorum：入侵后自主决策，专挖最有价值信息",
-          "url": "https://www.aibase.com/zh/news/31297",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "6ad933a53a79ba2140337e170a8260bcf0cd3b38",
-          "title": "Win11 惊现 AI 恶意软件 ClosedQuorum：入侵后自主决策，专挖最有价值信息",
-          "url": "https://www.aibase.com/news/31297",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-23T07:19:34.922756Z"
-        },
-        {
-          "id": "cf9cc6bfc02dae869ecd75406949506918092af6",
-          "title": "Win11 惊现 AI 恶意软件 ClosedQuorum：入侵后自主决策，专挖最有价值信息",
-          "url": "https://www.aibase.com/zh/news/31297",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T07:19:34.922756Z",
-      "latest_at": "2026-09-23T07:19:34.922756Z",
-      "primary_item": {
-        "id": "6ad933a53a79ba2140337e170a8260bcf0cd3b38",
-        "title": "Win11 惊现 AI 恶意软件 ClosedQuorum：入侵后自主决策，专挖最有价值信息",
-        "url": "https://www.aibase.com/news/31297",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1352,15 +1434,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7894,
-      "importance": 0.7894,
-      "importance_score": 0.7894,
+      "score": 0.7759,
+      "importance": 0.7759,
+      "importance_score": 0.7759,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9713,
+        "recency": 0.8963,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1376,68 +1458,6 @@
         "url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
         "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ce45d8dc0f6c",
-      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-      "primary_url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ceaf306e00250c6865fbfd0093a3e558a36e3749",
-          "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-          "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "ceaf306e00250c6865fbfd0093a3e558a36e3749",
-          "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-          "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8162,
-      "importance": 0.8162,
-      "importance_score": 0.8162,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7565,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T12:00:00Z",
-      "latest_at": "2026-09-22T12:00:00Z",
-      "primary_item": {
-        "id": "ceaf306e00250c6865fbfd0093a3e558a36e3749",
-        "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-        "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1475,21 +1495,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7559,
-      "importance": 0.7559,
-      "importance_score": 0.7559,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8517,
+        "recency": 0.7859,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-22T20:12:31Z",
       "latest_at": "2026-09-22T20:12:31Z",
@@ -1502,63 +1521,62 @@
       }
     },
     {
-      "story_id": "story_5af6c55cd092",
-      "title": "OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter",
-      "url": "https://x.com/OpenRouter/status/2102463839283617992",
-      "primary_url": "https://x.com/OpenRouter/status/2102463839283617992",
-      "source": "X：OpenRouter (@OpenRouter)",
+      "story_id": "story_03c727384174",
+      "title": "Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next",
+      "url": "https://x.com/Alibaba_Qwen/status/2102687258990026993",
+      "primary_url": "https://x.com/Alibaba_Qwen/status/2102687258990026993",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "2a5026df73f0caeb6efe540523ca07852ae2c7a3",
-          "title": "OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter",
-          "url": "https://x.com/OpenRouter/status/2102463839283617992",
-          "source": "X：OpenRouter (@OpenRouter)",
+          "id": "95c2e8ae5e34a8f7cc1aa24e3425f5973143e708",
+          "title": "Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next",
+          "url": "https://x.com/Alibaba_Qwen/status/2102687258990026993",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-22T18:23:35Z"
+          "published_at": "2026-09-23T09:11:23Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：OpenRouter (@OpenRouter)"
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
       ],
       "items": [
         {
-          "id": "2a5026df73f0caeb6efe540523ca07852ae2c7a3",
-          "title": "OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter",
-          "url": "https://x.com/OpenRouter/status/2102463839283617992",
-          "source": "X：OpenRouter (@OpenRouter)",
+          "id": "95c2e8ae5e34a8f7cc1aa24e3425f5973143e708",
+          "title": "Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next",
+          "url": "https://x.com/Alibaba_Qwen/status/2102687258990026993",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-22T18:23:35Z"
+          "published_at": "2026-09-23T09:11:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7519,
-      "importance": 0.7519,
-      "importance_score": 0.7519,
+      "score": 0.7432,
+      "importance": 0.7432,
+      "importance_score": 0.7432,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8296,
+        "recency": 0.9479,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-22T18:23:35Z",
-      "latest_at": "2026-09-22T18:23:35Z",
+      "earliest_at": "2026-09-23T09:11:23Z",
+      "latest_at": "2026-09-23T09:11:23Z",
       "primary_item": {
-        "id": "2a5026df73f0caeb6efe540523ca07852ae2c7a3",
-        "title": "OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter",
-        "url": "https://x.com/OpenRouter/status/2102463839283617992",
-        "source": "X：OpenRouter (@OpenRouter)",
+        "id": "95c2e8ae5e34a8f7cc1aa24e3425f5973143e708",
+        "title": "Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next",
+        "url": "https://x.com/Alibaba_Qwen/status/2102687258990026993",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
         "source_name": "AI HOT"
       }
     }
