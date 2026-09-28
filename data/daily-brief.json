@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T22:47:58.501966Z",
+  "generated_at": "2026-09-28T01:23:13.407456Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -132,15 +132,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.851,
-      "importance": 0.851,
-      "importance_score": 0.851,
+      "score": 0.8456,
+      "importance": 0.8456,
+      "importance_score": 0.8456,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8247,
+        "recency": 0.7945,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -157,6 +157,168 @@
         "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8d1ddd57833b",
+      "title": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
+      "url": "https://www.aibase.com/news/31359",
+      "primary_url": "https://www.aibase.com/news/31359",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "38bb83831a5c09d51abdc1efa0caf4c8a950a523",
+          "title": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
+          "url": "https://www.aibase.com/news/31359",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T01:23:13.407456Z"
+        },
+        {
+          "id": "01c4f2ca3de82ee81a09b6bffa3495546b583263",
+          "title": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
+          "url": "https://www.aibase.com/zh/news/31359",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "38bb83831a5c09d51abdc1efa0caf4c8a950a523",
+          "title": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
+          "url": "https://www.aibase.com/news/31359",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T01:23:13.407456Z"
+        },
+        {
+          "id": "01c4f2ca3de82ee81a09b6bffa3495546b583263",
+          "title": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
+          "url": "https://www.aibase.com/zh/news/31359",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T01:23:13.407456Z",
+      "latest_at": "2026-09-28T01:23:13.407456Z",
+      "primary_item": {
+        "id": "38bb83831a5c09d51abdc1efa0caf4c8a950a523",
+        "title": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
+        "url": "https://www.aibase.com/news/31359",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d5ed8627382a",
+      "title": "OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布",
+      "url": "https://www.aibase.com/news/31358",
+      "primary_url": "https://www.aibase.com/news/31358",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e4d594ed6a42504a0d170b5dd99a371365350db2",
+          "title": "OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布",
+          "url": "https://www.aibase.com/news/31358",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T01:23:13.407456Z"
+        },
+        {
+          "id": "c4b64378beaafd5cc48d9ee4942941442a3d0b3c",
+          "title": "OpenAI 或将推出代号「O」的常驻智能助手，预计 9 月 29 日正式发布",
+          "url": "https://www.aibase.com/zh/news/31358",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e4d594ed6a42504a0d170b5dd99a371365350db2",
+          "title": "OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布",
+          "url": "https://www.aibase.com/news/31358",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T01:23:13.407456Z"
+        },
+        {
+          "id": "c4b64378beaafd5cc48d9ee4942941442a3d0b3c",
+          "title": "OpenAI 或将推出代号「O」的常驻智能助手，预计 9 月 29 日正式发布",
+          "url": "https://www.aibase.com/zh/news/31358",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T01:23:13.407456Z",
+      "latest_at": "2026-09-28T01:23:13.407456Z",
+      "primary_item": {
+        "id": "e4d594ed6a42504a0d170b5dd99a371365350db2",
+        "title": "OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布",
+        "url": "https://www.aibase.com/news/31358",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -213,15 +375,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.78,
+        "recency": 0.7514,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -241,49 +403,130 @@
       }
     },
     {
-      "story_id": "story_5f69ca3f6ecb",
-      "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-      "url": "https://www.ithome.com/1/007/447.htm",
-      "primary_url": "https://www.ithome.com/1/007/447.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_6ed332390135",
+      "title": "视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测",
+      "url": "https://www.aibase.com/news/31360",
+      "primary_url": "https://www.aibase.com/news/31360",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
-          "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-          "url": "https://www.ithome.com/1/007/447.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T23:12:53Z"
+          "id": "092dccb2c7c0f13be2e322ddd83ec4928bb4a5af",
+          "title": "视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测",
+          "url": "https://www.aibase.com/news/31360",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T01:23:13.407456Z"
+        },
+        {
+          "id": "ce893aa6dc84a2d0e4a1be28999e2c37670bde2c",
+          "title": "视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测",
+          "url": "https://www.aibase.com/zh/news/31360",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "092dccb2c7c0f13be2e322ddd83ec4928bb4a5af",
+          "title": "视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测",
+          "url": "https://www.aibase.com/news/31360",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T01:23:13.407456Z"
+        },
+        {
+          "id": "ce893aa6dc84a2d0e4a1be28999e2c37670bde2c",
+          "title": "视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测",
+          "url": "https://www.aibase.com/zh/news/31360",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T01:23:13.407456Z",
+      "latest_at": "2026-09-28T01:23:13.407456Z",
+      "primary_item": {
+        "id": "092dccb2c7c0f13be2e322ddd83ec4928bb4a5af",
+        "title": "视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测",
+        "url": "https://www.aibase.com/news/31360",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_07768016bea1",
+      "title": "前苹果 Siri 工程师推出 AI 智能体 szn：藏在 iMessage 里，能帮你下单、沟通、跑腿",
+      "url": "https://www.aibase.com/news/31363",
+      "primary_url": "https://www.aibase.com/news/31363",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "867a0b78ad0e3d88f5d4c688e2d86daa5a9d922d",
+          "title": "前苹果 Siri 工程师推出 AI 智能体 szn：藏在 iMessage 里，能帮你下单、沟通、跑腿",
+          "url": "https://www.aibase.com/news/31363",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T01:23:13.407456Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
-          "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-          "url": "https://www.ithome.com/1/007/447.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T23:12:53Z"
+          "id": "867a0b78ad0e3d88f5d4c688e2d86daa5a9d922d",
+          "title": "前苹果 Siri 工程师推出 AI 智能体 szn：藏在 iMessage 里，能帮你下单、沟通、跑腿",
+          "url": "https://www.aibase.com/news/31363",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T01:23:13.407456Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7576,
-      "importance": 0.7576,
-      "importance_score": 0.7576,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.86,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7114,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -291,14 +534,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-26T23:12:53Z",
-      "latest_at": "2026-09-26T23:12:53Z",
+      "earliest_at": "2026-09-28T01:23:13.407456Z",
+      "latest_at": "2026-09-28T01:23:13.407456Z",
       "primary_item": {
-        "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
-        "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-        "url": "https://www.ithome.com/1/007/447.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "id": "867a0b78ad0e3d88f5d4c688e2d86daa5a9d922d",
+        "title": "前苹果 Siri 工程师推出 AI 智能体 szn：藏在 iMessage 里，能帮你下单、沟通、跑腿",
+        "url": "https://www.aibase.com/news/31363",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -310,6 +553,15 @@
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "3e38e0a198f3df4b984abcdce4f2a5cb9da11d4d",
+          "title": "作者把他做 100 多支视频后的经验整理成了一个开源库 Lemo-opuscar：39 种视频风格、每种风格的 STYLE.md，再加 DIRECTOR.md 和 TECHNIQUE.md，告诉 Agent 怎么讲故事、定节奏、拍镜头、配声音、逐帧渲染和自检。你只要讲清主题、故事、节奏、对标、素材和画幅，编排交给Agent，就可以稳定出片！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-28T01:23:13.407456Z"
+        },
+        {
           "id": "dadc2c54fac79f7e77c6b2ec4798e2a86aff8948",
           "title": "作者把 Anthropic 提速 Claude 产品 3 倍的方法拆成了可复用的流程：先找到能量化的指标，再验证这个指标和真实体验相关，接着让 Agent 持续爬山优化，最后用测试、CI 棘轮、功能开关和人工审批把成果锁住。他还把这套方法做成了「闪电.skill」，并拿自己的 4 个网站进行了实测，快来看看效果如何！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -355,13 +607,22 @@
           "published_at": "2026-09-27T11:22:35.779851Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 6,
       "source_names": [
         "社区更新 · 2026-09-26",
         "社区更新 · 2026-09-27"
       ],
       "items": [
         {
+          "id": "3e38e0a198f3df4b984abcdce4f2a5cb9da11d4d",
+          "title": "作者把他做 100 多支视频后的经验整理成了一个开源库 Lemo-opuscar：39 种视频风格、每种风格的 STYLE.md，再加 DIRECTOR.md 和 TECHNIQUE.md，告诉 Agent 怎么讲故事、定节奏、拍镜头、配声音、逐帧渲染和自检。你只要讲清主题、故事、节奏、对标、素材和画幅，编排交给Agent，就可以稳定出片！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-28T01:23:13.407456Z"
+        },
+        {
           "id": "dadc2c54fac79f7e77c6b2ec4798e2a86aff8948",
           "title": "作者把 Anthropic 提速 Claude 产品 3 倍的方法拆成了可复用的流程：先找到能量化的指标，再验证这个指标和真实体验相关，接着让 Agent 持续爬山优化，最后用测试、CI 棘轮、功能开关和人工审批把成果锁住。他还把这套方法做成了「闪电.skill」，并拿自己的 4 个网站进行了实测，快来看看效果如何！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -407,17 +668,17 @@
           "published_at": "2026-09-27T11:22:35.779851Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6775,
-      "importance": 0.6775,
-      "importance_score": 0.6775,
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6712,
+      "importance": 0.6712,
+      "importance_score": 0.6712,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4968,
         "source_tier": 0.54,
         "ai_relevance": 0.69,
-        "recency": 0.9537,
+        "recency": 0.9187,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -425,13 +686,135 @@
         "multi_source"
       ],
       "earliest_at": "2026-09-27T11:22:35.779851Z",
-      "latest_at": "2026-09-27T19:30:53.527060Z",
+      "latest_at": "2026-09-28T01:23:13.407456Z",
       "primary_item": {
         "id": "bdbc2371905e16b28483913d60c6862f96c80b4f",
         "title": "本周顶刊 AI 论文合集直击 Agent 开发的各类痛点：涵盖长上下文注意力优化、代码智能体低成本自迭代、机器人图世界规划、Wiki 知识检索、低成本模型裁判方案，还有自组织多智能体、全自动科研智能体等创新方向。附带详实的基准数据，不管是做模型推理优化、搭建多智能体系统，还是设计评估链路，都能快速挖到可复用技术思路。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-09-27",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_11cc0ba69c02",
+      "title": "谷歌在印测试 Gemini 直购 Flipkart 商品功能，AI 端内结账即将上线",
+      "url": "https://www.aibase.com/news/31361",
+      "primary_url": "https://www.aibase.com/news/31361",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "edcf612e67abae4d948e14a914d8a7b3e042a85f",
+          "title": "谷歌在印测试 Gemini 直购 Flipkart 商品功能，AI 端内结账即将上线",
+          "url": "https://www.aibase.com/news/31361",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T01:23:13.407456Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "edcf612e67abae4d948e14a914d8a7b3e042a85f",
+          "title": "谷歌在印测试 Gemini 直购 Flipkart 商品功能，AI 端内结账即将上线",
+          "url": "https://www.aibase.com/news/31361",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T01:23:13.407456Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T01:23:13.407456Z",
+      "latest_at": "2026-09-28T01:23:13.407456Z",
+      "primary_item": {
+        "id": "edcf612e67abae4d948e14a914d8a7b3e042a85f",
+        "title": "谷歌在印测试 Gemini 直购 Flipkart 商品功能，AI 端内结账即将上线",
+        "url": "https://www.aibase.com/news/31361",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_447cd2662a25",
+      "title": "首款端侧Agent旗舰刚落地就触碰安全红线?豆包AI否认涉足游戏外挂",
+      "url": "https://www.aibase.com/news/31362",
+      "primary_url": "https://www.aibase.com/news/31362",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6336179fd7e101d9fabafb9f93742e1a0dbbb33c",
+          "title": "首款端侧Agent旗舰刚落地就触碰安全红线?豆包AI否认涉足游戏外挂",
+          "url": "https://www.aibase.com/news/31362",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T01:23:13.407456Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6336179fd7e101d9fabafb9f93742e1a0dbbb33c",
+          "title": "首款端侧Agent旗舰刚落地就触碰安全红线?豆包AI否认涉足游戏外挂",
+          "url": "https://www.aibase.com/news/31362",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T01:23:13.407456Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T01:23:13.407456Z",
+      "latest_at": "2026-09-28T01:23:13.407456Z",
+      "primary_item": {
+        "id": "6336179fd7e101d9fabafb9f93742e1a0dbbb33c",
+        "title": "首款端侧Agent旗舰刚落地就触碰安全红线?豆包AI否认涉足游戏外挂",
+        "url": "https://www.aibase.com/news/31362",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -526,15 +909,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.586,
-      "importance": 0.586,
-      "importance_score": 0.586,
+      "score": 0.5797,
+      "importance": 0.5797,
+      "importance_score": 0.5797,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9453,
+        "recency": 0.9106,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -548,6 +931,104 @@
         "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
         "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
         "source": "www.youtube.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_71ac5a164a1d",
+      "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+      "url": "https://arxiv.org/abs/2609.25021",
+      "primary_url": "https://arxiv.org/abs/2609.25021",
+      "source": "arxiv.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9bb747ea93d2d2f1c2bd956586b6a8f10227068a",
+          "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+          "url": "https://arxiv.org/abs/2609.25021",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T23:49:58.724000Z"
+        },
+        {
+          "id": "c855af49750f129fc2d526ad58a2b2da90ac1157",
+          "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "url": "https://arxiv.org/abs/2609.25021",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T10:26:25Z"
+        },
+        {
+          "id": "95840a4f4ca7ac30329544bbd7322762e71a20d2",
+          "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "url": "https://news.ycombinator.com/item?id=49865343",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T10:26:25Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "arxiv.org",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9bb747ea93d2d2f1c2bd956586b6a8f10227068a",
+          "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+          "url": "https://arxiv.org/abs/2609.25021",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T23:49:58.724000Z"
+        },
+        {
+          "id": "c855af49750f129fc2d526ad58a2b2da90ac1157",
+          "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "url": "https://arxiv.org/abs/2609.25021",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T10:26:25Z"
+        },
+        {
+          "id": "95840a4f4ca7ac30329544bbd7322762e71a20d2",
+          "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "url": "https://news.ycombinator.com/item?id=49865343",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T10:26:25Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5668,
+      "importance": 0.5668,
+      "importance_score": 0.5668,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9778,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T10:26:25Z",
+      "latest_at": "2026-09-27T23:49:58.724000Z",
+      "primary_item": {
+        "id": "9bb747ea93d2d2f1c2bd956586b6a8f10227068a",
+        "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+        "url": "https://arxiv.org/abs/2609.25021",
+        "source": "arxiv.org",
         "source_name": "Buzzing"
       }
     },
@@ -624,15 +1105,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5584,
-      "importance": 0.5584,
-      "importance_score": 0.5584,
+      "score": 0.5522,
+      "importance": 0.5522,
+      "importance_score": 0.5522,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.931,
+        "recency": 0.8969,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -722,15 +1203,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.554,
-      "importance": 0.554,
-      "importance_score": 0.554,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9065,
+        "recency": 0.8732,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -801,15 +1282,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5392,
+      "importance": 0.5392,
+      "importance_score": 0.5392,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9633,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -898,15 +1379,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5438,
-      "importance": 0.5438,
-      "importance_score": 0.5438,
+      "score": 0.5382,
+      "importance": 0.5382,
+      "importance_score": 0.5382,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8499,
+        "recency": 0.8187,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -976,15 +1457,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
+      "score": 0.536,
+      "importance": 0.536,
+      "importance_score": 0.536,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9814,
+        "recency": 0.9454,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1055,15 +1536,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5323,
-      "importance": 0.5323,
-      "importance_score": 0.5323,
+      "score": 0.5262,
+      "importance": 0.5262,
+      "importance_score": 0.5262,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9251,
+        "recency": 0.8911,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1134,15 +1615,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5321,
-      "importance": 0.5321,
-      "importance_score": 0.5321,
+      "score": 0.526,
+      "importance": 0.526,
+      "importance_score": 0.526,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9239,
+        "recency": 0.89,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1213,15 +1694,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5301,
-      "importance": 0.5301,
-      "importance_score": 0.5301,
+      "score": 0.5241,
+      "importance": 0.5241,
+      "importance_score": 0.5241,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.913,
+        "recency": 0.8795,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1292,15 +1773,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5082,
-      "importance": 0.5082,
-      "importance_score": 0.5082,
+      "score": 0.503,
+      "importance": 0.503,
+      "importance_score": 0.503,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7912,
+        "recency": 0.7622,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1314,477 +1795,6 @@
         "title": "没有人工智能的一个月",
         "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
         "source": "blog.bustikiller.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_a771b10b74f5",
-      "title": "让刺破AI泡沫的加息风暴，来得更猛烈些吧",
-      "url": "https://www.huxiu.com/article/4894089.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4894089.html?f=rss",
-      "source": "虎嗅 (Huxiu)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "1e2e2e70ad2fdac4fcb7be0c68625ca742735e57",
-          "title": "让刺破AI泡沫的加息风暴，来得更猛烈些吧",
-          "url": "https://www.huxiu.com/article/4894089.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-27T03:05:05Z"
-        },
-        {
-          "id": "64bde3d05974ca8992f74dfc855b76a1acce751f",
-          "title": "王川: 让刺破AI 泡沫的加息风暴来得更猛烈些吧",
-          "url": "https://www.huxiu.com/article/4894089.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-27T03:05:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "1e2e2e70ad2fdac4fcb7be0c68625ca742735e57",
-          "title": "让刺破AI泡沫的加息风暴，来得更猛烈些吧",
-          "url": "https://www.huxiu.com/article/4894089.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-27T03:05:05Z"
-        },
-        {
-          "id": "64bde3d05974ca8992f74dfc855b76a1acce751f",
-          "title": "王川: 让刺破AI 泡沫的加息风暴来得更猛烈些吧",
-          "url": "https://www.huxiu.com/article/4894089.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-27T03:05:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5012,
-      "importance": 0.5012,
-      "importance_score": 0.5012,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7522,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T03:05:04Z",
-      "latest_at": "2026-09-27T03:05:05Z",
-      "primary_item": {
-        "id": "1e2e2e70ad2fdac4fcb7be0c68625ca742735e57",
-        "title": "让刺破AI泡沫的加息风暴，来得更猛烈些吧",
-        "url": "https://www.huxiu.com/article/4894089.html?f=rss",
-        "source": "虎嗅 (Huxiu)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_a62f66c93218",
-      "title": "《周六夜现场》恶搞达里奥·阿莫德伊：“AI是魔鬼，而我就是它的创造者”",
-      "url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
-      "primary_url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "147deaa46350da6f3e2431016fb9b55f5d76043d",
-          "title": "《周六夜现场》恶搞达里奥·阿莫德伊：“AI是魔鬼，而我就是它的创造者”",
-          "url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T15:45:11.702000Z"
-        },
-        {
-          "id": "5ad208c9260df970d6dc2710fbf80dee99df201b",
-          "title": "《周六夜现场》恶搞达里奥·阿莫德伊：“AI是魔鬼，而我就是它的创造者” / 'Saturday Night Live' spoofs Dario Amodei: ‘AI is the devil and I its maker’",
-          "url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T15:39:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "147deaa46350da6f3e2431016fb9b55f5d76043d",
-          "title": "《周六夜现场》恶搞达里奥·阿莫德伊：“AI是魔鬼，而我就是它的创造者”",
-          "url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T15:45:11.702000Z"
-        },
-        {
-          "id": "5ad208c9260df970d6dc2710fbf80dee99df201b",
-          "title": "《周六夜现场》恶搞达里奥·阿莫德伊：“AI是魔鬼，而我就是它的创造者” / 'Saturday Night Live' spoofs Dario Amodei: ‘AI is the devil and I its maker’",
-          "url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T15:39:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5284,
-      "importance": 0.5284,
-      "importance_score": 0.5284,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9033,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T15:39:24Z",
-      "latest_at": "2026-09-27T15:45:11.702000Z",
-      "primary_item": {
-        "id": "147deaa46350da6f3e2431016fb9b55f5d76043d",
-        "title": "《周六夜现场》恶搞达里奥·阿莫德伊：“AI是魔鬼，而我就是它的创造者”",
-        "url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_adab374e680b",
-      "title": "“他们完全没有意识到对用户负有注意义务。” / \"They had no concept of a duty of care to their users.\"",
-      "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users",
-      "primary_url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "5ffebd1e06f4e3c39c33ff7f4053b42e8991dec1",
-          "title": "“他们完全没有意识到对用户负有注意义务。” / \"They had no concept of a duty of care to their users.\"",
-          "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T14:45:07Z"
-        },
-        {
-          "id": "bd861af4ba1073439745787c82ccf413fb478e80",
-          "title": "“他们完全没有意识到对用户负有注意义务。” / On caring for user data: NeoVim caused Vim undo files to be deleted",
-          "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T14:45:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "5ffebd1e06f4e3c39c33ff7f4053b42e8991dec1",
-          "title": "“他们完全没有意识到对用户负有注意义务。” / \"They had no concept of a duty of care to their users.\"",
-          "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T14:45:07Z"
-        },
-        {
-          "id": "bd861af4ba1073439745787c82ccf413fb478e80",
-          "title": "“他们完全没有意识到对用户负有注意义务。” / On caring for user data: NeoVim caused Vim undo files to be deleted",
-          "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T14:45:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5261,
-      "importance": 0.5261,
-      "importance_score": 0.5261,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8903,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T14:45:07Z",
-      "latest_at": "2026-09-27T14:45:07Z",
-      "primary_item": {
-        "id": "5ffebd1e06f4e3c39c33ff7f4053b42e8991dec1",
-        "title": "“他们完全没有意识到对用户负有注意义务。” / \"They had no concept of a duty of care to their users.\"",
-        "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_851529e75223",
-      "title": "PCB 行业定增潮：293 亿元投向 AI，扩产新周期开启",
-      "url": "https://www.huxiu.com/article/4894090.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4894090.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "36174a8a1c32c597b7d66fd96969f03904d97be4",
-          "title": "PCB 行业定增潮：293 亿元投向 AI，扩产新周期开启",
-          "url": "https://www.huxiu.com/article/4894090.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f0e4d76958bc317322a2d42925b18aec4f33c3fb",
-          "title": "PCB行业定增潮：293亿元投向AI，扩产新周期开启",
-          "url": "https://www.huxiu.com/article/4894090.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-27T03:09:09Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "36174a8a1c32c597b7d66fd96969f03904d97be4",
-          "title": "PCB 行业定增潮：293 亿元投向 AI，扩产新周期开启",
-          "url": "https://www.huxiu.com/article/4894090.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f0e4d76958bc317322a2d42925b18aec4f33c3fb",
-          "title": "PCB行业定增潮：293亿元投向AI，扩产新周期开启",
-          "url": "https://www.huxiu.com/article/4894090.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-27T03:09:09Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5061,
-      "importance": 0.5061,
-      "importance_score": 0.5061,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7795,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T03:09:09Z",
-      "latest_at": "2026-09-27T05:32:51.920225Z",
-      "primary_item": {
-        "id": "36174a8a1c32c597b7d66fd96969f03904d97be4",
-        "title": "PCB 行业定增潮：293 亿元投向 AI，扩产新周期开启",
-        "url": "https://www.huxiu.com/article/4894090.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_c219fe8f6b6a",
-      "title": "粗制滥造的用户界面的10个迹象 / 10 Tells of a Slop UI",
-      "url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
-      "primary_url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "627c68d3b254b0339a80b7a16f5f32f88dbecbf3",
-          "title": "粗制滥造的用户界面的10个迹象 / 10 Tells of a Slop UI",
-          "url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T14:41:26Z"
-        },
-        {
-          "id": "dd81550d2e15aa40b4894f62f8d8ca6ad2339b0a",
-          "title": "粗制滥造的用户界面的10个迹象 / Tells of a Slop UI",
-          "url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T14:41:26Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "627c68d3b254b0339a80b7a16f5f32f88dbecbf3",
-          "title": "粗制滥造的用户界面的10个迹象 / 10 Tells of a Slop UI",
-          "url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T14:41:26Z"
-        },
-        {
-          "id": "dd81550d2e15aa40b4894f62f8d8ca6ad2339b0a",
-          "title": "粗制滥造的用户界面的10个迹象 / Tells of a Slop UI",
-          "url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T14:41:26Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5259,
-      "importance": 0.5259,
-      "importance_score": 0.5259,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8895,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T14:41:26Z",
-      "latest_at": "2026-09-27T14:41:26Z",
-      "primary_item": {
-        "id": "627c68d3b254b0339a80b7a16f5f32f88dbecbf3",
-        "title": "粗制滥造的用户界面的10个迹象 / 10 Tells of a Slop UI",
-        "url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_fa0a47e1b5bd",
-      "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
-      "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
-      "primary_url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6e8a72db35aa150e337602a81210a750676285f7",
-          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
-          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T10:45:08.393000Z"
-        },
-        {
-          "id": "cd86d94722144a85171a58d7dc631c0eb742a1a3",
-          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。 / AI is prompting these Gen Zers to learn how to type",
-          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T10:00:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "6e8a72db35aa150e337602a81210a750676285f7",
-          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
-          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T10:45:08.393000Z"
-        },
-        {
-          "id": "cd86d94722144a85171a58d7dc631c0eb742a1a3",
-          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。 / AI is prompting these Gen Zers to learn how to type",
-          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T10:00:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5171,
-      "importance": 0.5171,
-      "importance_score": 0.5171,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8403,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T10:00:01Z",
-      "latest_at": "2026-09-27T10:45:08.393000Z",
-      "primary_item": {
-        "id": "6e8a72db35aa150e337602a81210a750676285f7",
-        "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
-        "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
-        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     }
